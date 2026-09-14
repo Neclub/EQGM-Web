@@ -12,7 +12,3 @@ services:
         value: cache
       - key: EQGM_CACHE_SEED
         value: cache
-      - key: EQGM_EQR_MAX_REQUESTS_PER_HOUR
-        value: "120"
-      # Set these as Render secrets (do not commit values):
-      # EQGM_R2_ACCOUNT_ID, EQGM_R2_ACCESS_KEY_ID, EQGM_R2_SECRET_ACCESS_KEY, EQGM_R2_BUCKET

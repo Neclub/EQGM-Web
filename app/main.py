@@ -18,12 +18,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from app import limits
-from app.cache_seed import (
-    configure_cache_dir,
-    project_root,
-    seed_disk_caches,
-    sync_catalogs_from_r2,
-)
+from app.cache_seed import configure_cache_dir, project_root, seed_disk_caches
 from app.jobs import JobStore
 
 # Point catalog I/O at repo cache/ before any generate (also re-run on startup).
@@ -477,7 +472,6 @@ def generate_api(
         job.status = "running"
         started = time.perf_counter()
         try:
-            sync_catalogs_from_r2()
             # Apply optional client tier colors for this generate
             if body.tierColors:
                 for key, value in body.tierColors.items():

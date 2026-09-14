@@ -22,54 +22,24 @@ uvicorn app.main:app --host 127.0.0.1 --port 8000 --workers 1
 
 Open http://127.0.0.1:8000/
 
-## Catalog cache
+## Catalog cache (`cache/`)
 
-Lookup order for catalogs and icons:
+EQ Resource / Raidloot catalog JSON and item icons live under repo [`cache/`](cache/). The web app sets `EQGM_APPDATA` to that directory, so **reads and writes go there**.
 
-1. **Local** `cache/` (GitHub seed on deploy + runtime writes)
-2. **Cloudflare R2** shared bucket (if configured) — survives Render sleep
-3. **EQ Resource / Raidloot** — only on a true miss, with per-URL singleflight and an hourly request budget
+Generates **only contact EQ Resource / Raidloot on a cache miss** (unknown item, incomplete catalog row, or missing icon PNG). Warm files are reused as-is.
 
-- **JSON catalogs:** `cache/*.json`
-- **Icons:** `cache/item_icons/{id}.png` (and `expac-*.jpg`)
+- **JSON catalogs:** `cache/*.json` (augs, raid BiS, sockets, etc.)
+- **Icons:** `cache/item_icons/{id}.png` (and `expac-*.jpg`) — embedded into BiS paper dolls and item cards
 
-New fetches write local files **and** publish to R2 when R2 env vars are set. Without R2, behavior matches a local-only cache (still polite to EQ Resource via the budget gate).
+When a generate fetches something new, it updates the matching file under `cache/`. To ship that to GitHub (and the next Render deploy):
 
-### Optional: promote into GitHub
+1. Run a generate that needs the new data (locally is easiest).
+2. Commit the updated `cache/*.json` and any new `cache/item_icons/*` files and push.
+3. Redeploy (or let Render auto-deploy from `main`).
 
-To bake newly fetched data into the next deploy image:
+Runtime files that should not be committed (`settings.json`, `last_report.log`) are gitignored under `cache/`.
 
-1. Copy updated `cache/*.json` / `cache/item_icons/*` from a run (or pull from R2).
-2. Commit and push; redeploy.
-
-Runtime noise (`settings.json`, `last_report.log`) stays gitignored.
-
-### Cloudflare R2 (recommended for multi-user)
-
-1. Create an R2 bucket (e.g. `eqgm-cache`) and an API token with Object Read & Write.
-2. Set Render (or local) env vars:
-
-| Variable | Example |
-|----------|---------|
-| `EQGM_R2_ACCOUNT_ID` | Cloudflare account id |
-| `EQGM_R2_ACCESS_KEY_ID` | R2 access key |
-| `EQGM_R2_SECRET_ACCESS_KEY` | R2 secret |
-| `EQGM_R2_BUCKET` | `eqgm-cache` |
-| `EQGM_R2_ENDPOINT` | optional; default `https://{account}.r2.cloudflarestorage.com` |
-
-3. Seed the bucket once from the repo cache:
-
-```powershell
-$env:PYTHONPATH = ".;src"
-$env:EQGM_APPDATA = "cache"
-# set EQGM_R2_* as above
-.\.venv\Scripts\python.exe scripts\push_cache_to_r2.py
-```
-
-Other env knobs:
-
-- `EQGM_EQR_MAX_REQUESTS_PER_HOUR` — default `120`; set `0` to block all upstream fetches
-- `EQGM_ALLOW_NETWORK=0` — cache-only mode (no EQ Resource / Raidloot)
+On Render’s free plan the disk is still ephemeral: growth while the instance is awake helps, but only committed `cache/` files survive sleep/redeploy.
 
 ## Deploy on Render (free)
 
@@ -79,7 +49,7 @@ Other env knobs:
    - **Runtime:** Python
    - **Build:** `pip install -r requirements.txt`
    - **Start:** `uvicorn app.main:app --host 0.0.0.0 --port $PORT --workers 1`
-   - **Env:** `PYTHONPATH=.:src`, `EQGM_APPDATA=cache`, plus R2 secrets above
+   - **Env:** `PYTHONPATH=.:src`, `EQGM_APPDATA=cache`
    - **Plan:** Free
 4. After deploy, open the `*.onrender.com` URL.
 
@@ -87,7 +57,8 @@ Other env knobs:
 
 - The service **sleeps after ~15 minutes** idle; the first request can take about a minute to wake.
 - **512 MB RAM** and one generate at a time — keep rosters modest (max 20 characters in this build).
-- Local disk is **ephemeral**; use **R2** so catalog/icon growth survives sleep. Uploaded inventory files and finished reports still expire (~15 minutes).
+- Local disk is **ephemeral** (lost on sleep/redeploy). Uploaded files and finished reports are deleted after a short TTL (~15 minutes).
+- Durable catalogs come from committed `cache/*.json` in this repo.
 
 ## How to use
 

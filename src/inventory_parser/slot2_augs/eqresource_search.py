@@ -212,9 +212,7 @@ def _load_cache() -> dict:
 
 
 def _save_cache(data: dict) -> None:
-    from inventory_parser.cache_io import write_json
-
-    write_json(cache_path(), data)
+    cache_path().write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
 def _http_post(url: str, payload: dict[str, str], timeout: float = 45.0) -> str:

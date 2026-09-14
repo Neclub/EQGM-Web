@@ -546,7 +546,6 @@ def collect_expansion_data_uris(
 
 
 def _load_expansion_image(code: str, *, allow_network: bool) -> tuple[bytes | None, str]:
-    from inventory_parser.cache_io import ensure_local_bytes, write_bytes
     from inventory_parser.http_fetch import MAX_ICON_BYTES, http_get_bytes, is_jpeg, is_png
     from inventory_parser.raid_bis.icons import icon_cache_dir
     import urllib.error
@@ -554,14 +553,12 @@ def _load_expansion_image(code: str, *, allow_network: bool) -> tuple[bytes | No
     cache_dir = icon_cache_dir()
     for name, mime in (("jpg", "image/jpeg"), ("png", "image/png")):
         path = cache_dir / f"expac-{code}.{name}"
-        data = ensure_local_bytes(path)
-        if data is None and path.is_file():
-            try:
-                data = path.read_bytes()
-            except OSError:
-                data = b""
-        if not data:
+        if not path.is_file():
             continue
+        try:
+            data = path.read_bytes()
+        except OSError:
+            data = b""
         if name == "jpg" and is_jpeg(data):
             return data, mime
         if name == "png" and is_png(data):
@@ -586,7 +583,7 @@ def _load_expansion_image(code: str, *, allow_network: bool) -> tuple[bytes | No
     else:
         return None, ""
     try:
-        write_bytes(cache_dir / f"expac-{code}.{ext}", data)
+        (cache_dir / f"expac-{code}.{ext}").write_bytes(data)
     except OSError:
         pass
     return data, mime

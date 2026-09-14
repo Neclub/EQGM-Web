@@ -188,9 +188,7 @@ def _load_json(path: Path) -> dict:
 
 
 def _save_json(path: Path, data: dict) -> None:
-    from inventory_parser.cache_io import write_json
-
-    write_json(path, data)
+    path.write_text(json.dumps(data, indent=2), encoding="utf-8")
 
 
 def type19_search_payload(*, name: str = "", page: int = 1) -> dict[str, str]:

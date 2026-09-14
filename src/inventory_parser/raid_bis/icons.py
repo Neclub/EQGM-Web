@@ -7,7 +7,6 @@ import urllib.error
 from collections.abc import Callable
 from pathlib import Path
 
-from inventory_parser.cache_io import ensure_local_bytes, write_bytes
 from inventory_parser.http_fetch import MAX_ICON_BYTES, http_get_bytes, is_png
 from inventory_parser.slot2_augs.eqresource_augs import USER_AGENT
 from inventory_parser.slot2_augs.paths import appdata_dir
@@ -31,17 +30,11 @@ def collect_icon_data_uris(
 ) -> dict[str, str]:
     """Return icon_id → data URI. Missing icons are omitted (name links still work).
 
-    PNGs under ``icon_cache_dir()`` (and shared R2) are used first. EQ Resource is
-    contacted only for ids that are not already cached (and only when
-    ``allow_network`` is True).
+    PNGs under ``icon_cache_dir()`` are used first. EQ Resource is contacted only
+    for ids that are not already cached (and only when ``allow_network`` is True).
     """
     ids = [str(icon_id) for icon_id in sorted(icon_ids) if icon_id and str(icon_id).isdigit()]
     cache_dir = icon_cache_dir()
-    # Pull any R2-only icons into local before deciding what is missing.
-    for icon_id in ids:
-        path = cache_dir / f"{icon_id}.png"
-        if not path.is_file():
-            ensure_local_bytes(path)
     missing = [
         icon_id
         for icon_id in ids
@@ -84,9 +77,6 @@ def _load_icon_png(icon_id: str, *, allow_network: bool) -> bytes | None:
     if not icon_id.isdigit():
         return None
     path = icon_cache_dir() / f"{icon_id}.png"
-    data = ensure_local_bytes(path)
-    if data and is_png(data):
-        return data
     if path.is_file():
         try:
             data = path.read_bytes()
@@ -108,7 +98,7 @@ def _load_icon_png(icon_id: str, *, allow_network: bool) -> bytes | None:
     if not is_png(data):
         return None
     try:
-        write_bytes(path, data)
+        path.write_bytes(data)
     except OSError:
         # Cache write failed; still return the fetched icon bytes for this run.
         pass
