@@ -401,7 +401,7 @@ def reset_tier_colors_api() -> dict:
 
 class GenerateBody(BaseModel):
     paths: list[str]
-    outputFormat: str = "both"
+    outputFormat: str = "html"
     slotFilter: str = "all"
     includeSpells: bool = False
     includeAchievements: bool = False

@@ -16,7 +16,7 @@ const state = {
   weightDefaults: null,
   weightEdits: null,
   weightsClassKey: null,
-  outputFormat: "both",
+  outputFormat: "html",
   generating: false,
   sessionId: null,
   lastJobId: null,
@@ -95,7 +95,7 @@ async function webApi(method, ...args) {
       const prefs = loadLocalPrefs();
       const server = await apiFetch("/api/prefs");
       return {
-        outputFormat: prefs.outputFormat || server.outputFormat || "both",
+        outputFormat: prefs.outputFormat || server.outputFormat || "html",
         lastEqFolder: null,
       };
     }

@@ -85,7 +85,7 @@ def saved_character_column_order() -> list[str]:
 
 
 OUTPUT_FORMATS = frozenset({"excel", "html", "both"})
-DEFAULT_OUTPUT_FORMAT = "both"
+DEFAULT_OUTPUT_FORMAT = "html"
 
 
 def normalize_output_format(value: object) -> str:
