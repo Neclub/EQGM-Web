@@ -127,6 +127,10 @@ def _save_item_cache(cache: dict) -> None:
 
 
 def _load_json(path: Path) -> dict:
+    from inventory_parser.cache_io import ensure_local_bytes
+
+    if not path.is_file():
+        ensure_local_bytes(path)
     if not path.is_file():
         return {}
     try:
@@ -137,7 +141,9 @@ def _load_json(path: Path) -> dict:
 
 
 def _save_json(path: Path, data: dict) -> None:
-    path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+    from inventory_parser.cache_io import write_json
+
+    write_json(path, data)
 
 
 def should_skip_name(name: str) -> bool:

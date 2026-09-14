@@ -1,9 +1,12 @@
-"""Point live EQGM caches at the repo cache/ directory."""
+"""Point live EQGM caches at the repo cache/ directory and sync from R2."""
 
 from __future__ import annotations
 
+import logging
 import os
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
 
 
 def project_root() -> Path:
@@ -36,6 +39,28 @@ def configure_cache_dir() -> Path:
 
 
 def seed_disk_caches() -> list[str]:
-    """Configure live cache dir; return empty list (no copy — cache/ is the store)."""
-    configure_cache_dir()
+    """Configure live cache dir and pull shared R2 objects into it."""
+    root = configure_cache_dir()
+    try:
+        from app.shared_cache import enabled, sync_pull
+
+        if enabled():
+            pulled = sync_pull(root)
+            logger.info("R2 sync_pull: %s object(s)", len(pulled))
+            return pulled
+    except Exception as exc:
+        logger.warning("R2 sync_pull skipped: %s", exc)
+    return []
+
+
+def sync_catalogs_from_r2() -> list[str]:
+    """Pull JSON catalogs from R2 (call before generate)."""
+    root = configure_cache_dir()
+    try:
+        from app.shared_cache import enabled, sync_pull_catalogs
+
+        if enabled():
+            return sync_pull_catalogs(root)
+    except Exception as exc:
+        logger.warning("R2 catalog sync skipped: %s", exc)
     return []

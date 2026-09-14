@@ -816,8 +816,9 @@ def _load_cache() -> dict:
 
 
 def _save_cache(data: dict) -> None:
-    path = cache_path()
-    path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+    from inventory_parser.cache_io import write_json
+
+    write_json(cache_path(), data)
 
 
 def _candidate_from_dict(d: dict, profile: ProfileId) -> AugCandidate:

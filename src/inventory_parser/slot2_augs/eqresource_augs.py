@@ -174,7 +174,9 @@ def _load_cache() -> dict:
 
 
 def _save_cache(data: dict) -> None:
-    cache_path().write_text(json.dumps(data, indent=2), encoding="utf-8")
+    from inventory_parser.cache_io import write_json
+
+    write_json(cache_path(), data)
 
 
 def expansion_cache_path() -> Path:
@@ -192,7 +194,9 @@ def _load_expansion_cache() -> dict:
 
 
 def _save_expansion_cache(data: dict) -> None:
-    expansion_cache_path().write_text(json.dumps(data, indent=2), encoding="utf-8")
+    from inventory_parser.cache_io import write_json
+
+    write_json(expansion_cache_path(), data)
 
 
 def expansion_name_from_code(code: str | None) -> str | None:
