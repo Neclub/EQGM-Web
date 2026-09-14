@@ -35,6 +35,14 @@ class ColumnRosterEntry:
 
 
 def settings_path() -> Path:
+    override = os.environ.get("EQGM_APPDATA", "").strip()
+    if override:
+        root = Path(override).expanduser()
+        if not root.is_absolute():
+            root = Path.cwd() / root
+        root = root.resolve()
+        root.mkdir(parents=True, exist_ok=True)
+        return root / "settings.json"
     if sys.platform == "win32":
         base = Path(os.environ.get("LOCALAPPDATA", Path.home() / "AppData" / "Local"))
     else:

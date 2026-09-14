@@ -1,9 +1,8 @@
-"""Seed EQ Resource disk caches and expose helpers for the web app."""
+"""Point live EQGM caches at the repo cache/ directory."""
 
 from __future__ import annotations
 
 import os
-import shutil
 from pathlib import Path
 
 
@@ -11,26 +10,32 @@ def project_root() -> Path:
     return Path(__file__).resolve().parents[1]
 
 
+def configure_cache_dir() -> Path:
+    """Ensure ``EQGM_APPDATA`` points at repo ``cache/`` (live read/write store).
+
+    Catalog JSON is read from and written into this folder so newly fetched items
+    can be committed to GitHub. No AppData seed copy is performed.
+    """
+    existing = os.environ.get("EQGM_APPDATA", "").strip()
+    if existing:
+        root = Path(existing).expanduser()
+        if not root.is_absolute():
+            root = project_root() / root
+    else:
+        seed_env = os.environ.get("EQGM_CACHE_SEED", "").strip()
+        if seed_env:
+            root = Path(seed_env)
+            if not root.is_absolute():
+                root = project_root() / root
+        else:
+            root = project_root() / "cache"
+    root = root.resolve()
+    root.mkdir(parents=True, exist_ok=True)
+    os.environ["EQGM_APPDATA"] = str(root)
+    return root
+
+
 def seed_disk_caches() -> list[str]:
-    """Copy baked JSON caches into the EQGM appdata directory before first generate."""
-    from inventory_parser.slot2_augs.paths import CACHE_FILENAMES, appdata_dir
-
-    seed_env = os.environ.get("EQGM_CACHE_SEED", "").strip()
-    seed_dir = Path(seed_env) if seed_env else project_root() / "cache"
-    if not seed_dir.is_absolute():
-        seed_dir = project_root() / seed_dir
-    if not seed_dir.is_dir():
-        return []
-
-    dest = appdata_dir()
-    copied: list[str] = []
-    for name in CACHE_FILENAMES:
-        src = seed_dir / name
-        if not src.is_file():
-            continue
-        target = dest / name
-        if target.is_file() and target.stat().st_size >= src.stat().st_size:
-            continue
-        shutil.copy2(src, target)
-        copied.append(name)
-    return copied
+    """Configure live cache dir; return empty list (no copy — cache/ is the store)."""
+    configure_cache_dir()
+    return []

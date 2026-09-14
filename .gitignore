@@ -11,3 +11,8 @@ Thumbs.db
 *.log
 dist/
 build/
+
+# Runtime noise when EQGM_APPDATA points at repo cache/
+cache/settings.json
+cache/last_report.log
+cache/item_icons/

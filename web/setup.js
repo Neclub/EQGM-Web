@@ -1169,6 +1169,8 @@ function showDownloadLinks(result) {
   let any = false;
   if (result.downloadXlsx) {
     xlsx.href = result.downloadXlsx;
+    const name = result.xlsx || "EQGM_Team_Inventory.xlsx";
+    xlsx.setAttribute("download", name);
     xlsx.style.display = "";
     any = true;
   } else {
@@ -1176,12 +1178,48 @@ function showDownloadLinks(result) {
   }
   if (result.downloadHtml) {
     html.href = result.downloadHtml;
+    const name = result.html || "EQGM_Team_Inventory.html";
+    html.setAttribute("download", name);
     html.style.display = "";
     any = true;
   } else {
     html.style.display = "none";
   }
   row.style.display = any ? "flex" : "none";
+}
+
+async function triggerDownloads(result) {
+  const urls = [];
+  if (result.downloadXlsx) {
+    urls.push({
+      url: result.downloadXlsx,
+      name: result.xlsx || "EQGM_Team_Inventory.xlsx",
+    });
+  }
+  if (result.downloadHtml) {
+    urls.push({
+      url: result.downloadHtml,
+      name: result.html || "EQGM_Team_Inventory.html",
+    });
+  }
+  for (const item of urls) {
+    try {
+      const res = await fetch(item.url);
+      if (!res.ok) throw new Error(`Download failed (${res.status})`);
+      const blob = await res.blob();
+      const objectUrl = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = objectUrl;
+      a.download = item.name;
+      a.rel = "noopener";
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(objectUrl), 2000);
+    } catch (err) {
+      showToast(err && err.message ? err.message : String(err), true);
+    }
+  }
 }
 
 window.onGenerateProgress = function (payload) {
@@ -1208,20 +1246,13 @@ window.onGenerateComplete = async function (result) {
   $("status").textContent = extra;
 
   showDownloadLinks(result);
+  await triggerDownloads(result);
 
-  let msg = "Report ready — use the download links.";
+  let msg = "Report ready — downloads started.";
   if (result.warnings && result.warnings.length) {
     msg += " • " + result.warnings.join(" • ");
   }
   showToast(msg);
-
-  if (result.downloadHtml) {
-    try {
-      window.open(result.downloadHtml, "_blank", "noopener");
-    } catch (_) {
-      /* user can click Open HTML */
-    }
-  }
 };
 
 async function updateStatus() {

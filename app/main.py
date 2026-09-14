@@ -18,8 +18,11 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from app import limits
-from app.cache_seed import project_root, seed_disk_caches
+from app.cache_seed import configure_cache_dir, project_root, seed_disk_caches
 from app.jobs import JobStore
+
+# Point catalog I/O at repo cache/ before any generate (also re-run on startup).
+configure_cache_dir()
 
 # Engine imports (PYTHONPATH=src)
 from inventory_parser import __version__
@@ -146,6 +149,7 @@ app.add_middleware(
 
 @app.on_event("startup")
 def _startup() -> None:
+    configure_cache_dir()
     seed_disk_caches()
 
 
@@ -618,12 +622,22 @@ def job_download(job_id: str, kind: str) -> FileResponse:
         if not job.html_name:
             raise HTTPException(status_code=404, detail="No HTML file for this job.")
         path = job.output_dir / job.html_name
-        media = "text/html; charset=utf-8"
+        # Octet-stream + attachment avoids browsers rendering/executing the HTML report.
+        media = "application/octet-stream"
     else:
         raise HTTPException(status_code=404, detail="Unknown download kind.")
     if not path.is_file():
         raise HTTPException(status_code=404, detail="File missing.")
-    return FileResponse(path, media_type=media, filename=path.name)
+    headers = {
+        "Content-Disposition": f'attachment; filename="{path.name}"',
+        "X-Content-Type-Options": "nosniff",
+    }
+    return FileResponse(
+        path,
+        media_type=media,
+        filename=path.name,
+        headers=headers,
+    )
 
 
 @app.post("/api/clear-cache")

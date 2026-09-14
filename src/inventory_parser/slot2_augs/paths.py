@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import shutil
 from pathlib import Path
 
@@ -25,7 +26,19 @@ ICON_CACHE_DIRNAME = "item_icons"
 
 
 def appdata_dir() -> Path:
-    root = settings_path().parent
+    """Return the EQGM data directory (caches + settings parent).
+
+    When ``EQGM_APPDATA`` is set, use that path (EQGM Web points it at repo ``cache/``
+    so newly fetched catalog JSON can be committed to GitHub).
+    """
+    override = os.environ.get("EQGM_APPDATA", "").strip()
+    if override:
+        root = Path(override).expanduser()
+        if not root.is_absolute():
+            root = Path.cwd() / root
+        root = root.resolve()
+    else:
+        root = settings_path().parent
     root.mkdir(parents=True, exist_ok=True)
     return root
 
