@@ -33,7 +33,6 @@ class Job:
     result: dict[str, Any] | None = None
     error: str | None = None
     output_dir: Path | None = None
-    xlsx_name: str | None = None
     html_name: str | None = None
     client_ip: str = ""
 

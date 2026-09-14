@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "eqgm-web"
 version = "0.1.0"
-description = "EQGM Web — browser upload of EverQuest inventory dumps to Excel/HTML team reports"
+description = "EQGM Web — browser upload of EverQuest inventory dumps to HTML team reports"
 requires-python = ">=3.10"
 dependencies = [
     "fastapi>=0.115.0",

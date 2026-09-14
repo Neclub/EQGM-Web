@@ -25,7 +25,6 @@ r = client.post(
     headers={"X-EQGM-Session": session},
     json={
         "paths": paths,
-        "outputFormat": "html",
         "includeSpells": False,
         "includeAchievements": False,
         "includeSlot2": False,

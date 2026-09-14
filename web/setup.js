@@ -16,14 +16,12 @@ const state = {
   weightDefaults: null,
   weightEdits: null,
   weightsClassKey: null,
-  outputFormat: "html",
   generating: false,
   sessionId: null,
   lastJobId: null,
   tierColorOverrides: null,
 };
 
-const OUTPUT_FORMATS = ["excel", "html", "both"];
 const DEFAULT_WINDOW_WIDTH = 982;
 const DEFAULT_WINDOW_HEIGHT = 765;
 const PREFS_KEY = "eqgm_web_prefs";
@@ -92,17 +90,7 @@ async function webApi(method, ...args) {
     case "get_version":
       return apiFetch("/api/version");
     case "get_gui_prefs": {
-      const prefs = loadLocalPrefs();
-      const server = await apiFetch("/api/prefs");
-      return {
-        outputFormat: prefs.outputFormat || server.outputFormat || "html",
-        lastEqFolder: null,
-      };
-    }
-    case "set_output_format": {
-      const value = args[0];
-      saveLocalPrefs({ outputFormat: value });
-      return apiFetch("/api/prefs/output-format", { method: "POST", json: { value } });
+      return { lastEqFolder: null };
     }
     case "get_class_weight_defaults":
       return apiFetch(
@@ -184,7 +172,6 @@ async function startGenerateJob(config) {
   const prefs = loadLocalPrefs();
   const body = {
     paths: config.paths,
-    outputFormat: config.outputFormat || state.outputFormat,
     slotFilter: config.slotFilter || "all",
     includeSpells: !!config.includeSpells,
     includeAchievements: !!config.includeAchievements,
@@ -461,31 +448,8 @@ function hideGenProgress() {
   if (bar) bar.style.width = "0%";
 }
 
-function syncOutputFormatChips() {
-  OUTPUT_FORMATS.forEach((fmt) => {
-    const chip = $(`chipFormat${fmt[0].toUpperCase()}${fmt.slice(1)}`);
-    if (chip) toggleChip(chip, state.outputFormat === fmt);
-  });
-}
-
 function buildingStatusText() {
-  if (state.outputFormat === "html") return "Building HTML…";
-  if (state.outputFormat === "excel") return "Building workbook…";
-  return "Building workbook and HTML…";
-}
-
-async function setOutputFormat(format, { persist = true } = {}) {
-  if (!OUTPUT_FORMATS.includes(format)) return;
-  state.outputFormat = format;
-  syncOutputFormatChips();
-  if (!persist) return;
-  try {
-    const result = await api("set_output_format", format);
-    if (result && result.outputFormat) state.outputFormat = result.outputFormat;
-    syncOutputFormatChips();
-  } catch (_) {
-    /* preference save is best-effort */
-  }
+  return "Building HTML…";
 }
 
 let eventsBound = false;
@@ -494,7 +458,6 @@ let startupUpdateChecked = false;
 async function initApp() {
   resetUI();
   bindEvents();
-  syncOutputFormatChips();
   refreshUI();
 
   try {
@@ -507,15 +470,6 @@ async function initApp() {
     }
   } catch (_) {
     $("versionBadge").textContent = "Web";
-  }
-
-  try {
-    const prefs = await api("get_gui_prefs");
-    if (prefs && prefs.outputFormat) {
-      await setOutputFormat(prefs.outputFormat, { persist: false });
-    }
-  } catch (_) {
-    /* defaults already applied */
   }
 
   // Restore tier colors from localStorage onto the server session settings
@@ -640,13 +594,6 @@ function bindEvents() {
     syncOptionsTabs(state.roster.length === 1);
   });
   $("btnResetWeights").addEventListener("click", () => { void resetWeightDefaults(); });
-  OUTPUT_FORMATS.forEach((fmt) => {
-    const chip = $(`chipFormat${fmt[0].toUpperCase()}${fmt.slice(1)}`);
-    if (!chip) return;
-    chip.addEventListener("click", () => {
-      void setOutputFormat(fmt);
-    });
-  });
 }
 
 async function handleFileUpload(fileList) {
@@ -1141,7 +1088,6 @@ async function generateReport() {
     includeAnniversary: state.includeAnniversary,
     advancedWeights: !!useAdvanced,
     sessionWeights: useAdvanced ? { ...(state.weightEdits || {}) } : null,
-    outputFormat: state.outputFormat,
     characterColumnOrder: state.roster.map((e) => e.personaKey),
   };
 
@@ -1163,62 +1109,41 @@ function hideDownloadLinks() {
 
 function showDownloadLinks(result) {
   const row = $("downloadRow");
-  const xlsx = $("btnDownloadXlsx");
   const html = $("btnDownloadHtml");
-  if (!row || !xlsx || !html) return;
-  let any = false;
-  if (result.downloadXlsx) {
-    xlsx.href = result.downloadXlsx;
-    const name = result.xlsx || "EQGM_Team_Inventory.xlsx";
-    xlsx.setAttribute("download", name);
-    xlsx.style.display = "";
-    any = true;
-  } else {
-    xlsx.style.display = "none";
-  }
+  if (!row || !html) return;
   if (result.downloadHtml) {
     html.href = result.downloadHtml;
     const name = result.html || "EQGM_Team_Inventory.html";
     html.setAttribute("download", name);
     html.style.display = "";
-    any = true;
+    row.style.display = "flex";
   } else {
     html.style.display = "none";
+    row.style.display = "none";
   }
-  row.style.display = any ? "flex" : "none";
 }
 
 async function triggerDownloads(result) {
-  const urls = [];
-  if (result.downloadXlsx) {
-    urls.push({
-      url: result.downloadXlsx,
-      name: result.xlsx || "EQGM_Team_Inventory.xlsx",
-    });
-  }
-  if (result.downloadHtml) {
-    urls.push({
-      url: result.downloadHtml,
-      name: result.html || "EQGM_Team_Inventory.html",
-    });
-  }
-  for (const item of urls) {
-    try {
-      const res = await fetch(item.url);
-      if (!res.ok) throw new Error(`Download failed (${res.status})`);
-      const blob = await res.blob();
-      const objectUrl = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = objectUrl;
-      a.download = item.name;
-      a.rel = "noopener";
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
-      setTimeout(() => URL.revokeObjectURL(objectUrl), 2000);
-    } catch (err) {
-      showToast(err && err.message ? err.message : String(err), true);
-    }
+  if (!result.downloadHtml) return;
+  const item = {
+    url: result.downloadHtml,
+    name: result.html || "EQGM_Team_Inventory.html",
+  };
+  try {
+    const res = await fetch(item.url);
+    if (!res.ok) throw new Error(`Download failed (${res.status})`);
+    const blob = await res.blob();
+    const objectUrl = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = objectUrl;
+    a.download = item.name;
+    a.rel = "noopener";
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(objectUrl), 2000);
+  } catch (err) {
+    showToast(err && err.message ? err.message : String(err), true);
   }
 }
 
@@ -1248,7 +1173,7 @@ window.onGenerateComplete = async function (result) {
   showDownloadLinks(result);
   await triggerDownloads(result);
 
-  let msg = "Report ready — downloads started.";
+  let msg = "Report ready — HTML download started.";
   if (result.warnings && result.warnings.length) {
     msg += " • " + result.warnings.join(" • ");
   }
@@ -1305,10 +1230,6 @@ function setGenerating(on) {
   $("btnDown").disabled = on;
   $("btnRemove").disabled = on;
   $("btnClear").disabled = on;
-  OUTPUT_FORMATS.forEach((fmt) => {
-    const chip = $(`chipFormat${fmt[0].toUpperCase()}${fmt.slice(1)}`);
-    if (chip) chip.disabled = on;
-  });
   renderRoster();
   syncSlot2Options();
 }
@@ -1644,10 +1565,10 @@ async function showAbout() {
         <p><strong>EQGM Web ${version}</strong></p>
         <p style="margin-top:12px;color:var(--muted);font-size:12px">
           Upload EverQuest /outputfile inventory, spell, and achievement dumps in the browser
-          to build team Excel workbooks and HTML reports.
+          to build interactive HTML team reports.
         </p>
         <p style="margin-top:8px;font-size:12px;color:var(--muted)">
-          Sheets include Team Gear, Gear T-Level, Missing Runes, Missing Spells,
+          Sections include Team Gear, Gear T-Level, Missing Runes, Missing Spells,
           Rune Inventory, Unmade Gear, achievements, augs, Raid BiS, and more.
         </p>
       </div>

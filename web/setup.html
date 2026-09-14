@@ -160,9 +160,8 @@
       <section class="panel">
         <div class="panel-header output">Downloads</div>
         <div class="panel-body">
-          <div class="hint" style="margin-top:0">After Generate Report, download Excel and/or HTML. Files expire after about 15 minutes.</div>
+          <div class="hint" style="margin-top:0">After Generate Report, download the HTML report. Files expire after about 15 minutes.</div>
           <div class="output-row" id="downloadRow" style="display:none;gap:8px;flex-wrap:wrap;margin-top:10px">
-            <a class="btn btn-secondary" id="btnDownloadXlsx" href="#" download style="text-decoration:none">Download Excel</a>
             <a class="btn btn-secondary" id="btnDownloadHtml" href="#" download style="text-decoration:none">Download HTML</a>
           </div>
           <input type="hidden" id="outputPath" value="browser">
@@ -186,11 +185,6 @@
       </div>
     </div>
     <div class="action-bar-right">
-      <div class="chip-row output-format" id="outputFormatChips" role="group" aria-label="Output format">
-        <button type="button" class="chip" id="chipFormatExcel" data-format="excel">Excel</button>
-        <button type="button" class="chip on" id="chipFormatHtml" data-format="html">HTML</button>
-        <button type="button" class="chip" id="chipFormatBoth" data-format="both">Both</button>
-      </div>
       <button type="button" class="btn btn-primary" id="btnGenerate">Generate Report</button>
     </div>
   </div>

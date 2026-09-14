@@ -30,18 +30,14 @@ from inventory_parser.achievement_files import collect_achievement_paths
 from inventory_parser.character_column_order import (
     ColumnRosterEntry,
     build_column_roster,
-    normalize_output_format,
     paths_for_roster_removal,
     reset_tier_colors,
     save_character_column_order,
-    save_output_format,
     save_tier_color,
     saved_character_column_order,
-    saved_output_format,
     tier_colors_are_custom,
 )
 from inventory_parser.eq_servers import server_display_name
-from inventory_parser.excel_export import write_team_workbook
 from inventory_parser.excel_theme import tier_legend_entries
 from inventory_parser.export_bundle import build_export_bundle, release_export_memory
 from inventory_parser.html_export import write_team_html
@@ -190,16 +186,7 @@ def get_version() -> dict:
 
 @app.get("/api/prefs")
 def get_prefs() -> dict:
-    return {"outputFormat": saved_output_format(), "lastEqFolder": None}
-
-
-class OutputFormatBody(BaseModel):
-    value: str
-
-
-@app.post("/api/prefs/output-format")
-def set_output_format_api(body: OutputFormatBody) -> dict:
-    return {"outputFormat": save_output_format(body.value)}
+    return {"lastEqFolder": None}
 
 
 @app.get("/api/class-weights")
@@ -401,7 +388,6 @@ def reset_tier_colors_api() -> dict:
 
 class GenerateBody(BaseModel):
     paths: list[str]
-    outputFormat: str = "html"
     slotFilter: str = "all"
     includeSpells: bool = False
     includeAchievements: bool = False
@@ -505,9 +491,6 @@ def _generate_impl(
     job: Any,
     on_progress,
 ) -> dict:
-    output_format = normalize_output_format(config.get("outputFormat"))
-    write_excel = output_format in ("excel", "both")
-    write_html = output_format in ("html", "both")
     raw_slots = (config.get("slotFilter") or "all").strip()
     slot_filter: SlotFilter = (
         raw_slots if raw_slots in ("all", "visible", "non_visible") else "all"
@@ -523,6 +506,7 @@ def _generate_impl(
     prefix = default_export_prefix_from_input_paths(paths)
     assert job.output_dir is not None
     output_path = team_inventory_path(job.output_dir, prefix)
+    html_target = html_path_for_workbook(output_path)
 
     try:
         bundle = build_export_bundle(
@@ -538,40 +522,17 @@ def _generate_impl(
             session_weights=session_weights,
             on_progress=on_progress,
             character_column_order=config.get("characterColumnOrder") or None,
-            include_item_cards=write_html,
+            include_item_cards=True,
         )
     except ValueError as exc:
         return {"ok": False, "error": _public_error(exc)}
 
     warnings = list(bundle.warnings)
     if include_slot2 or include_type5 or include_type18 or include_raid_bis:
-        report_progress(on_progress, "Writing Excel/HTML…", 0.95, 1.0, 0, 1)
+        report_progress(on_progress, "Writing HTML…", 0.95, 1.0, 0, 1)
 
-    saved = None
-    html_saved = None
-    if write_excel:
-        saved = write_team_workbook(
-            bundle.team,
-            output_path,
-            slot_filter=bundle.slot_filter,
-            spell_report=bundle.spell_report,
-            missing_useful_report=bundle.missing_useful_report,
-            rune_inventory_report=bundle.rune_inventory_report,
-            achievement_report=bundle.achievement_report,
-            unmade_entries=bundle.unmade_entries,
-            slot2=bundle.slot2,
-            type5=bundle.type5,
-            type18=bundle.type18,
-            raid_bis=bundle.raid_bis,
-        )
-        job.xlsx_name = saved.name
-        if write_html:
-            html_saved = write_team_html(bundle, html_path_for_workbook(saved))
-            job.html_name = html_saved.name
-    elif write_html:
-        html_target = html_path_for_workbook(output_path)
-        html_saved = write_team_html(bundle, html_target)
-        job.html_name = html_saved.name
+    html_saved = write_team_html(bundle, html_target)
+    job.html_name = html_saved.name
 
     if include_slot2 or include_type5 or include_type18 or include_raid_bis:
         report_progress(on_progress, "Done", 0.95, 1.0, 1, 1)
@@ -579,12 +540,10 @@ def _generate_impl(
     return {
         "ok": True,
         "jobId": job.id,
-        "xlsx": job.xlsx_name,
         "html": job.html_name,
         "warnings": warnings,
         "characterCount": len(bundle.team.characters),
-        "downloadXlsx": f"/api/jobs/{job.id}/download/xlsx" if job.xlsx_name else None,
-        "downloadHtml": f"/api/jobs/{job.id}/download/html" if job.html_name else None,
+        "downloadHtml": f"/api/jobs/{job.id}/download/html",
     }
 
 
@@ -613,19 +572,11 @@ def job_download(job_id: str, kind: str) -> FileResponse:
         raise HTTPException(status_code=404, detail="Job not found or expired.")
     if job.status != "done":
         raise HTTPException(status_code=409, detail="Report not ready.")
-    if kind == "xlsx":
-        if not job.xlsx_name:
-            raise HTTPException(status_code=404, detail="No Excel file for this job.")
-        path = job.output_dir / job.xlsx_name
-        media = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-    elif kind == "html":
-        if not job.html_name:
-            raise HTTPException(status_code=404, detail="No HTML file for this job.")
-        path = job.output_dir / job.html_name
-        # Octet-stream + attachment avoids browsers rendering/executing the HTML report.
-        media = "application/octet-stream"
-    else:
-        raise HTTPException(status_code=404, detail="Unknown download kind.")
+    if kind != "html":
+        raise HTTPException(status_code=404, detail="Only HTML downloads are available.")
+    if not job.html_name:
+        raise HTTPException(status_code=404, detail="No HTML file for this job.")
+    path = job.output_dir / job.html_name
     if not path.is_file():
         raise HTTPException(status_code=404, detail="File missing.")
     headers = {
@@ -634,7 +585,7 @@ def job_download(job_id: str, kind: str) -> FileResponse:
     }
     return FileResponse(
         path,
-        media_type=media,
+        media_type="application/octet-stream",
         filename=path.name,
         headers=headers,
     )

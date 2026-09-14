@@ -598,10 +598,6 @@ select:focus, .text-input:focus {
   flex-shrink: 0;
 }
 
-.output-format {
-  flex-wrap: nowrap;
-}
-
 .status {
   color: var(--muted);
   font-size: 12px;

@@ -84,30 +84,6 @@ def saved_character_column_order() -> list[str]:
     return [str(key) for key in raw if key]
 
 
-OUTPUT_FORMATS = frozenset({"excel", "html", "both"})
-DEFAULT_OUTPUT_FORMAT = "html"
-
-
-def normalize_output_format(value: object) -> str:
-    if isinstance(value, str) and value in OUTPUT_FORMATS:
-        return value
-    return DEFAULT_OUTPUT_FORMAT
-
-
-def save_output_format(value: str) -> str:
-    path = settings_path()
-    path.parent.mkdir(parents=True, exist_ok=True)
-    settings = load_settings()
-    normalized = normalize_output_format(value)
-    settings["output_format"] = normalized
-    path.write_text(json.dumps(settings, indent=2) + "\n", encoding="utf-8")
-    return normalized
-
-
-def saved_output_format() -> str:
-    return normalize_output_format(load_settings().get("output_format"))
-
-
 def save_eq_folder(folder: str | Path) -> str | None:
     """Remember the last EQ Folder path under AppData (survives EXE updates)."""
     try:
