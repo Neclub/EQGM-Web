@@ -24,15 +24,20 @@ Open http://127.0.0.1:8000/
 
 ## Catalog cache (`cache/`)
 
-EQ Resource / Raidloot catalog JSON lives in the repo [`cache/`](cache/) folder. The web app sets `EQGM_APPDATA` to that directory, so **reads and writes go there** (not `%LOCALAPPDATA%\EQGM`).
+EQ Resource / Raidloot catalog JSON and item icons live under repo [`cache/`](cache/). The web app sets `EQGM_APPDATA` to that directory, so **reads and writes go there**.
 
-When a generate fetches a new catalog item, it is appended to the matching `cache/*.json` file. To ship that to GitHub (and the next Render deploy):
+Generates **only contact EQ Resource / Raidloot on a cache miss** (unknown item, incomplete catalog row, or missing icon PNG). Warm files are reused as-is.
+
+- **JSON catalogs:** `cache/*.json` (augs, raid BiS, sockets, etc.)
+- **Icons:** `cache/item_icons/{id}.png` (and `expac-*.jpg`) — embedded into BiS paper dolls and item cards
+
+When a generate fetches something new, it updates the matching file under `cache/`. To ship that to GitHub (and the next Render deploy):
 
 1. Run a generate that needs the new data (locally is easiest).
-2. Commit the updated `cache/*.json` files and push.
+2. Commit the updated `cache/*.json` and any new `cache/item_icons/*` files and push.
 3. Redeploy (or let Render auto-deploy from `main`).
 
-Runtime files that should not be committed (`settings.json`, `last_report.log`, `item_icons/`) are gitignored under `cache/`.
+Runtime files that should not be committed (`settings.json`, `last_report.log`) are gitignored under `cache/`.
 
 On Render’s free plan the disk is still ephemeral: growth while the instance is awake helps, but only committed `cache/` files survive sleep/redeploy.
 

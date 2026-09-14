@@ -15,4 +15,4 @@ build/
 # Runtime noise when EQGM_APPDATA points at repo cache/
 cache/settings.json
 cache/last_report.log
-cache/item_icons/
+# Keep cache/item_icons/*.png|.jpg in git so BiS dolls and item cards are prebuffed.

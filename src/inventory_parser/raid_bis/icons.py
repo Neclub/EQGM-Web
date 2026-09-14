@@ -28,7 +28,11 @@ def collect_icon_data_uris(
     allow_network: bool = True,
     on_status: StatusFn | None = None,
 ) -> dict[str, str]:
-    """Return icon_id → data URI. Missing icons are omitted (name links still work)."""
+    """Return icon_id → data URI. Missing icons are omitted (name links still work).
+
+    PNGs under ``icon_cache_dir()`` are used first. EQ Resource is contacted only
+    for ids that are not already cached (and only when ``allow_network`` is True).
+    """
     ids = [str(icon_id) for icon_id in sorted(icon_ids) if icon_id and str(icon_id).isdigit()]
     cache_dir = icon_cache_dir()
     missing = [
@@ -39,7 +43,8 @@ def collect_icon_data_uris(
     if missing and allow_network and on_status is not None:
         on_status("Fetching item icons from EQ Resource…", 0, len(missing))
     elif ids and on_status is not None:
-        on_status("Using cached item icons…", 1, 1)
+        cached_n = len(ids) - len(missing)
+        on_status(f"Using cached item icons… ({cached_n}/{len(ids)})", 1, 1)
 
     out: dict[str, str] = {}
     fetched = 0
