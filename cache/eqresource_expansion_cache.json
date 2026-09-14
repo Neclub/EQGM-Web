@@ -378,5 +378,3660 @@
     "ok": true,
     "fetched_at": "2026-09-14T01:52:25.131716+00:00",
     "expansion": "Shattering of Ro"
+  },
+  "1": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:18:54.597073+00:00",
+    "expansion": null
+  },
+  "2": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:18:54.788925+00:00",
+    "expansion": null
+  },
+  "3": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:18:54.984486+00:00",
+    "expansion": null
+  },
+  "13106": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:18:55.211886+00:00",
+    "expansion": null
+  },
+  "52023": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:18:56.439296+00:00",
+    "expansion": null
+  },
+  "86157": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:18:59.678814+00:00",
+    "expansion": null
+  },
+  "86168": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:18:59.920638+00:00",
+    "expansion": "Call of the Forsaken"
+  },
+  "88785": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:01.128181+00:00",
+    "expansion": null
+  },
+  "90867": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:01.346921+00:00",
+    "expansion": "House of Thule"
+  },
+  "94098": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:01.561637+00:00",
+    "expansion": null
+  },
+  "95007": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:01.783847+00:00",
+    "expansion": null
+  },
+  "95028": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:01.993858+00:00",
+    "expansion": null
+  },
+  "95035": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:02.209223+00:00",
+    "expansion": null
+  },
+  "95042": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:02.403284+00:00",
+    "expansion": null
+  },
+  "95049": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:02.614183+00:00",
+    "expansion": null
+  },
+  "95063": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:02.820250+00:00",
+    "expansion": null
+  },
+  "95070": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:03.027257+00:00",
+    "expansion": null
+  },
+  "101377": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:03.263855+00:00",
+    "expansion": null
+  },
+  "102680": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:03.490700+00:00",
+    "expansion": null
+  },
+  "102697": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:03.703453+00:00",
+    "expansion": null
+  },
+  "109558": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:03.897702+00:00",
+    "expansion": null
+  },
+  "109559": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:04.126459+00:00",
+    "expansion": null
+  },
+  "109560": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:04.370324+00:00",
+    "expansion": null
+  },
+  "109561": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:04.580973+00:00",
+    "expansion": null
+  },
+  "109562": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:04.792508+00:00",
+    "expansion": null
+  },
+  "109563": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:04.995023+00:00",
+    "expansion": null
+  },
+  "109564": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:05.212871+00:00",
+    "expansion": null
+  },
+  "109565": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:05.430825+00:00",
+    "expansion": null
+  },
+  "109566": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:06.652549+00:00",
+    "expansion": null
+  },
+  "109567": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:06.868499+00:00",
+    "expansion": null
+  },
+  "109568": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:07.056761+00:00",
+    "expansion": null
+  },
+  "109569": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:07.278531+00:00",
+    "expansion": null
+  },
+  "109570": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:07.493075+00:00",
+    "expansion": null
+  },
+  "109571": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:07.721366+00:00",
+    "expansion": null
+  },
+  "109572": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:07.952420+00:00",
+    "expansion": null
+  },
+  "109573": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:08.154218+00:00",
+    "expansion": null
+  },
+  "109574": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:08.370180+00:00",
+    "expansion": null
+  },
+  "109575": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:08.597190+00:00",
+    "expansion": null
+  },
+  "109576": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:08.788130+00:00",
+    "expansion": null
+  },
+  "109577": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:09.032004+00:00",
+    "expansion": null
+  },
+  "109578": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:10.237589+00:00",
+    "expansion": null
+  },
+  "109579": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:10.468266+00:00",
+    "expansion": null
+  },
+  "109580": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:10.689423+00:00",
+    "expansion": null
+  },
+  "110067": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:10.897345+00:00",
+    "expansion": null
+  },
+  "110068": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:11.168739+00:00",
+    "expansion": null
+  },
+  "110069": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:11.395829+00:00",
+    "expansion": null
+  },
+  "110070": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:12.623346+00:00",
+    "expansion": null
+  },
+  "110071": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:12.809122+00:00",
+    "expansion": null
+  },
+  "110394": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:13.032589+00:00",
+    "expansion": null
+  },
+  "111663": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:13.268680+00:00",
+    "expansion": null
+  },
+  "111665": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:13.505042+00:00",
+    "expansion": null
+  },
+  "111667": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:13.725856+00:00",
+    "expansion": null
+  },
+  "111669": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:13.942592+00:00",
+    "expansion": null
+  },
+  "111673": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:14.181604+00:00",
+    "expansion": null
+  },
+  "111863": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:14.399771+00:00",
+    "expansion": null
+  },
+  "132849": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:14.651454+00:00",
+    "expansion": null
+  },
+  "138885": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:15.869472+00:00",
+    "expansion": null
+  },
+  "138886": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:16.071873+00:00",
+    "expansion": null
+  },
+  "138887": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:16.269602+00:00",
+    "expansion": null
+  },
+  "138888": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:16.488894+00:00",
+    "expansion": null
+  },
+  "138889": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:16.704977+00:00",
+    "expansion": null
+  },
+  "138890": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:16.916894+00:00",
+    "expansion": null
+  },
+  "138891": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:17.163661+00:00",
+    "expansion": null
+  },
+  "138892": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:17.359440+00:00",
+    "expansion": null
+  },
+  "138893": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:17.554161+00:00",
+    "expansion": null
+  },
+  "138894": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:17.812310+00:00",
+    "expansion": null
+  },
+  "138895": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:18.033980+00:00",
+    "expansion": null
+  },
+  "139369": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:18.254346+00:00",
+    "expansion": null
+  },
+  "139379": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:18.469009+00:00",
+    "expansion": null
+  },
+  "139382": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:18.678946+00:00",
+    "expansion": null
+  },
+  "139383": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:18.892927+00:00",
+    "expansion": null
+  },
+  "139386": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:19.138554+00:00",
+    "expansion": null
+  },
+  "139387": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:19.354778+00:00",
+    "expansion": null
+  },
+  "146378": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:19.565219+00:00",
+    "expansion": null
+  },
+  "147240": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:19.758171+00:00",
+    "expansion": "The Broken Mirror"
+  },
+  "148190": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:19.971538+00:00",
+    "expansion": "Empires of Kunark"
+  },
+  "148422": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:20.183176+00:00",
+    "expansion": "Empires of Kunark"
+  },
+  "148440": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:20.412306+00:00",
+    "expansion": "Empires of Kunark"
+  },
+  "151172": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:20.632652+00:00",
+    "expansion": "Ring of Scale"
+  },
+  "151443": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:20.846750+00:00",
+    "expansion": "Ring of Scale"
+  },
+  "151475": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:21.073855+00:00",
+    "expansion": null
+  },
+  "151476": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:21.290129+00:00",
+    "expansion": null
+  },
+  "151478": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:21.542011+00:00",
+    "expansion": null
+  },
+  "151480": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:24.778181+00:00",
+    "expansion": null
+  },
+  "151481": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:24.982926+00:00",
+    "expansion": null
+  },
+  "151484": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:25.197237+00:00",
+    "expansion": null
+  },
+  "151487": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:25.423553+00:00",
+    "expansion": null
+  },
+  "151488": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:25.654933+00:00",
+    "expansion": null
+  },
+  "151489": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:25.898276+00:00",
+    "expansion": null
+  },
+  "151490": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:26.082273+00:00",
+    "expansion": null
+  },
+  "151491": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:26.287786+00:00",
+    "expansion": null
+  },
+  "151492": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:26.532695+00:00",
+    "expansion": null
+  },
+  "151493": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:26.725186+00:00",
+    "expansion": null
+  },
+  "151494": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:26.963514+00:00",
+    "expansion": null
+  },
+  "152181": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:27.151773+00:00",
+    "expansion": "Ring of Scale"
+  },
+  "153881": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:27.368133+00:00",
+    "expansion": null
+  },
+  "153882": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:27.588173+00:00",
+    "expansion": null
+  },
+  "153883": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:27.814272+00:00",
+    "expansion": null
+  },
+  "153884": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:28.072061+00:00",
+    "expansion": null
+  },
+  "153885": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:28.287830+00:00",
+    "expansion": null
+  },
+  "153886": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:28.505648+00:00",
+    "expansion": null
+  },
+  "153887": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:28.712904+00:00",
+    "expansion": null
+  },
+  "153888": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:28.919397+00:00",
+    "expansion": null
+  },
+  "153889": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:32.135712+00:00",
+    "expansion": null
+  },
+  "153890": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:32.360096+00:00",
+    "expansion": null
+  },
+  "153891": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:32.578776+00:00",
+    "expansion": null
+  },
+  "153892": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:32.789140+00:00",
+    "expansion": null
+  },
+  "153893": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:32.999777+00:00",
+    "expansion": null
+  },
+  "153894": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:33.219663+00:00",
+    "expansion": null
+  },
+  "153895": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:34.440846+00:00",
+    "expansion": null
+  },
+  "153896": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:34.665917+00:00",
+    "expansion": null
+  },
+  "153897": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:34.904424+00:00",
+    "expansion": null
+  },
+  "153898": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:35.123508+00:00",
+    "expansion": null
+  },
+  "153900": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:35.315643+00:00",
+    "expansion": null
+  },
+  "153902": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:35.523530+00:00",
+    "expansion": null
+  },
+  "160171": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:35.752623+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "160380": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:35.943472+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "160381": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:39.189525+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "160580": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:39.430435+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "160581": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:39.645101+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "160658": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:39.832568+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "160659": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:40.038837+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161611": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:40.244374+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161612": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:40.458032+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161613": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:40.695997+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161614": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:40.937287+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161615": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:41.128862+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161616": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:41.349001+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161617": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:41.566764+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161618": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:41.809225+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161619": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:42.025864+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161620": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:42.286158+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161621": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:42.502590+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161622": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:42.728339+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161623": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:43.941260+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161624": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:44.159250+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161625": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:45.376948+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161626": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:45.589467+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161627": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:45.820980+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161628": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:46.016699+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161629": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:46.213410+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161630": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:46.452258+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161631": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:46.666590+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161632": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:46.887739+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161633": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:47.097254+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161634": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:47.301280+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161635": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:48.522090+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161636": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:48.720989+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161637": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:48.925924+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161638": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:49.119977+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161639": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:49.296656+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161640": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:49.523534+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161641": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:49.744283+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161642": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:49.972821+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161643": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:50.153770+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161644": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:50.353970+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161645": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:50.555246+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161646": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:50.769120+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161647": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:50.999626+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161648": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:51.216103+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161649": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:51.455510+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "161650": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:51.673678+00:00",
+    "expansion": "The Burning Lands"
+  },
+  "162961": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:51.899035+00:00",
+    "expansion": null
+  },
+  "163167": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:52.111987+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163168": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:52.360796+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163179": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:52.595467+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163369": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:52.821145+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163370": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:56.145330+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163571": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:56.356632+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163572": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:56.582029+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164474": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:56.835734+00:00",
+    "expansion": null
+  },
+  "164477": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:19:57.038087+00:00",
+    "expansion": null
+  },
+  "164521": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:57.264274+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164522": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:57.488462+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164523": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:57.702350+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164524": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:57.892215+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164525": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:58.108203+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164526": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:58.339796+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164527": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:58.559979+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164528": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:58.791941+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164529": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:59.013548+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164530": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:59.224313+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164531": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:59.430176+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164532": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:59.667468+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164533": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:19:59.895090+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164534": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:00.110305+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164535": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:00.342517+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164536": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:00.551016+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164537": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:00.795800+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164538": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:00.989507+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164539": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:01.213804+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164540": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:01.442610+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164541": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:01.647867+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164542": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:01.857123+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164543": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:02.071249+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164544": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:02.295150+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164545": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:03.493935+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164546": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:03.705769+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164547": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:03.920067+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164548": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:04.137796+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164549": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:04.359835+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164550": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:04.569526+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "165166": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:04.817728+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165167": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:05.034015+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165168": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:05.219344+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165169": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:05.437875+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165189": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:05.644767+00:00",
+    "expansion": null
+  },
+  "165190": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:05.869603+00:00",
+    "expansion": null
+  },
+  "165369": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:06.080629+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165370": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:06.293524+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165371": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:06.493035+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165571": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:06.693943+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165573": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:06.914508+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "166660": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:07.125030+00:00",
+    "expansion": null
+  },
+  "166685": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:07.346927+00:00",
+    "expansion": null
+  },
+  "166897": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:08.568910+00:00",
+    "expansion": null
+  },
+  "167167": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:08.791708+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167169": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:08.983388+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167179": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:09.213762+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167183": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:09.426457+00:00",
+    "expansion": null
+  },
+  "167185": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:09.627923+00:00",
+    "expansion": null
+  },
+  "167371": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:09.842095+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167573": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:10.052139+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "168066": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:10.274565+00:00",
+    "expansion": null
+  },
+  "168068": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:10.486871+00:00",
+    "expansion": null
+  },
+  "168075": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:10.705864+00:00",
+    "expansion": null
+  },
+  "168076": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:10.932758+00:00",
+    "expansion": null
+  },
+  "168077": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:11.161804+00:00",
+    "expansion": null
+  },
+  "168078": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:11.375925+00:00",
+    "expansion": null
+  },
+  "168079": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:11.600733+00:00",
+    "expansion": null
+  },
+  "168080": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:11.815406+00:00",
+    "expansion": null
+  },
+  "168081": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:12.043895+00:00",
+    "expansion": null
+  },
+  "168084": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:12.251803+00:00",
+    "expansion": null
+  },
+  "168094": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:12.460309+00:00",
+    "expansion": null
+  },
+  "168096": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:12.664739+00:00",
+    "expansion": null
+  },
+  "168097": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:12.894366+00:00",
+    "expansion": null
+  },
+  "169183": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:13.118856+00:00",
+    "expansion": null
+  },
+  "169184": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:13.332793+00:00",
+    "expansion": null
+  },
+  "169185": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:13.520611+00:00",
+    "expansion": null
+  },
+  "169186": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:13.726310+00:00",
+    "expansion": null
+  },
+  "169187": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:13.921519+00:00",
+    "expansion": null
+  },
+  "169188": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:14.147502+00:00",
+    "expansion": null
+  },
+  "169189": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:14.329323+00:00",
+    "expansion": null
+  },
+  "169190": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:14.518247+00:00",
+    "expansion": null
+  },
+  "169368": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:14.727161+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169570": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:14.919344+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169573": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:15.111194+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169771": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:15.313737+00:00",
+    "expansion": null
+  },
+  "169772": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:15.513539+00:00",
+    "expansion": null
+  },
+  "169773": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:15.700309+00:00",
+    "expansion": null
+  },
+  "169774": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:15.895069+00:00",
+    "expansion": null
+  },
+  "169775": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:16.093830+00:00",
+    "expansion": null
+  },
+  "169776": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:16.296732+00:00",
+    "expansion": null
+  },
+  "169777": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:16.506366+00:00",
+    "expansion": null
+  },
+  "169778": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:16.725056+00:00",
+    "expansion": null
+  },
+  "169779": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:16.927309+00:00",
+    "expansion": null
+  },
+  "169780": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:17.126307+00:00",
+    "expansion": null
+  },
+  "169781": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:17.319690+00:00",
+    "expansion": null
+  },
+  "169782": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:17.507914+00:00",
+    "expansion": null
+  },
+  "169783": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:17.710129+00:00",
+    "expansion": null
+  },
+  "169784": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:17.909048+00:00",
+    "expansion": null
+  },
+  "169785": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:18.123407+00:00",
+    "expansion": null
+  },
+  "169786": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:18.328508+00:00",
+    "expansion": null
+  },
+  "169787": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:18.534561+00:00",
+    "expansion": null
+  },
+  "169788": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:18.752138+00:00",
+    "expansion": null
+  },
+  "169789": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:18.961305+00:00",
+    "expansion": null
+  },
+  "169790": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:19.194119+00:00",
+    "expansion": null
+  },
+  "169791": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:19.413753+00:00",
+    "expansion": null
+  },
+  "169792": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:19.639020+00:00",
+    "expansion": null
+  },
+  "169793": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:19.861564+00:00",
+    "expansion": null
+  },
+  "169794": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:20.075971+00:00",
+    "expansion": null
+  },
+  "169795": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:20.299260+00:00",
+    "expansion": null
+  },
+  "169796": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:20.524102+00:00",
+    "expansion": null
+  },
+  "169797": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:20.755205+00:00",
+    "expansion": null
+  },
+  "169798": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:20.958576+00:00",
+    "expansion": null
+  },
+  "169799": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:21.157450+00:00",
+    "expansion": null
+  },
+  "169800": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:21.378220+00:00",
+    "expansion": null
+  },
+  "169915": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:21.593371+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "170785": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:21.807914+00:00",
+    "expansion": null
+  },
+  "170786": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:22.046772+00:00",
+    "expansion": null
+  },
+  "170787": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:22.261599+00:00",
+    "expansion": null
+  },
+  "170788": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:22.450745+00:00",
+    "expansion": null
+  },
+  "170789": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:22.701185+00:00",
+    "expansion": null
+  },
+  "170790": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:22.897213+00:00",
+    "expansion": null
+  },
+  "170791": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:23.110547+00:00",
+    "expansion": null
+  },
+  "170801": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:23.318225+00:00",
+    "expansion": null
+  },
+  "170802": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:23.538445+00:00",
+    "expansion": null
+  },
+  "170803": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:23.740345+00:00",
+    "expansion": null
+  },
+  "170804": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:23.963907+00:00",
+    "expansion": null
+  },
+  "170805": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:24.160675+00:00",
+    "expansion": null
+  },
+  "170806": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:24.363995+00:00",
+    "expansion": null
+  },
+  "170807": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:24.590841+00:00",
+    "expansion": null
+  },
+  "170808": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:24.822378+00:00",
+    "expansion": null
+  },
+  "170809": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:25.013538+00:00",
+    "expansion": null
+  },
+  "170814": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:25.218932+00:00",
+    "expansion": null
+  },
+  "170815": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:25.457852+00:00",
+    "expansion": null
+  },
+  "170816": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:25.678544+00:00",
+    "expansion": null
+  },
+  "170817": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:25.893655+00:00",
+    "expansion": null
+  },
+  "171169": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:26.101120+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171179": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:26.318819+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171183": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:26.524117+00:00",
+    "expansion": null
+  },
+  "171185": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:26.735043+00:00",
+    "expansion": null
+  },
+  "171189": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:26.982520+00:00",
+    "expansion": null
+  },
+  "171368": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:27.209978+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171369": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:27.444532+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171370": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:27.645182+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171371": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:27.875648+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171533": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:28.079761+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171538": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:28.295887+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171611": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:28.533247+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171612": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:28.754917+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171614": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:28.969140+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171723": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:29.186462+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171808": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:29.402860+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171809": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:29.590717+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171810": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:29.824505+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171811": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:30.055246+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171813": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:30.268566+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171815": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:30.473400+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171819": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:30.700392+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171847": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:30.953314+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171878": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:31.183444+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171915": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:31.403683+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171916": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:31.619592+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171918": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:31.823618+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171935": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:32.034633+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171936": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:32.232561+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171939": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:32.459838+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171943": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:32.671937+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "172540": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:32.868210+00:00",
+    "expansion": null
+  },
+  "172541": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:33.071658+00:00",
+    "expansion": null
+  },
+  "172896": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:33.274137+00:00",
+    "expansion": null
+  },
+  "172982": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:33.490959+00:00",
+    "expansion": null
+  },
+  "173166": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:33.706168+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173168": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:33.930658+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173169": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:34.161325+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173368": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:34.371194+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173371": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:34.588202+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173456": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:34.825406+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173501": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:35.025869+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173516": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:35.252914+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173534": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:35.465319+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173540": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:35.683499+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173571": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:35.893691+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173608": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:36.118926+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173612": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:36.317491+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173616": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:36.545936+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173620": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:36.762360+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173647": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:36.986913+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173651": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:37.194551+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173653": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:37.393331+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173673": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:37.624543+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173674": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:37.823827+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173706": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:38.048856+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173708": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:38.312311+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173714": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:38.522294+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173715": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:38.739572+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173717": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:38.949066+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173719": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:39.203943+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173722": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:39.427800+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173724": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:39.651548+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173725": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:39.880171+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173732": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:40.103182+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173734": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:40.310340+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173736": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:40.531286+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173738": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:40.742686+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173743": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:40.955591+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173755": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:41.145644+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173803": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:41.375455+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173813": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:41.583868+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173814": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:41.809070+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173815": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:42.042713+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173817": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:42.273457+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173818": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:42.514223+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173821": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:42.739075+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173848": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:42.953790+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173849": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:43.152247+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173861": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:43.358258+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173870": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:43.579342+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173903": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:43.812825+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173910": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:44.053509+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173912": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:44.257639+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173914": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:44.455279+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173919": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:44.675877+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173923": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:44.891355+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173925": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:45.114661+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173929": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:45.333818+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173932": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:45.529061+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173934": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:45.757499+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173937": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:45.975120+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173940": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:46.191911+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173964": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:46.417741+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173970": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:46.634926+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "175077": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:46.837189+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175166": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:47.023607+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175179": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:47.226772+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175183": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:47.450054+00:00",
+    "expansion": null
+  },
+  "175187": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:47.637946+00:00",
+    "expansion": null
+  },
+  "175189": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:20:47.852399+00:00",
+    "expansion": null
+  },
+  "175275": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:48.066648+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175368": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:48.284697+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175369": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:48.479507+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175571": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:48.703114+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175601": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:48.923643+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175602": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:49.109526+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175603": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:49.316161+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175604": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:49.539374+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175605": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:49.764104+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175606": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:49.965989+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175607": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:50.197952+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175608": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:50.422096+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175609": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:50.645292+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175610": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:50.863118+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175611": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:51.097030+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175612": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:51.307269+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175613": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:51.542666+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175614": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:51.766563+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175615": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:51.961874+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175616": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:52.152587+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175617": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:52.381573+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175618": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:52.579495+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175619": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:52.787364+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175620": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:53.006343+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175621": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:53.212301+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175622": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:53.442459+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175623": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:53.650014+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175624": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:53.884950+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175625": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:54.093627+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175626": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:54.286431+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175627": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:54.503178+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175628": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:54.708608+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175629": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:54.984825+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175630": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:55.199670+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175631": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:55.395290+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175632": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:55.652774+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175633": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:55.860604+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175634": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:56.065568+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175635": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:56.267210+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175636": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:56.484205+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175637": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:56.701627+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175638": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:56.920260+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175639": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:57.143164+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175640": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:57.344774+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175641": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:57.540558+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175642": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:57.748768+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175643": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:57.969761+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175644": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:58.173603+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175645": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:58.392255+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175646": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:58.634842+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175647": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:58.854294+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175648": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:59.088713+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175649": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:59.309582+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175650": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:59.525201+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175651": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:59.756335+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175652": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:20:59.982848+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175653": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:00.172050+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175654": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:00.380168+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175655": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:00.605583+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175656": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:00.823842+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175657": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:01.028360+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175658": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:01.221974+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175659": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:01.440643+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175660": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:01.704315+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175661": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:01.919569+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175662": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:02.110999+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175663": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:02.348501+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175664": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:02.570039+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175665": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:02.800400+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175666": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:02.993397+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175667": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:03.186149+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175668": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:03.381667+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175669": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:03.616870+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175670": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:03.825074+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175671": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:04.029533+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175672": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:04.270577+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175673": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:04.457272+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175674": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:04.667143+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175675": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:04.875678+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175676": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:05.090384+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175677": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:05.306785+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175678": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:05.516016+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175679": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:05.730139+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175680": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:05.948479+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175681": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:06.166062+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175682": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:06.399396+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175683": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:06.619465+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175684": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:06.810047+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175685": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:07.026873+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175686": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:07.228019+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175687": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:07.441306+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175688": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:07.685112+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175689": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:07.903038+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175690": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:08.122500+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175691": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:08.340562+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175692": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:08.570854+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175693": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:08.786542+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175694": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:09.003321+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175695": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:09.211038+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175696": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:09.426245+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175697": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:09.646540+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175698": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:09.868022+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175699": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:10.068731+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175700": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:10.265098+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175701": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:10.503965+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175702": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:10.716323+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175703": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:10.922595+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175704": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:11.170411+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175705": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:11.358528+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175706": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:11.583197+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175707": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:11.811025+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175708": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:12.027273+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175709": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:12.249429+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175710": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:12.462698+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175711": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:12.682153+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175712": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:12.889776+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175713": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:13.080859+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175714": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:13.270309+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175715": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:13.486865+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175716": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:13.688660+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175717": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:13.910922+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175718": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:14.114179+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175719": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:14.353688+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175720": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:14.564087+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175721": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:14.796718+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175722": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:14.979492+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175723": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:15.178288+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175724": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:16.411580+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175725": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:16.615801+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175726": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:16.806606+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175727": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:17.014500+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175728": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:17.237010+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175729": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:17.459897+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175730": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:17.676045+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175731": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:17.882616+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175732": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:18.089420+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175733": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:18.312397+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175734": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:18.507591+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175735": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:18.733580+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175736": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:18.953303+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175737": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:19.149423+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175738": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:19.340893+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175739": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:19.538626+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175740": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:19.757645+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175741": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:19.975491+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175742": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:20.184494+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175743": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:20.383063+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175744": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:20.581333+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175745": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:20.780475+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175746": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:21.036506+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175747": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:21.272636+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175748": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:21.494230+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175749": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:21.683232+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175750": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:22.909606+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175751": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:23.112732+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175752": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:23.322458+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175753": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:23.539468+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175754": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:23.758769+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175755": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:23.969342+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175756": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:24.188528+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175757": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:24.411570+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175758": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:24.660862+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175759": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:24.875805+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175760": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:25.063815+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175761": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:25.285792+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175762": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:25.525749+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175763": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:25.742611+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175764": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:25.975113+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175765": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:26.232107+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175766": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:26.447671+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175767": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:26.692133+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175801": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:26.897742+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175802": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:27.126848+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175803": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:27.358769+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175804": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:27.580126+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175805": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:27.783013+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175806": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:28.049497+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175807": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:28.258515+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175808": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:28.506660+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175809": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:28.714757+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175810": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:28.930697+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175811": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:29.164583+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175812": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:29.373664+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175813": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:29.604055+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175814": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:29.837551+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175815": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:30.045437+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175816": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:30.260494+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175817": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:30.485339+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175818": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:30.701817+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175819": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:30.928774+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175820": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:31.137207+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175821": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:31.348836+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175822": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:31.567351+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175823": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:31.839648+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175824": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:32.057554+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175825": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:32.269291+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175826": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:32.516037+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175827": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:32.736890+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175828": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:32.967308+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175829": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:33.209432+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175830": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:33.434670+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175831": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:33.652221+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175832": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:33.850035+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175833": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:34.055324+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175834": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:34.302755+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175835": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:34.502302+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175836": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:34.705786+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175837": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:34.913404+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175838": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:35.117772+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175839": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:35.339868+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175840": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:35.559608+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175841": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:35.775924+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175842": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:35.975128+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175843": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:36.191924+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175844": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:36.415088+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175845": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:36.651627+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175846": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:36.866581+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175847": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:37.079049+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175848": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:37.299973+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175849": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:37.516123+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175850": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:37.728994+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175851": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:37.981206+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175852": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:38.202347+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175853": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:38.398306+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175854": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:38.598968+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175855": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:38.848801+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175856": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:39.083158+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175857": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:39.337882+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175858": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:39.557758+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175859": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:39.747113+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175860": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:39.951139+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175861": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:40.146593+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175862": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:40.348808+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175863": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:40.556109+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175864": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:40.770909+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175865": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:40.979224+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175866": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:41.173364+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175867": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:41.409941+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175868": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:41.624446+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175869": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:41.831492+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175870": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:42.047451+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175871": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:42.308780+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175872": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:42.512441+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175873": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:42.722970+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175874": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:42.940328+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175875": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:43.141013+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175876": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:43.363818+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175877": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:43.568153+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175878": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:43.775878+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175879": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:43.991854+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175880": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:44.199663+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175881": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:44.441928+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175882": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:44.646086+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175883": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:44.848393+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175884": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:45.063796+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175885": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:45.302256+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175886": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:45.554649+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175887": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:45.810070+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175888": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:46.077508+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175889": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:46.343127+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175890": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:46.545918+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175891": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:46.770895+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175892": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:46.980966+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175893": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:47.197504+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175894": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:47.434440+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175895": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:47.645403+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175896": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:47.885749+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175897": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:48.078458+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175898": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:48.270619+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175899": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:48.493357+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175900": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:48.705660+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175901": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:48.931070+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175902": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:49.141658+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175903": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:49.337173+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175904": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:49.527912+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175905": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:49.746508+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175906": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:49.948983+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175907": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:50.140708+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175908": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:50.338754+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175909": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:50.553582+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175910": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:50.777179+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175911": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:50.973865+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175912": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:51.195342+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175913": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:51.414332+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175914": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:51.608758+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175915": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:51.812792+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175916": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:52.009302+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175917": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:52.213005+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175918": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:52.401462+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175919": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:52.599329+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175920": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:52.809618+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175921": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:53.018763+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175922": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:53.208073+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175923": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:53.418208+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175924": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:53.654788+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175925": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:53.881135+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175926": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:54.093177+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175927": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:54.305917+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175928": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:54.524395+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175929": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:54.712357+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175930": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:54.934056+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175931": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:55.137368+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175932": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:55.355847+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175933": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:55.549568+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175934": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:55.761611+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175935": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:55.958936+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175936": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:56.163365+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175937": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:56.354319+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175938": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:56.572448+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175939": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:56.794372+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175940": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:57.068915+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175943": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:57.265086+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175947": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:57.473612+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175949": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:57.691943+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175950": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:57.897502+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175954": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:58.095584+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175955": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:58.330053+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175964": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:58.560295+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175965": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:58.764720+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175966": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:58.988558+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175967": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:59.191514+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175968": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:59.416520+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175969": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:59.626051+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175970": {
+    "ok": true,
+    "fetched_at": "2026-09-14T19:21:59.826554+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175988": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:00.030919+00:00",
+    "expansion": null
+  },
+  "175989": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:00.231718+00:00",
+    "expansion": null
+  },
+  "175990": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:01.466086+00:00",
+    "expansion": null
+  },
+  "175991": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:01.689071+00:00",
+    "expansion": null
+  },
+  "175992": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:01.917952+00:00",
+    "expansion": null
+  },
+  "175993": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:03.120204+00:00",
+    "expansion": null
+  },
+  "175994": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:03.324130+00:00",
+    "expansion": null
+  },
+  "177663": {
+    "ok": false,
+    "fetched_at": "2026-09-14T19:22:03.531674+00:00",
+    "expansion": null
   }
 }

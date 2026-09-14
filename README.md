@@ -28,18 +28,29 @@ EQ Resource / Raidloot catalog JSON and item icons live under repo [`cache/`](ca
 
 Generates **only contact EQ Resource / Raidloot on a cache miss** (unknown item, incomplete catalog row, or missing icon PNG). Warm files are reused as-is.
 
-- **JSON catalogs:** `cache/*.json` (augs, raid BiS, sockets, etc.)
+- **JSON catalogs:** `cache/*.json` (augs, raid BiS, sockets, item details, etc.)
 - **Icons:** `cache/item_icons/{id}.png` (and `expac-*.jpg`) — embedded into BiS paper dolls and item cards
 
-When a generate fetches something new, it updates the matching file under `cache/`. To ship that to GitHub (and the next Render deploy):
+### One-shot warm on your PC (recommended)
 
-1. Run a generate that needs the new data (locally is easiest).
-2. Commit the updated `cache/*.json` and any new `cache/item_icons/*` files and push.
-3. Redeploy (or let Render auto-deploy from `main`).
+Run this **locally once** (not on Render). It force-refreshes shared catalogs and hydrates item pages (stats/inspect), sockets, classes, gear tiers, expansions, and icons into `cache/`. Then commit and push so GitHub/Render ship the richer cache.
+
+```bash
+cd EQGM_Web
+# Windows PowerShell:
+$env:PYTHONPATH = ".;src"
+py -3 scripts/warm_eqresource_cache.py
+# Optional: also hydrate item IDs from inventory dumps (classes/gear you do not play)
+py -3 scripts/warm_eqresource_cache.py "C:\path\to\Examples"
+
+git add cache/
+git commit -m "Warm EQ Resource cache for fewer live misses."
+git push
+```
 
 Runtime files that should not be committed (`settings.json`, `last_report.log`) are gitignored under `cache/`.
 
-On Render’s free plan the disk is still ephemeral: growth while the instance is awake helps, but only committed `cache/` files survive sleep/redeploy.
+On Render’s free plan the disk is still ephemeral: growth while the instance is awake helps, but only committed `cache/` files survive sleep/redeploy. After deploy, generates still fill true misses into `cache/` locally if you run the app on your PC—commit those updates the same way.
 
 ## Deploy on Render (free)
 
