@@ -1,0 +1,75 @@
+{
+  "tier_code": "ANI27",
+  "items": [
+    {
+      "name": "Cape of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 172542
+    },
+    {
+      "name": "Cloak of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 172541
+    },
+    {
+      "name": "Devotee's Assaulting Magic of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138887
+    },
+    {
+      "name": "Devotee's Attacker of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138886
+    },
+    {
+      "name": "Devotee's Casting Magic of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138891
+    },
+    {
+      "name": "Devotee's Defending Magic of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138888
+    },
+    {
+      "name": "Devotee's Defense of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138885
+    },
+    {
+      "name": "Devotee's Dorsal Defense of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138890
+    },
+    {
+      "name": "Devotee's Enhancement of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138895
+    },
+    {
+      "name": "Devotee's Protecting Magic of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138892
+    },
+    {
+      "name": "Devotee's Soothing of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138893
+    },
+    {
+      "name": "Devotee's Ventral Defense of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138889
+    },
+    {
+      "name": "Devotee's Warding Magic of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 138894
+    },
+    {
+      "name": "Mantle of Enduring Harmony",
+      "tier_code": "ANI27",
+      "item_id": 172540
+    }
+  ]
+}

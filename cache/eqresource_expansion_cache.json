@@ -1,0 +1,382 @@
+{
+  "151936": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:38.151978+00:00",
+    "expansion": null
+  },
+  "165572": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:38.364617+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "166661": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:38.578500+00:00",
+    "expansion": null
+  },
+  "166898": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:38.786257+00:00",
+    "expansion": null
+  },
+  "167168": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:38.989619+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167369": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:39.201580+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167370": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:39.422182+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167571": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:39.616245+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167572": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:39.833174+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "169167": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:40.023935+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169168": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:40.242473+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169169": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:40.439983+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169370": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:40.657636+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169371": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:40.869122+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169571": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:41.079633+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169572": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:41.289768+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "171167": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:41.517204+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171168": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:41.764602+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171570": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:41.974380+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171571": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:42.179078+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171572": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:42.376898+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171573": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:42.598524+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "172958": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:42.800334+00:00",
+    "expansion": null
+  },
+  "173167": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:43.012888+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173370": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:43.252161+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173574": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:43.489613+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "175168": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:43.704567+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175169": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:43.926102+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175370": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:44.136064+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175371": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:44.323844+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175573": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:44.546567+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175574": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:44.797363+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "151234": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:49.451613+00:00",
+    "expansion": null
+  },
+  "151793": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:49.637941+00:00",
+    "expansion": null
+  },
+  "164196": {
+    "ok": false,
+    "fetched_at": "2026-09-13T20:03:49.871638+00:00",
+    "expansion": null
+  },
+  "171172": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:50.080299+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171174": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:50.288948+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171178": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:51.483283+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171376": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:51.696566+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171380": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:51.893077+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "173172": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:52.099589+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173174": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:52.304443+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173178": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:52.527944+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173374": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:52.765451+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173377": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:52.964448+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173579": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:53.192884+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "175172": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:53.399526+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175174": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:53.596306+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175374": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:53.813673+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175376": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:54.010892+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175380": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:54.234450+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175579": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:03:54.432529+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "163995": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:47:53.402747+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "173176": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:47:53.596979+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173378": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:47:53.790110+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173580": {
+    "ok": true,
+    "fetched_at": "2026-09-13T20:47:53.971416+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "111506": {
+    "ok": false,
+    "fetched_at": "2026-09-14T01:51:14.701257+00:00",
+    "expansion": null
+  },
+  "169369": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:14.896019+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "173572": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:15.111874+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "169178": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:17.371998+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169580": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:17.570543+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "171176": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:17.760426+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171580": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:17.957689+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "172962": {
+    "ok": false,
+    "fetched_at": "2026-09-14T01:51:18.162849+00:00",
+    "expansion": null
+  },
+  "173380": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:18.385846+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173581": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:18.578182+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "175378": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:18.789904+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175577": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:19.062323+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175582": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:51:19.280492+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "173369": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:52:23.108848+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173573": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:52:23.322971+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "175167": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:52:23.533972+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175572": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:52:23.725406+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "153972": {
+    "ok": false,
+    "fetched_at": "2026-09-14T01:52:24.742565+00:00",
+    "expansion": null
+  },
+  "175177": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:52:24.930985+00:00",
+    "expansion": "Shattering of Ro"
+  },
+  "175379": {
+    "ok": true,
+    "fetched_at": "2026-09-14T01:52:25.131716+00:00",
+    "expansion": "Shattering of Ro"
+  }
+}

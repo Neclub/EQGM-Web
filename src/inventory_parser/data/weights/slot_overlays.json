@@ -1,0 +1,23 @@
+{
+  "mode": "raid",
+  "overlays": [
+    {
+      "id": "feet_high_ac",
+      "slots": ["Feet"],
+      "classes": ["WAR", "MNK", "RNG", "BST", "BRD"],
+      "modifiers": {
+        "ac": 80.0
+      }
+    },
+    {
+      "id": "shield_secondary",
+      "slots": ["Secondary"],
+      "classes": null,
+      "require_shield": true,
+      "modifiers": {
+        "ac": 40.0,
+        "hdex": -6.0
+      }
+    }
+  ]
+}

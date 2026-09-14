@@ -1,0 +1,2810 @@
+{
+  "109558": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.593410+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "52023": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.608985+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [],
+    "extra_stats": {}
+  },
+  "109559": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.624188+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109560": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.633660+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109561": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.642942+00:00",
+    "lore_group": "Whispering Selenelion Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109562": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.664446+00:00",
+    "lore_group": "Whispering Selenelion Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109563": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.810914+00:00",
+    "lore_group": "Whispering Selenelion Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109564": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.883583+00:00",
+    "lore_group": "Whispering Selenelion Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109565": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.895996+00:00",
+    "lore_group": "Whispering Selenelion Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109566": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:12.896417+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109570": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:13.052859+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "109573": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:13.224669+00:00",
+    "lore_group": "Blazing Jubilation Defense",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "109574": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:13.400889+00:00",
+    "lore_group": "Blazing Jubilation Defense",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "109567": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:13.793827+00:00",
+    "lore_group": "Whispering Selenelion Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 270,
+      "spell_damage": 9,
+      "heal_amount": 9,
+      "clairvoyance": 13
+    }
+  },
+  "109568": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:13.809841+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 750,
+      "spell_damage": 63,
+      "heal_amount": 63,
+      "clairvoyance": 94
+    }
+  },
+  "109577": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:13.991131+00:00",
+    "lore_group": "Blazing Jubilation Warding",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "109571": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:14.065276+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "109575": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:14.560631+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "109580": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:14.730811+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [],
+    "extra_stats": {
+      "atk": 10
+    }
+  },
+  "138885": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:14.861503+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "109576": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:14.954285+00:00",
+    "lore_group": "Blazing Jubilation Casting",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "138886": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.017222+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138887": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.127141+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138888": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.164130+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138889": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.296599+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138891": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.441504+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138892": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.593101+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138893": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.737567+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "138894": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.884910+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "109569": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:15.987101+00:00",
+    "lore_group": "Blazing Jubilation Combatant",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "138895": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:16.049811+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1611,
+      "spell_damage": 110,
+      "heal_amount": 110,
+      "clairvoyance": 157
+    }
+  },
+  "109572": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:16.129020+00:00",
+    "lore_group": "Blazing Jubilation Skill",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "151489": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:16.266818+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 911,
+      "spell_damage": 89,
+      "heal_amount": 89,
+      "clairvoyance": 115
+    }
+  },
+  "109578": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.159957+00:00",
+    "lore_group": "Blazing Jubilation Warding",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 307,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "151487": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.199714+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1235,
+      "spell_damage": 34,
+      "heal_amount": 34,
+      "clairvoyance": 45
+    }
+  },
+  "151488": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.228398+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1075,
+      "spell_damage": 61,
+      "heal_amount": 61,
+      "clairvoyance": 80
+    }
+  },
+  "109579": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.258446+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1050,
+      "spell_damage": 73,
+      "heal_amount": 73,
+      "clairvoyance": 105
+    }
+  },
+  "151491": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.334480+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1427,
+      "spell_damage": 37,
+      "heal_amount": 37,
+      "clairvoyance": 52
+    }
+  },
+  "153881": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.476687+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153882": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.654128+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153883": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.822728+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153884": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:17.974114+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153885": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:18.131994+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153886": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:18.277543+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "151493": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:18.412578+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 977,
+      "spell_damage": 90,
+      "heal_amount": 90,
+      "clairvoyance": 118
+    }
+  },
+  "153887": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:19.460818+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "151490": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:19.508388+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 675,
+      "spell_damage": 61,
+      "heal_amount": 61,
+      "clairvoyance": 80
+    }
+  },
+  "153888": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:19.591562+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "151492": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.402787+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1159,
+      "spell_damage": 63,
+      "heal_amount": 63,
+      "clairvoyance": 84
+    }
+  },
+  "151494": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.452498+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 724,
+      "spell_damage": 63,
+      "heal_amount": 63,
+      "clairvoyance": 84
+    }
+  },
+  "153892": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.547772+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153889": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.626629+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153893": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.648831+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153890": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.674031+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 313,
+      "spell_damage": 10,
+      "heal_amount": 10,
+      "clairvoyance": 15
+    }
+  },
+  "153894": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.703634+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153895": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.776458+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153900": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:20.917775+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153896": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:21.842719+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153897": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:21.875966+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153898": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:21.913171+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 356,
+      "spell_damage": 12,
+      "heal_amount": 12,
+      "clairvoyance": 17
+    }
+  },
+  "153902": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.086067+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1218,
+      "spell_damage": 85,
+      "heal_amount": 85,
+      "clairvoyance": 122
+    }
+  },
+  "161611": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.097587+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 410,
+      "spell_damage": 16,
+      "heal_amount": 16,
+      "clairvoyance": 20
+    }
+  },
+  "161613": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.138846+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 545,
+      "spell_damage": 48,
+      "heal_amount": 48,
+      "clairvoyance": 60
+    }
+  },
+  "161612": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.160216+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 475,
+      "spell_damage": 32,
+      "heal_amount": 32,
+      "clairvoyance": 40
+    }
+  },
+  "161614": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.267876+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 305,
+      "spell_damage": 32,
+      "heal_amount": 32,
+      "clairvoyance": 40
+    }
+  },
+  "161616": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.282072+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 570,
+      "spell_damage": 34,
+      "heal_amount": 34,
+      "clairvoyance": 44
+    }
+  },
+  "161618": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.430736+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 34,
+      "heal_amount": 34,
+      "clairvoyance": 44
+    }
+  },
+  "161620": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.593191+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "153891": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.775323+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 870,
+      "spell_damage": 73,
+      "heal_amount": 73,
+      "clairvoyance": 109
+    }
+  },
+  "161621": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.834901+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161622": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.952293+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161623": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:22.987125+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161624": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:23.139744+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161626": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:23.297354+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161619": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:23.427768+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161628": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:23.600471+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161627": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:24.502838+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161630": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:24.662113+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161629": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:24.766496+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161631": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:24.824907+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161632": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:24.935926+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161633": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:24.980691+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "161634": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.077395+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 500,
+      "spell_damage": 42,
+      "heal_amount": 42,
+      "clairvoyance": 63
+    }
+  },
+  "161636": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.225847+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161615": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.338532+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 655,
+      "spell_damage": 18,
+      "heal_amount": 18,
+      "clairvoyance": 24
+    }
+  },
+  "161637": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.398933+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161638": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.482946+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161640": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.648243+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161641": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:25.803587+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161635": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:26.153648+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161643": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:26.300867+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161644": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:26.458701+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161639": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:26.581699+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161645": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:26.593889+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161642": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:26.968591+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161648": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:27.126168+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161649": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:27.277861+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "161650": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:27.436521+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 700,
+      "spell_damage": 49,
+      "heal_amount": 49,
+      "clairvoyance": 70
+    }
+  },
+  "161646": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:27.730415+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164522": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:28.881696+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 618,
+      "spell_damage": 35,
+      "heal_amount": 35,
+      "clairvoyance": 46
+    }
+  },
+  "161647": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:29.766799+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164524": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:29.930884+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 388,
+      "spell_damage": 35,
+      "heal_amount": 35,
+      "clairvoyance": 46
+    }
+  },
+  "164523": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.046348+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 455,
+      "spell_damage": 51,
+      "heal_amount": 51,
+      "clairvoyance": 66
+    }
+  },
+  "164525": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.075885+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1023,
+      "spell_damage": 21,
+      "heal_amount": 21,
+      "clairvoyance": 30
+    }
+  },
+  "164526": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.221718+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 666,
+      "spell_damage": 36,
+      "heal_amount": 36,
+      "clairvoyance": 48
+    }
+  },
+  "164528": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.370151+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 416,
+      "spell_damage": 36,
+      "heal_amount": 36,
+      "clairvoyance": 48
+    }
+  },
+  "164521": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.642139+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 778,
+      "spell_damage": 19,
+      "heal_amount": 19,
+      "clairvoyance": 26
+    }
+  },
+  "164530": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.816730+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164531": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:30.981249+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164532": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:31.136395+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164533": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:31.291970+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164529": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:31.517071+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164535": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:31.684287+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164536": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:31.851719+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164537": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:31.995489+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164534": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:32.472254+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164539": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:32.632397+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 500,
+      "spell_damage": 42,
+      "heal_amount": 42,
+      "clairvoyance": 63
+    }
+  },
+  "164540": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:32.779972+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164541": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:32.954985+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164542": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:33.101516+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164527": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:33.275816+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 475,
+      "spell_damage": 52,
+      "heal_amount": 52,
+      "clairvoyance": 68
+    }
+  },
+  "164544": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:33.440739+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164543": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:34.270069+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164546": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:34.424710+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164547": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:34.567844+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164538": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:35.180531+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "164549": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:35.357402+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "164550": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:35.540193+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 700,
+      "spell_damage": 49,
+      "heal_amount": 49,
+      "clairvoyance": 70
+    }
+  },
+  "169183": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:35.687757+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1167,
+      "spell_damage": 29,
+      "heal_amount": 29,
+      "clairvoyance": 39
+    }
+  },
+  "138890": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:07:11.407170+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 470,
+      "spell_damage": 14,
+      "heal_amount": 14,
+      "clairvoyance": 19
+    }
+  },
+  "169185": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:36.414964+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 683,
+      "spell_damage": 77,
+      "heal_amount": 77,
+      "clairvoyance": 99
+    }
+  },
+  "169186": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:36.572088+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 582,
+      "spell_damage": 53,
+      "heal_amount": 53,
+      "clairvoyance": 69
+    }
+  },
+  "164545": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:36.617601+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "169188": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:36.761241+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 999,
+      "spell_damage": 54,
+      "heal_amount": 54,
+      "clairvoyance": 72
+    }
+  },
+  "169189": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:36.920312+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 713,
+      "spell_damage": 78,
+      "heal_amount": 78,
+      "clairvoyance": 102
+    }
+  },
+  "169190": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.089165+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 624,
+      "spell_damage": 54,
+      "heal_amount": 54,
+      "clairvoyance": 72
+    }
+  },
+  "169771": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.241845+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1420,
+      "spell_damage": 40,
+      "heal_amount": 40,
+      "clairvoyance": 52
+    }
+  },
+  "161617": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.359205+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 485,
+      "spell_damage": 50,
+      "heal_amount": 50,
+      "clairvoyance": 64
+    }
+  },
+  "169772": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.389053+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1236,
+      "spell_damage": 70,
+      "heal_amount": 70,
+      "clairvoyance": 93
+    }
+  },
+  "169773": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.497538+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1048,
+      "spell_damage": 103,
+      "heal_amount": 103,
+      "clairvoyance": 132
+    }
+  },
+  "169775": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.650512+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1641,
+      "spell_damage": 43,
+      "heal_amount": 43,
+      "clairvoyance": 60
+    }
+  },
+  "169187": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.722492+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1535,
+      "spell_damage": 32,
+      "heal_amount": 32,
+      "clairvoyance": 45
+    }
+  },
+  "169776": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.788996+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1333,
+      "spell_damage": 74,
+      "heal_amount": 74,
+      "clairvoyance": 97
+    }
+  },
+  "169777": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:37.902811+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1124,
+      "spell_damage": 104,
+      "heal_amount": 104,
+      "clairvoyance": 136
+    }
+  },
+  "169779": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:38.039087+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "161625": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:38.175445+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 180,
+      "spell_damage": 6,
+      "heal_amount": 6,
+      "clairvoyance": 9
+    }
+  },
+  "169780": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:38.186559+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169774": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:38.536012+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 776,
+      "spell_damage": 70,
+      "heal_amount": 70,
+      "clairvoyance": 92
+    }
+  },
+  "169783": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:38.688539+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169778": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:38.959469+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 833,
+      "spell_damage": 74,
+      "heal_amount": 74,
+      "clairvoyance": 97
+    }
+  },
+  "169785": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.126668+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169786": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.296485+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169781": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.331087+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169787": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.462823+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169788": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.474608+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169789": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.600981+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 1001,
+      "spell_damage": 84,
+      "heal_amount": 84,
+      "clairvoyance": 125
+    }
+  },
+  "169791": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.768152+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169792": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:39.927483+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169790": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:40.639132+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169794": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:40.815504+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169795": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:40.973316+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169793": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:41.089161+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169797": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:41.258848+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169782": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:41.371828+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  },
+  "169798": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:41.399580+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169799": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:41.517864+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "164548": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:41.775468+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 205,
+      "spell_damage": 7,
+      "heal_amount": 7,
+      "clairvoyance": 10
+    }
+  },
+  "169796": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:42.160334+00:00",
+    "lore_group": "Devotee",
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 409,
+      "spell_damage": 13,
+      "heal_amount": 13,
+      "clairvoyance": 18
+    }
+  },
+  "169800": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:42.582263+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      19
+    ],
+    "extra_stats": {
+      "mana": 1401,
+      "spell_damage": 98,
+      "heal_amount": 98,
+      "clairvoyance": 140
+    }
+  },
+  "169184": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:42.884554+00:00",
+    "lore_group": null,
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 927,
+      "spell_damage": 53,
+      "heal_amount": 53,
+      "clairvoyance": 69
+    }
+  },
+  "169784": {
+    "ok": true,
+    "stats_v": 2,
+    "fetched_at": "2026-09-13T20:04:45.929105+00:00",
+    "lore_group": "Acolyte",
+    "item_lore": null,
+    "aug_types": [
+      18,
+      19
+    ],
+    "extra_stats": {
+      "mana": 360,
+      "spell_damage": 11,
+      "heal_amount": 11,
+      "clairvoyance": 16
+    }
+  }
+}

@@ -1,0 +1,6136 @@
+{
+  "version": 1,
+  "source": "https://spells.eqresource.com/spellsearch.php",
+  "level_min": 121,
+  "level_max": 130,
+  "spells": {
+    "BRD": {
+      "121|aria of tenisbre": {
+        "level": 121,
+        "name": "Aria of Tenisbre Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66950
+      },
+      "121|goremand's chant of disease": {
+        "level": 121,
+        "name": "Goremand's Chant of Disease Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66953
+      },
+      "121|lullaby of the forgotten": {
+        "level": 121,
+        "name": "Lullaby of the Forgotten Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66920
+      },
+      "121|pulse of august": {
+        "level": 121,
+        "name": "Pulse of August Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66965
+      },
+      "121|reflexive rebuke": {
+        "level": 121,
+        "name": "Reflexive Rebuke Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70335
+      },
+      "121|resonating barrier": {
+        "level": 121,
+        "name": "Resonating Barrier Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66992
+      },
+      "121|silence of the forgotten": {
+        "level": 121,
+        "name": "Silence of the Forgotten Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66917
+      },
+      "122|aura of shalowain": {
+        "level": 122,
+        "name": "Aura of Shalowain Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66986
+      },
+      "122|dirge of imthak": {
+        "level": 122,
+        "name": "Dirge of Imthak Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70329
+      },
+      "122|echo of shalowain": {
+        "level": 122,
+        "name": "Echo of Shalowain Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67019
+      },
+      "122|eoreg's insult": {
+        "level": 122,
+        "name": "Eoreg's Insult Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67001
+      },
+      "122|fatesong of zoraxmen": {
+        "level": 122,
+        "name": "Fatesong of Zoraxmen Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66923
+      },
+      "122|flariton's aria": {
+        "level": 122,
+        "name": "Flariton's Aria Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66926
+      },
+      "122|swarm of the piper": {
+        "level": 122,
+        "name": "Swarm of the Piper Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70332
+      },
+      "122|swarn's chant of frost": {
+        "level": 122,
+        "name": "Swarn's Chant of Frost Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66956
+      },
+      "123|appeasing accelerando": {
+        "level": 123,
+        "name": "Appeasing Accelerando Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67004
+      },
+      "123|chorus of shalowain": {
+        "level": 123,
+        "name": "Chorus of Shalowain Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66929
+      },
+      "123|dhakka's spry sonata": {
+        "level": 123,
+        "name": "Dhakka's Spry Sonata Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66944
+      },
+      "123|grayleaf's reckless renewal": {
+        "level": 123,
+        "name": "Grayleaf's Reckless Renewal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67031
+      },
+      "123|marsin's chant of poison": {
+        "level": 123,
+        "name": "Marsin's Chant of Poison Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66959
+      },
+      "123|psalm of the nomad": {
+        "level": 123,
+        "name": "Psalm of the Nomad Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67037
+      },
+      "123|tatalros' psalm of potency": {
+        "level": 123,
+        "name": "Tatalros' Psalm of Potency Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66947
+      },
+      "123|yaran's disdain": {
+        "level": 123,
+        "name": "Yaran's Disdain Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70341
+      },
+      "124|arcane rhythm": {
+        "level": 124,
+        "name": "Arcane Rhythm Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66971
+      },
+      "124|kanghammer's song of suffering": {
+        "level": 124,
+        "name": "Kanghammer's Song of Suffering Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67007
+      },
+      "124|regar's lively crescendo": {
+        "level": 124,
+        "name": "Regar's Lively Crescendo Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66938
+      },
+      "124|rimeclaw's assonant binding": {
+        "level": 124,
+        "name": "Rimeclaw's Assonant Binding Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67043
+      },
+      "124|slumber of suja": {
+        "level": 124,
+        "name": "Slumber of Suja Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66935
+      },
+      "124|voice of suja": {
+        "level": 124,
+        "name": "Voice of Suja Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66932
+      },
+      "124|war march of nokk": {
+        "level": 124,
+        "name": "War March of Nokk Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66968
+      },
+      "124|yaran's demand": {
+        "level": 124,
+        "name": "Yaran's Demand Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70357
+      },
+      "124|zinnia's melodic binding": {
+        "level": 124,
+        "name": "Zinnia's Melodic Binding Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67034
+      },
+      "125|aura of tenisbre": {
+        "level": 125,
+        "name": "Aura of Tenisbre Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66980
+      },
+      "125|covariance of sticks and stones": {
+        "level": 125,
+        "name": "Covariance of Sticks and Stones Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70360
+      },
+      "125|echo of tenisbre": {
+        "level": 125,
+        "name": "Echo of Tenisbre Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67025
+      },
+      "125|firethorn's burning call": {
+        "level": 125,
+        "name": "Firethorn's Burning Call Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67040
+      },
+      "125|kindleheart's chant of flame": {
+        "level": 125,
+        "name": "Kindleheart's Chant of Flame Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66962
+      },
+      "125|tatalros' spiteful lyric": {
+        "level": 125,
+        "name": "Tatalros' Spiteful Lyric Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67013
+      },
+      "125|wave of stupor": {
+        "level": 125,
+        "name": "Wave of Stupor Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66998
+      },
+      "126|aria of kenburk": {
+        "level": 126,
+        "name": "Aria of Kenburk Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71931
+      },
+      "126|lullaby of the sundered": {
+        "level": 126,
+        "name": "Lullaby of the Sundered Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71900
+      },
+      "126|pulse of quellious": {
+        "level": 126,
+        "name": "Pulse of Quellious Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71946
+      },
+      "126|pustim's chant of disease": {
+        "level": 126,
+        "name": "Pustim's Chant of Disease Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71934
+      },
+      "126|rumbling barrier xi": {
+        "level": 126,
+        "name": "Rumbling Barrier XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71973
+      },
+      "126|silence of the vortex": {
+        "level": 126,
+        "name": "Silence of the Vortex Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71897
+      },
+      "127|aura of quellious": {
+        "level": 127,
+        "name": "Aura of Quellious Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71967
+      },
+      "127|cutting insult x": {
+        "level": 127,
+        "name": "Cutting Insult X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71982
+      },
+      "127|echo of quellious": {
+        "level": 127,
+        "name": "Echo of Quellious Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72000
+      },
+      "127|fatesong of the polar vortex": {
+        "level": 127,
+        "name": "Fatesong of the Polar Vortex Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71903
+      },
+      "127|severyn's aria": {
+        "level": 127,
+        "name": "Severyn's Aria Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71906
+      },
+      "127|tsikut's chant of frost": {
+        "level": 127,
+        "name": "Tsikut's Chant of Frost Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71937
+      },
+      "128|alleviating accelerando viii": {
+        "level": 128,
+        "name": "Alleviating Accelerando VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71985
+      },
+      "128|boberstler's spry sonata": {
+        "level": 128,
+        "name": "Boberstler's Spry Sonata Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71925
+      },
+      "128|chorus of quellious": {
+        "level": 128,
+        "name": "Chorus of Quellious Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71909
+      },
+      "128|danfol's psalm of potency": {
+        "level": 128,
+        "name": "Danfol's Psalm of Potency Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71928
+      },
+      "128|khrosik's chant of poison": {
+        "level": 128,
+        "name": "Khrosik's Chant of Poison Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71940
+      },
+      "128|psalm of veeshan vii": {
+        "level": 128,
+        "name": "Psalm of Veeshan VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72015
+      },
+      "129|alliana's lively crescendo": {
+        "level": 129,
+        "name": "Alliana's Lively Crescendo Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71919
+      },
+      "129|arcane aria xii": {
+        "level": 129,
+        "name": "Arcane Aria XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71952
+      },
+      "129|slumber of keftlik": {
+        "level": 129,
+        "name": "Slumber of Keftlik Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71916
+      },
+      "129|tallongast's assonant binding": {
+        "level": 129,
+        "name": "Tallongast's Assonant Binding Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72021
+      },
+      "129|voice of keftlik": {
+        "level": 129,
+        "name": "Voice of Keftlik Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71913
+      },
+      "129|war march of the burning host": {
+        "level": 129,
+        "name": "War March of the Burning Host Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71949
+      },
+      "130|aura of kenburk": {
+        "level": 130,
+        "name": "Aura of Kenburk Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71961
+      },
+      "130|echo of kenburk": {
+        "level": 130,
+        "name": "Echo of Kenburk Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72006
+      },
+      "130|matriarch's spiteful lyric": {
+        "level": 130,
+        "name": "Matriarch's Spiteful Lyric Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71994
+      },
+      "130|severyn's burning call": {
+        "level": 130,
+        "name": "Severyn's Burning Call Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72018
+      },
+      "130|severyn's chant of flame": {
+        "level": 130,
+        "name": "Severyn's Chant of Flame Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71943
+      },
+      "130|sorrowful song of suffering ix": {
+        "level": 130,
+        "name": "Sorrowful Song of Suffering IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71988
+      },
+      "130|wave of slumber x": {
+        "level": 130,
+        "name": "Wave of Slumber X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71979
+      }
+    },
+    "BST": {
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|forgebound blood": {
+        "level": 121,
+        "name": "Forgebound Blood Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68007
+      },
+      "121|magna's aggression": {
+        "level": 121,
+        "name": "Magna's Aggression Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68090
+      },
+      "121|magna's protection": {
+        "level": 121,
+        "name": "Magna's Protection Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68093
+      },
+      "121|salve of homer": {
+        "level": 121,
+        "name": "Salve of Homer Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68004
+      },
+      "121|warder's alliance": {
+        "level": 121,
+        "name": "Warder's Alliance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68117
+      },
+      "122|ankexfen lance": {
+        "level": 122,
+        "name": "Ankexfen Lance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68030
+      },
+      "122|auspice of usira": {
+        "level": 122,
+        "name": "Auspice of Usira Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70510
+      },
+      "122|barrage of claws": {
+        "level": 122,
+        "name": "Barrage of Claws Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68096
+      },
+      "122|fevered endemic": {
+        "level": 122,
+        "name": "Fevered Endemic Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68034
+      },
+      "122|kindleheart's melioration": {
+        "level": 122,
+        "name": "Kindleheart's Melioration Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68060
+      },
+      "122|kindleheart's miracle": {
+        "level": 122,
+        "name": "Kindleheart's Miracle Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68063
+      },
+      "122|thornhost's mending": {
+        "level": 122,
+        "name": "Thornhost's Mending Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68010
+      },
+      "123|frozen creep": {
+        "level": 123,
+        "name": "Frozen Creep Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68066
+      },
+      "123|insatiable voracity": {
+        "level": 123,
+        "name": "Insatiable Voracity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68021
+      },
+      "123|mortimus' bite": {
+        "level": 123,
+        "name": "Mortimus' Bite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68037
+      },
+      "123|promised reconstitution": {
+        "level": 123,
+        "name": "Promised Reconstitution Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68015
+      },
+      "123|sapping bite": {
+        "level": 123,
+        "name": "Sapping Bite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68133
+      },
+      "123|venomous covariance": {
+        "level": 123,
+        "name": "Venomous Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70594
+      },
+      "123|vitalizing warder": {
+        "level": 123,
+        "name": "Vitalizing Warder Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68075
+      },
+      "124|aegis of valorforged": {
+        "level": 124,
+        "name": "Aegis of Valorforged Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67330
+      },
+      "124|growl of yasil": {
+        "level": 124,
+        "name": "Growl of Yasil Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68054
+      },
+      "124|hoarfrost roar": {
+        "level": 124,
+        "name": "Hoarfrost Roar Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68099
+      },
+      "124|lazam's chill": {
+        "level": 124,
+        "name": "Lazam's Chill Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68126
+      },
+      "124|reflexive slashing": {
+        "level": 124,
+        "name": "Reflexive Slashing Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70581
+      },
+      "124|spirit of shoru": {
+        "level": 124,
+        "name": "Spirit of Shoru Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68024
+      },
+      "124|wallop": {
+        "level": 124,
+        "name": "Wallop Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68051
+      },
+      "125|monkey's guile discipline": {
+        "level": 125,
+        "name": "Monkey's Guile Discipline Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68129
+      },
+      "125|rimeclaw's maelstrom": {
+        "level": 125,
+        "name": "Rimeclaw's Maelstrom Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68102
+      },
+      "125|shriek at the moon": {
+        "level": 125,
+        "name": "Shriek at the Moon Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68046
+      },
+      "125|singlemalt's feralgia": {
+        "level": 125,
+        "name": "SingleMalt's Feralgia Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68081
+      },
+      "125|spellbreaker's synergy": {
+        "level": 125,
+        "name": "Spellbreaker's Synergy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68040
+      },
+      "125|xanathan's vindication": {
+        "level": 125,
+        "name": "Xanathan's Vindication Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70600
+      },
+      "126|bestial vivisection vi": {
+        "level": 126,
+        "name": "Bestial Vivisection VI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72996
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "126|pack leader's aggression": {
+        "level": 126,
+        "name": "Pack Leader's Aggression Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73002
+      },
+      "126|pack leader's protection": {
+        "level": 126,
+        "name": "Pack Leader's Protection Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73005
+      },
+      "126|salve of lydora": {
+        "level": 126,
+        "name": "Salve of Lydora Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72916
+      },
+      "127|flurry of claws ix": {
+        "level": 127,
+        "name": "Flurry of Claws IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73008
+      },
+      "127|lydora's melioration": {
+        "level": 127,
+        "name": "Lydora's Melioration Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72972
+      },
+      "127|lydora's mending": {
+        "level": 127,
+        "name": "Lydora's Mending Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72922
+      },
+      "127|spiter blood": {
+        "level": 127,
+        "name": "Spiter Blood Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72919
+      },
+      "127|tsetsian endemic xii": {
+        "level": 127,
+        "name": "Tsetsian Endemic XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72946
+      },
+      "128|fatiguing bite vi": {
+        "level": 128,
+        "name": "Fatiguing Bite VI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73033
+      },
+      "128|frigid lance xii": {
+        "level": 128,
+        "name": "Frigid Lance XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72942
+      },
+      "128|frozen venom x": {
+        "level": 128,
+        "name": "Frozen Venom X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72978
+      },
+      "128|incomparable velocity xi": {
+        "level": 128,
+        "name": "Incomparable Velocity XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72933
+      },
+      "128|promised mending xii": {
+        "level": 128,
+        "name": "Promised Mending XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72927
+      },
+      "129|glacial roar ix": {
+        "level": 129,
+        "name": "Glacial Roar IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73011
+      },
+      "129|growl of the panther xiv": {
+        "level": 129,
+        "name": "Growl of the Panther XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72966
+      },
+      "129|harrow xii": {
+        "level": 129,
+        "name": "Harrow XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72963
+      },
+      "129|khrosik's bite": {
+        "level": 129,
+        "name": "Khrosik's Bite Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72949
+      },
+      "129|spirit of irdrath": {
+        "level": 129,
+        "name": "Spirit of Irdrath Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72936
+      },
+      "130|bark at the moon xii": {
+        "level": 130,
+        "name": "Bark at the Moon XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72958
+      },
+      "130|grimclaw's feralgia": {
+        "level": 130,
+        "name": "Grimclaw's Feralgia Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72987
+      },
+      "130|shar`drahn's chill": {
+        "level": 130,
+        "name": "Shar`Drahn's Chill Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73029
+      },
+      "130|spellbreaker's guard xi": {
+        "level": 130,
+        "name": "Spellbreaker's Guard XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72952
+      },
+      "130|spellbreaker's mending xi azia": {
+        "level": 130,
+        "name": "Spellbreaker's Mending XI Azia Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72955
+      },
+      "130|tallongast's maelstrom": {
+        "level": 130,
+        "name": "Tallongast's Maelstrom Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73014
+      }
+    },
+    "BER": {
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|eviscerating frenzy": {
+        "level": 121,
+        "name": "Eviscerating Frenzy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68180
+      },
+      "121|preemptive retaliation": {
+        "level": 121,
+        "name": "Preemptive Retaliation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68174
+      },
+      "121|tendon slice": {
+        "level": 121,
+        "name": "Tendon Slice Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68144
+      },
+      "122|punch to the gut": {
+        "level": 122,
+        "name": "Punch to the Gut Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68171
+      },
+      "122|roiling rage": {
+        "level": 122,
+        "name": "Roiling Rage Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68192
+      },
+      "122|vicious vortex": {
+        "level": 122,
+        "name": "Vicious Vortex Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68183
+      },
+      "123|draining strikes": {
+        "level": 123,
+        "name": "Draining Strikes Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70625
+      },
+      "123|rending axe throw": {
+        "level": 123,
+        "name": "Rending Axe Throw Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68162
+      },
+      "123|skull strike": {
+        "level": 123,
+        "name": "Skull Strike Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68147
+      },
+      "123|unthinking retaliation": {
+        "level": 123,
+        "name": "Unthinking Retaliation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68201
+      },
+      "124|arcscale": {
+        "level": 124,
+        "name": "Arcscale Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70609
+      },
+      "124|eviscerating volley": {
+        "level": 124,
+        "name": "Eviscerating Volley Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68153
+      },
+      "124|heightened frenzy": {
+        "level": 124,
+        "name": "Heightened Frenzy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68186
+      },
+      "124|jarring crash": {
+        "level": 124,
+        "name": "Jarring Crash Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68150
+      },
+      "125|axe of orrak": {
+        "level": 125,
+        "name": "Axe of Orrak Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68210
+      },
+      "125|desperate frenzy": {
+        "level": 125,
+        "name": "Desperate Frenzy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68156
+      },
+      "125|eviscerator's covariance": {
+        "level": 125,
+        "name": "Eviscerator's Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70631
+      },
+      "125|shared barbarism": {
+        "level": 125,
+        "name": "Shared Barbarism Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68165
+      },
+      "126|anticipatory retaliation": {
+        "level": 126,
+        "name": "Anticipatory Retaliation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73068
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "126|tendon cleave xvi": {
+        "level": 126,
+        "name": "Tendon Cleave XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73044
+      },
+      "127|festering rage vii": {
+        "level": 127,
+        "name": "Festering Rage VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73087
+      },
+      "127|obliterating frenzy": {
+        "level": 127,
+        "name": "Obliterating Frenzy Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73074
+      },
+      "127|vicious spiral vii": {
+        "level": 127,
+        "name": "Vicious Spiral VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73077
+      },
+      "128|obliterating axe throw": {
+        "level": 128,
+        "name": "Obliterating Axe Throw Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73056
+      },
+      "128|slap in the face ix": {
+        "level": 128,
+        "name": "Slap in the Face IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73065
+      },
+      "128|temple strike xvi": {
+        "level": 128,
+        "name": "Temple Strike XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73047
+      },
+      "129|augmented frenzy vii": {
+        "level": 129,
+        "name": "Augmented Frenzy VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73080
+      },
+      "129|conditioned retaliation v": {
+        "level": 129,
+        "name": "Conditioned Retaliation V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73096
+      },
+      "129|jarring strike xvi": {
+        "level": 129,
+        "name": "Jarring Strike XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73050
+      },
+      "130|axe of trung": {
+        "level": 130,
+        "name": "Axe of Trung Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73105
+      },
+      "130|obliterating volley": {
+        "level": 130,
+        "name": "Obliterating Volley Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73053
+      },
+      "130|shared bloodlust x": {
+        "level": 130,
+        "name": "Shared Bloodlust X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 73059
+      }
+    },
+    "CLR": {
+      "121|avowed remedy": {
+        "level": 121,
+        "name": "Avowed Remedy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66066
+      },
+      "121|awebolt": {
+        "level": 121,
+        "name": "Awebolt Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66071
+      },
+      "121|banish the undead": {
+        "level": 121,
+        "name": "Banish the Undead Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66190
+      },
+      "121|congenial glow": {
+        "level": 121,
+        "name": "Congenial Glow Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66127
+      },
+      "121|sermon of the decree": {
+        "level": 121,
+        "name": "Sermon of the Decree Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66163
+      },
+      "121|vow of virtuosity": {
+        "level": 121,
+        "name": "Vow of Virtuosity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66102
+      },
+      "121|word of acceptance": {
+        "level": 121,
+        "name": "Word of Acceptance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66194
+      },
+      "121|yaulp xviii": {
+        "level": 121,
+        "name": "Yaulp XVIII Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66118
+      },
+      "122|avowed covariance": {
+        "level": 122,
+        "name": "Avowed Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70074
+      },
+      "122|avowed elixir": {
+        "level": 122,
+        "name": "Avowed Elixir Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66075
+      },
+      "122|decree": {
+        "level": 122,
+        "name": "Decree Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66078
+      },
+      "122|divine interference": {
+        "level": 122,
+        "name": "Divine Interference Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66209
+      },
+      "122|divine liturgy": {
+        "level": 122,
+        "name": "Divine Liturgy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66147
+      },
+      "122|hammer of the remembered": {
+        "level": 122,
+        "name": "Hammer of the Remembered Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66247
+      },
+      "122|nineteenth commandment": {
+        "level": 122,
+        "name": "Nineteenth Commandment Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66157
+      },
+      "122|ward of commitment": {
+        "level": 122,
+        "name": "Ward of Commitment Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66235
+      },
+      "122|ward of repudiation": {
+        "level": 122,
+        "name": "Ward of Repudiation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66121
+      },
+      "123|anticipated interstition": {
+        "level": 123,
+        "name": "Anticipated Interstition Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70049
+      },
+      "123|avowed intervention": {
+        "level": 123,
+        "name": "Avowed Intervention Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66172
+      },
+      "123|avowed light": {
+        "level": 123,
+        "name": "Avowed Light Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66087
+      },
+      "123|greater aegis of vie": {
+        "level": 123,
+        "name": "Greater Aegis of Vie Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66081
+      },
+      "123|issuance of heroism": {
+        "level": 123,
+        "name": "Issuance of Heroism Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66215
+      },
+      "123|promised remediation": {
+        "level": 123,
+        "name": "Promised Remediation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66096
+      },
+      "123|sound of heroism": {
+        "level": 123,
+        "name": "Sound of Heroism Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66090
+      },
+      "123|syllable of acceptance": {
+        "level": 123,
+        "name": "Syllable of Acceptance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66241
+      },
+      "123|vow of retribution": {
+        "level": 123,
+        "name": "Vow of Retribution Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66221
+      },
+      "124|avowed acquittal": {
+        "level": 124,
+        "name": "Avowed Acquittal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66244
+      },
+      "124|chromaruption": {
+        "level": 124,
+        "name": "Chromaruption Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66160
+      },
+      "124|divine rejoinder": {
+        "level": 124,
+        "name": "Divine Rejoinder Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70068
+      },
+      "124|hand of avowed infusion": {
+        "level": 124,
+        "name": "Hand of Avowed Infusion Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66230
+      },
+      "124|mark of thormir": {
+        "level": 124,
+        "name": "Mark of Thormir Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66111
+      },
+      "124|shining steel": {
+        "level": 124,
+        "name": "Shining Steel Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66197
+      },
+      "124|silent doctrine": {
+        "level": 124,
+        "name": "Silent Doctrine Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66130
+      },
+      "124|unrelenting hammer of zeal": {
+        "level": 124,
+        "name": "Unrelenting Hammer of Zeal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66144
+      },
+      "124|unyielding admonition": {
+        "level": 124,
+        "name": "Unyielding Admonition Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66178
+      },
+      "124|word of greater vivification": {
+        "level": 124,
+        "name": "Word of Greater Vivification Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66169
+      },
+      "125|acceptance splash": {
+        "level": 125,
+        "name": "Acceptance Splash Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66206
+      },
+      "125|armor of the avowed": {
+        "level": 125,
+        "name": "Armor of the Avowed Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66133
+      },
+      "125|avowed contravention": {
+        "level": 125,
+        "name": "Avowed Contravention Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66181
+      },
+      "125|elixir of realization": {
+        "level": 125,
+        "name": "Elixir of Realization Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66138
+      },
+      "125|hazuri's retort": {
+        "level": 125,
+        "name": "Hazuri's Retort Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70040
+      },
+      "125|heroic renewal": {
+        "level": 125,
+        "name": "Heroic Renewal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66166
+      },
+      "125|mercenary's hand of commitment": {
+        "level": 125,
+        "name": "Mercenary's Hand of Commitment Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66256
+      },
+      "125|rallied citadel of vie": {
+        "level": 125,
+        "name": "Rallied Citadel of Vie Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66141
+      },
+      "125|rallied greater aegis of vie": {
+        "level": 125,
+        "name": "Rallied Greater Aegis of Vie Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66093
+      },
+      "125|resplendent ground": {
+        "level": 125,
+        "name": "Resplendent Ground Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66150
+      },
+      "125|tectonic bedlam": {
+        "level": 125,
+        "name": "Tectonic Bedlam Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66114
+      },
+      "126|appeasement": {
+        "level": 126,
+        "name": "Appeasement Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71168
+      },
+      "126|awestruck xvii": {
+        "level": 126,
+        "name": "Awestruck XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71056
+      },
+      "126|hand of holy infusion vii": {
+        "level": 126,
+        "name": "Hand of Holy Infusion VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71204
+      },
+      "126|holy remedy xiv": {
+        "level": 126,
+        "name": "Holy Remedy XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71051
+      },
+      "126|tranquil glow": {
+        "level": 126,
+        "name": "Tranquil Glow Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71110
+      },
+      "126|vow of valor xi": {
+        "level": 126,
+        "name": "Vow of Valor XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71084
+      },
+      "126|word of wellbeing": {
+        "level": 126,
+        "name": "Word of Wellbeing Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71171
+      },
+      "126|yaulp xix": {
+        "level": 126,
+        "name": "Yaulp XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71100
+      },
+      "127|divine interstition": {
+        "level": 127,
+        "name": "Divine Interstition Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71186
+      },
+      "127|eminent elixir": {
+        "level": 127,
+        "name": "Eminent Elixir Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71063
+      },
+      "127|hammer of eminence": {
+        "level": 127,
+        "name": "Hammer of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71224
+      },
+      "127|sermon of eminence": {
+        "level": 127,
+        "name": "Sermon of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71136
+      },
+      "127|twentieth dictum": {
+        "level": 127,
+        "name": "Twentieth Dictum Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71130
+      },
+      "127|veto": {
+        "level": 127,
+        "name": "Veto Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71066
+      },
+      "127|ward of retribution": {
+        "level": 127,
+        "name": "Ward of Retribution Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71103
+      },
+      "127|ward of virtue vii": {
+        "level": 127,
+        "name": "Ward of Virtue VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71212
+      },
+      "128|eminent intervention": {
+        "level": 128,
+        "name": "Eminent Intervention Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71146
+      },
+      "128|eminent light": {
+        "level": 128,
+        "name": "Eminent Light Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71069
+      },
+      "128|promised renewal xii": {
+        "level": 128,
+        "name": "Promised Renewal XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71078
+      },
+      "128|rallied ward of vie xvi": {
+        "level": 128,
+        "name": "Rallied Ward of Vie XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71075
+      },
+      "128|sound of vehemence": {
+        "level": 128,
+        "name": "Sound of Vehemence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71072
+      },
+      "128|syllable of wellbeing": {
+        "level": 128,
+        "name": "Syllable of Wellbeing Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71218
+      },
+      "128|vow of vitriol xi": {
+        "level": 128,
+        "name": "Vow of Vitriol XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71195
+      },
+      "129|chromaclast": {
+        "level": 129,
+        "name": "Chromaclast Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71133
+      },
+      "129|divine magnitude": {
+        "level": 129,
+        "name": "Divine Magnitude Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71127
+      },
+      "129|eminent acquittal": {
+        "level": 129,
+        "name": "Eminent Acquittal Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71221
+      },
+      "129|expunge the undead": {
+        "level": 129,
+        "name": "Expunge the Undead Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71164
+      },
+      "129|mark of the righteous xiv": {
+        "level": 129,
+        "name": "Mark of the Righteous XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71093
+      },
+      "129|silent injunction": {
+        "level": 129,
+        "name": "Silent Injunction Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71113
+      },
+      "129|unyielding denunciation": {
+        "level": 129,
+        "name": "Unyielding Denunciation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71152
+      },
+      "129|word of replenishment xiii": {
+        "level": 129,
+        "name": "Word of Replenishment XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71142
+      },
+      "130|armor of the eminent": {
+        "level": 130,
+        "name": "Armor of the Eminent Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71116
+      },
+      "130|desperate renewal xiii": {
+        "level": 130,
+        "name": "Desperate Renewal XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71139
+      },
+      "130|elixir of absolution": {
+        "level": 130,
+        "name": "Elixir of Absolution Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71121
+      },
+      "130|eminent contravention": {
+        "level": 130,
+        "name": "Eminent Contravention Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71155
+      },
+      "130|flourishing splash": {
+        "level": 130,
+        "name": "Flourishing Splash Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71183
+      },
+      "130|issuance of eminence": {
+        "level": 130,
+        "name": "Issuance of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71189
+      },
+      "130|mercenary's hand of aegolism xv": {
+        "level": 130,
+        "name": "Mercenary's Hand of Aegolism XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71233
+      },
+      "130|rallied bulwark of vie": {
+        "level": 130,
+        "name": "Rallied Bulwark of Vie Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71124
+      },
+      "130|shining rampart ix": {
+        "level": 130,
+        "name": "Shining Rampart IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71174
+      },
+      "130|tectonic quake xvi": {
+        "level": 130,
+        "name": "Tectonic Quake XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71096
+      }
+    },
+    "DRU": {
+      "121|beast's bestowing": {
+        "level": 121,
+        "name": "Beast's Bestowing Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66753
+      },
+      "121|clench of ro": {
+        "level": 121,
+        "name": "Clench of Ro Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66814
+      },
+      "121|emboldened growth": {
+        "level": 121,
+        "name": "Emboldened Growth Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66861
+      },
+      "121|frondbarb": {
+        "level": 121,
+        "name": "Frondbarb Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66774
+      },
+      "121|nature's empathy": {
+        "level": 121,
+        "name": "Nature's Empathy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66718
+      },
+      "121|revelry of the stormborn": {
+        "level": 121,
+        "name": "Revelry of the Stormborn Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66703
+      },
+      "121|searing sunray": {
+        "level": 121,
+        "name": "Searing Sunray Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66700
+      },
+      "121|unrelenting hail": {
+        "level": 121,
+        "name": "Unrelenting Hail Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66709
+      },
+      "122|algid breath": {
+        "level": 122,
+        "name": "Algid Breath Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66721
+      },
+      "122|dismantle the unnatural": {
+        "level": 122,
+        "name": "Dismantle the Unnatural Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66770
+      },
+      "122|forlorn chill": {
+        "level": 122,
+        "name": "Forlorn Chill Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66838
+      },
+      "122|heliacal immolation": {
+        "level": 122,
+        "name": "Heliacal Immolation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66835
+      },
+      "122|nature's answer": {
+        "level": 122,
+        "name": "Nature's Answer Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70247
+      },
+      "122|overwhelming growth": {
+        "level": 122,
+        "name": "Overwhelming Growth Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66799
+      },
+      "122|promised regrowth": {
+        "level": 122,
+        "name": "Promised Regrowth Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66793
+      },
+      "122|visage of ro": {
+        "level": 122,
+        "name": "Visage of Ro Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66852
+      },
+      "122|vivavida": {
+        "level": 122,
+        "name": "Vivavida Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66729
+      },
+      "123|bramblespike coat": {
+        "level": 123,
+        "name": "Bramblespike Coat Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66735
+      },
+      "123|coldburst aura": {
+        "level": 123,
+        "name": "Coldburst Aura Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66820
+      },
+      "123|horde of hotaria": {
+        "level": 123,
+        "name": "Horde of Hotaria Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66732
+      },
+      "123|otherworldly ways": {
+        "level": 123,
+        "name": "Otherworldly Ways Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70228
+      },
+      "123|remote sunscorch": {
+        "level": 123,
+        "name": "Remote Sunscorch Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66808
+      },
+      "123|sunbliss blessing": {
+        "level": 123,
+        "name": "Sunbliss Blessing Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66802
+      },
+      "123|survival of the heroic": {
+        "level": 123,
+        "name": "Survival of the Heroic Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66790
+      },
+      "123|tempest roar": {
+        "level": 123,
+        "name": "Tempest Roar Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66841
+      },
+      "123|winter's wildgale": {
+        "level": 123,
+        "name": "Winter's Wildgale Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66738
+      },
+      "124|adrenaline fury": {
+        "level": 124,
+        "name": "Adrenaline Fury Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66764
+      },
+      "124|chitin of the reptile": {
+        "level": 124,
+        "name": "Chitin of the Reptile Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66781
+      },
+      "124|mycelid assault": {
+        "level": 124,
+        "name": "Mycelid Assault Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70219
+      },
+      "124|mythic frost": {
+        "level": 124,
+        "name": "Mythic Frost Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66712
+      },
+      "124|mythical moonbeam": {
+        "level": 124,
+        "name": "Mythical Moonbeam Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66829
+      },
+      "124|remote moonshiver": {
+        "level": 124,
+        "name": "Remote Moonshiver Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66855
+      },
+      "124|summer sunscald": {
+        "level": 124,
+        "name": "Summer Sunscald Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66750
+      },
+      "124|sunscald": {
+        "level": 124,
+        "name": "Sunscald Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66747
+      },
+      "125|chill of the ferntender": {
+        "level": 125,
+        "name": "Chill of the Ferntender Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66844
+      },
+      "125|coldbite crystals": {
+        "level": 125,
+        "name": "Coldbite Crystals Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66758
+      },
+      "125|ferntender's covariance": {
+        "level": 125,
+        "name": "Ferntender's Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70256
+      },
+      "125|lunacea": {
+        "level": 125,
+        "name": "Lunacea Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66778
+      },
+      "125|mask of the ferntender": {
+        "level": 125,
+        "name": "Mask of the Ferntender Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66761
+      },
+      "125|nature's boiling wrath": {
+        "level": 125,
+        "name": "Nature's Boiling Wrath Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66706
+      },
+      "125|resuscitation": {
+        "level": 125,
+        "name": "Resuscitation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66832
+      },
+      "125|tectonic bedlam": {
+        "level": 125,
+        "name": "Tectonic Bedlam Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66114
+      },
+      "126|barkspur xiii": {
+        "level": 126,
+        "name": "Barkspur XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71743
+      },
+      "126|beast's beckoning xviii": {
+        "level": 126,
+        "name": "Beast's Beckoning XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71722
+      },
+      "126|blistering sunray xii": {
+        "level": 126,
+        "name": "Blistering Sunray XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71670
+      },
+      "126|grasp of ro ix": {
+        "level": 126,
+        "name": "Grasp of Ro IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71783
+      },
+      "126|nature's serenity xvii": {
+        "level": 126,
+        "name": "Nature's Serenity XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71688
+      },
+      "126|nurturing growth vi": {
+        "level": 126,
+        "name": "Nurturing Growth VI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71831
+      },
+      "126|shattering of the stormborn": {
+        "level": 126,
+        "name": "Shattering of the Stormborn Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71673
+      },
+      "127|cascade of hail xviii": {
+        "level": 127,
+        "name": "Cascade of Hail XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71679
+      },
+      "127|expunge the unnatural": {
+        "level": 127,
+        "name": "Expunge the Unnatural Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71739
+      },
+      "127|glacier breath xiv": {
+        "level": 127,
+        "name": "Glacier Breath XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71691
+      },
+      "127|lunar chill viii": {
+        "level": 127,
+        "name": "Lunar Chill VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71808
+      },
+      "127|pillar of ro vii": {
+        "level": 127,
+        "name": "Pillar of Ro VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71822
+      },
+      "127|promised reknit x": {
+        "level": 127,
+        "name": "Promised Reknit X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71762
+      },
+      "127|puravida xi": {
+        "level": 127,
+        "name": "Puravida XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71697
+      },
+      "127|wild growth x": {
+        "level": 127,
+        "name": "Wild Growth X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71768
+      },
+      "128|brackenbriar coat": {
+        "level": 128,
+        "name": "Brackenbriar Coat Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71703
+      },
+      "128|frostfell aura ix": {
+        "level": 128,
+        "name": "Frostfell Aura IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71789
+      },
+      "128|heliacal flare viii": {
+        "level": 128,
+        "name": "Heliacal Flare VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71804
+      },
+      "128|horde of spitewasps": {
+        "level": 128,
+        "name": "Horde of Spitewasps Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71700
+      },
+      "128|katabatic roar viii": {
+        "level": 128,
+        "name": "Katabatic Roar VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71811
+      },
+      "128|sundew blessing x": {
+        "level": 128,
+        "name": "Sundew Blessing X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71771
+      },
+      "128|survival of the fittest xi": {
+        "level": 128,
+        "name": "Survival of the Fittest XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71759
+      },
+      "128|winter's wildflame xii": {
+        "level": 128,
+        "name": "Winter's Wildflame XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71706
+      },
+      "129|adrenaline surge xii": {
+        "level": 129,
+        "name": "Adrenaline Surge XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71733
+      },
+      "129|gelid frost xi": {
+        "level": 129,
+        "name": "Gelid Frost XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71682
+      },
+      "129|gelid moonbeam ix": {
+        "level": 129,
+        "name": "Gelid Moonbeam IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71798
+      },
+      "129|remote moonfire vii": {
+        "level": 129,
+        "name": "Remote Moonfire VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71825
+      },
+      "129|skin of the reptile xii": {
+        "level": 129,
+        "name": "Skin of the Reptile XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71750
+      },
+      "129|summer solstice xii": {
+        "level": 129,
+        "name": "Summer Solstice XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71718
+      },
+      "129|sunscorch xii": {
+        "level": 129,
+        "name": "Sunscorch XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71715
+      },
+      "130|chill of the grovetender": {
+        "level": 130,
+        "name": "Chill of the Grovetender Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71814
+      },
+      "130|lunamend": {
+        "level": 130,
+        "name": "Lunamend Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71747
+      },
+      "130|mask of the grovetender": {
+        "level": 130,
+        "name": "Mask of the Grovetender Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71730
+      },
+      "130|nature's blazing wrath xii": {
+        "level": 130,
+        "name": "Nature's Blazing Wrath XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71676
+      },
+      "130|rejuvilation ix": {
+        "level": 130,
+        "name": "Rejuvilation IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71801
+      },
+      "130|remote sunflare x": {
+        "level": 130,
+        "name": "Remote Sunflare X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71777
+      },
+      "130|rime crystals xii": {
+        "level": 130,
+        "name": "Rime Crystals XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71727
+      },
+      "130|tectonic quake xvi": {
+        "level": 130,
+        "name": "Tectonic Quake XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71096
+      }
+    },
+    "ENC": {
+      "121|aegis of dhakka": {
+        "level": 121,
+        "name": "Aegis of Dhakka Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67981
+      },
+      "121|chromatic spike": {
+        "level": 121,
+        "name": "Chromatic Spike Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67918
+      },
+      "121|cognitive appropriation": {
+        "level": 121,
+        "name": "Cognitive Appropriation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67975
+      },
+      "121|esoteric rune": {
+        "level": 121,
+        "name": "Esoteric Rune Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67785
+      },
+      "121|flariton's animation": {
+        "level": 121,
+        "name": "Flariton's Animation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67791
+      },
+      "121|flummox": {
+        "level": 121,
+        "name": "Flummox Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67829
+      },
+      "121|legion of dhakka": {
+        "level": 121,
+        "name": "Legion of Dhakka Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67984
+      },
+      "121|rune of zoraxmen": {
+        "level": 121,
+        "name": "Rune of Zoraxmen Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67794
+      },
+      "121|shield of memories": {
+        "level": 121,
+        "name": "Shield of Memories Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67788
+      },
+      "121|tears of kasha": {
+        "level": 121,
+        "name": "Tears of Kasha Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67859
+      },
+      "122|chromaclap": {
+        "level": 122,
+        "name": "Chromaclap Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67924
+      },
+      "122|compulsion": {
+        "level": 122,
+        "name": "Compulsion Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67804
+      },
+      "122|docile mind": {
+        "level": 122,
+        "name": "Docile Mind Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67797
+      },
+      "122|esoteric aura": {
+        "level": 122,
+        "name": "Esoteric Aura Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67868
+      },
+      "122|esoteric echo": {
+        "level": 122,
+        "name": "Esoteric Echo Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67953
+      },
+      "122|flummoxing flash": {
+        "level": 122,
+        "name": "Flummoxing Flash Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67895
+      },
+      "122|remote color calibration": {
+        "level": 122,
+        "name": "Remote Color Calibration Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67943
+      },
+      "122|roar of tashan": {
+        "level": 122,
+        "name": "Roar of Tashan Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67801
+      },
+      "122|runic scintillation aura": {
+        "level": 122,
+        "name": "Runic Scintillation Aura Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67904
+      },
+      "122|shield of inescapability": {
+        "level": 122,
+        "name": "Shield of Inescapability Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67420
+      },
+      "122|stupefier's auspice": {
+        "level": 122,
+        "name": "Stupefier's Auspice Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70569
+      },
+      "123|aegis of elmara": {
+        "level": 123,
+        "name": "Aegis of Elmara Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67808
+      },
+      "123|asphyxiating grasp": {
+        "level": 123,
+        "name": "Asphyxiating Grasp Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67817
+      },
+      "123|chaotic conundrum": {
+        "level": 123,
+        "name": "Chaotic Conundrum Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67914
+      },
+      "123|chromatic covariance": {
+        "level": 123,
+        "name": "Chromatic Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70563
+      },
+      "123|consoling issuance": {
+        "level": 123,
+        "name": "Consoling Issuance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67927
+      },
+      "123|disquieting rune": {
+        "level": 123,
+        "name": "Disquieting Rune Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67946
+      },
+      "123|inhibiting helix": {
+        "level": 123,
+        "name": "Inhibiting Helix Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67933
+      },
+      "123|intensifying aura": {
+        "level": 123,
+        "name": "Intensifying Aura Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67959
+      },
+      "123|mana reproduction": {
+        "level": 123,
+        "name": "Mana Reproduction Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67877
+      },
+      "123|polyradiant assault": {
+        "level": 123,
+        "name": "Polyradiant Assault Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67811
+      },
+      "123|wonderment": {
+        "level": 123,
+        "name": "Wonderment Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67814
+      },
+      "124|brimstone stability": {
+        "level": 124,
+        "name": "Brimstone Stability Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67823
+      },
+      "124|color calibration": {
+        "level": 124,
+        "name": "Color Calibration Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67826
+      },
+      "124|dismaying constriction": {
+        "level": 124,
+        "name": "Dismaying Constriction Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67936
+      },
+      "124|dizzying spindle": {
+        "level": 124,
+        "name": "Dizzying Spindle Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67832
+      },
+      "124|gloaming auspice": {
+        "level": 124,
+        "name": "Gloaming Auspice Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67965
+      },
+      "124|gloaming rune": {
+        "level": 124,
+        "name": "Gloaming Rune Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67862
+      },
+      "124|legion of ogna": {
+        "level": 124,
+        "name": "Legion of Ogna Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67835
+      },
+      "124|stupefier's demand": {
+        "level": 124,
+        "name": "Stupefier's Demand Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70572
+      },
+      "124|stupefying wave": {
+        "level": 124,
+        "name": "Stupefying Wave Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67820
+      },
+      "124|vexing glance": {
+        "level": 124,
+        "name": "Vexing Glance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67987
+      },
+      "125|entrancing stare": {
+        "level": 125,
+        "name": "Entrancing Stare Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67910
+      },
+      "125|esoteric command": {
+        "level": 125,
+        "name": "Esoteric Command Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67838
+      },
+      "125|issuance of mana ripple": {
+        "level": 125,
+        "name": "Issuance of Mana Ripple Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67950
+      },
+      "125|mana ripple aura": {
+        "level": 125,
+        "name": "Mana Ripple Aura Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67898
+      },
+      "125|mind whirl": {
+        "level": 125,
+        "name": "Mind Whirl Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67874
+      },
+      "125|mindrend": {
+        "level": 125,
+        "name": "Mindrend Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67939
+      },
+      "125|night's eternal terror": {
+        "level": 125,
+        "name": "Night's Eternal Terror Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70557
+      },
+      "125|perilous confounding": {
+        "level": 125,
+        "name": "Perilous Confounding Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67968
+      },
+      "125|polyradiant rune": {
+        "level": 125,
+        "name": "Polyradiant Rune Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67853
+      },
+      "125|ward of the stupefier": {
+        "level": 125,
+        "name": "Ward of the Stupefier Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67847
+      },
+      "126|arcane rune xiii": {
+        "level": 126,
+        "name": "Arcane Rune XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72720
+      },
+      "126|arkahn's animation": {
+        "level": 126,
+        "name": "Arkahn's Animation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72726
+      },
+      "126|chromatic jab ix": {
+        "level": 126,
+        "name": "Chromatic Jab IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72842
+      },
+      "126|legion of boberstler": {
+        "level": 126,
+        "name": "Legion of Boberstler Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72896
+      },
+      "126|mental appropriation vii": {
+        "level": 126,
+        "name": "Mental Appropriation VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72890
+      },
+      "126|mesmerize xx": {
+        "level": 126,
+        "name": "Mesmerize XX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72759
+      },
+      "126|rune xix": {
+        "level": 126,
+        "name": "Rune XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72729
+      },
+      "126|shielding xxiii": {
+        "level": 126,
+        "name": "Shielding XXIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72723
+      },
+      "127|charm xvii": {
+        "level": 127,
+        "name": "Charm XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72738
+      },
+      "127|chromaclysm": {
+        "level": 127,
+        "name": "Chromaclysm Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72848
+      },
+      "127|enticer's aura xiv": {
+        "level": 127,
+        "name": "Enticer's Aura XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72795
+      },
+      "127|enticer's echo vii": {
+        "level": 127,
+        "name": "Enticer's Echo VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72868
+      },
+      "127|quiet mind xiii": {
+        "level": 127,
+        "name": "Quiet Mind XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72732
+      },
+      "127|remote color flux xviii": {
+        "level": 127,
+        "name": "Remote Color Flux XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72861
+      },
+      "127|shield of fate vii": {
+        "level": 127,
+        "name": "Shield of Fate VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72388
+      },
+      "127|tashan xvii": {
+        "level": 127,
+        "name": "Tashan XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72735
+      },
+      "128|amplifying aura vii": {
+        "level": 128,
+        "name": "Amplifying Aura VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72874
+      },
+      "128|chaotic enticement x": {
+        "level": 128,
+        "name": "Chaotic Enticement X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72838
+      },
+      "128|docility xii": {
+        "level": 128,
+        "name": "Docility XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72744
+      },
+      "128|empowered minion iv": {
+        "level": 128,
+        "name": "Empowered Minion IV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72899
+      },
+      "128|legion of feish": {
+        "level": 128,
+        "name": "Legion of Feish Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72765
+      },
+      "128|mana recursion xi": {
+        "level": 128,
+        "name": "Mana Recursion XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72804
+      },
+      "128|multichromatic assault xi": {
+        "level": 128,
+        "name": "Multichromatic Assault XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72741
+      },
+      "128|runic swirl aura xi": {
+        "level": 128,
+        "name": "Runic Swirl Aura XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72828
+      },
+      "128|strangle xvii": {
+        "level": 128,
+        "name": "Strangle XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72747
+      },
+      "129|brimstone body xiv": {
+        "level": 129,
+        "name": "Brimstone Body XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72753
+      },
+      "129|color flux xviii": {
+        "level": 129,
+        "name": "Color Flux XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72756
+      },
+      "129|dizzying helix xii": {
+        "level": 129,
+        "name": "Dizzying Helix XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72762
+      },
+      "129|horrifying rune viii": {
+        "level": 129,
+        "name": "Horrifying Rune VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72864
+      },
+      "129|issuance of subjugation vii": {
+        "level": 129,
+        "name": "Issuance of Subjugation VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72851
+      },
+      "129|mesmerizing wave xv": {
+        "level": 129,
+        "name": "Mesmerizing Wave XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72750
+      },
+      "129|rune of the vortex": {
+        "level": 129,
+        "name": "Rune of the Vortex Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72789
+      },
+      "129|umbral auspice vii": {
+        "level": 129,
+        "name": "Umbral Auspice VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72880
+      },
+      "130|enticer's command xv": {
+        "level": 130,
+        "name": "Enticer's Command XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72768
+      },
+      "130|hypnotic stare x": {
+        "level": 130,
+        "name": "Hypnotic Stare X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72834
+      },
+      "130|mana recursion aura xi": {
+        "level": 130,
+        "name": "Mana Recursion Aura XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72822
+      },
+      "130|mind shatter xv": {
+        "level": 130,
+        "name": "Mind Shatter XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72801
+      },
+      "130|mindblade ix": {
+        "level": 130,
+        "name": "Mindblade IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72857
+      },
+      "130|perilous disorientation vii": {
+        "level": 130,
+        "name": "Perilous Disorientation VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72883
+      },
+      "130|polychromatic rune xii": {
+        "level": 130,
+        "name": "Polychromatic Rune XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72783
+      },
+      "130|ward of bedazzlement xii": {
+        "level": 130,
+        "name": "Ward of Bedazzlement XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72777
+      }
+    },
+    "MAG": {
+      "121|bolt of molten dacite": {
+        "level": 121,
+        "name": "Bolt of Molten Dacite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67635
+      },
+      "121|burnout xvi": {
+        "level": 121,
+        "name": "Burnout XVI Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67657
+      },
+      "121|malosinera": {
+        "level": 121,
+        "name": "Malosinera Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67631
+      },
+      "121|ruination of sand": {
+        "level": 121,
+        "name": "Ruination of Sand Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67709
+      },
+      "121|shield of memories": {
+        "level": 121,
+        "name": "Shield of Memories Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67788
+      },
+      "121|valorforged bodyguard": {
+        "level": 121,
+        "name": "Valorforged Bodyguard Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67700
+      },
+      "122|auspice of usira": {
+        "level": 122,
+        "name": "Auspice of Usira Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70510
+      },
+      "122|beam of molten dacite": {
+        "level": 122,
+        "name": "Beam of Molten Dacite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67676
+      },
+      "122|courageous guardian": {
+        "level": 122,
+        "name": "Courageous Guardian Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67645
+      },
+      "122|fusillade of many": {
+        "level": 122,
+        "name": "Fusillade of Many Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67691
+      },
+      "122|shield of inescapability": {
+        "level": 122,
+        "name": "Shield of Inescapability Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67420
+      },
+      "122|shock of memorial steel": {
+        "level": 122,
+        "name": "Shock of Memorial Steel Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67648
+      },
+      "122|valiant symbiosis": {
+        "level": 122,
+        "name": "Valiant Symbiosis Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67670
+      },
+      "123|beam of kukris": {
+        "level": 123,
+        "name": "Beam of Kukris Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67721
+      },
+      "123|boiling skin": {
+        "level": 123,
+        "name": "Boiling Skin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67651
+      },
+      "123|omphacite stance": {
+        "level": 123,
+        "name": "Omphacite Stance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67654
+      },
+      "123|promised reconstitution": {
+        "level": 123,
+        "name": "Promised Reconstitution Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 68015
+      },
+      "123|rain of molten dacite": {
+        "level": 123,
+        "name": "Rain of Molten Dacite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67642
+      },
+      "123|renewal of shoru": {
+        "level": 123,
+        "name": "Renewal of Shoru Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67663
+      },
+      "123|summon valorous servant": {
+        "level": 123,
+        "name": "Summon Valorous Servant Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67724
+      },
+      "123|voidstone bolt": {
+        "level": 123,
+        "name": "Voidstone Bolt Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70513
+      },
+      "124|aegis of valorforged": {
+        "level": 124,
+        "name": "Aegis of Valorforged Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67330
+      },
+      "124|blazing blast": {
+        "level": 124,
+        "name": "Blazing Blast Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70507
+      },
+      "124|chaotic magnanimity": {
+        "level": 124,
+        "name": "Chaotic Magnanimity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67703
+      },
+      "124|cremating sands": {
+        "level": 124,
+        "name": "Cremating Sands Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67660
+      },
+      "124|dismantle the unnatural": {
+        "level": 124,
+        "name": "Dismantle the Unnatural Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66770
+      },
+      "124|iceflame palisade": {
+        "level": 124,
+        "name": "Iceflame Palisade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67679
+      },
+      "124|igneous veil": {
+        "level": 124,
+        "name": "Igneous Veil Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67694
+      },
+      "124|rain of kukris": {
+        "level": 124,
+        "name": "Rain of Kukris Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67667
+      },
+      "125|chaotic magma": {
+        "level": 125,
+        "name": "Chaotic Magma Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67749
+      },
+      "125|firebound covariance": {
+        "level": 125,
+        "name": "Firebound Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70531
+      },
+      "125|gather zeal": {
+        "level": 125,
+        "name": "Gather Zeal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67712
+      },
+      "125|ravening servant": {
+        "level": 125,
+        "name": "Ravening Servant Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67688
+      },
+      "125|remote ravening servant": {
+        "level": 125,
+        "name": "Remote Ravening Servant Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67685
+      },
+      "125|spear of molten dacite": {
+        "level": 125,
+        "name": "Spear of Molten Dacite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67715
+      },
+      "125|summon valorous minion": {
+        "level": 125,
+        "name": "Summon Valorous Minion Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67736
+      },
+      "126|bolt of flame xviii": {
+        "level": 126,
+        "name": "Bolt of Flame XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72584
+      },
+      "126|burnout xvii": {
+        "level": 126,
+        "name": "Burnout XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72601
+      },
+      "126|hulking bodyguard x": {
+        "level": 126,
+        "name": "Hulking Bodyguard X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72638
+      },
+      "126|malaise xvi": {
+        "level": 126,
+        "name": "Malaise XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72581
+      },
+      "126|shielding xxiii": {
+        "level": 126,
+        "name": "Shielding XXIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72723
+      },
+      "127|beam of molten slag xii": {
+        "level": 127,
+        "name": "Beam of Molten Slag XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72614
+      },
+      "127|eidolic guardian xvii": {
+        "level": 127,
+        "name": "Eidolic Guardian XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72592
+      },
+      "127|shield of fate vii": {
+        "level": 127,
+        "name": "Shield of Fate VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72388
+      },
+      "127|shock of blades xix": {
+        "level": 127,
+        "name": "Shock of Blades XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72595
+      },
+      "127|shock of many xi": {
+        "level": 127,
+        "name": "Shock of Many XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72629
+      },
+      "128|beam of daggers viii": {
+        "level": 128,
+        "name": "Beam of Daggers VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72656
+      },
+      "128|promised mending xii": {
+        "level": 128,
+        "name": "Promised Mending XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72927
+      },
+      "128|rain of fire xvi": {
+        "level": 128,
+        "name": "Rain of Fire XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72589
+      },
+      "128|renewal of magmath": {
+        "level": 128,
+        "name": "Renewal of Magmath Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72607
+      },
+      "128|searing skin xi": {
+        "level": 128,
+        "name": "Searing Skin XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72598
+      },
+      "128|summon arcane servant": {
+        "level": 128,
+        "name": "Summon Arcane Servant Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72659
+      },
+      "129|burning sands xiv": {
+        "level": 129,
+        "name": "Burning Sands XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72604
+      },
+      "129|burning veil x": {
+        "level": 129,
+        "name": "Burning Veil X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72632
+      },
+      "129|chaotic boon x": {
+        "level": 129,
+        "name": "Chaotic Boon X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72641
+      },
+      "129|expunge the unnatural": {
+        "level": 129,
+        "name": "Expunge the Unnatural Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71739
+      },
+      "129|iceflame guard xii": {
+        "level": 129,
+        "name": "Iceflame Guard XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72617
+      },
+      "129|rain of blades xvii": {
+        "level": 129,
+        "name": "Rain of Blades XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72611
+      },
+      "130|chaotic fire vi": {
+        "level": 130,
+        "name": "Chaotic Fire VI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72684
+      },
+      "130|gather potential viii": {
+        "level": 130,
+        "name": "Gather Potential VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72647
+      },
+      "130|raging servant xiii": {
+        "level": 130,
+        "name": "Raging Servant XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72626
+      },
+      "130|remote raging servant xiii": {
+        "level": 130,
+        "name": "Remote Raging Servant XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72623
+      },
+      "130|spear of ro x": {
+        "level": 130,
+        "name": "Spear of Ro X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72650
+      },
+      "130|summon arcane minion": {
+        "level": 130,
+        "name": "Summon Arcane Minion Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72671
+      },
+      "130|tellurian bodyguard ix": {
+        "level": 130,
+        "name": "Tellurian Bodyguard IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72653
+      }
+    },
+    "MNK": {
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|fatewalker's synergy": {
+        "level": 121,
+        "name": "Fatewalker's Synergy Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66886
+      },
+      "121|phantom whisper": {
+        "level": 121,
+        "name": "Phantom Whisper Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66893
+      },
+      "122|fatewalker's covariance": {
+        "level": 122,
+        "name": "Fatewalker's Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70305
+      },
+      "122|storied reflexes": {
+        "level": 122,
+        "name": "Storied Reflexes Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66908
+      },
+      "122|tiger's symmetry": {
+        "level": 122,
+        "name": "Tiger's Symmetry Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66902
+      },
+      "123|curse of seventeen facets": {
+        "level": 123,
+        "name": "Curse of Seventeen Facets Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70296
+      },
+      "123|echo of diversion": {
+        "level": 123,
+        "name": "Echo of Diversion Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66882
+      },
+      "123|moment of stillness": {
+        "level": 123,
+        "name": "Moment of Stillness Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66896
+      },
+      "124|fatewalker's precision strike": {
+        "level": 124,
+        "name": "Fatewalker's Precision Strike Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70323
+      },
+      "124|uncia's fang": {
+        "level": 124,
+        "name": "Uncia's Fang Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66914
+      },
+      "125|defy death": {
+        "level": 125,
+        "name": "Defy Death Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66899
+      },
+      "125|flurry of fists": {
+        "level": 125,
+        "name": "Flurry of Fists Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66890
+      },
+      "125|phantom afterimage": {
+        "level": 125,
+        "name": "Phantom Afterimage Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70277
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "126|lifewalker's synergy": {
+        "level": 126,
+        "name": "Lifewalker's Synergy Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71857
+      },
+      "126|phantom wind xviii": {
+        "level": 126,
+        "name": "Phantom Wind XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71864
+      },
+      "127|eagle's symmetry": {
+        "level": 127,
+        "name": "Eagle's Symmetry Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71870
+      },
+      "127|swift reflexes vii": {
+        "level": 127,
+        "name": "Swift Reflexes VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71876
+      },
+      "128|echo of misdirection xii": {
+        "level": 128,
+        "name": "Echo of Misdirection XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71853
+      },
+      "128|sting of the spider": {
+        "level": 128,
+        "name": "Sting of the Spider Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71882
+      },
+      "129|counterforce discipline v": {
+        "level": 129,
+        "name": "Counterforce Discipline V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71891
+      },
+      "129|technique of the shattering fist": {
+        "level": 129,
+        "name": "Technique of the Shattering Fist Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71885
+      },
+      "130|delay death xi": {
+        "level": 130,
+        "name": "Delay Death XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71867
+      },
+      "130|wheel of fists xii": {
+        "level": 130,
+        "name": "Wheel of Fists XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71861
+      }
+    },
+    "NEC": {
+      "121|dotal's swift venom": {
+        "level": 121,
+        "name": "Dotal's Swift Venom Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67369
+      },
+      "121|extort essence": {
+        "level": 121,
+        "name": "Extort Essence Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67288
+      },
+      "121|ghastly leech": {
+        "level": 121,
+        "name": "Ghastly Leech Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67426
+      },
+      "121|goremand's decay": {
+        "level": 121,
+        "name": "Goremand's Decay Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67281
+      },
+      "121|grip of terrastride": {
+        "level": 121,
+        "name": "Grip of Terrastride Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67402
+      },
+      "121|horrifying shriek": {
+        "level": 121,
+        "name": "Horrifying Shriek Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67306
+      },
+      "121|necrotizing venin": {
+        "level": 121,
+        "name": "Necrotizing Venin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67278
+      },
+      "121|shield of memories": {
+        "level": 121,
+        "name": "Shield of Memories Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67788
+      },
+      "122|blevak's swift deconstruction": {
+        "level": 122,
+        "name": "Blevak's Swift Deconstruction Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67387
+      },
+      "122|cascading runeshield": {
+        "level": 122,
+        "name": "Cascading Runeshield Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67372
+      },
+      "122|deterioration": {
+        "level": 122,
+        "name": "Deterioration Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67345
+      },
+      "122|extermination": {
+        "level": 122,
+        "name": "Extermination Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67294
+      },
+      "122|helmsbane's grasp": {
+        "level": 122,
+        "name": "Helmsbane's Grasp Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67297
+      },
+      "122|malevolent covariance": {
+        "level": 122,
+        "name": "Malevolent Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70457
+      },
+      "122|scent of the realm": {
+        "level": 122,
+        "name": "Scent of The Realm Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67300
+      },
+      "122|shield of inescapability": {
+        "level": 122,
+        "name": "Shield of Inescapability Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67420
+      },
+      "122|sigil of putrefaction": {
+        "level": 122,
+        "name": "Sigil of Putrefaction Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67291
+      },
+      "123|arcanaforged's flashblaze": {
+        "level": 123,
+        "name": "Arcanaforged's Flashblaze Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67390
+      },
+      "123|bestow ruin": {
+        "level": 123,
+        "name": "Bestow Ruin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67360
+      },
+      "123|bracing revival": {
+        "level": 123,
+        "name": "Bracing Revival Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67315
+      },
+      "123|chaotic fetor": {
+        "level": 123,
+        "name": "Chaotic Fetor Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67405
+      },
+      "123|golemskin": {
+        "level": 123,
+        "name": "Golemskin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67309
+      },
+      "123|pyre of the abandoned": {
+        "level": 123,
+        "name": "Pyre of the Abandoned Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67318
+      },
+      "123|reminiscence manacles": {
+        "level": 123,
+        "name": "Reminiscence Manacles Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67312
+      },
+      "123|scourge of eternity": {
+        "level": 123,
+        "name": "Scourge of Eternity Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70446
+      },
+      "123|soullash": {
+        "level": 123,
+        "name": "Soullash Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67423
+      },
+      "124|aegis of valorforged": {
+        "level": 124,
+        "name": "Aegis of Valorforged Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67330
+      },
+      "124|afflicted darkness": {
+        "level": 124,
+        "name": "Afflicted Darkness Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67303
+      },
+      "124|ignite remembrance": {
+        "level": 124,
+        "name": "Ignite Remembrance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67351
+      },
+      "124|mind disintegrate": {
+        "level": 124,
+        "name": "Mind Disintegrate Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67336
+      },
+      "124|ogna's swift sickness": {
+        "level": 124,
+        "name": "Ogna's Swift Sickness Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67393
+      },
+      "124|pyre of illandrin": {
+        "level": 124,
+        "name": "Pyre of Illandrin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67342
+      },
+      "124|realmside": {
+        "level": 124,
+        "name": "Realmside Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67324
+      },
+      "124|remote sphere of dissolution": {
+        "level": 124,
+        "name": "Remote Sphere of Dissolution Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70440
+      },
+      "124|uncia's pallid haze": {
+        "level": 124,
+        "name": "Uncia's Pallid Haze Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67321
+      },
+      "124|zoraxmen's command": {
+        "level": 124,
+        "name": "Zoraxmen's Command Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67327
+      },
+      "125|call ravening skeleton": {
+        "level": 125,
+        "name": "Call Ravening Skeleton Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67366
+      },
+      "125|decree for blood": {
+        "level": 125,
+        "name": "Decree for Blood Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67284
+      },
+      "125|immolate bones": {
+        "level": 125,
+        "name": "Immolate Bones Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67399
+      },
+      "125|instill ally": {
+        "level": 125,
+        "name": "Instill Ally Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67354
+      },
+      "125|luggald venom": {
+        "level": 125,
+        "name": "Luggald Venom Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67333
+      },
+      "125|putrefying wounds": {
+        "level": 125,
+        "name": "Putrefying Wounds Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67414
+      },
+      "125|raging shadow": {
+        "level": 125,
+        "name": "Raging Shadow Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67348
+      },
+      "125|trablic's swift lifedraw": {
+        "level": 125,
+        "name": "Trablic's Swift Lifedraw Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67396
+      },
+      "126|dark leech viii": {
+        "level": 126,
+        "name": "Dark Leech VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72394
+      },
+      "126|drain essence xxiii": {
+        "level": 126,
+        "name": "Drain Essence XXIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72268
+      },
+      "126|grip of pustim": {
+        "level": 126,
+        "name": "Grip of Pustim Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72379
+      },
+      "126|lherre's swift venom": {
+        "level": 126,
+        "name": "Lherre's Swift Venom Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72346
+      },
+      "126|pustim's decay": {
+        "level": 126,
+        "name": "Pustim's Decay Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72261
+      },
+      "126|schisming venin": {
+        "level": 126,
+        "name": "Schisming Venin Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72258
+      },
+      "126|screaming terror xiii": {
+        "level": 126,
+        "name": "Screaming Terror XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72286
+      },
+      "126|shielding xxiii": {
+        "level": 126,
+        "name": "Shielding XXIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72723
+      },
+      "127|cascading deathshield ix": {
+        "level": 127,
+        "name": "Cascading Deathshield IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72349
+      },
+      "127|horror xv": {
+        "level": 127,
+        "name": "Horror XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72274
+      },
+      "127|putrefaction xi": {
+        "level": 127,
+        "name": "Putrefaction XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72322
+      },
+      "127|scent of dusk xiii": {
+        "level": 127,
+        "name": "Scent of Dusk XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72280
+      },
+      "127|sharosh's grasp": {
+        "level": 127,
+        "name": "Sharosh's Grasp Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72277
+      },
+      "127|shield of fate vii": {
+        "level": 127,
+        "name": "Shield of Fate VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72388
+      },
+      "127|sigil of death xv": {
+        "level": 127,
+        "name": "Sigil of Death XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72271
+      },
+      "127|xirrim's swift deconstruction": {
+        "level": 127,
+        "name": "Xirrim's Swift Deconstruction Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72364
+      },
+      "128|bestow undeath x": {
+        "level": 128,
+        "name": "Bestow Undeath X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72337
+      },
+      "128|chilling renewal xvi": {
+        "level": 128,
+        "name": "Chilling Renewal XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72295
+      },
+      "128|marith's flashblaze": {
+        "level": 128,
+        "name": "Marith's Flashblaze Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72367
+      },
+      "128|pyre of mori xix": {
+        "level": 128,
+        "name": "Pyre of Mori XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72298
+      },
+      "128|riftbone manacles xiv": {
+        "level": 128,
+        "name": "Riftbone Manacles XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72292
+      },
+      "128|soulrip vii": {
+        "level": 128,
+        "name": "Soulrip VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72391
+      },
+      "128|wraithskin xiii": {
+        "level": 128,
+        "name": "Wraithskin XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72289
+      },
+      "129|clinging darkness xix": {
+        "level": 129,
+        "name": "Clinging Darkness XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72283
+      },
+      "129|dread pyre xiii": {
+        "level": 129,
+        "name": "Dread Pyre XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72319
+      },
+      "129|ignite energy x": {
+        "level": 129,
+        "name": "Ignite Energy X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72328
+      },
+      "129|khrosik's pallid haze": {
+        "level": 129,
+        "name": "Khrosik's Pallid Haze Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72301
+      },
+      "129|mind wrack xiv": {
+        "level": 129,
+        "name": "Mind Wrack XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72313
+      },
+      "129|otherside xx": {
+        "level": 129,
+        "name": "Otherside XX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72304
+      },
+      "129|rasvimun's command": {
+        "level": 129,
+        "name": "Rasvimun's Command Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72307
+      },
+      "129|wremm's swift sickness": {
+        "level": 129,
+        "name": "Wremm's Swift Sickness Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72370
+      },
+      "130|call for blood xiii": {
+        "level": 130,
+        "name": "Call for Blood XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72264
+      },
+      "130|call raging skeleton x": {
+        "level": 130,
+        "name": "Call Raging Skeleton X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72343
+      },
+      "130|ignite bones xiii": {
+        "level": 130,
+        "name": "Ignite Bones XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72376
+      },
+      "130|necrotize ally x": {
+        "level": 130,
+        "name": "Necrotize Ally X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72331
+      },
+      "130|necrotizing wounds viii": {
+        "level": 130,
+        "name": "Necrotizing Wounds VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72382
+      },
+      "130|searing shadow xi": {
+        "level": 130,
+        "name": "Searing Shadow XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72325
+      },
+      "130|silkwhisper venom": {
+        "level": 130,
+        "name": "Silkwhisper Venom Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72310
+      },
+      "130|yirrit's swift lifedraw": {
+        "level": 130,
+        "name": "Yirrit's Swift Lifedraw Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72373
+      }
+    },
+    "PAL": {
+      "121|assuring words": {
+        "level": 121,
+        "name": "Assuring Words Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66373
+      },
+      "121|avowed force": {
+        "level": 121,
+        "name": "Avowed Force Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66274
+      },
+      "121|avowed touch": {
+        "level": 121,
+        "name": "Avowed Touch Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66271
+      },
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|doctrine of repudiation": {
+        "level": 121,
+        "name": "Doctrine of Repudiation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66416
+      },
+      "121|mark of helmsbane": {
+        "level": 121,
+        "name": "Mark of Helmsbane Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66352
+      },
+      "121|reflexive resolution": {
+        "level": 121,
+        "name": "Reflexive Resolution Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70089
+      },
+      "121|revelation": {
+        "level": 121,
+        "name": "Revelation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66316
+      },
+      "121|righteous disdain": {
+        "level": 121,
+        "name": "Righteous Disdain Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66382
+      },
+      "122|avowed light": {
+        "level": 122,
+        "name": "Avowed Light Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66287
+      },
+      "122|avowed penitence": {
+        "level": 122,
+        "name": "Avowed Penitence Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70101
+      },
+      "122|chastise": {
+        "level": 122,
+        "name": "Chastise Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66376
+      },
+      "122|crush of the wayunder": {
+        "level": 122,
+        "name": "Crush of the Wayunder Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66346
+      },
+      "122|fanatical audacity": {
+        "level": 122,
+        "name": "Fanatical Audacity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66391
+      },
+      "122|lesson of remembrance": {
+        "level": 122,
+        "name": "Lesson of Remembrance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66290
+      },
+      "122|mark of the forgotten hero": {
+        "level": 122,
+        "name": "Mark of the Forgotten Hero Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66328
+      },
+      "122|petition for honor": {
+        "level": 122,
+        "name": "Petition for Honor Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66281
+      },
+      "123|armor of avowal": {
+        "level": 123,
+        "name": "Armor of Avowal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66307
+      },
+      "123|armor of heroic faith": {
+        "level": 123,
+        "name": "Armor of Heroic Faith Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66293
+      },
+      "123|avowed cleansing": {
+        "level": 123,
+        "name": "Avowed Cleansing Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66296
+      },
+      "123|burst of sunspring": {
+        "level": 123,
+        "name": "Burst of Sunspring Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66277
+      },
+      "123|gird": {
+        "level": 123,
+        "name": "Gird Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66340
+      },
+      "123|mantle of the remembered": {
+        "level": 123,
+        "name": "Mantle of the Remembered Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66358
+      },
+      "123|paradoxical blessing": {
+        "level": 123,
+        "name": "Paradoxical Blessing Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70123
+      },
+      "123|splash of heroism": {
+        "level": 123,
+        "name": "Splash of Heroism Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66364
+      },
+      "124|angst": {
+        "level": 124,
+        "name": "Angst Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66388
+      },
+      "124|crush of the heroic": {
+        "level": 124,
+        "name": "Crush of the Heroic Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66349
+      },
+      "124|force of the avowed": {
+        "level": 124,
+        "name": "Force of the Avowed Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66410
+      },
+      "124|restoring steel": {
+        "level": 124,
+        "name": "Restoring Steel Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66404
+      },
+      "124|unconditional affirmation": {
+        "level": 124,
+        "name": "Unconditional Affirmation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66394
+      },
+      "124|unwavering stance": {
+        "level": 124,
+        "name": "Unwavering Stance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66343
+      },
+      "124|valiant defiance": {
+        "level": 124,
+        "name": "Valiant Defiance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70095
+      },
+      "124|wave of regret": {
+        "level": 124,
+        "name": "Wave of Regret Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66299
+      },
+      "125|aureate covariance": {
+        "level": 125,
+        "name": "Aureate Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70132
+      },
+      "125|aurora of realizing": {
+        "level": 125,
+        "name": "Aurora of Realizing Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66331
+      },
+      "125|avowed fury": {
+        "level": 125,
+        "name": "Avowed Fury Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66334
+      },
+      "125|brilliant denouncement": {
+        "level": 125,
+        "name": "Brilliant Denouncement Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66355
+      },
+      "125|force of the forge": {
+        "level": 125,
+        "name": "Force of the Forge Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66419
+      },
+      "125|force of the wayunder": {
+        "level": 125,
+        "name": "Force of the Wayunder Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66304
+      },
+      "125|preservation of the fern effect": {
+        "level": 125,
+        "name": "Preservation of the Fern Effect RK. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66325
+      },
+      "125|preservation of the fern": {
+        "level": 125,
+        "name": "Preservation of the Fern Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66322
+      },
+      "125|protective acceptance": {
+        "level": 125,
+        "name": "Protective Acceptance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66367
+      },
+      "126|committal": {
+        "level": 126,
+        "name": "Committal Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71289
+      },
+      "126|eminent force": {
+        "level": 126,
+        "name": "Eminent Force Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71251
+      },
+      "126|eminent touch": {
+        "level": 126,
+        "name": "Eminent Touch Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71248
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "126|mark of sharosh": {
+        "level": 126,
+        "name": "Mark of Sharosh Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71323
+      },
+      "126|righteous indignation viii": {
+        "level": 126,
+        "name": "Righteous Indignation VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71353
+      },
+      "126|soothing words viii": {
+        "level": 126,
+        "name": "Soothing Words VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71344
+      },
+      "127|crush of the crying seas x": {
+        "level": 127,
+        "name": "Crush of the Crying Seas X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71317
+      },
+      "127|denouncement ix": {
+        "level": 127,
+        "name": "Denouncement IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71347
+      },
+      "127|duel for honor": {
+        "level": 127,
+        "name": "Duel for Honor Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71258
+      },
+      "127|eminent light": {
+        "level": 127,
+        "name": "Eminent Light Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71264
+      },
+      "127|holy guardian discipline iv": {
+        "level": 127,
+        "name": "Holy Guardian Discipline IV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71387
+      },
+      "127|impassioned audacity": {
+        "level": 127,
+        "name": "Impassioned Audacity Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71362
+      },
+      "127|lesson of penitence xv": {
+        "level": 127,
+        "name": "Lesson of Penitence XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71267
+      },
+      "128|armor of eminence": {
+        "level": 128,
+        "name": "Armor of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71280
+      },
+      "128|armor of unyielding faith": {
+        "level": 128,
+        "name": "Armor of Unyielding Faith Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71270
+      },
+      "128|burst of sunlight xii": {
+        "level": 128,
+        "name": "Burst of Sunlight XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71254
+      },
+      "128|doctrine of revocation": {
+        "level": 128,
+        "name": "Doctrine of Revocation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71396
+      },
+      "128|impede": {
+        "level": 128,
+        "name": "Impede Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71311
+      },
+      "128|mantle of eminence": {
+        "level": 128,
+        "name": "Mantle of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71329
+      },
+      "128|splash of eminence": {
+        "level": 128,
+        "name": "Splash of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71335
+      },
+      "129|crush of eminence": {
+        "level": 129,
+        "name": "Crush of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71320
+      },
+      "129|force of eminence": {
+        "level": 129,
+        "name": "Force of Eminence Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71381
+      },
+      "129|penitence ix": {
+        "level": 129,
+        "name": "Penitence IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71359
+      },
+      "129|rejuvenating steel vii": {
+        "level": 129,
+        "name": "Rejuvenating Steel VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71375
+      },
+      "129|unquestioned affirmation": {
+        "level": 129,
+        "name": "Unquestioned Affirmation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71365
+      },
+      "129|unyielding stance": {
+        "level": 129,
+        "name": "Unyielding Stance Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71314
+      },
+      "129|wave of inspiration": {
+        "level": 129,
+        "name": "Wave of Inspiration Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71273
+      },
+      "130|aurora of sunlight xi": {
+        "level": 130,
+        "name": "Aurora of Sunlight XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71301
+      },
+      "130|brilliant expurgation": {
+        "level": 130,
+        "name": "Brilliant Expurgation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71326
+      },
+      "130|eminent fury": {
+        "level": 130,
+        "name": "Eminent Fury Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71304
+      },
+      "130|force of akera xv": {
+        "level": 130,
+        "name": "Force of Akera XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71277
+      },
+      "130|force of revocation": {
+        "level": 130,
+        "name": "Force of Revocation Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71399
+      },
+      "130|preservation of quellious effect": {
+        "level": 130,
+        "name": "Preservation of Quellious Effect Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71298
+      },
+      "130|preservation of quellious": {
+        "level": 130,
+        "name": "Preservation of Quellious Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71295
+      },
+      "130|protective confession x": {
+        "level": 130,
+        "name": "Protective Confession X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71338
+      }
+    },
+    "RNG": {
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|drifting obscurity": {
+        "level": 121,
+        "name": "Drifting Obscurity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66429
+      },
+      "121|elizerain spring": {
+        "level": 121,
+        "name": "Elizerain Spring Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66426
+      },
+      "121|hotaria swarm": {
+        "level": 121,
+        "name": "Hotaria Swarm Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66423
+      },
+      "121|inevitable shots": {
+        "level": 121,
+        "name": "Inevitable Shots Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66438
+      },
+      "121|maelstrom of blades": {
+        "level": 121,
+        "name": "Maelstrom of Blades Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66441
+      },
+      "121|reflexive needlespikes": {
+        "level": 121,
+        "name": "Reflexive Needlespikes Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70141
+      },
+      "122|arrowflight": {
+        "level": 122,
+        "name": "Arrowflight Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70138
+      },
+      "122|enraging drop kicks": {
+        "level": 122,
+        "name": "Enraging Drop Kicks Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66451
+      },
+      "122|frostsquall boon": {
+        "level": 122,
+        "name": "Frostsquall Boon Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66454
+      },
+      "122|gelid wind": {
+        "level": 122,
+        "name": "Gelid Wind Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66445
+      },
+      "122|jolting drop kicks": {
+        "level": 122,
+        "name": "Jolting Drop Kicks Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66448
+      },
+      "122|jolting emberquartz": {
+        "level": 122,
+        "name": "Jolting Emberquartz Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66460
+      },
+      "122|lingering obscurity": {
+        "level": 122,
+        "name": "Lingering Obscurity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66466
+      },
+      "123|fernflash boon": {
+        "level": 123,
+        "name": "Fernflash Boon Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66494
+      },
+      "123|fernstalker's covariance": {
+        "level": 123,
+        "name": "Fernstalker's Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70158
+      },
+      "123|laurion ash": {
+        "level": 123,
+        "name": "Laurion Ash Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66479
+      },
+      "123|needlespike coat": {
+        "level": 123,
+        "name": "Needlespike Coat Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66482
+      },
+      "123|shalowain's crucible cloak": {
+        "level": 123,
+        "name": "Shalowain's Crucible Cloak Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66469
+      },
+      "123|swarm of fernflies": {
+        "level": 123,
+        "name": "Swarm of Fernflies Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66485
+      },
+      "123|therapeutic balm": {
+        "level": 123,
+        "name": "Therapeutic Balm Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66476
+      },
+      "124|desperate quenching": {
+        "level": 124,
+        "name": "Desperate Quenching Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66520
+      },
+      "124|devastating spate": {
+        "level": 124,
+        "name": "Devastating Spate Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66514
+      },
+      "124|eyes of the phoenix": {
+        "level": 124,
+        "name": "Eyes of the Phoenix Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66508
+      },
+      "124|focused maelstrom of blades": {
+        "level": 124,
+        "name": "Focused Maelstrom of Blades Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70147
+      },
+      "124|frenzy of arrows": {
+        "level": 124,
+        "name": "Frenzy of Arrows Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66511
+      },
+      "124|summer's deluge": {
+        "level": 124,
+        "name": "Summer's Deluge Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66498
+      },
+      "125|arcing blades": {
+        "level": 125,
+        "name": "Arcing Blades Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66528
+      },
+      "125|concealed shot": {
+        "level": 125,
+        "name": "Concealed Shot Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70167
+      },
+      "125|engulfed by the hunt": {
+        "level": 125,
+        "name": "Engulfed by the Hunt Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66537
+      },
+      "125|fernstalker's discipline": {
+        "level": 125,
+        "name": "Fernstalker's Discipline Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66543
+      },
+      "125|focused frenzy of arrows": {
+        "level": 125,
+        "name": "Focused Frenzy of Arrows Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66534
+      },
+      "125|heartbreak": {
+        "level": 125,
+        "name": "Heartbreak Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66525
+      },
+      "125|shadowveil": {
+        "level": 125,
+        "name": "Shadowveil Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66432
+      },
+      "126|called shots ix": {
+        "level": 126,
+        "name": "Called Shots IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71469
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "126|lifespring": {
+        "level": 126,
+        "name": "Lifespring Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71410
+      },
+      "126|spitestinger swarm": {
+        "level": 126,
+        "name": "Spitestinger Swarm Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71407
+      },
+      "126|storm of blades vii": {
+        "level": 126,
+        "name": "Storm of Blades VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71488
+      },
+      "127|drifting fog xii": {
+        "level": 127,
+        "name": "Drifting Fog XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71417
+      },
+      "127|enraging kicks xii": {
+        "level": 127,
+        "name": "Enraging Kicks XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71485
+      },
+      "127|frozen wind xviii": {
+        "level": 127,
+        "name": "Frozen Wind XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71414
+      },
+      "127|jolting kicks xii": {
+        "level": 127,
+        "name": "Jolting Kicks XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71404
+      },
+      "128|lingering cloud ix": {
+        "level": 128,
+        "name": "Lingering Cloud IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71472
+      },
+      "128|ro's burning cloak vi": {
+        "level": 128,
+        "name": "Ro's Burning Cloak VI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71492
+      },
+      "128|swarm of spitemidges": {
+        "level": 128,
+        "name": "Swarm of Spitemidges Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71460
+      },
+      "128|underbrush coat": {
+        "level": 128,
+        "name": "Underbrush Coat Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71454
+      },
+      "128|volcanic ash xviii": {
+        "level": 128,
+        "name": "Volcanic Ash XVIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71421
+      },
+      "129|desperate deluge ix": {
+        "level": 129,
+        "name": "Desperate Deluge IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71476
+      },
+      "129|devastating blades xii": {
+        "level": 129,
+        "name": "Devastating Blades XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71448
+      },
+      "129|hail of arrows xii": {
+        "level": 129,
+        "name": "Hail of Arrows XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71445
+      },
+      "129|summer's dew xii": {
+        "level": 129,
+        "name": "Summer's Dew XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71424
+      },
+      "130|consumed by the hunt x": {
+        "level": 130,
+        "name": "Consumed by the Hunt X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71479
+      },
+      "130|eyes of the grove": {
+        "level": 130,
+        "name": "Eyes of the Grove Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71441
+      },
+      "130|focused hail of arrows xii": {
+        "level": 130,
+        "name": "Focused Hail of Arrows XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71457
+      },
+      "130|grovestalker's discipline": {
+        "level": 130,
+        "name": "Grovestalker's Discipline Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71498
+      },
+      "130|sparking blades": {
+        "level": 130,
+        "name": "Sparking Blades Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71435
+      }
+    },
+    "ROG": {
+      "121|bamboozle": {
+        "level": 121,
+        "name": "Bamboozle Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67067
+      },
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|reckless edge discipline": {
+        "level": 121,
+        "name": "Reckless Edge Discipline Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67103
+      },
+      "121|unsuspecting mark": {
+        "level": 121,
+        "name": "Unsuspecting Mark Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67093
+      },
+      "122|blinding glister": {
+        "level": 122,
+        "name": "Blinding Glister Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67058
+      },
+      "122|jugular hew": {
+        "level": 122,
+        "name": "Jugular Hew Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67070
+      },
+      "122|queseris' dagger": {
+        "level": 122,
+        "name": "Queseris' Dagger Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70385
+      },
+      "122|shadowed speed discipline": {
+        "level": 122,
+        "name": "Shadowed Speed Discipline Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67121
+      },
+      "123|carve": {
+        "level": 123,
+        "name": "Carve Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67061
+      },
+      "123|poisonous covariance": {
+        "level": 123,
+        "name": "Poisonous Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70388
+      },
+      "123|tenacious dagger-throw": {
+        "level": 123,
+        "name": "Tenacious Dagger-Throw Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67084
+      },
+      "123|venomous blade": {
+        "level": 123,
+        "name": "Venomous Blade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67106
+      },
+      "124|crinotoxin discipline": {
+        "level": 124,
+        "name": "Crinotoxin Discipline Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67112
+      },
+      "124|invidious puncture": {
+        "level": 124,
+        "name": "Invidious Puncture Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70397
+      },
+      "124|pinpoint fault": {
+        "level": 124,
+        "name": "Pinpoint Fault Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67064
+      },
+      "124|trickery": {
+        "level": 124,
+        "name": "Trickery Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67099
+      },
+      "124|veiled blade": {
+        "level": 124,
+        "name": "Veiled Blade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67115
+      },
+      "125|enthralling smoke": {
+        "level": 125,
+        "name": "Enthralling Smoke Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67073
+      },
+      "125|mayhem": {
+        "level": 125,
+        "name": "Mayhem Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67087
+      },
+      "125|storied escape": {
+        "level": 125,
+        "name": "Storied Escape Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67079
+      },
+      "126|ambush xi": {
+        "level": 126,
+        "name": "Ambush XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72042
+      },
+      "126|easy mark x": {
+        "level": 126,
+        "name": "Easy Mark X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72068
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "127|blinding flash xiv": {
+        "level": 127,
+        "name": "Blinding Flash XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72036
+      },
+      "127|indiscernible discipline iv": {
+        "level": 127,
+        "name": "Indiscernible Discipline IV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72084
+      },
+      "127|jugular slash xi": {
+        "level": 127,
+        "name": "Jugular Slash XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72045
+      },
+      "128|bleed x": {
+        "level": 128,
+        "name": "Bleed X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72039
+      },
+      "128|toxic blade viii": {
+        "level": 128,
+        "name": "Toxic Blade VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72078
+      },
+      "128|vigorous dagger-throw x": {
+        "level": 128,
+        "name": "Vigorous Dagger-Throw X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72059
+      },
+      "129|holdout blade vii": {
+        "level": 129,
+        "name": "Holdout Blade VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72099
+      },
+      "129|misdirection ix": {
+        "level": 129,
+        "name": "Misdirection IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72074
+      },
+      "129|visaphen discipline": {
+        "level": 129,
+        "name": "Visaphen Discipline Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72096
+      },
+      "130|assault x": {
+        "level": 130,
+        "name": "Assault X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72062
+      },
+      "130|desperate escape x": {
+        "level": 130,
+        "name": "Desperate Escape X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72054
+      },
+      "130|fatal aim discipline iv": {
+        "level": 130,
+        "name": "Fatal Aim Discipline IV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72090
+      },
+      "130|smokescreen xi": {
+        "level": 130,
+        "name": "Smokescreen XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72048
+      }
+    },
+    "SHD": {
+      "121|bond of tatalros": {
+        "level": 121,
+        "name": "Bond of Tatalros Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66564
+      },
+      "121|charka's bite": {
+        "level": 121,
+        "name": "Charka's Bite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66567
+      },
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|goblin skin": {
+        "level": 121,
+        "name": "Goblin Skin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66648
+      },
+      "121|mental wretchedness": {
+        "level": 121,
+        "name": "Mental Wretchedness Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66685
+      },
+      "121|mortimus' horror": {
+        "level": 121,
+        "name": "Mortimus' Horror Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66612
+      },
+      "121|terror of tarantis": {
+        "level": 121,
+        "name": "Terror of Tarantis Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66579
+      },
+      "122|blood of shoru": {
+        "level": 122,
+        "name": "Blood of Shoru Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66588
+      },
+      "122|incapacitating blade": {
+        "level": 122,
+        "name": "Incapacitating Blade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66663
+      },
+      "122|incensive influence": {
+        "level": 122,
+        "name": "Incensive Influence Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70182
+      },
+      "122|oppressor's audacity": {
+        "level": 122,
+        "name": "Oppressor's Audacity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66660
+      },
+      "122|petition for power": {
+        "level": 122,
+        "name": "Petition for Power Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66582
+      },
+      "122|plague of the fleawalker": {
+        "level": 122,
+        "name": "Plague of the Fleawalker Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66633
+      },
+      "122|shroud of rimeclaw": {
+        "level": 122,
+        "name": "Shroud of Rimeclaw Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66573
+      },
+      "122|vitriolic darkness": {
+        "level": 122,
+        "name": "Vitriolic Darkness Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66651
+      },
+      "123|geomimus mantle": {
+        "level": 123,
+        "name": "Geomimus Mantle Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66636
+      },
+      "123|gift of fandrel": {
+        "level": 123,
+        "name": "Gift of Fandrel Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66594
+      },
+      "123|gird": {
+        "level": 123,
+        "name": "Gird Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66340
+      },
+      "123|insidious repudiation": {
+        "level": 123,
+        "name": "Insidious Repudiation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66691
+      },
+      "123|kanghammer's carapace": {
+        "level": 123,
+        "name": "Kanghammer's Carapace Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66621
+      },
+      "123|kar's covenant": {
+        "level": 123,
+        "name": "Kar's Covenant Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66597
+      },
+      "123|minion of fandrel": {
+        "level": 123,
+        "name": "Minion of Fandrel Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66591
+      },
+      "123|paradoxical disruption": {
+        "level": 123,
+        "name": "Paradoxical Disruption Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70201
+      },
+      "124|animus": {
+        "level": 124,
+        "name": "Animus Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66603
+      },
+      "124|bloodletting covariance": {
+        "level": 124,
+        "name": "Bloodletting Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70213
+      },
+      "124|call of blight": {
+        "level": 124,
+        "name": "Call of Blight Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66654
+      },
+      "124|drape of the ankexfen": {
+        "level": 124,
+        "name": "Drape of the Ankexfen Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66606
+      },
+      "124|odious bargain": {
+        "level": 124,
+        "name": "Odious Bargain Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66681
+      },
+      "124|spear of lazam": {
+        "level": 124,
+        "name": "Spear of Lazam Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66600
+      },
+      "124|unconditional acrimony": {
+        "level": 124,
+        "name": "Unconditional Acrimony Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66666
+      },
+      "124|unwavering stance": {
+        "level": 124,
+        "name": "Unwavering Stance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66343
+      },
+      "124|vitriolic blight": {
+        "level": 124,
+        "name": "Vitriolic Blight Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66657
+      },
+      "125|dire rebuke": {
+        "level": 125,
+        "name": "Dire Rebuke Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66642
+      },
+      "125|dire squelch": {
+        "level": 125,
+        "name": "Dire Squelch Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66645
+      },
+      "125|incarnadine blade": {
+        "level": 125,
+        "name": "Incarnadine Blade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66675
+      },
+      "125|krizad's skin": {
+        "level": 125,
+        "name": "Krizad's Skin Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66627
+      },
+      "125|reflexive retribution": {
+        "level": 125,
+        "name": "Reflexive Retribution Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70176
+      },
+      "125|torrent of desolation": {
+        "level": 125,
+        "name": "Torrent of Desolation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66694
+      },
+      "125|touch of flariton": {
+        "level": 125,
+        "name": "Touch of Flariton Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66609
+      },
+      "125|touch of mortimus": {
+        "level": 125,
+        "name": "Touch of Mortimus Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66558
+      },
+      "126|banshee skin viii": {
+        "level": 126,
+        "name": "Banshee Skin VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71603
+      },
+      "126|bond of the devourer": {
+        "level": 126,
+        "name": "Bond of the Devourer Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71519
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "126|husk devourer's horror": {
+        "level": 126,
+        "name": "Husk Devourer's Horror Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71567
+      },
+      "126|mental horror viii": {
+        "level": 126,
+        "name": "Mental Horror VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71649
+      },
+      "126|terror of telthel": {
+        "level": 126,
+        "name": "Terror of Telthel Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71534
+      },
+      "126|wremm's bite": {
+        "level": 126,
+        "name": "Wremm's Bite Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71522
+      },
+      "127|blood of lherre": {
+        "level": 127,
+        "name": "Blood of Lherre Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71543
+      },
+      "127|duel for power": {
+        "level": 127,
+        "name": "Duel for Power Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71537
+      },
+      "127|festering darkness xi": {
+        "level": 127,
+        "name": "Festering Darkness XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71606
+      },
+      "127|gouging blade viii": {
+        "level": 127,
+        "name": "Gouging Blade VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71618
+      },
+      "127|plague of bonesplinter": {
+        "level": 127,
+        "name": "Plague of Bonesplinter Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71588
+      },
+      "127|shroud of elonik": {
+        "level": 127,
+        "name": "Shroud of Elonik Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71528
+      },
+      "127|tormentor's audacity": {
+        "level": 127,
+        "name": "Tormentor's Audacity Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71615
+      },
+      "127|unholy guardian discipline iv": {
+        "level": 127,
+        "name": "Unholy Guardian Discipline IV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71640
+      },
+      "128|gift of telthel": {
+        "level": 128,
+        "name": "Gift of Telthel Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71549
+      },
+      "128|impede": {
+        "level": 128,
+        "name": "Impede Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71311
+      },
+      "128|insidious deflection vii": {
+        "level": 128,
+        "name": "Insidious Deflection VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71655
+      },
+      "128|minion of telthel": {
+        "level": 128,
+        "name": "Minion of Telthel Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71546
+      },
+      "128|soul carapace xv": {
+        "level": 128,
+        "name": "Soul Carapace XV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71576
+      },
+      "128|telthel's covenant": {
+        "level": 128,
+        "name": "Telthel's Covenant Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71552
+      },
+      "128|waxwork mantle": {
+        "level": 128,
+        "name": "Waxwork Mantle Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71591
+      },
+      "129|call of darkness x": {
+        "level": 129,
+        "name": "Call of Darkness X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71609
+      },
+      "129|drape of spite": {
+        "level": 129,
+        "name": "Drape of Spite Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71561
+      },
+      "129|dread gaze xiii": {
+        "level": 129,
+        "name": "Dread Gaze XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71558
+      },
+      "129|insidious blight ix": {
+        "level": 129,
+        "name": "Insidious Blight IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71612
+      },
+      "129|repugnant bargain vii": {
+        "level": 129,
+        "name": "Repugnant Bargain VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71636
+      },
+      "129|spear of wremm": {
+        "level": 129,
+        "name": "Spear of Wremm Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71555
+      },
+      "129|unquestioned acrimony": {
+        "level": 129,
+        "name": "Unquestioned Acrimony Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71621
+      },
+      "129|unyielding stance": {
+        "level": 129,
+        "name": "Unyielding Stance Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71314
+      },
+      "130|crimson blade viii": {
+        "level": 130,
+        "name": "Crimson Blade VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71630
+      },
+      "130|dire constriction xi": {
+        "level": 130,
+        "name": "Dire Constriction XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71600
+      },
+      "130|dire implication x": {
+        "level": 130,
+        "name": "Dire Implication X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71597
+      },
+      "130|rending of ulnaa": {
+        "level": 130,
+        "name": "Rending of Ulnaa Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71513
+      },
+      "130|ruthless demeanor": {
+        "level": 130,
+        "name": "Ruthless Demeanor Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71664
+      },
+      "130|spitetangle's skin": {
+        "level": 130,
+        "name": "Spitetangle's Skin Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71582
+      },
+      "130|torrent of pain ix": {
+        "level": 130,
+        "name": "Torrent of Pain IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71658
+      },
+      "130|touch of bonesplinter": {
+        "level": 130,
+        "name": "Touch of Bonesplinter Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71564
+      }
+    },
+    "SHM": {
+      "121|breath of the hotariton": {
+        "level": 121,
+        "name": "Breath of the Hotariton Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67140
+      },
+      "121|malevolent decay": {
+        "level": 121,
+        "name": "Malevolent Decay Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67259
+      },
+      "121|overwhelming growth": {
+        "level": 121,
+        "name": "Overwhelming Growth Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66799
+      },
+      "121|red eye's spear of venom": {
+        "level": 121,
+        "name": "Red Eye's Spear of Venom Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67127
+      },
+      "121|rimeclaw's drowse": {
+        "level": 121,
+        "name": "Rimeclaw's Drowse Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67161
+      },
+      "121|talisman of the manul": {
+        "level": 121,
+        "name": "Talisman of the Manul Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67131
+      },
+      "122|grayleaf's recourse": {
+        "level": 122,
+        "name": "Grayleaf's Recourse Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67222
+      },
+      "122|krizad's affliction": {
+        "level": 122,
+        "name": "Krizad's Affliction Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67249
+      },
+      "122|malosinera": {
+        "level": 122,
+        "name": "Malosinera Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67631
+      },
+      "122|mindful spirit": {
+        "level": 122,
+        "name": "Mindful Spirit Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70414
+      },
+      "122|moroseness": {
+        "level": 122,
+        "name": "Moroseness Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67184
+      },
+      "122|suja's faithful": {
+        "level": 122,
+        "name": "Suja's Faithful Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67137
+      },
+      "122|uncia's malady": {
+        "level": 122,
+        "name": "Uncia's Malady Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67219
+      },
+      "123|ancient covariance": {
+        "level": 123,
+        "name": "Ancient Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70425
+      },
+      "123|halcyon gale": {
+        "level": 123,
+        "name": "Halcyon Gale Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67170
+      },
+      "123|hotarata breath": {
+        "level": 123,
+        "name": "Hotarata Breath Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67262
+      },
+      "123|immortal intervention": {
+        "level": 123,
+        "name": "Immortal Intervention Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67200
+      },
+      "123|matlock's mending": {
+        "level": 123,
+        "name": "Matlock's Mending Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67143
+      },
+      "123|oka's bite": {
+        "level": 123,
+        "name": "Oka's Bite Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67151
+      },
+      "123|reminiscent counterbias": {
+        "level": 123,
+        "name": "Reminiscent Counterbias Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67209
+      },
+      "123|skraiw's pandemic": {
+        "level": 123,
+        "name": "Skraiw's Pandemic Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67237
+      },
+      "124|caustic blood": {
+        "level": 124,
+        "name": "Caustic Blood Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67167
+      },
+      "124|ice barrage": {
+        "level": 124,
+        "name": "Ice Barrage Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67155
+      },
+      "124|korsh's venom": {
+        "level": 124,
+        "name": "Korsh's Venom Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67240
+      },
+      "124|malediction": {
+        "level": 124,
+        "name": "Malediction Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67158
+      },
+      "124|nectar of obscurity": {
+        "level": 124,
+        "name": "Nectar of Obscurity Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67175
+      },
+      "124|traumatic exchange": {
+        "level": 124,
+        "name": "Traumatic Exchange Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67148
+      },
+      "125|chaotic bloodcurse": {
+        "level": 125,
+        "name": "Chaotic Bloodcurse Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70420
+      },
+      "125|fandrel's curse": {
+        "level": 125,
+        "name": "Fandrel's Curse Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67256
+      },
+      "125|gelid gift": {
+        "level": 125,
+        "name": "Gelid Gift Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67216
+      },
+      "125|pack of ancestral beasts": {
+        "level": 125,
+        "name": "Pack of Ancestral Beasts Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67203
+      },
+      "125|reckless reinvigoration": {
+        "level": 125,
+        "name": "Reckless Reinvigoration Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67243
+      },
+      "125|reverie of renewal": {
+        "level": 125,
+        "name": "Reverie of Renewal Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67181
+      },
+      "125|ward of heroic deeds": {
+        "level": 125,
+        "name": "Ward of Heroic Deeds Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67194
+      },
+      "126|aramna's drowse": {
+        "level": 126,
+        "name": "Aramna's Drowse Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72138
+      },
+      "126|breath of pustim": {
+        "level": 126,
+        "name": "Breath of Pustim Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72117
+      },
+      "126|insidious decay x": {
+        "level": 126,
+        "name": "Insidious Decay X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72239
+      },
+      "126|talisman of the panther xvi": {
+        "level": 126,
+        "name": "Talisman of the Panther XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72108
+      },
+      "126|tserik's spear of venom": {
+        "level": 126,
+        "name": "Tserik's Spear of Venom Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72105
+      },
+      "126|wild growth x": {
+        "level": 126,
+        "name": "Wild Growth X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71768
+      },
+      "127|aramna's faithful": {
+        "level": 127,
+        "name": "Aramna's Faithful Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72114
+      },
+      "127|baratu's recourse": {
+        "level": 127,
+        "name": "Baratu's Recourse Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72199
+      },
+      "127|lassitude xiii": {
+        "level": 127,
+        "name": "Lassitude XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72160
+      },
+      "127|malaise xvi": {
+        "level": 127,
+        "name": "Malaise XVI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72581
+      },
+      "127|pustim's malady": {
+        "level": 127,
+        "name": "Pustim's Malady Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72196
+      },
+      "127|torrentclaw's affliction": {
+        "level": 127,
+        "name": "Torrentclaw's Affliction Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72226
+      },
+      "128|ancestral intervention xi": {
+        "level": 128,
+        "name": "Ancestral Intervention XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72176
+      },
+      "128|baratu's mending": {
+        "level": 128,
+        "name": "Baratu's Mending Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72120
+      },
+      "128|ghost of renewal xiii": {
+        "level": 128,
+        "name": "Ghost of Renewal XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72157
+      },
+      "128|healing counterbias x": {
+        "level": 128,
+        "name": "Healing Counterbias X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72186
+      },
+      "128|irdrath's pandemic": {
+        "level": 128,
+        "name": "Irdrath's Pandemic Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72214
+      },
+      "128|tserik's bite": {
+        "level": 128,
+        "name": "Tserik's Bite Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72128
+      },
+      "129|ancestral bargain xiv": {
+        "level": 129,
+        "name": "Ancestral Bargain XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72125
+      },
+      "129|blood of torrentclaw": {
+        "level": 129,
+        "name": "Blood of Torrentclaw Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72144
+      },
+      "129|curse xvii": {
+        "level": 129,
+        "name": "Curse XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72135
+      },
+      "129|frost rift xx": {
+        "level": 129,
+        "name": "Frost Rift XX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72132
+      },
+      "129|lherre's venom": {
+        "level": 129,
+        "name": "Lherre's Venom Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72217
+      },
+      "129|nectar of pain xiii": {
+        "level": 129,
+        "name": "Nectar of Pain XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72151
+      },
+      "129|torrentclaw's rain of venom": {
+        "level": 129,
+        "name": "Torrentclaw's Rain of Venom Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72232
+      },
+      "130|frost gift x": {
+        "level": 130,
+        "name": "Frost Gift X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72193
+      },
+      "130|khrosik's breath": {
+        "level": 130,
+        "name": "Khrosik's Breath Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72242
+      },
+      "130|maniadry's curse": {
+        "level": 130,
+        "name": "Maniadry's Curse Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72236
+      },
+      "130|pack of dire wolves": {
+        "level": 130,
+        "name": "Pack of Dire Wolves Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72179
+      },
+      "130|reckless mending viii": {
+        "level": 130,
+        "name": "Reckless Mending VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72220
+      },
+      "130|ward of resurgence xi": {
+        "level": 130,
+        "name": "Ward of Resurgence XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72170
+      }
+    },
+    "WAR": {
+      "121|armor of rallosian runes": {
+        "level": 121,
+        "name": "Armor of Rallosian Runes Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66005
+      },
+      "121|convalesce": {
+        "level": 121,
+        "name": "Convalesce Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66002
+      },
+      "121|mortimus' roar": {
+        "level": 121,
+        "name": "Mortimus' Roar Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66026
+      },
+      "122|end of the line": {
+        "level": 122,
+        "name": "End of the Line Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66062
+      },
+      "122|paradoxical expanse": {
+        "level": 122,
+        "name": "Paradoxical Expanse Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70019
+      },
+      "122|razor tongue discipline": {
+        "level": 122,
+        "name": "Razor Tongue Discipline Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66047
+      },
+      "122|unconditional attention": {
+        "level": 122,
+        "name": "Unconditional Attention Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66038
+      },
+      "123|climactic stand": {
+        "level": 123,
+        "name": "Climactic Stand Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66011
+      },
+      "123|distressing shout": {
+        "level": 123,
+        "name": "Distressing Shout Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66053
+      },
+      "123|infuriate": {
+        "level": 123,
+        "name": "Infuriate Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66020
+      },
+      "123|paradoxical precision": {
+        "level": 123,
+        "name": "Paradoxical Precision Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70028
+      },
+      "124|decisive strike": {
+        "level": 124,
+        "name": "Decisive Strike Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66029
+      },
+      "124|spiraling blades": {
+        "level": 124,
+        "name": "Spiraling Blades Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66017
+      },
+      "124|warrior's resolve": {
+        "level": 124,
+        "name": "Warrior's Resolve Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66059
+      },
+      "125|field bulwark": {
+        "level": 125,
+        "name": "Field Bulwark Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66032
+      },
+      "125|shield split": {
+        "level": 125,
+        "name": "Shield Split Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70002
+      },
+      "125|vigorous defense": {
+        "level": 125,
+        "name": "Vigorous Defense Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 66035
+      },
+      "126|bazu roar x": {
+        "level": 126,
+        "name": "Bazu Roar X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71020
+      },
+      "126|hiatus v": {
+        "level": 126,
+        "name": "Hiatus V Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71002
+      },
+      "127|cyclone blades xiv": {
+        "level": 127,
+        "name": "Cyclone Blades XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71011
+      },
+      "127|unquestioned attention": {
+        "level": 127,
+        "name": "Unquestioned Attention Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71032
+      },
+      "128|final stand discipline vi": {
+        "level": 128,
+        "name": "Final Stand Discipline VI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71005
+      },
+      "128|harassing shout vii": {
+        "level": 128,
+        "name": "Harassing Shout VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71041
+      },
+      "128|provoke xix": {
+        "level": 128,
+        "name": "Provoke XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71014
+      },
+      "129|opportunistic strike ix": {
+        "level": 129,
+        "name": "Opportunistic Strike IX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71023
+      },
+      "129|warrior's auspice vii": {
+        "level": 129,
+        "name": "Warrior's Auspice VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71047
+      },
+      "130|bracing defense x": {
+        "level": 130,
+        "name": "Bracing Defense X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71029
+      },
+      "130|field armorer x": {
+        "level": 130,
+        "name": "Field Armorer X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 71026
+      }
+    },
+    "WIZ": {
+      "121|aegis of remembrance": {
+        "level": 121,
+        "name": "Aegis of Remembrance Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67519
+      },
+      "121|claw of the battleforged": {
+        "level": 121,
+        "name": "Claw of the Battleforged Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67581
+      },
+      "121|concussive blast": {
+        "level": 121,
+        "name": "Concussive Blast Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67445
+      },
+      "121|cremating beam": {
+        "level": 121,
+        "name": "Cremating Beam Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67540
+      },
+      "121|glacial ice block": {
+        "level": 121,
+        "name": "Glacial Ice Block Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70473
+      },
+      "121|katelamaka": {
+        "level": 121,
+        "name": "Katelamaka Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67575
+      },
+      "121|lure of winter memories": {
+        "level": 121,
+        "name": "Lure of Winter Memories Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67439
+      },
+      "121|shield of memories": {
+        "level": 121,
+        "name": "Shield of Memories Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67788
+      },
+      "121|wildspell strike": {
+        "level": 121,
+        "name": "Wildspell Strike Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67545
+      },
+      "122|cloudburst lightningstrike": {
+        "level": 122,
+        "name": "Cloudburst Lightningstrike Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67460
+      },
+      "122|contemplative harvest": {
+        "level": 122,
+        "name": "Contemplative Harvest Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67457
+      },
+      "122|ethereal blitz": {
+        "level": 122,
+        "name": "Ethereal Blitz Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67578
+      },
+      "122|frostbound covariance": {
+        "level": 122,
+        "name": "Frostbound Covariance Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70492
+      },
+      "122|gyre of flame": {
+        "level": 122,
+        "name": "Gyre of Flame Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67454
+      },
+      "122|leap of static arcs": {
+        "level": 122,
+        "name": "Leap of Static Arcs Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67477
+      },
+      "122|rime pillar": {
+        "level": 122,
+        "name": "Rime Pillar Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67565
+      },
+      "122|shield of inescapability": {
+        "level": 122,
+        "name": "Shield of Inescapability Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67420
+      },
+      "122|spinalfreeze": {
+        "level": 122,
+        "name": "Spinalfreeze Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67571
+      },
+      "123|chaos flare": {
+        "level": 123,
+        "name": "Chaos Flare Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67537
+      },
+      "123|chromospheric vortex": {
+        "level": 123,
+        "name": "Chromospheric Vortex Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70469
+      },
+      "123|claw of ingot": {
+        "level": 123,
+        "name": "Claw of Ingot Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67607
+      },
+      "123|coolmist guard": {
+        "level": 123,
+        "name": "Coolmist Guard Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67528
+      },
+      "123|frostblast": {
+        "level": 123,
+        "name": "Frostblast Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67480
+      },
+      "123|funnel of uncia": {
+        "level": 123,
+        "name": "Funnel of Uncia Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67557
+      },
+      "123|lightning cyclone": {
+        "level": 123,
+        "name": "Lightning Cyclone Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67474
+      },
+      "123|lure of the arcanaforged": {
+        "level": 123,
+        "name": "Lure of the Arcanaforged Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67465
+      },
+      "123|mail of the crystalwing": {
+        "level": 123,
+        "name": "Mail of the Crystalwing Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67468
+      },
+      "124|bifurcated lightning": {
+        "level": 124,
+        "name": "Bifurcated Lightning Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67471
+      },
+      "124|ethereal freeze": {
+        "level": 124,
+        "name": "Ethereal Freeze Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67562
+      },
+      "124|flashroast": {
+        "level": 124,
+        "name": "Flashroast Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67501
+      },
+      "124|glacial ice cascade": {
+        "level": 124,
+        "name": "Glacial Ice Cascade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67495
+      },
+      "124|kindleheart's pyroblade": {
+        "level": 124,
+        "name": "Kindleheart's Pyroblade Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67498
+      },
+      "124|planarflame pillar": {
+        "level": 124,
+        "name": "Planarflame Pillar Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67568
+      },
+      "124|planescale husk": {
+        "level": 124,
+        "name": "Planescale Husk Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67489
+      },
+      "124|self-ignition": {
+        "level": 124,
+        "name": "Self-Ignition Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70463
+      },
+      "124|volcanic burst": {
+        "level": 124,
+        "name": "Volcanic Burst Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67492
+      },
+      "125|claw of ankexfen": {
+        "level": 125,
+        "name": "Claw of Ankexfen Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67510
+      },
+      "125|contemplative gambit": {
+        "level": 125,
+        "name": "Contemplative Gambit Rk. III",
+        "expansion": "The Outer Brood",
+        "spell_id": 70476
+      },
+      "125|ethereal immolation": {
+        "level": 125,
+        "name": "Ethereal Immolation Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67436
+      },
+      "125|kindleheart's fire": {
+        "level": 125,
+        "name": "Kindleheart's Fire Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67525
+      },
+      "125|rimeclaw torrent": {
+        "level": 125,
+        "name": "Rimeclaw Torrent Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67522
+      },
+      "125|tears of the rescued": {
+        "level": 125,
+        "name": "Tears of the Rescued Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67442
+      },
+      "125|teladaka": {
+        "level": 125,
+        "name": "Teladaka Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67516
+      },
+      "125|thricewoven effulgence": {
+        "level": 125,
+        "name": "Thricewoven Effulgence Rk. III",
+        "expansion": "Laurion's Song",
+        "spell_id": 67531
+      },
+      "126|aegis of feish": {
+        "level": 126,
+        "name": "Aegis of Feish Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72475
+      },
+      "126|claw of windshear": {
+        "level": 126,
+        "name": "Claw of Windshear Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72531
+      },
+      "126|concussive blast xii": {
+        "level": 126,
+        "name": "Concussive Blast XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72410
+      },
+      "126|corona beam x": {
+        "level": 126,
+        "name": "Corona Beam X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72490
+      },
+      "126|katelaka viii": {
+        "level": 126,
+        "name": "Katelaka VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72525
+      },
+      "126|shielding xxiii": {
+        "level": 126,
+        "name": "Shielding XXIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72723
+      },
+      "126|wildmagic strike xii": {
+        "level": 126,
+        "name": "Wildmagic Strike XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72495
+      },
+      "127|cloudburst strike xii": {
+        "level": 127,
+        "name": "Cloudburst Strike XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72425
+      },
+      "127|ethereal barrage viii": {
+        "level": 127,
+        "name": "Ethereal Barrage VIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72528
+      },
+      "127|frost pillar xiii": {
+        "level": 127,
+        "name": "Frost Pillar XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72515
+      },
+      "127|harvest xiii": {
+        "level": 127,
+        "name": "Harvest XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72422
+      },
+      "127|mindfreeze x": {
+        "level": 127,
+        "name": "Mindfreeze X Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72521
+      },
+      "127|ring of fire xi": {
+        "level": 127,
+        "name": "Ring of Fire XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72419
+      },
+      "127|shield of fate vii": {
+        "level": 127,
+        "name": "Shield of Fate VII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72388
+      },
+      "128|chaos flame xiii": {
+        "level": 128,
+        "name": "Chaos Flame XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72487
+      },
+      "128|claw of ashenback": {
+        "level": 128,
+        "name": "Claw of Ashenback Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72557
+      },
+      "128|cold snap xii": {
+        "level": 128,
+        "name": "Cold Snap XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72439
+      },
+      "128|funnel of frost xi": {
+        "level": 128,
+        "name": "Funnel of Frost XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72507
+      },
+      "128|lightning helix xii": {
+        "level": 128,
+        "name": "Lightning Helix XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72436
+      },
+      "128|scales of the crystalwing xix": {
+        "level": 128,
+        "name": "Scales of the Crystalwing XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72430
+      },
+      "128|tendrilmist guard xii": {
+        "level": 128,
+        "name": "Tendrilmist Guard XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72484
+      },
+      "129|ethereal ice xi": {
+        "level": 129,
+        "name": "Ethereal Ice XI Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72512
+      },
+      "129|fire pillar xiii": {
+        "level": 129,
+        "name": "Fire Pillar XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72518
+      },
+      "129|flashfires xii": {
+        "level": 129,
+        "name": "Flashfires XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72457
+      },
+      "129|glacial cascade xii": {
+        "level": 129,
+        "name": "Glacial Cascade XII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72451
+      },
+      "129|leap of lightning xiv": {
+        "level": 129,
+        "name": "Leap of Lightning XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72433
+      },
+      "129|volcanic eruption xiv": {
+        "level": 129,
+        "name": "Volcanic Eruption XIV Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72448
+      },
+      "130|claw of tsikut": {
+        "level": 130,
+        "name": "Claw of Tsikut Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72466
+      },
+      "130|ethereal fire xiii": {
+        "level": 130,
+        "name": "Ethereal Fire XIII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72404
+      },
+      "130|frost storm xvii": {
+        "level": 130,
+        "name": "Frost Storm XVII Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72478
+      },
+      "130|tears of ashbark": {
+        "level": 130,
+        "name": "Tears of Ashbark Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72407
+      },
+      "130|teknaz's fire": {
+        "level": 130,
+        "name": "Teknaz's Fire Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72481
+      },
+      "130|telaka xix": {
+        "level": 130,
+        "name": "Telaka XIX Rk. III",
+        "expansion": "Shattering of Ro",
+        "spell_id": 72472
+      }
+    }
+  }
+}

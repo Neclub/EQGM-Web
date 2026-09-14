@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: eqgm-web
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT --workers 1
+    envVars:
+      - key: PYTHONPATH
+        value: .:src
+      - key: EQGM_CACHE_SEED
+        value: cache

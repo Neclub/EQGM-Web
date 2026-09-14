@@ -1,0 +1,308 @@
+{
+  "source": "https://docs.google.com/spreadsheets/d/1kwLn79RtRPGlUNssOPp8weE5RlQHXizX3c7Y1d9iuBw/edit?gid=1352580018",
+  "classes": {
+    "BRD": {
+      "name": "Bard",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "BST": {
+      "name": "Beastlord",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Devotee's Fortification of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "BER": {
+      "name": "Berserker",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "CLR": {
+      "name": "Cleric",
+      "primary": [
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Acolyte's Enhancement of the Harbinger",
+        "Acolyte's Enhancement of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger",
+        "Devotee's Enhancement of Legacies Lost",
+        "Devotee's Ventral Defense of the Harbinger"
+      ],
+      "optional": []
+    },
+    "DRU": {
+      "name": "Druid",
+      "primary": [
+        "Acolyte's Casting Fire of the Harbinger",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "ENC": {
+      "name": "Enchanter",
+      "primary": [
+        "Acolyte's Casting Fire of the Harbinger",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "MAG": {
+      "name": "Magician",
+      "primary": [
+        "Acolyte's Casting Fire of the Harbinger",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "MNK": {
+      "name": "Monk",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "NEC": {
+      "name": "Necromancer",
+      "primary": [
+        "Acolyte's Casting Fire of the Harbinger",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "PAL": {
+      "name": "Paladin",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Ventral Defense of Enduring Harmony"
+      ],
+      "optional": [
+        "Devotee's Soothing of Enduring Harmony"
+      ]
+    },
+    "RNG": {
+      "name": "Ranger",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Devotee's Fortification of the Harbinger"
+      ],
+      "optional": []
+    },
+    "ROG": {
+      "name": "Rogue",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "SHD": {
+      "name": "Shadow Knight",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Ventral Defense of Enduring Harmony"
+      ],
+      "optional": [
+        "Devotee's Soothing of Enduring Harmony"
+      ]
+    },
+    "SHM": {
+      "name": "Shaman",
+      "primary": [
+        "Acolyte's Casting Fire of the Harbinger",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "WAR": {
+      "name": "Warrior",
+      "primary": [
+        "Acolyte's Attacker of the Harbinger",
+        "Acolyte's Attacker of Legacies Lost",
+        "Devotee's Attacker of the Harbinger",
+        "Devotee's Attacker of Enduring Harmony",
+        "Acolyte's Fortification of the Harbinger",
+        "Acolyte's Fortification of Legacies Lost",
+        "Devotee's Fortification of the Harbinger",
+        "Devotee's Fortification of Legacies Lost",
+        "Devotee's Ventral Defense of Enduring Harmony"
+      ],
+      "optional": [
+        "Devotee's Soothing of Enduring Harmony",
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    },
+    "WIZ": {
+      "name": "Wizard",
+      "primary": [
+        "Acolyte's Casting Fire of the Harbinger",
+        "Acolyte's Casting Ice of Legacies Lost",
+        "Devotee's Casting Fire of the Harbinger",
+        "Devotee's Casting Magic of Enduring Harmony",
+        "Acolyte's Strategy of the Harbinger",
+        "Acolyte's Strategy of Legacies Lost",
+        "Devotee's Strategy of the Harbinger",
+        "Devotee's Strategy of Legacies Lost",
+        "Devotee's Enhancement of the Harbinger"
+      ],
+      "optional": [
+        "Acolyte's Assault of Legacies Lost",
+        "Devotee's Assaulting Magic of Enduring Harmony",
+        "Acolyte's Assault of the Harbinger",
+        "Devotee's Assaulting Fire of the Harbinger"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4321 @@
+{
+  "source": "SOR - Raccoo's list of useful spells.xlsx",
+  "spells_by_class": {
+    "BRD": [
+      {
+        "name": "Aura of Kenburk",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Sorrowful Song of Suffering",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Severyn's Chant of Flame",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wave of Slumber X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Arcane Aria XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Alliana's Lively Crescendo",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Slumber of Keftlik",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Voice of Keftlik",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "War March of the Burning Host",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Alleviating Accelerando VIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chorus of Quellious",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Onkrin's Reckless Renewal",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Khrosik's Chant of Poison",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Psalm of Veeshan",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Cutting Insult",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tsikut's Chant of Frost",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Aria of Absolution",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Cure to replace ROF version"
+      },
+      {
+        "name": "Aria of Kenburk",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pustim's Chant of Disease",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Lullaby of the Sundered",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pulse of Quellious",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Covariance of Stick's and Stones",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Yaran's Demand",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Yaran's Disdain",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reflexive Rebuke",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Aura of Tenisbre",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "War Chorus of the Bloodbeast",
+        "level": 120,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Selo's Accelerato",
+        "level": 66,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": "Required for AA"
+      },
+      {
+        "name": "Soothing Psalm of the Sunrise",
+        "level": 57,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": "Gradually removes drunken effects from group"
+      },
+      {
+        "name": "Harmony of Tone",
+        "level": 97,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": "Resist debuff"
+      },
+      {
+        "name": "Oratory of Invitation",
+        "level": 94,
+        "expansion": "VOA",
+        "highest_rk": "III",
+        "comments": "Pulls target towards you"
+      },
+      {
+        "name": "Oratory of Opposition",
+        "level": 94,
+        "expansion": "VOA",
+        "highest_rk": "III",
+        "comments": "Pushes target away from you"
+      },
+      {
+        "name": "Lapsing Lullaby",
+        "level": 92,
+        "expansion": "VOA",
+        "highest_rk": "III",
+        "comments": "Memory blur"
+      },
+      {
+        "name": "Cantata of Courage",
+        "level": 85,
+        "expansion": "SOD",
+        "highest_rk": "III",
+        "comments": "Group Fear immunity"
+      },
+      {
+        "name": "Fermata of Preservation",
+        "level": 73,
+        "expansion": "TSS",
+        "highest_rk": "II",
+        "comments": "Divine Aura"
+      },
+      {
+        "name": "Jonthan's Mightful Caretaker",
+        "level": 71,
+        "expansion": "TBS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Druzzil's Disillusionment",
+        "level": 62,
+        "expansion": "POP",
+        "highest_rk": "n/a",
+        "comments": "Dispell/Cancel magic"
+      },
+      {
+        "name": "Kazumi's Note of Preservation",
+        "level": 60,
+        "expansion": "ROK",
+        "highest_rk": "n/a",
+        "comments": "Group Divine Aura"
+      },
+      {
+        "name": "Amplification",
+        "level": 30,
+        "expansion": "SOL",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "BST": [
+      {
+        "name": "Shar`Drahn's Chill",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tallongast's Maelstrom",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bark at the Moon XII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Grimclaw's Feralgia",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Feralist's Unity VII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Warder's Unity VI",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Growl of the Panther XIV",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Glacial Roar IX",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Khrosik's Bite",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spirit of Irdrath",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Harrow XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Frigid Lance XII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Frozen Venom X",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Incomparable Velocity XI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Promised Mending XII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spirit of Orvain",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Spiritual Enlightenment XVII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Flurry of Claws IX",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tsetsian Endemic XII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spiter Blood",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spiritual Vigor XV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Lydora's Mending",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bestial Vivisection VI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Focus of Aramna",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Pack Leader's Aggression",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pack Leader's Protection",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Salve of Lydora",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Xanathan's Vindication",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reflexive Slashing",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Venomous Covariance",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Auspice of Usira",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Monkey's Guile Discipline",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spirit of Tala'Tak",
+        "level": 79,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Savage Rancor",
+        "level": 104,
+        "expansion": "TBM",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Dichotemic Fury",
+        "level": 101,
+        "expansion": "TBM",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Focused Clamor of Claws",
+        "level": 98,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shared Merciless Ferocity",
+        "level": 100,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ruaabri's Fury",
+        "level": 98,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Protective Spirit",
+        "level": 55,
+        "expansion": "SOL",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "BER": [
+      {
+        "name": "Axe of Trung",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Obliterating Volley",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shared Bloodlust X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Augmented Frenzy VII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Conditioned Retaliation V",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Slap in the Face IX",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Obliterating Axe Throw",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Obliterating Frenzy",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Festering Rage",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Axe of the Obliterator",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Anticipatory Retaliation",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ceremonial Bloodletting",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgraded from TOL"
+      },
+      {
+        "name": "Eviscerator's Covariance",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Arcscale",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Draining Strikes",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Rage",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Axe of the Eviscerator",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": "Required for Reciprocal Rage"
+      },
+      {
+        "name": "Mangling Disc",
+        "level": 108,
+        "expansion": "ROS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Disconcerting",
+        "level": 104,
+        "expansion": "EOK",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Brutal Disc",
+        "level": 100,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Cry Carnage",
+        "level": 98,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Frenzied Resolve",
+        "level": 94,
+        "expansion": "VOA",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Avenging Flurry",
+        "level": 89,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Cleaving Acrimony",
+        "level": 86,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bloodlust Aura",
+        "level": 70,
+        "expansion": "POR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Ancient: Cry of Chaos",
+        "level": 65,
+        "expansion": "GOD",
+        "highest_rk": "n/a",
+        "comments": "Ancients aren’t found in the PoK Library"
+      },
+      {
+        "name": "Reckless Discipline",
+        "level": 56,
+        "expansion": "GOD",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "CLR": [
+      {
+        "name": "Armor of the Eminent",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Desperate Renewal XIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Elixir of Absolution",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eminent Contravention",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Flourishing Splash",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Issuance of Eminence",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "This was changed from a Median spell to a Glowing"
+      },
+      {
+        "name": "Unified Hand of Sharosh",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Unified Hand of Aegolism XV",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Shining Rampart IX",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "This was changed from a Greater spell to a Glowing"
+      },
+      {
+        "name": "Tectonic Quake XVI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chromaclast",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Expunge the Undead",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "This was changed from a Minor spell to a Greater"
+      },
+      {
+        "name": "Mastery: Purge Corruption",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Mastery: Sanctified Blood",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Mark of the Righteous XIV",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Silent Injunction",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unyielding Demunication",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Word of of Replenishment XIII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Emninent Intervention",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Promised Renewal XII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Syllable of Wellbeing",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Vow of Vitriol XI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Agro proc"
+      },
+      {
+        "name": "Divine Interstition",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hammer of Eminence",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Summon weapon"
+      },
+      {
+        "name": "Sermon of Eminence",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unified Aegolism",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Veto",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ward of Retribution",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ward of Virtue VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Holy Remedy XIV",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unity of Sharosh",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Vow of Valor XI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Yaulp XIX",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Required for AA Yaulp to work"
+      },
+      {
+        "name": "Anticipated Interstition",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Blessing",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Avowed Contravention",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Heroic Renewal",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Avowed Intervention",
+        "level": 123,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Banish the Undead",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Avowed Remedy",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Aura of the Persistent",
+        "level": 119,
+        "expansion": "NOS",
+        "highest_rk": "III",
+        "comments": "Aura"
+      },
+      {
+        "name": "Divine Contravention",
+        "level": 120,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bastion of Divinity",
+        "level": 120,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": "Aura"
+      },
+      {
+        "name": "Atoned Intervention",
+        "level": 118,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Guileless Remedy",
+        "level": 116,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Extirpate the Undead",
+        "level": 116,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Blood of the Vicarum",
+        "level": 105,
+        "expansion": "TBM",
+        "highest_rk": "III",
+        "comments": "Not particularly strong in any way, but the last reverse DS viral"
+      },
+      {
+        "name": "Superior Reviviscence",
+        "level": 76,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Disease",
+        "level": 58,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Curse",
+        "level": 54,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": "Better than RGC"
+      },
+      {
+        "name": "Eradicate Poison",
+        "level": 52,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Aura of the Pious",
+        "level": 70,
+        "expansion": "POR",
+        "highest_rk": "n/a",
+        "comments": "Aura"
+      }
+    ],
+    "DRU": [
+      {
+        "name": "Chill of the Grovetender",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Rime Crystals XII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Barkspur Rush VII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Lunamend",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mask of the Grovetender",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Nature's Blazing Wrath XII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Remote Sunflare X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Changed from a Median to a Glowing spell"
+      },
+      {
+        "name": "Rejuvilation IX",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tectonic Quake XVI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Skin of the Reptile XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Gelid Frost XI",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Gelid Moonbeam IX",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Remote Moonfire VII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Summer Solstice XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Sunscorch XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Sanctified Blood",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Brackenbriar Coat",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Frostfell Aura IX",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Aura"
+      },
+      {
+        "name": "Heliacal Flare VIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Horde of Spitewasps",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Sundew Blessing X",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Survival of the Fittest XI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Katabatic Roar VIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Winter's Wildflame",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Expunge the Unnatural",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Chant of the Zelniak",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Grovewood Blessing",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Lunar Chill VIII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Legacy of Brackenbriars",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Wild Growth X",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pillar of Ro VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Puravida XI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Nightwhisper's Breeze",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Beast's Beckoning XVIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Nurturing Growth VI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Barkspur XIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Blistering Sunray XII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Grasp of Ro IX",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Dismantle the Unnatural",
+        "level": 122,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Emberquartz Skin",
+        "level": 122,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Flight of Falcons",
+        "level": 91,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": "Required for AA to work"
+      },
+      {
+        "name": "Spirit of Falcons",
+        "level": 74,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Vinelash Assault",
+        "level": 97,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Disease",
+        "level": 58,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Poison",
+        "level": 58,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Curse",
+        "level": 54,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from RGC"
+      },
+      {
+        "name": "Mammoth's Force",
+        "level": 86,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Twincast",
+        "level": 85,
+        "expansion": "SOD",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Preincarnation",
+        "level": 80,
+        "expansion": "SOF",
+        "highest_rk": "III",
+        "comments": "Required for AA to work \nRk. III is quested"
+      }
+    ],
+    "ENC": [
+      {
+        "name": "Enticer's Command",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Enticer's Unity",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Mana Recursion Aura XI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mind Shatter XV",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mindblade IX",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Synergy"
+      },
+      {
+        "name": "Polychromatic Rune XII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ward of Bedazzlement XII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Rune of the Vortex",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mesmerizing Wave XV",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Strangle XVII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Amplifying Aura VII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Empowered Minion IV",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Legion of Feish",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mana Recursion XI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Voice of Clairvoyance XVIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Charm XVII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tashan XVII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Required for Bite of Tashan AA"
+      },
+      {
+        "name": "Shield of Fate VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Rune XIX",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Arkahn's Animation",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mesmerize XX",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hastening of Elluria",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Legion of Boberstler",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Arcane Rune XIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shielding XXIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Night's Eternal Terror",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Stupefier's Demand",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Stupefier's Auspice",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Reinforcement",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Mindrend",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": "Synergy"
+      },
+      {
+        "name": "Vexing Glance",
+        "level": 124,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Preordination",
+        "level": 123,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Inhibiting Helix",
+        "level": 123,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": "Required for Slowing Helix and Enveloping Helix AA"
+      },
+      {
+        "name": "Speed of Margator",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Twincast Aura",
+        "level": 84,
+        "expansion": "SOD",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Learner's Aura",
+        "level": 76,
+        "expansion": "SOF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Greater Fetter",
+        "level": 61,
+        "expansion": "POP",
+        "highest_rk": "n/a",
+        "comments": "Highest level root spell"
+      }
+    ],
+    "MAG": [
+      {
+        "name": "Monster Summoning XVI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Chaotic Fire VI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Gather Potential VIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tellurian Bodyguard IX",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Raging Servant XIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spear of Ro X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Expunge the Unnatural",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chaotic Boon X",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Iceflame Guard XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Beam of Daggers VIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Searing Skin XI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Promised Mending XII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Rewewal of Magmath",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Beam of Molten Slag XII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eidolic Guardian XVII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shock of Many XI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Water Elemental XXVI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Rod of Shattered Modulation",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Shield of Fate VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Burnout XVI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bolt of Flame XVIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Circle of Fireskin XVI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Malaise XVI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shielding XXIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Summon Molten Dacite Orb",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Grant Visor of Usira",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Auspice of Usira",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spear of Molten Dacite",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Valiant Symbiosis",
+        "level": 122,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bolt of Molten Dacite",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": "For Orb clicky"
+      },
+      {
+        "name": "Summon Cauldron of Endless Abundance",
+        "level": 120,
+        "expansion": "NOS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Call of the Heroes",
+        "level": 97,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Arcane Distillect",
+        "level": 85,
+        "expansion": "UF",
+        "highest_rk": "",
+        "comments": ""
+      },
+      {
+        "name": "Twincast",
+        "level": 85,
+        "expansion": "SOD",
+        "highest_rk": "III",
+        "comments": ""
+      }
+    ],
+    "MNK": [
+      {
+        "name": "Delay Death XI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wheel of Fists XII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Counterforce Discipline V",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgraded from TOL"
+      },
+      {
+        "name": "Echo of Misdirection XII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eagle's Symmetry",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Lifewalker's Synergy",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Fatewalker's Precision Strike",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Curse of Seventeen Facets",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Fatewalker's Covariance",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Form",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Uncia's Fang",
+        "level": 124,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Moment of Stillness",
+        "level": 123,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bloodwalker's Precision Strike",
+        "level": 119,
+        "expansion": "NOS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Technique of the Lunar Fist",
+        "level": 119,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Icewalker's Precision Strike",
+        "level": 114,
+        "expansion": "COV",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Heron Stance",
+        "level": 112,
+        "expansion": "TOV",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Firewalker's Precision Strike",
+        "level": 109,
+        "expansion": "TBL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Doomwalker's Precision Strike",
+        "level": 104,
+        "expansion": "EOK",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reflex",
+        "level": 98,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Heel of Zagali",
+        "level": 100,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Terrorpalm",
+        "level": 99,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eye of the Storm",
+        "level": 98,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shaded Step",
+        "level": 97,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Earthforce",
+        "level": 96,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ironfist",
+        "level": 88,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Drunken Monkey Style",
+        "level": 85,
+        "expansion": "UF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Vigorous Shuriken",
+        "level": 83,
+        "expansion": "UF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chrono Projection",
+        "level": 82,
+        "expansion": "SOD",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Master's Aura",
+        "level": 70,
+        "expansion": "POR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Speed Focus Disc",
+        "level": 63,
+        "expansion": "POP",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "NEC": [
+      {
+        "name": "Call Raging Skeleton X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Call for Blood XIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ignite Bones XIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Necrotize Ally X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Necrotizing Wounds VIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Dark Assassin XVI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Silkwhisper Venom",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Searing Shadow XI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ignite Energy X",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mind Wrack XIV",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Dread Pyre XIII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Otherside XX",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Khrosik's Pallid Haze",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Rasvimun's Command",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chilling Renewal XVI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wraithskin XIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pyre of Mori XIX",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Riftbone Manacles XIV",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Cascading Deathshield IX",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Putrefaction XI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Horror XV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Sharosh's Grasp",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Scent of Dusk XIII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shield of Fate VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Sigil of Death XV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Dark Leech VIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pustim's Decay",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Grip of Pustim",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shielding XXIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tormentor's Proclamation",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Goremand's Grip of Decay",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Remote Sphere of Dissolution",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Malevolent Covariance",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Paroxysm",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Shackle",
+        "level": 98,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Scent of Terris",
+        "level": 52,
+        "expansion": "ROK",
+        "highest_rk": "n/a",
+        "comments": "Required for AA Scent of Thule"
+      }
+    ],
+    "PAL": [
+      {
+        "name": "Brilliant Expurgation",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eminent Fury",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Required for Divine Protector's Unity"
+      },
+      {
+        "name": "Force of Akera XV",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Force of Revocation",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Preservation of Quellious",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Protective Confession X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Brell's Mountainous Barrier XVI",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Crush of Eminence",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Force of Eminence",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Penitence IX",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unquestioned Affirmation",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unyielding Stance",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wave of Inspiration",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Armor of Eminence",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Armor of Unyielding Faith",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Burst of Sunlight XII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Doctrine of Revocation",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Impede",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mantle of Eminence",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Splash of Eminence",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Denouncement IX",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Duel for Honor",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Holy Guardian Discipline IV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgraded from TOL"
+      },
+      {
+        "name": "Impassioned Audacity",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Crush of the Crying Seas X",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hand of Austerity XVII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Commital",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eminent Force",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Balance Purify",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgraded from TOL"
+      },
+      {
+        "name": "Mastery: Consecrate",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgraded from TOL"
+      },
+      {
+        "name": "Mark of Sharosh",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Righteous Indignation VIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Aureate Covariance",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Valiant Defiance",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Paradoxical Blessing",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Avowed Penitence",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reflexive Resolution",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Force",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Burst of Sunspring",
+        "level": 123,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Fernshade Keeper",
+        "level": 122,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Symbol of Thormir",
+        "level": 122,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Blunted Blade",
+        "level": 99,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Disease",
+        "level": 71,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Poison",
+        "level": 64,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Curse",
+        "level": 60,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from RGC"
+      },
+      {
+        "name": "Pureforge",
+        "level": 90,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Blessed Aura",
+        "level": 70,
+        "expansion": "POR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Deflection Discipline",
+        "level": 59,
+        "expansion": "SOD",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Holyforge",
+        "level": 55,
+        "expansion": "SOV",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "RNG": [
+      {
+        "name": "Consumed by the Hunt",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eyes of the Grove",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hail of Arrows",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Focused Hail of Arrows",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Protection of the Grove",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Desperate Deluge",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Devastating Blades XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Grovewood Coat",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Shout of the Grovestalker",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Summer's Dew XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Therapeutic Balm",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Swarm of Spitemidges",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Grovestalker's Vigor",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Underbrush Coat",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ro's Burning Cloak VI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Jolting Kicks XII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Call of the Predator XVI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Cloak of the Underbrush",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Strength of the Grovestalker",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Lifespring",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spitestinger Swarm",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Called Shots IX",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Storm of Blades VII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shield of Needlshards",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Concealed Shot",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Fern Stalker's Enrichment",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Focused Maelstrom of Blades",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Fernstalker's Covariance",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Arrowflight",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reflexive Needlespikes",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Fusillade",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Shadowveil",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Summer's Deluge",
+        "level": 124,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": "For Reciprocal"
+      },
+      {
+        "name": "Spirit of Falcons",
+        "level": 85,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pureshot Discipline",
+        "level": 100,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Vineleash Assault",
+        "level": 98,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Disease",
+        "level": 76,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Poison",
+        "level": 76,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Blusterbolt",
+        "level": 90,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Flusterbolt",
+        "level": 85,
+        "expansion": "SOD",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Weapon Shield Discipline",
+        "level": 60,
+        "expansion": "SOV",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "ROG": [
+      {
+        "name": "Smokescreen XI",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Assault X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Desperate Escape X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Visaphen Discipline",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Misdirection IX",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Holdout Blade VII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bleed X",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Blinding Flash XIV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Jugular Slash XI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ambush XI",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Easy Mark X",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Invidous Puncture",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Poisonous Covariance",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Queseris Dagger",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Weapons",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Pinpoint Fault",
+        "level": 124,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reckless Edge Disc",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Thief's Sight",
+        "level": 117,
+        "expansion": "NOS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Practiced Reflexes",
+        "level": 115,
+        "expansion": "COV",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Daggerslash",
+        "level": 115,
+        "expansion": "TOV",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shadow-Hunter’s Dagger",
+        "level": 102,
+        "expansion": "EOK",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Counterattack Discipline",
+        "level": 53,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Knifeplay Disc",
+        "level": 98,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Agile-Footed Discipline",
+        "level": 99,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Executioner Disc",
+        "level": 100,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Weapon Covenant",
+        "level": 97,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Frenzied Stabbing Disc",
+        "level": 70,
+        "expansion": "OOW",
+        "highest_rk": "n/a",
+        "comments": "Found in PoK Library -- One of the most powerful rogue burns"
+      },
+      {
+        "name": "Twisted Chance Disc",
+        "level": 55,
+        "expansion": "POP",
+        "highest_rk": "n/a",
+        "comments": "Found in PoK Library -- One of the most powerful rogue burns"
+      }
+    ],
+    "SHD": [
+      {
+        "name": "Dire Implication X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Rending of Ulnaa",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ruthless Demeanor",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgraded from NOS"
+      },
+      {
+        "name": "Crimson Blade VIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spitetangle's Skin",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Torrent of Pain IX",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Touch of Bonesplinter",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Dread Gaze XIII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Call of Darkness X",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Drape of Spite",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Repugnant Bargain VII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spear of Wremm",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Insidious Blight",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unquestioned Acrimony",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unyielding Stance",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Impede",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Waxwork Mantle",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Gift of Telthel",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Insidious Deflection VII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Soul Carapace XV",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Telhel's Covenant",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Minion of Telthel",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Duel for Power",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Blood of Lherre",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unholy Guardian Discipline IV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Upgraded from TOL"
+      },
+      {
+        "name": "Gouging Blade VIII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tormentor's Audacity",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Plague of Bonesplinter",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shroud of Elonik",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bond of the Devourer",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wremm's Bite",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tormentor's Proclamation",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Banshee Skin VIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Husk Devourer's Horror",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mental Horror VIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Terror of Telthel",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hiatus V",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reflexive Retribution",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bloodletting Covariance",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Paradoxical Disruption",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Incensive Influence",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Fang",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Touch of Flariton",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spite of Mirenilla",
+        "level": 114,
+        "expansion": "TOV",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Terminal Breath",
+        "level": 100,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ancient: Bite of Muram",
+        "level": 70,
+        "expansion": "OOW",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Deflection Discipline",
+        "level": 59,
+        "expansion": "SOD",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Leechcurse Discipline",
+        "level": 60,
+        "expansion": "SOV",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Unholy Aura Discipline",
+        "level": 55,
+        "expansion": "SOV",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "SHM": [
+      {
+        "name": "Mastery: Blood of Mayong",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Maniadry's Curse",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Khrosik's Breath",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Pack of Dire Wolves",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Required for AA Visionary's Unity to work"
+      },
+      {
+        "name": "Reckless Mending",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Talisman of Unity X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Mastery: Chant of the Zelniak",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": "Upgrade from TOL"
+      },
+      {
+        "name": "Blood of Torrentclaw",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Curse XVII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Nectar of Pain XIII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ancestral Bargain XIV",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ancestral Intervention XI",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": "Required for AA Soothsayer's Intervention to work"
+      },
+      {
+        "name": "Tserik's Bite",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Healing Counterbias X",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ghost of Renewal XIII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Irdrath's Pandemic",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Baratu's Recourse",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Torrentclaw's Affliction",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Malaise XVI",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Lassitude XIII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spirit Bolstering V",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Aramna's Faithful",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Breath of Pustim",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Insidious Decay X",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Tserik's Spear of Venom",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Talisman of Perseverance XV",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Aramna's Drowse",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chaotic Bloodcurse",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hotarian Pandemic",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Ancient Covariance",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Roar",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "Reckless Reinvigoration",
+        "level": 125,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spirit of the Unforgettable",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Unity of the Heroic",
+        "level": 121,
+        "expansion": "LS",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Spiritual Shower",
+        "level": 118,
+        "expansion": "NOS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reckless Resurgence",
+        "level": 120,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Issuance of Malosi",
+        "level": 111,
+        "expansion": "COV",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Feralisata",
+        "level": 107,
+        "expansion": "ROS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Spirit of Tala'Tak",
+        "level": 74,
+        "expansion": "EOK",
+        "highest_rk": "n/a",
+        "comments": "Required for AA Lupine Spirit to work"
+      },
+      {
+        "name": "Curse of Insects",
+        "level": 96,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": "55% disease based slow"
+      },
+      {
+        "name": "Eradicate Disease",
+        "level": 52,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Eradicate Curse",
+        "level": 54,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": "Better than RGC"
+      },
+      {
+        "name": "Eradicate Poison",
+        "level": 56,
+        "expansion": "ROF",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Wind of Malisene",
+        "level": 89,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Thorn Wilting",
+        "level": 80,
+        "expansion": "SOF",
+        "highest_rk": "III",
+        "comments": "Cancels Damage Shields from damaging while on"
+      },
+      {
+        "name": "Preincarnation",
+        "level": 80,
+        "expansion": "SOF",
+        "highest_rk": "III",
+        "comments": "Required for AA\nRk. III is quested"
+      },
+      {
+        "name": "Turgur's Insects",
+        "level": 51,
+        "expansion": "ROK",
+        "highest_rk": "n/a",
+        "comments": "Required for AA slows to work"
+      }
+    ],
+    "WAR": [
+      {
+        "name": "Field Armorer X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bracing Defense X",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Opportunistic Strike IX",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Warrior's Auspice VII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Final Stand Discipline VI",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Harassing Shout VII",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Provoke XIX",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Cyclone Blades XIV",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Unquestioned Attention",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Hiatus V",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Bazu Roar X",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shield Split",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Paradoxical Precision",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Paradoxical Expanse",
+        "level": 122,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Reciprocal Shield",
+        "level": 121,
+        "expansion": "TOB",
+        "highest_rk": "6",
+        "comments": ""
+      },
+      {
+        "name": "End of the Line",
+        "level": 122,
+        "expansion": "LS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wade into Conflict",
+        "level": 119,
+        "expansion": "NOS",
+        "highest_rk": "III",
+        "comments": "Used much less than Determined Reprisal"
+      },
+      {
+        "name": "Levincrash Defense Disc",
+        "level": 120,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": "Mostly useless but only disc on timer"
+      },
+      {
+        "name": "Brightfeld's Onslaught Disc",
+        "level": 117,
+        "expansion": "TOL",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Breather",
+        "level": 101,
+        "expansion": "TDS",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Phantom Aggressor",
+        "level": 100,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Determined Reprisal",
+        "level": 97,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Offensive Disc",
+        "level": 97,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Weapon Covenant",
+        "level": 97,
+        "expansion": "ROF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Roar of Challenge",
+        "level": 93,
+        "expansion": "VOA",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Flash of Anger",
+        "level": 87,
+        "expansion": "HOT",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Champion's Aura",
+        "level": 70,
+        "expansion": "POR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Commanding Voice",
+        "level": 68,
+        "expansion": "DOD",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Fortitude Disc",
+        "level": 59,
+        "expansion": "ROK",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Furious Disc",
+        "level": 56,
+        "expansion": "ROK",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Charge Disc",
+        "level": 53,
+        "expansion": "ROK",
+        "highest_rk": "n/a",
+        "comments": ""
+      }
+    ],
+    "WIZ": [
+      {
+        "name": "Ethereal Weave VII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "n/a",
+        "comments": ""
+      },
+      {
+        "name": "Ethereal Fire XIII",
+        "level": 130,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ethereal Ice XI",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Flashfires XII",
+        "level": 129,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Claw of Ashenback",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Scales of the Crystalwing XIX",
+        "level": 128,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Ethereal Barrage VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shield of Fate VII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Harvest XIII",
+        "level": 127,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Shielding XXIII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Wildmagic Strike XII",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Corana Beam X",
+        "level": 126,
+        "expansion": "SOR",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Contemplative Gambit",
+        "level": 125,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Self-Ignition",
+        "level": 124,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Chromospheric Vortex",
+        "level": 123,
+        "expansion": "TOB",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Mirror",
+        "level": 98,
+        "expansion": "COTF",
+        "highest_rk": "III",
+        "comments": ""
+      },
+      {
+        "name": "Twincast",
+        "level": 85,
+        "expansion": "SOD",
+        "highest_rk": "III",
+        "comments": ""
+      }
+    ]
+  }
+}

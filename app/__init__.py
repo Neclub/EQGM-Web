@@ -1,0 +1,1 @@
+"""EQGM Web application package."""

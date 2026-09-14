@@ -1,0 +1,1256 @@
+{
+  "source": "Heroic AA.xlsx",
+  "credit": {
+    "text": "Hero's Special AAs — Fanra's EverQuest Wiki",
+    "url": "https://everquest.fanra.info/wiki/Hero%27s_Special_AAs"
+  },
+  "intro": "In the Alternate Advancement (AA) window, the Special tab contains these three Hero's AAs.",
+  "abilities": [
+    {
+      "id": "fortitude",
+      "label": "Hero's Fortitude",
+      "description": "Increases your armor class, attack power and the maximum amount of attack you can gain from items."
+    },
+    {
+      "id": "resolution",
+      "label": "Hero's Resolution",
+      "description": "Increases your base statistics and the maximum that your base statistics can be increased by items and spells. Additionally, this ability increases your natural hit point, mana and endurance regeneration and the maximum that your hit point and mana regeneration can be increased by items."
+    },
+    {
+      "id": "vitality",
+      "label": "Hero's Vitality",
+      "description": "Increases your maximum hit points, mana, endurance as well as how far below zero your hit points can fall before you die."
+    }
+  ],
+  "totals": {
+    "fortitude": 114,
+    "resolution": 57,
+    "vitality": 114
+  },
+  "achievements": [
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of West Karana (Ethernere)",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of West Karana"
+      ],
+      "eqresource_id": 2100170
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of West Karana (Ethernere) II",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 0,
+      "aliases": [
+        "Savior of West Karana II"
+      ],
+      "eqresource_id": 2100171
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of West Karana (Ethernere) III",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Savior of West Karana III"
+      ],
+      "eqresource_id": 2100172
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of Bixie Warfront",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2100180
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of Bixie Warfront II",
+      "fortitude": 0,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2100181
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of The Dead Hills",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2100190
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of The Dead Hills II",
+      "fortitude": 0,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2100191
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of Neriak - Fourth Gate",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Neriak"
+      ],
+      "eqresource_id": 2100200
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of Neriak - Fourth Gate II",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 0,
+      "aliases": [
+        "Savior of Neriak II"
+      ],
+      "eqresource_id": 2100201
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of Argin-Hiz",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Argin Hiz"
+      ],
+      "eqresource_id": 2100203
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Savior of Tower of Rot",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2100202
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Lesser Challenger of the Call",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2100160
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Accomplished Challenger of the Call",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2100161
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Greater Challenger of the Call",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2100162
+    },
+    {
+      "expansion": "Call of the Forsaken",
+      "name": "Legendary Challenger of the Call",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2100163
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Arx Mentis",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2277870
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Combine Dredge",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2278170
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Thuliasaur Island",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Thuliasaur"
+      ],
+      "eqresource_id": 2278370
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Degmar, the Lost Castle",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Degmar"
+      ],
+      "eqresource_id": 2278470
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Caverns of Endless Song",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Caverns"
+      ],
+      "eqresource_id": 2278270
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Brother Island",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2277970
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Katta Castrum: Deluge",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Katta (Deluge)"
+      ],
+      "eqresource_id": 2278070
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Savior of Tempest Temple",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2278570
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Challenger of The Darkened Sea",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Challenger of the Dark Seas"
+      ],
+      "eqresource_id": 2200040
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Seafarer",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2200010
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Lesser Hero of The Darkened Sea",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Lesser Hero of the Darkened Sea"
+      ],
+      "eqresource_id": 2200155
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Accomplished Hero of The Darkened Sea",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Accomplished Hero of the Darkened Sea"
+      ],
+      "eqresource_id": 2200160
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Greater Hero of The Darkened Sea",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Greater Hero of the Darkened Sea"
+      ],
+      "eqresource_id": 2200165
+    },
+    {
+      "expansion": "The Darkened Sea",
+      "name": "Legendary Hero of The Darkened Sea",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Legendary Hero of the Darkened Sea"
+      ],
+      "eqresource_id": 2200170
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Mirror Master",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2300010
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Champion of The Broken Mirror",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2300020
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Paragon of The Broken Mirror",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2300030
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Challenger of The Broken Mirror",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2300040
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Lesser Spirit Armor (Group)",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Lesser Spirit Armor (progression)"
+      ],
+      "eqresource_id": 23778100
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Savior of the Plane of Health",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2379858
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Savior of the Sul Vius: Demiplane of Life",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of the Sul Vius, Demiplane of Life"
+      ],
+      "eqresource_id": 2377758
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Savior of the Sul Vius: Demiplane of Decay",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of the Sul Vius, Demiplane of Decay"
+      ],
+      "eqresource_id": 2379758
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Savior of the Crypt of Decay",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2379658
+    },
+    {
+      "expansion": "The Broken Mirror",
+      "name": "Savior of the Crypt of Sul",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2379558
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Tsaph's Champion",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2400010
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Hero of Lceanium",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2479430
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Hero of The Temple of Droga",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2478830
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Hero of Chardok",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2480030
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Hero of Kor-Sha Laboratory",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2479930
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of Lceanium",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2479470
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of The Scorched Woods",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2479070
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of Frontier Mountains",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2479170
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of The Temple of Droga",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2478870
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of Chardok",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2480070
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of Gates of Kor-Sha",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2479370
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Savior of Kor-Sha Laboratory",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2479970
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Novice Hunter of The Empires of Kunark",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Novice Hunter of the Empires of Kunark"
+      ],
+      "eqresource_id": 2400085
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Adept Hunter of The Empires of Kunark",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Adept Hunter of the Empires of Kunark"
+      ],
+      "eqresource_id": 2400090
+    },
+    {
+      "expansion": "Empires of Kunark",
+      "name": "Veteran Hunter of The Empires of Kunark",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Veteran Hunter of the Empires of Kunark"
+      ],
+      "eqresource_id": 2400095
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Scalebreaker",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2500010
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "The Ring of Scale Slayer",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2500050
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Hero of The Overthere",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Hero of the Overthere"
+      ],
+      "eqresource_id": 2581530
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Hero of The Skyfire Mountains",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Hero of the Skyfire Mountains"
+      ],
+      "eqresource_id": 2581430
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Hero of Gorowyn",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Hero of the Gorowyn"
+      ],
+      "eqresource_id": 2579230
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Hero of Veeshan's Peak",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Hero of the Veeshan's Peak"
+      ],
+      "eqresource_id": 2581630
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Savior of The Overthere",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2581570
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Savior of The Skyfire Mountains",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2581470
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Savior of The Howling Stones",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2581370
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Savior of Sathir's Tomb",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2578970
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Savior of Gorowyn",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2579270
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Savior of Veeshan's Peak",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2581670
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Novice Hunter of The Ring of Scale",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2500085
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Adept Hunter of The Ring of Scale",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2500090
+    },
+    {
+      "expansion": "Ring of Scale",
+      "name": "Veteran Hunter of The Ring of Scale",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2500095
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of Stratos: Zephyr's Flight",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Stratos: Zephyr’s Flight"
+      ],
+      "eqresource_id": 2681870
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of The Plane of Smoke",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of the Plane of Smoke"
+      ],
+      "eqresource_id": 2681770
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of Empyr: Realms of Ash",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Empyre: Realm of Ash"
+      ],
+      "eqresource_id": 2682070
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of Esianti: Palace of the Winds",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2682170
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of Aalishai: Palace of Embers",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2681970
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of Mearatas: The Stone Demesne",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2682270
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of The Chamber of Tears",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2682370
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Savior of Doomfire, the Burning Lands (TBL)",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Doomfire: The Burning Lands"
+      ],
+      "eqresource_id": 2621770
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of Stratos: Zephyr's Flight",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Hero of Stratos: Zephyr’s Flight"
+      ],
+      "eqresource_id": 2681830
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of The Plane of Smoke",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Hero of the Plane of Smoke"
+      ],
+      "eqresource_id": 2681730
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of Empyr: Realms of Ash",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Hero of Empyre: Realm of Ash"
+      ],
+      "eqresource_id": 2682030
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of Esianti: Palace of the Winds",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2682130
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of Aalishai: Palace of Embers",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2681930
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of Mearatas: The Stone Demesne",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "eqresource_id": 2682230
+    },
+    {
+      "expansion": "The Burning Lands",
+      "name": "Hero of Doomfire, the Burning Lands",
+      "fortitude": 0,
+      "resolution": 1,
+      "vitality": 0,
+      "aliases": [
+        "Hero of Doomfire: The Burning Lands"
+      ],
+      "eqresource_id": 2621730
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Paragon of Torment of Velious",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2700030
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Hero of The Eastern Wastes",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2782430
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Hero of The Great Divide",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2782730
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Hero of Velketor's Labyrinth",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2782830
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Hero of Kael Drakkel",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2782930
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Savior of The Eastern Wastes",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2782470
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Savior of Crystal Caverns",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2783070
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Savior of The Great Divide",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2782770
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Savior of Velketor's Labyrinth",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2782870
+    },
+    {
+      "expansion": "Torment of Velious",
+      "name": "Savior of Kael Drakkel",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2782970
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Hero of The Temple of Veeshan",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2805100
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Savior of The Temple of Veeshan",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2805110
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Hero of Dragon Necropolis",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2805200
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Savior of Dragon Necropolis: Zlandicar",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2805210
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Hero of Skyshrine",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2805300
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Savior of Skyshrine",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2805310
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Hero of The Sleeper's Tomb",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2805400
+    },
+    {
+      "expansion": "Claws of Veeshan",
+      "name": "Savior of Sleeper's Tomb: The Call",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2805410
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Hero of Ka Vethan",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2905100
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Savior of Ka Vethan",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2905110
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Hero of Vex Thal",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2905200
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Savior of Vex Thal",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2905210
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Hero of Basilica of Adumbration",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2905300
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Savior of Basilica of Adumbration",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2905310
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Hero of Bloodfalls",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 2905400
+    },
+    {
+      "expansion": "Terror of Luclin",
+      "name": "Savior of Bloodfalls",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 2905410
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Hero of Shar Vahl, Divided: Mean Streets",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Hero of Shar Vahl: Mean Streets"
+      ],
+      "eqresource_id": 3005100
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Savior of Shar Vahl, Divided: Mean Streets",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Shar Vahl: Mean Streets"
+      ],
+      "eqresource_id": 3005110
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Hero of Ruins of Shadow Haven: When One Door Closes",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Hero of Shadow Haven: When One Door Closes"
+      ],
+      "eqresource_id": 3005200
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Savior of Ruins of Shadow Haven: When One Door Closes",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Shadow Haven: When One Door Closes"
+      ],
+      "eqresource_id": 3005210
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Hero of Darklight Caverns: The Spirit Fades",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 3005300
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Savior of Darklight Caverns: The Spirit Fades",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 3005310
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Hero of Shar Vahl, Divided: Under Siege",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "aliases": [
+        "Hero of Shar Vahl: Under Siege"
+      ],
+      "eqresource_id": 3005400
+    },
+    {
+      "expansion": "Night of Shadows",
+      "name": "Savior of Shar Vahl, Divided: Under Siege",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of Shar Vahl: Under Siege"
+      ],
+      "eqresource_id": 3005410
+    },
+    {
+      "expansion": "Laurion's Song",
+      "name": "Hero of The Hero's Forge: Heroes Are Forged",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 31050100
+    },
+    {
+      "expansion": "Laurion's Song",
+      "name": "Savior of The Hero's Forge: Heroes Are Forged",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "aliases": [
+        "Savior of The Hero's Forge:Heroes Are Forged"
+      ],
+      "eqresource_id": 31050110
+    },
+    {
+      "expansion": "Laurion's Song",
+      "name": "Hero of Pal'Lomen: Final Fugue",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 31050200
+    },
+    {
+      "expansion": "Laurion's Song",
+      "name": "Savior of Pal'Lomen: Final Fugue",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 31050210
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Hero of The Harbinger's Cradle: Brood Architect Hazuri",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 32050100
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Savior of The Harbinger's Cradle: Brood Architect Hazuri",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 32050110
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Hero of The Chambers of Puissance: The Leviathan's Heart",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 32050200
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Savior of The Chambers of Puissance: The Leviathan's Heart",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 32050210
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Hero of The Gilded Spire: The Control Room",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 32050300
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Savior of The Gilded Spire: The Control Room",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 32050310
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Hero of The Gilded Spire: The High Priest",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 32050400
+    },
+    {
+      "expansion": "The Outer Brood",
+      "name": "Savior of The Gilded Spire: The High Priest",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 32050410
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Hero of Candlemaker's Workshop: Waxwork Abolishion",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 33050100
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Savior of Candlemaker's Workshop: Waxwork Abolishion",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 33050110
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Hero of Arcstone, Shattered Isles: Colossus",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 33050200
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Savior of Arcstone, Shattered Isles: Colossus",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 33050210
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Hero of Ruined Relic: Shar'Drahn",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 33050300
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Savior of Ruined Relic: Shar'Drahn",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 33050310
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Hero of Labyrinth of Spite: Echo of Hate",
+      "fortitude": 1,
+      "resolution": 0,
+      "vitality": 1,
+      "eqresource_id": 33050400
+    },
+    {
+      "expansion": "Shattering of Ro",
+      "name": "Savior of Labyrinth of Spite: Echo of Hate",
+      "fortitude": 1,
+      "resolution": 1,
+      "vitality": 1,
+      "eqresource_id": 33050410
+    }
+  ]
+}

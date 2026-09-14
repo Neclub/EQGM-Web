@@ -1,0 +1,38 @@
+{
+  "band_size": 5,
+  "tiers": ["Minor", "Lesser", "Median", "Greater", "Glowing"],
+  "blocks": [
+    {
+      "level_start": 111,
+      "level_end": 115,
+      "label": "111-115",
+      "expansions": ["Torment of Velious (ToV)", "Claws of Veeshan (CoV)"],
+      "turn_in_theme": "Velium / Crystal",
+      "count_runes": false
+    },
+    {
+      "level_start": 116,
+      "level_end": 120,
+      "label": "116-120",
+      "expansions": ["Terror of Luclin (ToL)", "Night of Shadows (NoS)"],
+      "turn_in_theme": "Luclinite / Deepshade",
+      "count_runes": false
+    },
+    {
+      "level_start": 121,
+      "level_end": 125,
+      "label": "121-125",
+      "expansions": ["Laurion's Song (LS)", "The Outer Brood (ToB)"],
+      "turn_in_theme": "Emblem of the Forge (LS); Energized Engram (ToB)",
+      "count_runes": true
+    },
+    {
+      "level_start": 126,
+      "level_end": 130,
+      "label": "126-130",
+      "expansions": ["Shattering of Ro (SoR)"],
+      "turn_in_theme": "Mirrorshard of Relic",
+      "count_runes": true
+    }
+  ]
+}

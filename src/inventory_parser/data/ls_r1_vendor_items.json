@@ -1,0 +1,305 @@
+{
+  "tier_code": "LS-R1",
+  "items": [
+    {
+      "name": "Altruistic Choker",
+      "tier_code": "LS-R1",
+      "item_id": 171722
+    },
+    {
+      "name": "Artificer's Necklace",
+      "tier_code": "LS-R1",
+      "item_id": 171721
+    },
+    {
+      "name": "Assaulter's Belt",
+      "tier_code": "LS-R1",
+      "item_id": 171737
+    },
+    {
+      "name": "Autumnal Guardian",
+      "tier_code": "LS-R1",
+      "item_id": 171741
+    },
+    {
+      "name": "Autumnal Staff",
+      "tier_code": "LS-R1",
+      "item_id": 171763
+    },
+    {
+      "name": "Axe of Fallen Leaves",
+      "tier_code": "LS-R1",
+      "item_id": 171759
+    },
+    {
+      "name": "Barbed Morning Star",
+      "tier_code": "LS-R1",
+      "item_id": 171755
+    },
+    {
+      "name": "Barrier of Briars",
+      "tier_code": "LS-R1",
+      "item_id": 171742
+    },
+    {
+      "name": "Bow of Falling Leaves",
+      "tier_code": "LS-R1",
+      "item_id": 171767
+    },
+    {
+      "name": "Cape of Hate",
+      "tier_code": "LS-R1",
+      "item_id": 171728
+    },
+    {
+      "name": "Cape of Hate's Shadow",
+      "tier_code": "LS-R1",
+      "item_id": 171724
+    },
+    {
+      "name": "Cape of the Warcrafter",
+      "tier_code": "LS-R1",
+      "item_id": 171726
+    },
+    {
+      "name": "Chalice of Autumn Wine",
+      "tier_code": "LS-R1",
+      "item_id": 171729
+    },
+    {
+      "name": "Chlorophyll Loop",
+      "tier_code": "LS-R1",
+      "item_id": 171713
+    },
+    {
+      "name": "Commander's  Mask",
+      "tier_code": "LS-R1",
+      "item_id": 171717
+    },
+    {
+      "name": "Cooper's Bone Chew",
+      "tier_code": "LS-R1",
+      "item_id": 171740
+    },
+    {
+      "name": "Darga's Loop of Alacrity",
+      "tier_code": "LS-R1",
+      "item_id": 171734
+    },
+    {
+      "name": "Drape of the Four Elemental Powers",
+      "tier_code": "LS-R1",
+      "item_id": 171725
+    },
+    {
+      "name": "Dusack of the Hotariton",
+      "tier_code": "LS-R1",
+      "item_id": 171757
+    },
+    {
+      "name": "Elddar Cinch",
+      "tier_code": "LS-R1",
+      "item_id": 171736
+    },
+    {
+      "name": "Elddar Overcloak",
+      "tier_code": "LS-R1",
+      "item_id": 171727
+    },
+    {
+      "name": "Fortuitous Scepter of Xev Bristlebane",
+      "tier_code": "LS-R1",
+      "item_id": 171764
+    },
+    {
+      "name": "Gilded Staff of the Master Magus",
+      "tier_code": "LS-R1",
+      "item_id": 171765
+    },
+    {
+      "name": "Guardian of the Innocent",
+      "tier_code": "LS-R1",
+      "item_id": 171743
+    },
+    {
+      "name": "Guardian's Girdle",
+      "tier_code": "LS-R1",
+      "item_id": 171735
+    },
+    {
+      "name": "Harvest Blade",
+      "tier_code": "LS-R1",
+      "item_id": 171751
+    },
+    {
+      "name": "Helix Rapier",
+      "tier_code": "LS-R1",
+      "item_id": 171748
+    },
+    {
+      "name": "Insignia of the King's Hand",
+      "tier_code": "LS-R1",
+      "item_id": 171738
+    },
+    {
+      "name": "Invictus Warmaker",
+      "tier_code": "LS-R1",
+      "item_id": 171750
+    },
+    {
+      "name": "Jangle's Jangling Veil",
+      "tier_code": "LS-R1",
+      "item_id": 171718
+    },
+    {
+      "name": "Kar's Crusher",
+      "tier_code": "LS-R1",
+      "item_id": 171760
+    },
+    {
+      "name": "Katar of the Mist Falcon",
+      "tier_code": "LS-R1",
+      "item_id": 171752
+    },
+    {
+      "name": "Limb of the Wardbreaker",
+      "tier_code": "LS-R1",
+      "item_id": 171766
+    },
+    {
+      "name": "Mark of Worth",
+      "tier_code": "LS-R1",
+      "item_id": 171739
+    },
+    {
+      "name": "Mourning Star",
+      "tier_code": "LS-R1",
+      "item_id": 171756
+    },
+    {
+      "name": "Obscured Heroic Reflections Arms Armor",
+      "tier_code": "LS-R1",
+      "item_id": 171789
+    },
+    {
+      "name": "Obscured Heroic Reflections Chest Armor",
+      "tier_code": "LS-R1",
+      "item_id": 171791
+    },
+    {
+      "name": "Obscured Heroic Reflections Hands Armor",
+      "tier_code": "LS-R1",
+      "item_id": 171786
+    },
+    {
+      "name": "Obscured Heroic Reflections Head Armor",
+      "tier_code": "LS-R1",
+      "item_id": 171788
+    },
+    {
+      "name": "Obscured Heroic Reflections Legs Armor",
+      "tier_code": "LS-R1",
+      "item_id": 171790
+    },
+    {
+      "name": "Obscured Heroic Reflections Wrist Armor",
+      "tier_code": "LS-R1",
+      "item_id": 171785
+    },
+    {
+      "name": "Ogna's Spinning Axe",
+      "tier_code": "LS-R1",
+      "item_id": 171745
+    },
+    {
+      "name": "Pike of Selflessness",
+      "tier_code": "LS-R1",
+      "item_id": 171761
+    },
+    {
+      "name": "Poetic Elddar",
+      "tier_code": "LS-R1",
+      "item_id": 171758
+    },
+    {
+      "name": "Prose Elddar",
+      "tier_code": "LS-R1",
+      "item_id": 171730
+    },
+    {
+      "name": "Shalowain's Private Reserve",
+      "tier_code": "LS-R1",
+      "item_id": 165196
+    },
+    {
+      "name": "Shank of Heartbreak",
+      "tier_code": "LS-R1",
+      "item_id": 171754
+    },
+    {
+      "name": "Smotem-Totem",
+      "tier_code": "LS-R1",
+      "item_id": 171731
+    },
+    {
+      "name": "Snake Biter",
+      "tier_code": "LS-R1",
+      "item_id": 171762
+    },
+    {
+      "name": "Spaulders of the Hand",
+      "tier_code": "LS-R1",
+      "item_id": 171723
+    },
+    {
+      "name": "Spiked Hammer of the Forge",
+      "tier_code": "LS-R1",
+      "item_id": 171746
+    },
+    {
+      "name": "Sprung Fingercuff",
+      "tier_code": "LS-R1",
+      "item_id": 171732
+    },
+    {
+      "name": "Stagger-Dagger",
+      "tier_code": "LS-R1",
+      "item_id": 171749
+    },
+    {
+      "name": "Suffering",
+      "tier_code": "LS-R1",
+      "item_id": 171716
+    },
+    {
+      "name": "Takish Sabre",
+      "tier_code": "LS-R1",
+      "item_id": 171744
+    },
+    {
+      "name": "The Master's Ring",
+      "tier_code": "LS-R1",
+      "item_id": 171733
+    },
+    {
+      "name": "Trinket of the Fanatic",
+      "tier_code": "LS-R1",
+      "item_id": 171714
+    },
+    {
+      "name": "Unbalanced Club",
+      "tier_code": "LS-R1",
+      "item_id": 171753
+    },
+    {
+      "name": "Unrelenting Bijou of Hope",
+      "tier_code": "LS-R1",
+      "item_id": 171715
+    },
+    {
+      "name": "Volto of Burning Fronds",
+      "tier_code": "LS-R1",
+      "item_id": 171719
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "tier_code": "TOB-R1",
+  "items": [
+    {
+      "name": "Aureate Guiding Orb",
+      "tier_code": "TOB-R1",
+      "item_id": 173730
+    },
+    {
+      "name": "Aureate Ritual Cloak",
+      "tier_code": "TOB-R1",
+      "item_id": 173726
+    },
+    {
+      "name": "Aureate Skin Spaulders",
+      "tier_code": "TOB-R1",
+      "item_id": 173725
+    },
+    {
+      "name": "Aureate Trimmed Shield",
+      "tier_code": "TOB-R1",
+      "item_id": 173742
+    },
+    {
+      "name": "Aureate War Hammer",
+      "tier_code": "TOB-R1",
+      "item_id": 173760
+    },
+    {
+      "name": "Bejeweled Aureate Necklace",
+      "tier_code": "TOB-R1",
+      "item_id": 173721
+    },
+    {
+      "name": "Bone Saw",
+      "tier_code": "TOB-R1",
+      "item_id": 173750
+    },
+    {
+      "name": "Bright Blade of the Herald",
+      "tier_code": "TOB-R1",
+      "item_id": 173751
+    },
+    {
+      "name": "Brood Officer's Emblem",
+      "tier_code": "TOB-R1",
+      "item_id": 174150
+    },
+    {
+      "name": "Burning Aureate Wand",
+      "tier_code": "TOB-R1",
+      "item_id": 173758
+    },
+    {
+      "name": "Cannoneer's Control Device",
+      "tier_code": "TOB-R1",
+      "item_id": 173736
+    },
+    {
+      "name": "Crush of the Aureate",
+      "tier_code": "TOB-R1",
+      "item_id": 173756
+    },
+    {
+      "name": "Cudgel of the Leviathan",
+      "tier_code": "TOB-R1",
+      "item_id": 173763
+    },
+    {
+      "name": "Custodian's Bedazzled Mantle",
+      "tier_code": "TOB-R1",
+      "item_id": 173728
+    },
+    {
+      "name": "Custodian's Lace Choker",
+      "tier_code": "TOB-R1",
+      "item_id": 173722
+    },
+    {
+      "name": "Emblem of Aurelian Valor",
+      "tier_code": "TOB-R1",
+      "item_id": 173739
+    },
+    {
+      "name": "Favor of the Chosen",
+      "tier_code": "TOB-R1",
+      "item_id": 173731
+    },
+    {
+      "name": "Gavel of Veeshan's Will",
+      "tier_code": "TOB-R1",
+      "item_id": 173764
+    },
+    {
+      "name": "Harbinger Bone Ring",
+      "tier_code": "TOB-R1",
+      "item_id": 173733
+    },
+    {
+      "name": "Harbinger Scale Shield",
+      "tier_code": "TOB-R1",
+      "item_id": 173741
+    },
+    {
+      "name": "Herald's Dauntless Waistguard",
+      "tier_code": "TOB-R1",
+      "item_id": 173735
+    },
+    {
+      "name": "Intricate Aureate War Bow",
+      "tier_code": "TOB-R1",
+      "item_id": 173767
+    },
+    {
+      "name": "Kiff's Polar Pelt Shawl",
+      "tier_code": "TOB-R1",
+      "item_id": 173724
+    },
+    {
+      "name": "Leviathan Heartstealer",
+      "tier_code": "TOB-R1",
+      "item_id": 173754
+    },
+    {
+      "name": "Loop of Higher Purpose",
+      "tier_code": "TOB-R1",
+      "item_id": 173732
+    },
+    {
+      "name": "Mask of the Anointed Chief",
+      "tier_code": "TOB-R1",
+      "item_id": 173717
+    },
+    {
+      "name": "Mask of the Scalewrought Herald",
+      "tier_code": "TOB-R1",
+      "item_id": 173719
+    },
+    {
+      "name": "Obscured Arms Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174026
+    },
+    {
+      "name": "Obscured Chest Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174028
+    },
+    {
+      "name": "Obscured Feet Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174024
+    },
+    {
+      "name": "Obscured Hands Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174023
+    },
+    {
+      "name": "Obscured Head Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174025
+    },
+    {
+      "name": "Obscured Legs Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174027
+    },
+    {
+      "name": "Obscured Wrist Armor of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 174022
+    },
+    {
+      "name": "Otherworldly Buckler",
+      "tier_code": "TOB-R1",
+      "item_id": 173743
+    },
+    {
+      "name": "Reverent Scalewrought Cleaver",
+      "tier_code": "TOB-R1",
+      "item_id": 173745
+    },
+    {
+      "name": "Ritual Cloak of Dire Portents",
+      "tier_code": "TOB-R1",
+      "item_id": 173727
+    },
+    {
+      "name": "Ritual Master's Bauble",
+      "tier_code": "TOB-R1",
+      "item_id": 173714
+    },
+    {
+      "name": "Runic Stud of the Aureate",
+      "tier_code": "TOB-R1",
+      "item_id": 173715
+    },
+    {
+      "name": "Sacred Charm of the Scalewrought",
+      "tier_code": "TOB-R1",
+      "item_id": 173740
+    },
+    {
+      "name": "Scaled Gut Ripper",
+      "tier_code": "TOB-R1",
+      "item_id": 173748
+    },
+    {
+      "name": "Scaled Safety Mask",
+      "tier_code": "TOB-R1",
+      "item_id": 173718
+    },
+    {
+      "name": "Scalewrought Helmbreaker",
+      "tier_code": "TOB-R1",
+      "item_id": 173746
+    },
+    {
+      "name": "Scalewrought Kneecapper",
+      "tier_code": "TOB-R1",
+      "item_id": 173753
+    },
+    {
+      "name": "Scalewrought Manipulator Stave",
+      "tier_code": "TOB-R1",
+      "item_id": 173765
+    },
+    {
+      "name": "Scalewrought Striker Blade",
+      "tier_code": "TOB-R1",
+      "item_id": 173757
+    },
+    {
+      "name": "Scalewrought Striker Spear",
+      "tier_code": "TOB-R1",
+      "item_id": 173749
+    },
+    {
+      "name": "Scalewrought Trueshot",
+      "tier_code": "TOB-R1",
+      "item_id": 173766
+    },
+    {
+      "name": "Scalewrought Warden's Charm",
+      "tier_code": "TOB-R1",
+      "item_id": 173738
+    },
+    {
+      "name": "Skyguard Summoner's Earring",
+      "tier_code": "TOB-R1",
+      "item_id": 173713
+    },
+    {
+      "name": "Skyguard's Formal Sash",
+      "tier_code": "TOB-R1",
+      "item_id": 173737
+    },
+    {
+      "name": "Stirring Bardiche of the Bound",
+      "tier_code": "TOB-R1",
+      "item_id": 173759
+    },
+    {
+      "name": "Striped Copper Ring",
+      "tier_code": "TOB-R1",
+      "item_id": 173734
+    },
+    {
+      "name": "Terrastriker Enameled Pendant",
+      "tier_code": "TOB-R1",
+      "item_id": 173720
+    },
+    {
+      "name": "Terrastriker Toothpick",
+      "tier_code": "TOB-R1",
+      "item_id": 173761
+    },
+    {
+      "name": "The Golden Hammer",
+      "tier_code": "TOB-R1",
+      "item_id": 173747
+    },
+    {
+      "name": "Twin Commander's Sigil",
+      "tier_code": "TOB-R1",
+      "item_id": 173729
+    },
+    {
+      "name": "Usira's Jousting Cap",
+      "tier_code": "TOB-R1",
+      "item_id": 173723
+    },
+    {
+      "name": "Veeshan's Fang",
+      "tier_code": "TOB-R1",
+      "item_id": 173744
+    },
+    {
+      "name": "Veeshan's Talon",
+      "tier_code": "TOB-R1",
+      "item_id": 173762
+    },
+    {
+      "name": "Veeshan's Tooth",
+      "tier_code": "TOB-R1",
+      "item_id": 173755
+    },
+    {
+      "name": "War Trainer Scales",
+      "tier_code": "TOB-R1",
+      "item_id": 173752
+    },
+    {
+      "name": "Yaran's Ear Spike",
+      "tier_code": "TOB-R1",
+      "item_id": 173716
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tiers": ["Minor", "Lesser", "Median", "Greater", "Glowing"],
+  "families": [
+    {
+      "id": "nos",
+      "label": "NoS",
+      "suffix": "Symbol of Shar Vahl",
+      "prefix": ""
+    },
+    {
+      "id": "ls",
+      "label": "LS",
+      "suffix": "Emblem of the Forge",
+      "prefix": ""
+    },
+    {
+      "id": "tob",
+      "label": "ToB",
+      "suffix": "Engram",
+      "prefix": "Energized "
+    },
+    {
+      "id": "sor",
+      "label": "SoR",
+      "suffix": "Mirrorshard of Relic",
+      "prefix": ""
+    }
+  ]
+}

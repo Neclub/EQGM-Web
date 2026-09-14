@@ -1,0 +1,325 @@
+{
+  "tier_code": "SOR-R1",
+  "items": [
+    {
+      "name": "Amorphous Pearl Earrings",
+      "tier_code": "SOR-R1",
+      "item_id": 175716
+    },
+    {
+      "name": "Angeliana's Earball",
+      "tier_code": "SOR-R1",
+      "item_id": 175738
+    },
+    {
+      "name": "Ash Infused Cloak",
+      "tier_code": "SOR-R1",
+      "item_id": 175728
+    },
+    {
+      "name": "Barkhide Barrier",
+      "tier_code": "SOR-R1",
+      "item_id": 175742
+    },
+    {
+      "name": "Baton of Spiteful Echoes",
+      "tier_code": "SOR-R1",
+      "item_id": 175753
+    },
+    {
+      "name": "Bloomedge",
+      "tier_code": "SOR-R1",
+      "item_id": 175751
+    },
+    {
+      "name": "Bloomkeeper",
+      "tier_code": "SOR-R1",
+      "item_id": 175752
+    },
+    {
+      "name": "Bramblefang",
+      "tier_code": "SOR-R1",
+      "item_id": 175749
+    },
+    {
+      "name": "Broadleaf Belt",
+      "tier_code": "SOR-R1",
+      "item_id": 175737
+    },
+    {
+      "name": "Charred Scrykin Mask",
+      "tier_code": "SOR-R1",
+      "item_id": 175719
+    },
+    {
+      "name": "Cinderforged Loop",
+      "tier_code": "SOR-R1",
+      "item_id": 175733
+    },
+    {
+      "name": "Coiled Manaweave",
+      "tier_code": "SOR-R1",
+      "item_id": 175736
+    },
+    {
+      "name": "Crate of Waning Order",
+      "tier_code": "SOR-R1",
+      "item_id": 176007
+    },
+    {
+      "name": "Diminished Shattered Dominion Arms Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175992
+    },
+    {
+      "name": "Diminished Shattered Dominion Chest Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175994
+    },
+    {
+      "name": "Diminished Shattered Dominion Feet Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175990
+    },
+    {
+      "name": "Diminished Shattered Dominion Hands Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175989
+    },
+    {
+      "name": "Diminished Shattered Dominion Head Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175991
+    },
+    {
+      "name": "Diminished Shattered Dominion Legs Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175993
+    },
+    {
+      "name": "Diminished Shattered Dominion Wrist Armor",
+      "tier_code": "SOR-R1",
+      "item_id": 175988
+    },
+    {
+      "name": "Elderbark Bulwark",
+      "tier_code": "SOR-R1",
+      "item_id": 175741
+    },
+    {
+      "name": "Flame-Dipped Jasper Ear Spike",
+      "tier_code": "SOR-R1",
+      "item_id": 175713
+    },
+    {
+      "name": "Floral Flanged Mace",
+      "tier_code": "SOR-R1",
+      "item_id": 175764
+    },
+    {
+      "name": "Forgotten Ruined Coin",
+      "tier_code": "SOR-R1",
+      "item_id": 174164
+    },
+    {
+      "name": "Fractured Tourmaline Earring",
+      "tier_code": "SOR-R1",
+      "item_id": 175715
+    },
+    {
+      "name": "Golden Drop of Amber",
+      "tier_code": "SOR-R1",
+      "item_id": 175714
+    },
+    {
+      "name": "Green Pulse",
+      "tier_code": "SOR-R1",
+      "item_id": 175729
+    },
+    {
+      "name": "Ice Veined Fire Cloak",
+      "tier_code": "SOR-R1",
+      "item_id": 175726
+    },
+    {
+      "name": "Icon of Echoes",
+      "tier_code": "SOR-R1",
+      "item_id": 175734
+    },
+    {
+      "name": "Intimidator",
+      "tier_code": "SOR-R1",
+      "item_id": 175717
+    },
+    {
+      "name": "Knotted Ironwood Chunk",
+      "tier_code": "SOR-R1",
+      "item_id": 175739
+    },
+    {
+      "name": "Maniacal Boar Sword",
+      "tier_code": "SOR-R1",
+      "item_id": 175744
+    },
+    {
+      "name": "Opalcrest Necklace",
+      "tier_code": "SOR-R1",
+      "item_id": 175721
+    },
+    {
+      "name": "Oppression",
+      "tier_code": "SOR-R1",
+      "item_id": 175762
+    },
+    {
+      "name": "Pauldrons of Loathing",
+      "tier_code": "SOR-R1",
+      "item_id": 175723
+    },
+    {
+      "name": "Pendant of the Daystar",
+      "tier_code": "SOR-R1",
+      "item_id": 175720
+    },
+    {
+      "name": "Petalbane",
+      "tier_code": "SOR-R1",
+      "item_id": 175760
+    },
+    {
+      "name": "Petalwhisper",
+      "tier_code": "SOR-R1",
+      "item_id": 175730
+    },
+    {
+      "name": "Ring of Roaring Skies",
+      "tier_code": "SOR-R1",
+      "item_id": 175732
+    },
+    {
+      "name": "Rooted Shank",
+      "tier_code": "SOR-R1",
+      "item_id": 175748
+    },
+    {
+      "name": "Rootfang Shiv",
+      "tier_code": "SOR-R1",
+      "item_id": 175754
+    },
+    {
+      "name": "Runaway's Silk Scarf",
+      "tier_code": "SOR-R1",
+      "item_id": 175724
+    },
+    {
+      "name": "Rune-Fragment Necklace",
+      "tier_code": "SOR-R1",
+      "item_id": 175722
+    },
+    {
+      "name": "Seed of Conflict",
+      "tier_code": "SOR-R1",
+      "item_id": 175756
+    },
+    {
+      "name": "Shevil's Resonance",
+      "tier_code": "SOR-R1",
+      "item_id": 175765
+    },
+    {
+      "name": "Shroud of Shadowed Resentment",
+      "tier_code": "SOR-R1",
+      "item_id": 175727
+    },
+    {
+      "name": "Spiralthorn Mace",
+      "tier_code": "SOR-R1",
+      "item_id": 175747
+    },
+    {
+      "name": "Spiteful Succulent",
+      "tier_code": "SOR-R1",
+      "item_id": 175755
+    },
+    {
+      "name": "Sprig of Bloom",
+      "tier_code": "SOR-R1",
+      "item_id": 175758
+    },
+    {
+      "name": "Sprigsplitter",
+      "tier_code": "SOR-R1",
+      "item_id": 175745
+    },
+    {
+      "name": "Stickler for Puncturation",
+      "tier_code": "SOR-R1",
+      "item_id": 175757
+    },
+    {
+      "name": "Stone Storm Staff",
+      "tier_code": "SOR-R1",
+      "item_id": 175763
+    },
+    {
+      "name": "Stormbark Greataxe",
+      "tier_code": "SOR-R1",
+      "item_id": 175759
+    },
+    {
+      "name": "Stout Leather Belt",
+      "tier_code": "SOR-R1",
+      "item_id": 175735
+    },
+    {
+      "name": "Sturdy Ironwood Spaulders",
+      "tier_code": "SOR-R1",
+      "item_id": 175725
+    },
+    {
+      "name": "Tempestuous Charm",
+      "tier_code": "SOR-R1",
+      "item_id": 175740
+    },
+    {
+      "name": "Thornwoven Glaive",
+      "tier_code": "SOR-R1",
+      "item_id": 175761
+    },
+    {
+      "name": "Twisted Maul",
+      "tier_code": "SOR-R1",
+      "item_id": 175746
+    },
+    {
+      "name": "Twisted Root Bow",
+      "tier_code": "SOR-R1",
+      "item_id": 175766
+    },
+    {
+      "name": "Verdant Cupule",
+      "tier_code": "SOR-R1",
+      "item_id": 175743
+    },
+    {
+      "name": "Verdant Edge",
+      "tier_code": "SOR-R1",
+      "item_id": 175750
+    },
+    {
+      "name": "Vine Twisted Recurve Bow",
+      "tier_code": "SOR-R1",
+      "item_id": 175767
+    },
+    {
+      "name": "Vinebound Acorn",
+      "tier_code": "SOR-R1",
+      "item_id": 175731
+    },
+    {
+      "name": "Waxcloth Mask",
+      "tier_code": "SOR-R1",
+      "item_id": 175718
+    }
+  ]
+}

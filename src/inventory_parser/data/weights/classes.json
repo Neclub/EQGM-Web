@@ -1,0 +1,88 @@
+{
+  "mode": "raid",
+  "classes": {
+    "WAR": {
+      "role": "tank",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "SHD": {
+      "role": "tank",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "PAL": {
+      "role": "tank",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "CLR": {
+      "role": "priest",
+      "profile": "wis",
+      "modifiers": {}
+    },
+    "DRU": {
+      "role": "priest",
+      "profile": "wis",
+      "modifiers": {
+        "spell_damage": 9.0,
+        "hwis": -9.0
+      }
+    },
+    "SHM": {
+      "role": "priest",
+      "profile": "wis",
+      "modifiers": {}
+    },
+    "WIZ": {
+      "role": "pure_caster",
+      "profile": "int",
+      "modifiers": {}
+    },
+    "MAG": {
+      "role": "pure_caster",
+      "profile": "int",
+      "modifiers": {}
+    },
+    "NEC": {
+      "role": "pure_caster",
+      "profile": "int",
+      "modifiers": {}
+    },
+    "ENC": {
+      "role": "pure_caster",
+      "profile": "int",
+      "modifiers": {}
+    },
+    "ROG": {
+      "role": "melee_dps",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "MNK": {
+      "role": "melee_dps",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "BER": {
+      "role": "melee_dps",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "RNG": {
+      "role": "hybrid_dps",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "BST": {
+      "role": "hybrid_dps",
+      "profile": "dex",
+      "modifiers": {}
+    },
+    "BRD": {
+      "role": "hybrid_dps",
+      "profile": "dex",
+      "modifiers": {}
+    }
+  }
+}

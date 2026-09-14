@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eqgm-web"
+version = "0.1.0"
+description = "EQGM Web — browser upload of EverQuest inventory dumps to Excel/HTML team reports"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "python-multipart>=0.0.9",
+    "openpyxl>=3.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["src", "."]
+include = ["inventory_parser*", "app*"]
+
+[tool.setuptools.package-data]
+inventory_parser = ["data/*.json", "data/*.html", "data/gui/**", "data/weights/**", "assets/*"]

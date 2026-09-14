@@ -1,0 +1,1162 @@
+{
+  "dex": {
+    "fetched_at": "2026-09-13T20:28:14.177423+00:00",
+    "url": "https://items.eqresource.com/dosearch.php",
+    "rows": [
+      {
+        "item_id": 88785,
+        "name": "Artisan's Prize",
+        "stats": {
+          "ac": 300,
+          "hp": 3000,
+          "mana": 3000,
+          "endurance": 3000,
+          "hdex": 150,
+          "spell_damage": 200,
+          "hint": 150,
+          "hwis": 150
+        }
+      },
+      {
+        "item_id": 175572,
+        "name": "Acrobat's Gem of Unraveling Order",
+        "stats": {
+          "ac": 115,
+          "hp": 1750,
+          "mana": 1750,
+          "endurance": 1750,
+          "hdex": 61,
+          "spell_damage": 114
+        }
+      },
+      {
+        "item_id": 175369,
+        "name": "Mist-Filled Vial",
+        "stats": {
+          "ac": 113,
+          "hp": 1600,
+          "mana": 1600,
+          "endurance": 1600,
+          "hdex": 59,
+          "spell_damage": 93
+        }
+      },
+      {
+        "item_id": 175167,
+        "name": "Gnoll Skull Fragment",
+        "stats": {
+          "ac": 113,
+          "hp": 1650,
+          "mana": 1650,
+          "endurance": 1650,
+          "hdex": 57,
+          "spell_damage": 100
+        }
+      },
+      {
+        "item_id": 173572,
+        "name": "Acrobat's Gem of Uprising",
+        "stats": {
+          "ac": 100,
+          "hp": 1500,
+          "mana": 1500,
+          "endurance": 1500,
+          "hdex": 55,
+          "spell_damage": 104
+        }
+      },
+      {
+        "item_id": 173369,
+        "name": "Gleaming Emblem of the Overseer",
+        "stats": {
+          "ac": 98,
+          "hp": 1500,
+          "mana": 1500,
+          "endurance": 1500,
+          "hdex": 53,
+          "spell_damage": 101
+        }
+      },
+      {
+        "item_id": 173167,
+        "name": "Ungerminated Spore",
+        "stats": {
+          "ac": 98,
+          "hp": 1450,
+          "mana": 1450,
+          "endurance": 1450,
+          "hdex": 51,
+          "spell_damage": 103
+        }
+      },
+      {
+        "item_id": 166898,
+        "name": "Unparalleled Finesse Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1417,
+          "mana": 1249,
+          "endurance": 1135,
+          "hdex": 49,
+          "spell_damage": 88,
+          "hint": 16,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 171571,
+        "name": "Adroit Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 95,
+          "hp": 1350,
+          "mana": 1350,
+          "endurance": 1350,
+          "hdex": 49,
+          "spell_damage": 88
+        }
+      },
+      {
+        "item_id": 171369,
+        "name": "Violet Edged Rose",
+        "stats": {
+          "ac": 93,
+          "hp": 1300,
+          "mana": 1300,
+          "endurance": 1300,
+          "hdex": 47,
+          "spell_damage": 94
+        }
+      },
+      {
+        "item_id": 171167,
+        "name": "Mischievous Reanimating Reagent",
+        "stats": {
+          "ac": 93,
+          "hp": 1250,
+          "mana": 1250,
+          "endurance": 1250,
+          "hdex": 45,
+          "spell_damage": 100
+        }
+      },
+      {
+        "item_id": 175574,
+        "name": "Protector's Gem of Unraveling Order",
+        "stats": {
+          "ac": 145,
+          "hp": 1045,
+          "mana": 1045,
+          "endurance": 1045,
+          "hdex": 43,
+          "spell_damage": 101
+        }
+      },
+      {
+        "item_id": 169571,
+        "name": "Phantasmal Luclinite Gem of Adroitness",
+        "stats": {
+          "ac": 85,
+          "hp": 1250,
+          "mana": 1250,
+          "endurance": 1250,
+          "hdex": 43,
+          "spell_damage": 89
+        }
+      },
+      {
+        "item_id": 175371,
+        "name": "Medallion of Loathing",
+        "stats": {
+          "ac": 145,
+          "hp": 960,
+          "mana": 960,
+          "endurance": 960,
+          "hdex": 42,
+          "spell_damage": 125
+        }
+      },
+      {
+        "item_id": 175169,
+        "name": "Joy of the Dancer",
+        "stats": {
+          "ac": 143,
+          "hp": 990,
+          "mana": 990,
+          "endurance": 990,
+          "hdex": 41,
+          "spell_damage": 106
+        }
+      },
+      {
+        "item_id": 169369,
+        "name": "Humongous Corrupted Pincer",
+        "stats": {
+          "ac": 83,
+          "hp": 1150,
+          "mana": 1150,
+          "endurance": 1150,
+          "hdex": 41,
+          "spell_damage": 86
+        }
+      },
+      {
+        "item_id": 169167,
+        "name": "Jovial Jharin Jingle",
+        "stats": {
+          "ac": 83,
+          "hp": 1050,
+          "mana": 1050,
+          "endurance": 1050,
+          "hdex": 39,
+          "spell_damage": 84
+        }
+      },
+      {
+        "item_id": 167571,
+        "name": "Luclinite Ensanguined Gem of Adroitness",
+        "stats": {
+          "ac": 75,
+          "hp": 1050,
+          "mana": 1050,
+          "endurance": 1050,
+          "hdex": 37,
+          "spell_damage": 81
+        }
+      },
+      {
+        "item_id": 173574,
+        "name": "Protector's Gem of Uprising",
+        "stats": {
+          "ac": 130,
+          "hp": 900,
+          "mana": 900,
+          "endurance": 900,
+          "hdex": 35,
+          "spell_damage": 104
+        }
+      },
+      {
+        "item_id": 167369,
+        "name": "Tormented Lere",
+        "stats": {
+          "ac": 73,
+          "hp": 1000,
+          "mana": 1000,
+          "endurance": 1050,
+          "hdex": 35,
+          "spell_damage": 86
+        }
+      },
+      {
+        "item_id": 171573,
+        "name": "Security Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 125,
+          "hp": 810,
+          "mana": 810,
+          "endurance": 810,
+          "hdex": 34,
+          "spell_damage": 104
+        }
+      },
+      {
+        "item_id": 173371,
+        "name": "Bioluminescent Cave Stone",
+        "stats": {
+          "ac": 130,
+          "hp": 900,
+          "mana": 900,
+          "endurance": 900,
+          "hdex": 34,
+          "spell_damage": 101
+        }
+      },
+      {
+        "item_id": 173169,
+        "name": "Steadfast Shadow Gem",
+        "stats": {
+          "ac": 128,
+          "hp": 870,
+          "mana": 870,
+          "endurance": 870,
+          "hdex": 33,
+          "spell_damage": 99
+        }
+      },
+      {
+        "item_id": 171371,
+        "name": "Hardened Glowing Diamond",
+        "stats": {
+          "ac": 125,
+          "hp": 780,
+          "mana": 780,
+          "endurance": 780,
+          "hdex": 33,
+          "spell_damage": 95
+        }
+      },
+      {
+        "item_id": 167167,
+        "name": "Tooth Fang Earring",
+        "stats": {
+          "ac": 73,
+          "hp": 950,
+          "mana": 950,
+          "endurance": 1000,
+          "hdex": 33,
+          "spell_damage": 76
+        }
+      },
+      {
+        "item_id": 171169,
+        "name": "Protective Beak Bauble",
+        "stats": {
+          "ac": 123,
+          "hp": 750,
+          "mana": 750,
+          "endurance": 750,
+          "hdex": 32,
+          "spell_damage": 91
+        }
+      }
+    ]
+  },
+  "wis": {
+    "fetched_at": "2026-09-13T20:28:20.577170+00:00",
+    "url": "https://items.eqresource.com/dosearch.php",
+    "rows": [
+      {
+        "item_id": 88785,
+        "name": "Artisan's Prize",
+        "stats": {
+          "ac": 300,
+          "hp": 3000,
+          "mana": 3000,
+          "endurance": 3000,
+          "hwis": 150,
+          "spell_damage": 200,
+          "hint": 150,
+          "hdex": 150
+        }
+      },
+      {
+        "item_id": 175573,
+        "name": "Mystic's Gem of Unraveling Order",
+        "stats": {
+          "ac": 115,
+          "hp": 1470,
+          "mana": 2040,
+          "endurance": 2040,
+          "hwis": 61,
+          "spell_damage": 118,
+          "hint": 61
+        }
+      },
+      {
+        "item_id": 175370,
+        "name": "Quiet Perception",
+        "stats": {
+          "ac": 113,
+          "hp": 1345,
+          "mana": 1865,
+          "endurance": 1865,
+          "hwis": 59,
+          "spell_damage": 109,
+          "hint": 59
+        }
+      },
+      {
+        "item_id": 175168,
+        "name": "Trinket of the Fire Snail",
+        "stats": {
+          "ac": 113,
+          "hp": 1390,
+          "mana": 1925,
+          "endurance": 1925,
+          "hwis": 57,
+          "spell_damage": 106,
+          "hint": 57
+        }
+      },
+      {
+        "item_id": 173573,
+        "name": "Mystic's Gem of Uprising",
+        "stats": {
+          "ac": 70,
+          "hp": 1260,
+          "mana": 1750,
+          "endurance": 1750,
+          "hwis": 55,
+          "spell_damage": 104,
+          "hint": 55
+        }
+      },
+      {
+        "item_id": 173370,
+        "name": "White Gilded Lodestone",
+        "stats": {
+          "ac": 68,
+          "hp": 1260,
+          "mana": 1750,
+          "endurance": 1750,
+          "hwis": 53,
+          "spell_damage": 101,
+          "hint": 53
+        }
+      },
+      {
+        "item_id": 173168,
+        "name": "Brilliant Scalewrought Bauble",
+        "stats": {
+          "ac": 68,
+          "hp": 1220,
+          "mana": 1690,
+          "endurance": 1690,
+          "hwis": 51,
+          "spell_damage": 99,
+          "hint": 51
+        }
+      },
+      {
+        "item_id": 171572,
+        "name": "Brilliant Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 65,
+          "hp": 1135,
+          "mana": 1575,
+          "endurance": 1575,
+          "hwis": 49,
+          "spell_damage": 86,
+          "hint": 49
+        }
+      },
+      {
+        "item_id": 166661,
+        "name": "Unparalleled Sagacious Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1417,
+          "mana": 1249,
+          "endurance": 1135,
+          "hwis": 49,
+          "spell_damage": 80,
+          "hint": 16,
+          "hdex": 16
+        }
+      },
+      {
+        "item_id": 171370,
+        "name": "Concentrated Goblin Smarts",
+        "stats": {
+          "ac": 63,
+          "hp": 1095,
+          "mana": 1515,
+          "endurance": 1515,
+          "hwis": 47,
+          "spell_damage": 95,
+          "hint": 47
+        }
+      },
+      {
+        "item_id": 171168,
+        "name": "Tiny Tessellated Ootheca",
+        "stats": {
+          "ac": 63,
+          "hp": 1050,
+          "mana": 1460,
+          "endurance": 1460,
+          "hwis": 45,
+          "spell_damage": 91,
+          "hint": 45
+        }
+      },
+      {
+        "item_id": 169572,
+        "name": "Phantasmal Luclinite Gem of Brilliance",
+        "stats": {
+          "ac": 60,
+          "hp": 1050,
+          "mana": 1460,
+          "endurance": 1460,
+          "hwis": 43,
+          "spell_damage": 89,
+          "hint": 43
+        }
+      },
+      {
+        "item_id": 169370,
+        "name": "Spittle Pocked Yttrium Coin",
+        "stats": {
+          "ac": 58,
+          "hp": 965,
+          "mana": 1340,
+          "endurance": 1340,
+          "hwis": 41,
+          "spell_damage": 86,
+          "hint": 41
+        }
+      },
+      {
+        "item_id": 169168,
+        "name": "Kaas Akuel xi Temariel",
+        "stats": {
+          "ac": 58,
+          "hp": 885,
+          "mana": 1225,
+          "endurance": 1225,
+          "hwis": 39,
+          "spell_damage": 94,
+          "hint": 39
+        }
+      },
+      {
+        "item_id": 167572,
+        "name": "Luclinite Ensanguined Gem of Brilliance",
+        "stats": {
+          "ac": 55,
+          "hp": 885,
+          "mana": 1225,
+          "endurance": 1225,
+          "hwis": 37,
+          "spell_damage": 81,
+          "hint": 37
+        }
+      },
+      {
+        "item_id": 175179,
+        "name": "Votive of The Great Shell",
+        "stats": {
+          "ac": 113,
+          "hp": 950,
+          "mana": 950,
+          "endurance": 950,
+          "hwis": 36,
+          "hint": 36
+        }
+      }
+    ]
+  },
+  "int": {
+    "fetched_at": "2026-09-13T20:28:25.096677+00:00",
+    "url": "https://items.eqresource.com/dosearch.php",
+    "rows": [
+      {
+        "item_id": 88785,
+        "name": "Artisan's Prize",
+        "stats": {
+          "ac": 300,
+          "hp": 3000,
+          "mana": 3000,
+          "endurance": 3000,
+          "spell_damage": 200,
+          "hint": 150,
+          "hdex": 150,
+          "hwis": 150
+        }
+      },
+      {
+        "item_id": 175371,
+        "name": "Medallion of Loathing",
+        "stats": {
+          "ac": 145,
+          "hp": 960,
+          "mana": 960,
+          "endurance": 960,
+          "spell_damage": 125,
+          "hdex": 42
+        }
+      },
+      {
+        "item_id": 175573,
+        "name": "Mystic's Gem of Unraveling Order",
+        "stats": {
+          "ac": 115,
+          "hp": 1470,
+          "mana": 2040,
+          "endurance": 2040,
+          "spell_damage": 118,
+          "hint": 61,
+          "hwis": 61
+        }
+      },
+      {
+        "item_id": 175572,
+        "name": "Acrobat's Gem of Unraveling Order",
+        "stats": {
+          "ac": 115,
+          "hp": 1750,
+          "mana": 1750,
+          "endurance": 1750,
+          "spell_damage": 114,
+          "hdex": 61
+        }
+      },
+      {
+        "item_id": 175166,
+        "name": "Druid's Keepsake",
+        "stats": {
+          "ac": 113,
+          "hp": 1925,
+          "mana": 1390,
+          "endurance": 1390,
+          "spell_damage": 112
+        }
+      },
+      {
+        "item_id": 175571,
+        "name": "Defender's Gem of Unraveling Order",
+        "stats": {
+          "ac": 115,
+          "hp": 2040,
+          "mana": 1470,
+          "endurance": 1470,
+          "spell_damage": 111
+        }
+      },
+      {
+        "item_id": 175370,
+        "name": "Quiet Perception",
+        "stats": {
+          "ac": 113,
+          "hp": 1345,
+          "mana": 1865,
+          "endurance": 1865,
+          "spell_damage": 109,
+          "hint": 59,
+          "hwis": 59
+        }
+      },
+      {
+        "item_id": 175368,
+        "name": "Overbound Zerk",
+        "stats": {
+          "ac": 113,
+          "hp": 1865,
+          "mana": 1345,
+          "endurance": 1345,
+          "spell_damage": 109
+        }
+      },
+      {
+        "item_id": 175168,
+        "name": "Trinket of the Fire Snail",
+        "stats": {
+          "ac": 113,
+          "hp": 1390,
+          "mana": 1925,
+          "endurance": 1925,
+          "spell_damage": 106,
+          "hint": 57,
+          "hwis": 57
+        }
+      },
+      {
+        "item_id": 111506,
+        "name": "Unparalleled Vigorous Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1575,
+          "mana": 1135,
+          "endurance": 1135,
+          "spell_damage": 106,
+          "hint": 16,
+          "hdex": 16,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 175169,
+        "name": "Joy of the Dancer",
+        "stats": {
+          "ac": 143,
+          "hp": 990,
+          "mana": 990,
+          "endurance": 990,
+          "spell_damage": 106,
+          "hdex": 41
+        }
+      },
+      {
+        "item_id": 171570,
+        "name": "Vigorous Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 95,
+          "hp": 1575,
+          "mana": 1135,
+          "endurance": 1135,
+          "spell_damage": 106
+        }
+      },
+      {
+        "item_id": 173573,
+        "name": "Mystic's Gem of Uprising",
+        "stats": {
+          "ac": 70,
+          "hp": 1260,
+          "mana": 1750,
+          "endurance": 1750,
+          "spell_damage": 104,
+          "hint": 55,
+          "hwis": 55
+        }
+      },
+      {
+        "item_id": 173572,
+        "name": "Acrobat's Gem of Uprising",
+        "stats": {
+          "ac": 100,
+          "hp": 1500,
+          "mana": 1500,
+          "endurance": 1500,
+          "spell_damage": 104,
+          "hdex": 55
+        }
+      },
+      {
+        "item_id": 173574,
+        "name": "Protector's Gem of Uprising",
+        "stats": {
+          "ac": 130,
+          "hp": 900,
+          "mana": 900,
+          "endurance": 900,
+          "spell_damage": 104,
+          "hdex": 35
+        }
+      },
+      {
+        "item_id": 171573,
+        "name": "Security Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 125,
+          "hp": 810,
+          "mana": 810,
+          "endurance": 810,
+          "spell_damage": 104,
+          "hdex": 34
+        }
+      },
+      {
+        "item_id": 173571,
+        "name": "Defender's Gem of Uprising",
+        "stats": {
+          "ac": 100,
+          "hp": 1750,
+          "mana": 1260,
+          "endurance": 1260,
+          "spell_damage": 104
+        }
+      },
+      {
+        "item_id": 173167,
+        "name": "Ungerminated Spore",
+        "stats": {
+          "ac": 98,
+          "hp": 1450,
+          "mana": 1450,
+          "endurance": 1450,
+          "spell_damage": 103,
+          "hdex": 51
+        }
+      },
+      {
+        "item_id": 173370,
+        "name": "White Gilded Lodestone",
+        "stats": {
+          "ac": 68,
+          "hp": 1260,
+          "mana": 1750,
+          "endurance": 1750,
+          "spell_damage": 101,
+          "hint": 53,
+          "hwis": 53
+        }
+      },
+      {
+        "item_id": 173369,
+        "name": "Gleaming Emblem of the Overseer",
+        "stats": {
+          "ac": 98,
+          "hp": 1500,
+          "mana": 1500,
+          "endurance": 1500,
+          "spell_damage": 101,
+          "hdex": 53
+        }
+      },
+      {
+        "item_id": 175574,
+        "name": "Protector's Gem of Unraveling Order",
+        "stats": {
+          "ac": 145,
+          "hp": 1045,
+          "mana": 1045,
+          "endurance": 1045,
+          "spell_damage": 101,
+          "hdex": 43
+        }
+      },
+      {
+        "item_id": 173371,
+        "name": "Bioluminescent Cave Stone",
+        "stats": {
+          "ac": 130,
+          "hp": 900,
+          "mana": 900,
+          "endurance": 900,
+          "spell_damage": 101,
+          "hdex": 34
+        }
+      },
+      {
+        "item_id": 173368,
+        "name": "Faskan Rift",
+        "stats": {
+          "ac": 98,
+          "hp": 1750,
+          "mana": 1260,
+          "endurance": 1260,
+          "spell_damage": 101
+        }
+      },
+      {
+        "item_id": 175167,
+        "name": "Gnoll Skull Fragment",
+        "stats": {
+          "ac": 113,
+          "hp": 1650,
+          "mana": 1650,
+          "endurance": 1650,
+          "spell_damage": 100,
+          "hdex": 57
+        }
+      },
+      {
+        "item_id": 171167,
+        "name": "Mischievous Reanimating Reagent",
+        "stats": {
+          "ac": 93,
+          "hp": 1250,
+          "mana": 1250,
+          "endurance": 1250,
+          "spell_damage": 100,
+          "hdex": 45
+        }
+      },
+      {
+        "item_id": 173168,
+        "name": "Brilliant Scalewrought Bauble",
+        "stats": {
+          "ac": 68,
+          "hp": 1220,
+          "mana": 1690,
+          "endurance": 1690,
+          "spell_damage": 99,
+          "hint": 51,
+          "hwis": 51
+        }
+      },
+      {
+        "item_id": 173169,
+        "name": "Steadfast Shadow Gem",
+        "stats": {
+          "ac": 128,
+          "hp": 870,
+          "mana": 870,
+          "endurance": 870,
+          "spell_damage": 99,
+          "hdex": 33
+        }
+      },
+      {
+        "item_id": 171370,
+        "name": "Concentrated Goblin Smarts",
+        "stats": {
+          "ac": 63,
+          "hp": 1095,
+          "mana": 1515,
+          "endurance": 1515,
+          "spell_damage": 95,
+          "hint": 47,
+          "hwis": 47
+        }
+      },
+      {
+        "item_id": 171371,
+        "name": "Hardened Glowing Diamond",
+        "stats": {
+          "ac": 125,
+          "hp": 780,
+          "mana": 780,
+          "endurance": 780,
+          "spell_damage": 95,
+          "hdex": 33
+        }
+      },
+      {
+        "item_id": 173166,
+        "name": "Leviathan Cabochon",
+        "stats": {
+          "ac": 98,
+          "hp": 1690,
+          "mana": 1220,
+          "endurance": 1220,
+          "spell_damage": 95
+        }
+      },
+      {
+        "item_id": 169168,
+        "name": "Kaas Akuel xi Temariel",
+        "stats": {
+          "ac": 58,
+          "hp": 885,
+          "mana": 1225,
+          "endurance": 1225,
+          "spell_damage": 94,
+          "hint": 39,
+          "hwis": 39
+        }
+      },
+      {
+        "item_id": 171369,
+        "name": "Violet Edged Rose",
+        "stats": {
+          "ac": 93,
+          "hp": 1300,
+          "mana": 1300,
+          "endurance": 1300,
+          "spell_damage": 94,
+          "hdex": 47
+        }
+      },
+      {
+        "item_id": 171368,
+        "name": "The Captain's Strength",
+        "stats": {
+          "ac": 93,
+          "hp": 1515,
+          "mana": 1095,
+          "endurance": 1095,
+          "spell_damage": 94
+        }
+      },
+      {
+        "item_id": 175369,
+        "name": "Mist-Filled Vial",
+        "stats": {
+          "ac": 113,
+          "hp": 1600,
+          "mana": 1600,
+          "endurance": 1600,
+          "spell_damage": 93,
+          "hdex": 59
+        }
+      },
+      {
+        "item_id": 171168,
+        "name": "Tiny Tessellated Ootheca",
+        "stats": {
+          "ac": 63,
+          "hp": 1050,
+          "mana": 1460,
+          "endurance": 1460,
+          "spell_damage": 91,
+          "hint": 45,
+          "hwis": 45
+        }
+      },
+      {
+        "item_id": 171169,
+        "name": "Protective Beak Bauble",
+        "stats": {
+          "ac": 123,
+          "hp": 750,
+          "mana": 750,
+          "endurance": 750,
+          "spell_damage": 91,
+          "hdex": 32
+        }
+      },
+      {
+        "item_id": 169572,
+        "name": "Phantasmal Luclinite Gem of Brilliance",
+        "stats": {
+          "ac": 60,
+          "hp": 1050,
+          "mana": 1460,
+          "endurance": 1460,
+          "spell_damage": 89,
+          "hint": 43,
+          "hwis": 43
+        }
+      },
+      {
+        "item_id": 169571,
+        "name": "Phantasmal Luclinite Gem of Adroitness",
+        "stats": {
+          "ac": 85,
+          "hp": 1250,
+          "mana": 1250,
+          "endurance": 1250,
+          "spell_damage": 89,
+          "hdex": 43
+        }
+      },
+      {
+        "item_id": 169573,
+        "name": "Phantasmal Luclinite Gem of Security",
+        "stats": {
+          "ac": 115,
+          "hp": 750,
+          "mana": 750,
+          "endurance": 750,
+          "spell_damage": 89,
+          "hdex": 29
+        }
+      },
+      {
+        "item_id": 169570,
+        "name": "Phantasmal Luclinite Gem of Vigor",
+        "stats": {
+          "ac": 85,
+          "hp": 1460,
+          "mana": 1050,
+          "endurance": 1050,
+          "spell_damage": 89
+        }
+      },
+      {
+        "item_id": 166898,
+        "name": "Unparalleled Finesse Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1417,
+          "mana": 1249,
+          "endurance": 1135,
+          "spell_damage": 88,
+          "hint": 16,
+          "hdex": 49,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 132849,
+        "name": "Unparalleled Charismatic Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1418,
+          "mana": 1249,
+          "endurance": 1135,
+          "spell_damage": 88,
+          "hint": 16,
+          "hdex": 16,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 162961,
+        "name": "Unparalleled Staminic Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1418,
+          "mana": 1249,
+          "endurance": 1135,
+          "spell_damage": 88,
+          "hint": 16,
+          "hdex": 16,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 166685,
+        "name": "Unparalleled Nimble Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1418,
+          "mana": 1249,
+          "endurance": 1135,
+          "spell_damage": 88,
+          "hint": 16,
+          "hdex": 16,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 171571,
+        "name": "Adroit Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 95,
+          "hp": 1350,
+          "mana": 1350,
+          "endurance": 1350,
+          "spell_damage": 88,
+          "hdex": 49
+        }
+      },
+      {
+        "item_id": 111863,
+        "name": "Unparalleled Intellect Gem of Distant Echoes",
+        "stats": {
+          "ac": 95,
+          "hp": 1418,
+          "mana": 1249,
+          "endurance": 1135,
+          "spell_damage": 86,
+          "hint": 49,
+          "hdex": 16,
+          "hwis": 16
+        }
+      },
+      {
+        "item_id": 171572,
+        "name": "Brilliant Gem of Perpetual Reverie",
+        "stats": {
+          "ac": 65,
+          "hp": 1135,
+          "mana": 1575,
+          "endurance": 1575,
+          "spell_damage": 86,
+          "hint": 49,
+          "hwis": 49
+        }
+      },
+      {
+        "item_id": 169370,
+        "name": "Spittle Pocked Yttrium Coin",
+        "stats": {
+          "ac": 58,
+          "hp": 965,
+          "mana": 1340,
+          "endurance": 1340,
+          "spell_damage": 86,
+          "hint": 41,
+          "hwis": 41
+        }
+      },
+      {
+        "item_id": 169369,
+        "name": "Humongous Corrupted Pincer",
+        "stats": {
+          "ac": 83,
+          "hp": 1150,
+          "mana": 1150,
+          "endurance": 1150,
+          "spell_damage": 86,
+          "hdex": 41
+        }
+      },
+      {
+        "item_id": 167369,
+        "name": "Tormented Lere",
+        "stats": {
+          "ac": 73,
+          "hp": 1000,
+          "mana": 1000,
+          "endurance": 1050,
+          "spell_damage": 86,
+          "hdex": 35
+        }
+      }
+    ]
+  }
+}
