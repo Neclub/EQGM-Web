@@ -71,6 +71,21 @@ class JobStore:
         if job.output_dir is not None:
             shutil.rmtree(job.output_dir, ignore_errors=True)
 
+    def drop_job(self, job_id: str) -> None:
+        """Remove a job and delete its temp output directory."""
+        with self._lock:
+            self._drop_job_unlocked(job_id)
+
+    def drop_session_jobs(self, session_id: str, *, keep_job_id: str | None = None) -> None:
+        """Delete prior generate outputs for a session (avoids stacking HTML on disk)."""
+        with self._lock:
+            for jid, job in list(self.jobs.items()):
+                if job.session_id != session_id:
+                    continue
+                if keep_job_id is not None and jid == keep_job_id:
+                    continue
+                self._drop_job_unlocked(jid)
+
     def create_session(self, client_ip: str = "") -> Session:
         self.cleanup_expired()
         sid = uuid.uuid4().hex
@@ -104,6 +119,9 @@ class JobStore:
                 session.last_used = time.time()
 
     def create_job(self, session_id: str, client_ip: str = "") -> Job:
+        self.cleanup_expired()
+        # One active output set per session — free prior reports before another generate.
+        self.drop_session_jobs(session_id)
         jid = uuid.uuid4().hex
         output_dir = self.root / "jobs" / jid
         output_dir.mkdir(parents=True, exist_ok=True)

@@ -1124,7 +1124,7 @@ function showDownloadLinks(result) {
 }
 
 async function triggerDownloads(result) {
-  if (!result.downloadHtml) return;
+  if (!result.downloadHtml) return false;
   const item = {
     url: result.downloadHtml,
     name: result.html || "EQGM_Team_Inventory.html",
@@ -1142,8 +1142,10 @@ async function triggerDownloads(result) {
     a.click();
     a.remove();
     setTimeout(() => URL.revokeObjectURL(objectUrl), 2000);
+    return true;
   } catch (err) {
     showToast(err && err.message ? err.message : String(err), true);
+    return false;
   }
 }
 
@@ -1171,9 +1173,15 @@ window.onGenerateComplete = async function (result) {
   $("status").textContent = extra;
 
   showDownloadLinks(result);
-  await triggerDownloads(result);
+  const downloaded = await triggerDownloads(result);
+  // Server deletes the job file after a successful download — drop the retry link.
+  if (downloaded) {
+    hideDownloadLinks();
+  }
 
-  let msg = "Report ready — HTML download started.";
+  let msg = downloaded
+    ? "Report ready — HTML downloaded."
+    : "Report ready — use Download HTML if the file did not save.";
   if (result.warnings && result.warnings.length) {
     msg += " • " + result.warnings.join(" • ");
   }

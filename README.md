@@ -68,7 +68,7 @@ On Render’s free plan the disk is still ephemeral: growth while the instance i
 
 - The service **sleeps after ~15 minutes** idle; the first request can take about a minute to wake.
 - **512 MB RAM** and one generate at a time — keep rosters modest (max 20 characters in this build).
-- Local disk is **ephemeral** (lost on sleep/redeploy). Uploaded files and finished reports are deleted after a short TTL (~15 minutes).
+- Local disk is **ephemeral** (lost on sleep/redeploy). Uploaded files expire with the session (~30 minutes idle). Generated HTML reports are deleted after download or when a new generate starts for that session.
 - Durable catalogs come from committed `cache/*.json` in this repo.
 
 ## How to use
@@ -76,7 +76,7 @@ On Render’s free plan the disk is still ephemeral: growth while the instance i
 1. In EverQuest, run `/outputfile inventory` (and optionally MissingSpells / Achievements) on each character.
 2. On the web app, **Upload files** (or drag `.txt` files onto the roster).
 3. Select characters, set export options, click **Generate Report**.
-4. **Download HTML** (download starts automatically; the link remains available).
+4. The **HTML download starts automatically** when generation finishes. The temp report is deleted after download (and older reports for the same session are cleared when you generate again).
 
 No accounts. Do not upload files you are not allowed to share.
 

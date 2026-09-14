@@ -16,6 +16,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
+from starlette.background import BackgroundTask
 
 from app import limits
 from app.cache_seed import configure_cache_dir, project_root, seed_disk_caches
@@ -480,6 +481,9 @@ def generate_api(
         finally:
             release_export_memory()
             store.release_generate()
+            # Failed jobs have no download — free their temp dir immediately.
+            if job.status == "error":
+                store.drop_job(job.id)
 
     threading.Thread(target=work, daemon=True).start()
     return {"ok": True, "started": True, "jobId": job.id}
@@ -583,11 +587,13 @@ def job_download(job_id: str, kind: str) -> FileResponse:
         "Content-Disposition": f'attachment; filename="{path.name}"',
         "X-Content-Type-Options": "nosniff",
     }
+    # Delete the job output after the response body is fully sent.
     return FileResponse(
         path,
         media_type="application/octet-stream",
         filename=path.name,
         headers=headers,
+        background=BackgroundTask(store.drop_job, job_id),
     )
 
 
