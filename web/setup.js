@@ -502,6 +502,10 @@ function bindEvents() {
   document.addEventListener("click", () => $("helpMenu").classList.add("hidden"));
   $("helpMenu").addEventListener("click", (e) => e.stopPropagation());
 
+  $("helpHowTo").addEventListener("click", () => {
+    $("helpMenu").classList.add("hidden");
+    showHowToUse();
+  });
   $("helpTiers").addEventListener("click", () => {
     $("helpMenu").classList.add("hidden");
     showHelpTiers();
@@ -1561,6 +1565,44 @@ async function openWebsite() {
   } catch (err) {
     showToast(err && err.message ? err.message : String(err), true);
   }
+}
+
+function showHowToUse() {
+  showModal(`
+    <div class="modal wide">
+      <div class="modal-header"><h2>How to use</h2></div>
+      <div class="modal-body">
+        <section class="howto-section">
+          <h3>In game</h3>
+          <p class="howto-lead">For each character, type these commands:</p>
+          <div class="howto-cmds">
+            <code class="howto-cmd">/outputfile inventory</code>
+            <code class="howto-cmd">/outputfile missingspells</code>
+            <code class="howto-cmd">/outputfile achievements</code>
+          </div>
+          <div class="howto-note">
+            <div class="howto-note-label">Optional for personas</div>
+            <code class="howto-cmd">/outputfile inventory CHARName_Server-CLASS-inventory</code>
+          </div>
+        </section>
+        <section class="howto-section">
+          <h3>On the website</h3>
+          <ol class="howto-steps">
+            <li><span class="howto-num" aria-hidden="true">1</span><span>Click <strong>Upload files</strong></span></li>
+            <li><span class="howto-num" aria-hidden="true">2</span><span>Browse to your EQ folder</span></li>
+            <li><span class="howto-num" aria-hidden="true">3</span><span>Paste <code class="howto-k">*_*-*.txt</code> into the Search field</span></li>
+            <li><span class="howto-num" aria-hidden="true">4</span><span>Select all and click Open</span></li>
+            <li><span class="howto-num" aria-hidden="true">5</span><span>Choose the characters you want parsed</span></li>
+            <li><span class="howto-num" aria-hidden="true">6</span><span>Click <strong>Generate Report</strong></span></li>
+          </ol>
+          <p class="howto-foot">When it finishes, the HTML file downloads to your Downloads folder.</p>
+        </section>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" id="modalClose">Close</button>
+      </div>
+    </div>`);
+  $("modalClose").addEventListener("click", closeModal);
 }
 
 async function showAbout() {
