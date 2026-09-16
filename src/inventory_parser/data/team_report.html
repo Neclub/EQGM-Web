@@ -453,6 +453,19 @@ th.copy-col-head {
 .hidden { display: none !important; }
 .count-cell { text-align: center; font-weight: 600; }
 .count-zero { color: var(--muted); }
+.count-cell.ore-need-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.ore-need-cell .ore-need-inner {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+.ore-need-cell .raid-bis-evolver {
+  flex-shrink: 0;
+}
 #tierLegend {
   padding: 12px 24px 16px;
   border-top: 1px solid var(--border);
@@ -1739,6 +1752,7 @@ const SECTION_ICONS = {
   type5_augs: "icon-gem",
   type18_augs: "icon-gem",
   raid_bis: "icon-armor",
+  missing_ores: "icon-anvil",
 };
 const CHAR_COLORS = [
   { border: "#3b82f6", dot: "#3b82f6" },
@@ -1923,6 +1937,7 @@ function columnMissingTotal(data, idx, blocks) {
   let sum = 0;
   blocks.forEach((block) => {
     (block.rows || []).forEach((row) => {
+      if (row.isTotal) return;
       sum += row.counts[idx] || 0;
     });
   });
@@ -2024,6 +2039,8 @@ function updateToolbar() {
     search.placeholder = "Filter items…";
   } else if (section.type === "missing_runes") {
     search.placeholder = "Search rune tiers…";
+  } else if (section.type === "missing_ores") {
+    search.placeholder = "Search ores…";
   } else if (section.type === "rune_inventory") {
     search.placeholder = "Search rune tiers…";
   } else if (section.type === "slot2_augs") {
@@ -2226,7 +2243,10 @@ function updateToolbar() {
     toolbar.appendChild(sel);
   }
 
-  if (section.type === "missing_runes" && (section.data.characters || []).length) {
+  if (
+    (section.type === "missing_runes" || section.type === "missing_ores") &&
+    (section.data.characters || []).length
+  ) {
     const sel = document.createElement("select");
     const options = [
       ["roster", "Roster order"],
@@ -3137,6 +3157,72 @@ function updateMissingRunesContent(content, section) {
     wrap.appendChild(table);
     content.appendChild(wrap);
   });
+}
+
+function missingOresNameCell(url, row) {
+  if (row.isTotal || !row.itemId) return el("td", row.isTotal ? "ore-total-label" : null, row.tier);
+  const td = document.createElement("td");
+  td.innerHTML = slot2ItemLink(url, row.tier, row.itemId);
+  return td;
+}
+
+function missingOresCountCell(count, hasEvolver) {
+  const hasCount = Number(count) > 0;
+  const td = el(
+    "td",
+    hasCount || hasEvolver ? "count-cell ore-need-cell" : "count-cell count-zero ore-need-cell"
+  );
+  if (!hasCount && !hasEvolver) return td;
+  const inner = el("span", "ore-need-inner");
+  if (hasCount) inner.appendChild(document.createTextNode(String(count)));
+  if (hasEvolver) {
+    const gem = document.createElement("span");
+    gem.className = "raid-bis-evolver raid-bis-tip";
+    gem.dataset.tip = "Evolver";
+    gem.tabIndex = 0;
+    gem.setAttribute("aria-label", "Evolver");
+    gem.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><use href="#icon-evolver"></use></svg>';
+    inner.appendChild(gem);
+  }
+  td.appendChild(inner);
+  return td;
+}
+
+function updateMissingOresContent(content, section) {
+  const data = section.data;
+  const q = (state.searches[section.id] || "").trim().toLowerCase();
+  const blocks = data.blocks || [];
+  const colIndices = sortedColumnIndices(section, blocks);
+  const url = data.eqResourceItemUrl;
+
+  blocks.forEach((block) => {
+    if (block.label) content.appendChild(el("div", "block-title", block.label));
+    if (block.theme) content.appendChild(el("div", "block-sub", block.theme));
+    const wrap = el("div", "table-wrap");
+    const table = document.createElement("table");
+    const headRow = document.createElement("tr");
+    headRow.appendChild(el("th", null, "Ore"));
+    colIndices.forEach((idx) => headRow.appendChild(el("th", null, data.characters[idx])));
+    table.appendChild(document.createElement("thead")).appendChild(headRow);
+    const tbody = document.createElement("tbody");
+    (block.rows || []).forEach((row) => {
+      if (q && !String(row.tier || "").toLowerCase().includes(q)) return;
+      if (q && row.isTotal) return;
+      const tr = document.createElement("tr");
+      if (row.isTotal) tr.classList.add("ore-total-row");
+      tr.appendChild(missingOresNameCell(url, row));
+      colIndices.forEach((idx) => {
+        const count = row.counts[idx] || 0;
+        const hasEvolver = !row.isTotal && Boolean((row.evolvers || [])[idx]);
+        tr.appendChild(missingOresCountCell(count, hasEvolver));
+      });
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    wrap.appendChild(table);
+    content.appendChild(wrap);
+  });
+  raidBisBindTipBalloons(content);
 }
 
 function updateRuneInventoryContent(content, section) {
@@ -4835,6 +4921,8 @@ function updatePanelContent(panel, section) {
     updateTableContent(panel, section);
   } else if (section.type === "missing_runes") {
     updateMissingRunesContent(panel, section);
+  } else if (section.type === "missing_ores") {
+    updateMissingOresContent(panel, section);
   } else if (section.type === "rune_inventory") {
     updateRuneInventoryContent(panel, section);
   } else if (section.type === "slot2_augs") {
@@ -4861,25 +4949,8 @@ function renderActivePanel() {
   updateToolbar();
 }
 
-function loadNavGroupExpanded() {
-  try {
-    const raw = localStorage.getItem("eqgm-html-nav-groups");
-    if (!raw) return {};
-    const parsed = JSON.parse(raw);
-    return parsed && typeof parsed === "object" ? parsed : {};
-  } catch (err) {
-    return {};
-  }
-}
-
-function saveNavGroupExpanded() {
-  const stored = {};
-  document.querySelectorAll(".nav-group").forEach((group) => {
-    stored[group.dataset.group] = !group.classList.contains("collapsed");
-  });
-  try {
-    localStorage.setItem("eqgm-html-nav-groups", JSON.stringify(stored));
-  } catch (err) { /* file:// or private mode */ }
+function navGroupStartsExpanded(group) {
+  return group.items.some(({ idx }) => idx === 0);
 }
 
 function syncNavActive() {
@@ -4896,7 +4967,6 @@ function toggleNavGroup(group) {
   const expanded = !group.classList.contains("collapsed");
   const toggle = group.querySelector(".nav-group-toggle");
   if (toggle) toggle.setAttribute("aria-expanded", expanded ? "true" : "false");
-  saveNavGroupExpanded();
 }
 
 function groupedNavEntries() {
@@ -5150,11 +5220,10 @@ function init() {
 
   const nav = document.getElementById("navList");
   const content = document.getElementById("content");
-  const savedGroups = loadNavGroupExpanded();
   groupedNavEntries().forEach((group) => {
     const wrap = el("div", "nav-group");
     wrap.dataset.group = group.id;
-    const expanded = savedGroups[group.id] === true;
+    const expanded = navGroupStartsExpanded(group);
     if (!expanded) wrap.classList.add("collapsed");
 
     const toggle = el("button", "nav-group-toggle");

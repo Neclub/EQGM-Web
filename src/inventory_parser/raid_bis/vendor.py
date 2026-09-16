@@ -211,6 +211,21 @@ def ore_for_slot(vendor: RaidVendorCatalog, gear_slot: str) -> RaidVendorItem | 
     return _match_slot_item(vendor.items, patterns, ore_only=True)
 
 
+def list_slot_ores(vendor: RaidVendorCatalog | None) -> list[RaidVendorItem]:
+    """Vendor ores in slot order (Head lining through Range cloth)."""
+    if vendor is None or not vendor.items:
+        return []
+    ores: list[RaidVendorItem] = []
+    seen: set[int] = set()
+    for base in _ORE_SLOT_PATTERNS:
+        ore = ore_for_slot(vendor, base)
+        if ore is None or ore.item_id in seen:
+            continue
+        seen.add(ore.item_id)
+        ores.append(ore)
+    return ores
+
+
 def diminished_for_slot(vendor: RaidVendorCatalog, gear_slot: str) -> RaidVendorItem | None:
     base = slot_base(gear_slot)
     pattern = _DIMINISHED_SLOT_PATTERNS.get(base)

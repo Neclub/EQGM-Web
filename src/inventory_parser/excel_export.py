@@ -189,9 +189,13 @@ def write_team_workbook(
         append_type18_sheet(wb, type18)
 
     if raid_bis is not None:
-        from inventory_parser.raid_bis.excel import append_raid_bis_sheet
+        from inventory_parser.raid_bis.excel import (
+            append_missing_ores_sheet,
+            append_raid_bis_sheet,
+        )
 
         append_raid_bis_sheet(wb, raid_bis)
+        append_missing_ores_sheet(wb, raid_bis)
 
     apply_workbook_dark_mode(wb)
     return _save_with_fallback(wb, output_path)

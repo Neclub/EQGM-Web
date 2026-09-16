@@ -1619,7 +1619,7 @@ async function showAbout() {
         </p>
         <p style="margin-top:8px;font-size:12px;color:var(--muted)">
           Sections include Team Gear, Gear T-Level, Missing Runes, Missing Spells,
-          Rune Inventory, Unmade Gear, achievements, augs, Raid BiS, and more.
+          Rune Inventory, Unmade Gear, achievements, augs, Raid BiS, Missing Ores, and more.
         </p>
       </div>
       <div class="modal-footer">

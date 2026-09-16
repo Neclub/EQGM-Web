@@ -51,7 +51,13 @@ HTML_NAV_GROUPS: list[dict[str, object]] = [
         "id": "gear",
         "title": "Gear",
         "icon": "icon-shield",
-        "sectionIds": ["team_gear", "gear_t_level", "raid_bis", "unmade_gear"],
+        "sectionIds": [
+            "team_gear",
+            "gear_t_level",
+            "raid_bis",
+            "missing_ores",
+            "unmade_gear",
+        ],
     },
     {
         "id": "spells",
@@ -445,6 +451,7 @@ def serialize_report(bundle: ExportBundle) -> dict:
 
     if bundle.raid_bis is not None:
         from inventory_parser.raid_bis.html import serialize_raid_bis_section
+        from inventory_parser.raid_bis.ore_needs import serialize_ore_needs_section
 
         sections.append(
             {
@@ -452,6 +459,14 @@ def serialize_report(bundle: ExportBundle) -> dict:
                 "title": "Raid BiS",
                 "type": "raid_bis",
                 "data": serialize_raid_bis_section(bundle.raid_bis),
+            }
+        )
+        sections.append(
+            {
+                "id": "missing_ores",
+                "title": "Missing Ores",
+                "type": "missing_ores",
+                "data": serialize_ore_needs_section(bundle.raid_bis),
             }
         )
 
