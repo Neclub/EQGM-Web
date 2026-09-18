@@ -668,6 +668,56 @@ th.copy-col-head {
   line-height: 1;
   color: #e8eaef;
 }
+.tradeskill-skills {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px 18px;
+}
+.tradeskill-skill {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  color: #c9a06a;
+  font-size: 13px;
+}
+.tradeskill-skill-name { min-width: 0; }
+.tradeskill-skill-level {
+  font-variant-numeric: tabular-nums;
+  font-weight: 650;
+  color: #e8eaef;
+}
+.tradeskill-special-label {
+  grid-column: 1 / -1;
+  margin: 8px 0 2px;
+  color: #c9a06a;
+  font-weight: 650;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
+.tradeskill-icon-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+.tradeskill-ach-chip {
+  font-size: 10px;
+  font-weight: 650;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: #1a2030;
+  color: #9ec4ff;
+  border: 1px solid #3a4a66;
+  cursor: help;
+  white-space: nowrap;
+  line-height: 1.3;
+}
+@media (max-width: 640px) {
+  .tradeskill-skills { grid-template-columns: 1fr; }
+}
 .quest-empty { color: var(--muted); margin: 12px 4px; }
 .slot2-augs { display: flex; flex-direction: column; gap: 16px; }
 .slot2-augs .card {
@@ -1748,6 +1798,7 @@ const SECTION_ICONS = {
   raid_achievements: "icon-trophy",
   hunters: "icon-trophy",
   slayer: "icon-trophy",
+  tradeskills: "icon-anvil",
   heroic_aas: "icon-trophy",
   achievement_summary: "icon-trophy",
   slot2_augs: "icon-gem",
@@ -2061,6 +2112,8 @@ function updateToolbar() {
     search.placeholder = "Search hunters…";
   } else if (section.id === "slayer") {
     search.placeholder = "Search slayer…";
+  } else if (section.id === "tradeskills") {
+    search.placeholder = "Search tradeskills…";
   } else if (section.id === "heroic_aas") {
     search.placeholder = "Search Heroic AAs…";
   } else {
@@ -2190,7 +2243,9 @@ function updateToolbar() {
   }
 
   if (
-    (section.type === "table" || section.type === "heroic_aas") &&
+    (section.type === "table" ||
+      section.type === "heroic_aas" ||
+      section.type === "tradeskills") &&
     section.data.characterColumn != null &&
     section.data.rows.length
   ) {
@@ -2731,6 +2786,8 @@ function showCopyBalloon(anchor, itemName) {
 }
 
 const COPY_COL_TIP = "Clicking the link copies the name to your clipboard.";
+const TRADESKILL_LEVEL_TIP =
+  "These levels are from completed achievements, not your live skill.";
 
 function hideHeaderTipBalloon() {
   document.getElementById("headerTipBalloon")?.remove();
@@ -2935,6 +2992,81 @@ function updateAchievementGroupsContent(content, section) {
     body.appendChild(items);
     card.appendChild(body);
     list.appendChild(card);
+  });
+  content.appendChild(list);
+}
+
+function filteredTradeskillCards(section) {
+  const data = section.data;
+  let cards = (data.cards || []).slice();
+  const q = (state.searches[section.id] || "").trim().toLowerCase();
+  if (q) {
+    cards = cards.filter((card) => {
+      const hay = [
+        card.character,
+        ...(card.skills || []).map((skill) => skill.name + " " + skill.level),
+      ]
+        .join(" ")
+        .toLowerCase();
+      return hay.includes(q);
+    });
+  }
+  const charFilter = state.chars[section.id] || "";
+  if (charFilter) {
+    cards = cards.filter((card) => card.character === charFilter);
+  } else {
+    const names = selectedCharacterNames();
+    if (names) {
+      const wanted = new Set(names);
+      cards = cards.filter((card) => wanted.has(card.character));
+    }
+  }
+  return cards;
+}
+
+function updateTradeskillsContent(content, section) {
+  const data = section.data;
+  const cards = filteredTradeskillCards(section);
+  const list = el("div", "quest-list");
+  if (!cards.length) {
+    list.appendChild(el("p", "quest-empty", data.empty || "No tradeskill achievements found."));
+    content.appendChild(list);
+    return;
+  }
+  cards.forEach((card) => {
+    const article = el("article", "quest-card");
+    const head = el("div", "quest-head");
+    const iconWrap = el("div", "tradeskill-icon-wrap");
+    iconWrap.appendChild(icon(SECTION_ICONS.tradeskills || "icon-anvil"));
+    const chip = el("span", "tradeskill-ach-chip", "Achievements");
+    chip.tabIndex = 0;
+    chip.setAttribute("aria-label", "Achievement-based levels");
+    chip.title = TRADESKILL_LEVEL_TIP;
+    chip.addEventListener("mouseenter", () => showHeaderTipBalloon(chip, TRADESKILL_LEVEL_TIP));
+    chip.addEventListener("mouseleave", hideHeaderTipBalloon);
+    chip.addEventListener("focus", () => showHeaderTipBalloon(chip, TRADESKILL_LEVEL_TIP));
+    chip.addEventListener("blur", hideHeaderTipBalloon);
+    iconWrap.appendChild(chip);
+    head.appendChild(iconWrap);
+    head.appendChild(el("div", "quest-title", card.character));
+    article.appendChild(head);
+    const body = el("div", "quest-body");
+    const skills = el("ul", "tradeskill-skills");
+    let specialStarted = false;
+    (card.skills || []).forEach((skill) => {
+      if (skill.group === "special" && !specialStarted) {
+        specialStarted = true;
+        const label = el("li", "tradeskill-special-label", "Special");
+        skills.appendChild(label);
+      }
+      const li = el("li", "tradeskill-skill");
+      li.appendChild(el("span", "tradeskill-skill-name", skill.name));
+      li.appendChild(el("span", "tradeskill-skill-level", String(skill.level)));
+      skills.appendChild(li);
+    });
+    body.appendChild(skills);
+    article.appendChild(body);
+    list.appendChild(article);
   });
   content.appendChild(list);
 }
@@ -4932,6 +5064,8 @@ function updatePanelContent(panel, section) {
   panel.innerHTML = "";
   if (section.type === "gear_matrix") {
     updateGearMatrixContent(panel, section, section.id === "gear_t_level");
+  } else if (section.type === "tradeskills") {
+    updateTradeskillsContent(panel, section);
   } else if (section.data && section.data.group) {
     updateAchievementGroupsContent(panel, section);
   } else if (section.type === "heroic_aas") {

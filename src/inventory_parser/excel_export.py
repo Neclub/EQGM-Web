@@ -15,7 +15,11 @@ from openpyxl.worksheet.worksheet import Worksheet
 from inventory_parser import APP_NAME_SHORT
 
 from inventory_parser.team_report import CharacterGear, TeamGearReport
-from inventory_parser.achievement_report import AchievementReport
+from inventory_parser.achievement_report import (
+    AchievementReport,
+    TRADESKILL_CORE_COLUMNS,
+    TRADESKILL_SPECIAL_COLUMNS,
+)
 from inventory_parser.achievement_parser import format_expansion_label
 from inventory_parser.spell_report import SpellRuneReport
 from inventory_parser.spell_runes import load_rune_config
@@ -97,6 +101,7 @@ QUESTS_SHEET_NAME = "Quests"
 RAID_ACHIEVEMENTS_SHEET_NAME = "Raid Achievements"
 HUNTERS_SHEET_NAME = "Hunters"
 SLAYER_SHEET_NAME = "Slayer"
+TRADESKILLS_SHEET_NAME = "Tradeskills"
 HEROIC_AA_SHEET_NAME = "Heroic AA"
 RUNE_INVENTORY_SHEET_NAME = "Rune Inventory"
 MISSING_SPELLS_SHEET_NAME = "Missing Spells"
@@ -177,6 +182,9 @@ def write_team_workbook(
         if achievement_report.slayer:
             ws_slayer = wb.create_sheet(SLAYER_SHEET_NAME)
             _write_slayer_sheet(ws_slayer, achievement_report)
+        if achievement_report.tradeskills:
+            ws_tradeskills = wb.create_sheet(TRADESKILLS_SHEET_NAME)
+            _write_tradeskills_sheet(ws_tradeskills, achievement_report)
         if achievement_report.heroic_aas:
             ws_heroic = wb.create_sheet(HEROIC_AA_SHEET_NAME)
             _write_heroic_aa_sheet(ws_heroic, achievement_report)
@@ -1327,6 +1335,51 @@ def _write_slayer_sheet(ws: Worksheet, report: AchievementReport) -> None:
     ws.column_dimensions["B"].width = 18.0
     ws.column_dimensions["C"].width = _COL_ITEM_WIDTH
     ws.column_dimensions["D"].width = 12.0
+    _fill_sheet_padding(
+        ws,
+        content_last_row=last_row,
+        content_last_col=len(headers),
+        pad_rows=max(last_row, SHEET_BACKGROUND_ROWS),
+    )
+
+
+def _write_tradeskills_sheet(ws: Worksheet, report: AchievementReport) -> None:
+    ws.sheet_properties.tabColor = "5A384A"
+    cards = report.tradeskills
+    skill_columns = TRADESKILL_CORE_COLUMNS + TRADESKILL_SPECIAL_COLUMNS
+    headers = ("Character",) + skill_columns
+    last_row = 1 + len(cards)
+
+    for col, header in enumerate(headers, start=1):
+        cell = ws.cell(1, col, header)
+        cell.font = FONT_HEADER
+        cell.fill = FILL_HEADER
+        cell.alignment = _ALIGN_HEADER
+
+    for row_idx, card in enumerate(cards, start=2):
+        by_name = {skill.name: skill for skill in card.skills}
+        values: list[object] = [card.character]
+        for name in skill_columns:
+            skill = by_name.get(name)
+            if skill is None:
+                values.append("")
+            else:
+                values.append(skill.level)
+        row_fill = FILL_SPELL_DETAIL if row_idx % 2 == 0 else FILL_SPELL_DETAIL_ALT
+        for col, value in enumerate(values, start=1):
+            cell = ws.cell(row_idx, col, value)
+            cell.font = FONT_BODY
+            cell.fill = row_fill
+            cell.alignment = _ALIGN if col == 1 else _ALIGN_CENTER
+
+    if cards:
+        last_col_letter = get_column_letter(len(headers))
+        ws.auto_filter.ref = f"A1:{last_col_letter}{1 + len(cards)}"
+        ws.freeze_panes = ws.cell(2, 1).coordinate
+
+    ws.column_dimensions["A"].width = _COL_SPELL_CHAR
+    for col in range(2, len(headers) + 1):
+        ws.column_dimensions[get_column_letter(col)].width = 14.0
     _fill_sheet_padding(
         ws,
         content_last_row=last_row,

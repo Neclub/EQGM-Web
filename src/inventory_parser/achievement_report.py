@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -25,6 +26,36 @@ from inventory_parser.heroic_aas import (
 )
 from inventory_parser.team_report import TeamGearReport
 from inventory_parser.parser import parse_inventory_file
+
+# Dump achievement name is ``Skill (N)``; display may differ (e.g. Smithing -> Blacksmithing).
+_TRADESKILL_LEVEL_RE = re.compile(r"^(.+?)\s+\((\d+)\)\s*$")
+
+# (dump_skill_name, display_name, group) — group is "core" or "special".
+_TRADESKILL_CATALOG: tuple[tuple[str, str, str], ...] = (
+    ("Baking", "Baking", "core"),
+    ("Smithing", "Blacksmithing", "core"),
+    ("Brewing", "Brewing", "core"),
+    ("Fishing", "Fishing", "core"),
+    ("Fletching", "Fletching", "core"),
+    ("Jewelcrafting", "Jewelcrafting", "core"),
+    ("Pottery", "Pottery", "core"),
+    ("Tailoring", "Tailoring", "core"),
+    ("Research", "Research", "core"),
+    ("Alchemy", "Alchemy", "special"),
+    ("Tinkering", "Tinkering", "special"),
+    ("Poisonmaking", "Poisonmaking", "special"),
+)
+
+_TRADESKILL_BY_DUMP: dict[str, tuple[str, str]] = {
+    dump.casefold(): (display, group) for dump, display, group in _TRADESKILL_CATALOG
+}
+
+TRADESKILL_CORE_COLUMNS: tuple[str, ...] = tuple(
+    display for _dump, display, group in _TRADESKILL_CATALOG if group == "core"
+)
+TRADESKILL_SPECIAL_COLUMNS: tuple[str, ...] = tuple(
+    display for _dump, display, group in _TRADESKILL_CATALOG if group == "special"
+)
 
 
 @dataclass(frozen=True)
@@ -108,6 +139,19 @@ class HeroicAATotal:
     total: int
 
 
+@dataclass(frozen=True)
+class TradeskillLevel:
+    name: str
+    level: int
+    group: str  # "core" or "special"
+
+
+@dataclass(frozen=True)
+class TradeskillCard:
+    character: str
+    skills: tuple[TradeskillLevel, ...]
+
+
 @dataclass
 class AchievementReport:
     missing_collections: list[MissingCollectionRow] = field(default_factory=list)
@@ -115,6 +159,7 @@ class AchievementReport:
     quests: list[QuestRow] = field(default_factory=list)
     hunters: list[HunterRow] = field(default_factory=list)
     slayer: list[SlayerRow] = field(default_factory=list)
+    tradeskills: list[TradeskillCard] = field(default_factory=list)
     summaries: list[AchievementSummaryRow] = field(default_factory=list)
     heroic_aas: list[HeroicAARow] = field(default_factory=list)
     heroic_aa_totals: list[HeroicAATotal] = field(default_factory=list)
@@ -128,6 +173,7 @@ class AchievementReport:
             or self.quests
             or self.hunters
             or self.slayer
+            or self.tradeskills
             or self.summaries
             or self.heroic_aas
         )
@@ -441,6 +487,59 @@ def _sort_slayer_rows(rows: list[SlayerRow]) -> list[SlayerRow]:
     )
 
 
+def _tradeskill_card_from_parse(
+    display_name: str,
+    top_level: list[TopLevelAchievement],
+) -> TradeskillCard | None:
+    """Highest completed ``Skill (N)`` under Tradeskill; core always, special if present."""
+    present: set[str] = set()
+    completed_levels: dict[str, int] = {}
+    for item in top_level:
+        if item.section.casefold() != "tradeskill":
+            continue
+        match = _TRADESKILL_LEVEL_RE.match(item.name.strip())
+        if match is None:
+            continue
+        dump_skill = match.group(1).strip()
+        level = int(match.group(2))
+        meta = _TRADESKILL_BY_DUMP.get(dump_skill.casefold())
+        if meta is None:
+            continue
+        display, _group = meta
+        present.add(display)
+        if item.complete:
+            previous = completed_levels.get(display, 0)
+            if level > previous:
+                completed_levels[display] = level
+
+    if not present:
+        return None
+
+    skills: list[TradeskillLevel] = []
+    for _dump, display, group in _TRADESKILL_CATALOG:
+        if group == "core":
+            skills.append(
+                TradeskillLevel(
+                    name=display,
+                    level=completed_levels.get(display, 0),
+                    group=group,
+                )
+            )
+        elif display in present:
+            skills.append(
+                TradeskillLevel(
+                    name=display,
+                    level=completed_levels.get(display, 0),
+                    group=group,
+                )
+            )
+    return TradeskillCard(character=display_name, skills=tuple(skills))
+
+
+def _sort_tradeskill_cards(cards: list[TradeskillCard]) -> list[TradeskillCard]:
+    return sorted(cards, key=lambda card: card.character.casefold())
+
+
 def _rows_from_parse(
     display_name: str,
     parsed: AchievementParseResult,
@@ -453,6 +552,7 @@ def _rows_from_parse(
     list[SlayerRow],
     list[AchievementSummaryRow],
     list[HeroicAARow],
+    TradeskillCard | None,
 ]:
     missing = [
         MissingCollectionRow(
@@ -488,7 +588,8 @@ def _rows_from_parse(
         parsed.top_level,
         load_heroic_aa_catalog(),
     )
-    return missing, raids, quests, hunters, slayer, summaries, heroic
+    tradeskills = _tradeskill_card_from_parse(display_name, parsed.top_level)
+    return missing, raids, quests, hunters, slayer, summaries, heroic, tradeskills
 
 
 def build_achievement_report(
@@ -529,10 +630,12 @@ def build_achievement_report(
                 f"Could not read achievements for {character.character}: {exc}"
             )
             continue
-        missing, raids, quests, hunters, slayer, summaries, heroic = _rows_from_parse(
-            character.character,
-            parsed,
-            item_holders,
+        missing, raids, quests, hunters, slayer, summaries, heroic, tradeskills = (
+            _rows_from_parse(
+                character.character,
+                parsed,
+                item_holders,
+            )
         )
         report.missing_collections.extend(missing)
         report.raid_achievements.extend(raids)
@@ -541,11 +644,14 @@ def build_achievement_report(
         report.slayer.extend(slayer)
         report.summaries.extend(summaries)
         report.heroic_aas.extend(heroic)
+        if tradeskills is not None:
+            report.tradeskills.append(tradeskills)
 
     report.raid_achievements = _sort_raid_achievement_rows(report.raid_achievements)
     report.quests = _sort_quest_rows(report.quests)
     report.hunters = _sort_hunter_rows(report.hunters)
     report.slayer = _sort_slayer_rows(report.slayer)
+    report.tradeskills = _sort_tradeskill_cards(report.tradeskills)
     report.missing_collections = _sort_missing_collection_rows(report.missing_collections)
     report.summaries = _sort_achievement_summary_rows(report.summaries)
     report.heroic_aas = _sort_heroic_aa_rows(report.heroic_aas)

@@ -25,6 +25,7 @@ from inventory_parser.excel_export import (
     RAID_ACHIEVEMENTS_SHEET_NAME,
     HUNTERS_SHEET_NAME,
     SLAYER_SHEET_NAME,
+    TRADESKILLS_SHEET_NAME,
     HEROIC_AA_SHEET_NAME,
     RUNE_INVENTORY_SHEET_NAME,
     UNMADE_GEAR_SHEET_NAME,
@@ -88,6 +89,7 @@ HTML_NAV_GROUPS: list[dict[str, object]] = [
             "raid_achievements",
             "hunters",
             "slayer",
+            "tradeskills",
             "heroic_aas",
             "achievement_summary",
         ],
@@ -356,6 +358,30 @@ def _serialize_table(
     if group is not None:
         data["group"] = group
     return data
+
+
+def _serialize_tradeskills(ach) -> dict:
+    cards = [
+        {
+            "character": card.character,
+            "skills": [
+                {
+                    "name": skill.name,
+                    "level": skill.level,
+                    "group": skill.group,
+                }
+                for skill in card.skills
+            ],
+        }
+        for card in ach.tradeskills
+    ]
+    return {
+        "cards": cards,
+        "characterColumn": 0,
+        "columns": ["Character"],
+        "rows": [[card.character] for card in ach.tradeskills],
+        "empty": "No tradeskill achievements found.",
+    }
 
 
 def _serialize_heroic_aas(ach) -> dict:
@@ -730,6 +756,15 @@ def serialize_report(bundle: ExportBundle) -> dict:
                             "empty": "No matching slayer achievements.",
                         },
                     ),
+                }
+            )
+        if ach.tradeskills:
+            sections.append(
+                {
+                    "id": "tradeskills",
+                    "title": TRADESKILLS_SHEET_NAME,
+                    "type": "tradeskills",
+                    "data": _serialize_tradeskills(ach),
                 }
             )
         if ach.heroic_aas:
