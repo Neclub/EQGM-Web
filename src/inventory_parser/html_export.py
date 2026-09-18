@@ -23,6 +23,8 @@ from inventory_parser.excel_export import (
     MISSING_USEFUL_SPELLS_SHEET_NAME,
     QUESTS_SHEET_NAME,
     RAID_ACHIEVEMENTS_SHEET_NAME,
+    HUNTERS_SHEET_NAME,
+    SLAYER_SHEET_NAME,
     HEROIC_AA_SHEET_NAME,
     RUNE_INVENTORY_SHEET_NAME,
     UNMADE_GEAR_SHEET_NAME,
@@ -84,6 +86,8 @@ HTML_NAV_GROUPS: list[dict[str, object]] = [
             "missing_collections",
             "quests",
             "raid_achievements",
+            "hunters",
+            "slayer",
             "heroic_aas",
             "achievement_summary",
         ],
@@ -658,6 +662,72 @@ def serialize_report(bundle: ExportBundle) -> dict:
                             "descriptionKind": "raids",
                             "icon": "icon-trophy",
                             "empty": "No matching raid achievements.",
+                        },
+                    ),
+                }
+            )
+        if ach.hunters:
+            sections.append(
+                {
+                    "id": "hunters",
+                    "title": HUNTERS_SHEET_NAME,
+                    "type": "table",
+                    "data": _serialize_table(
+                        ["Character", "Expansion", "Hunter", "Zone", "Target", "Status"],
+                        [
+                            [
+                                row.character,
+                                format_expansion_label(row.expansion),
+                                row.hunter,
+                                row.zone,
+                                row.target,
+                                row.status,
+                            ]
+                            for row in ach.hunters
+                        ],
+                        character_column=0,
+                        expansion_column=1,
+                        zone_column=3,
+                        group={
+                            "keyColumns": [0, 1, 2],
+                            "titleColumn": 2,
+                            "itemColumn": 4,
+                            "statusColumn": 5,
+                            "descriptionKind": "hunters",
+                            "zoneColumn": 3,
+                            "icon": "icon-trophy",
+                            "empty": "No matching hunter achievements.",
+                        },
+                    ),
+                }
+            )
+        if ach.slayer:
+            sections.append(
+                {
+                    "id": "slayer",
+                    "title": SLAYER_SHEET_NAME,
+                    "type": "table",
+                    "data": _serialize_table(
+                        ["Character", "Achievement", "Objective", "Status"],
+                        [
+                            [
+                                row.character,
+                                row.achievement,
+                                row.objective,
+                                row.status,
+                            ]
+                            for row in ach.slayer
+                        ],
+                        character_column=0,
+                        expansion_column=None,
+                        group={
+                            "keyColumns": [0, 1],
+                            "titleColumn": 1,
+                            "itemColumn": 2,
+                            "statusColumn": 3,
+                            "descriptionKind": "slayer",
+                            "icon": "icon-trophy",
+                            "empty": "No matching slayer achievements.",
                         },
                     ),
                 }

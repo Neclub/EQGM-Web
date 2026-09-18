@@ -114,7 +114,13 @@ _ZONE_SUFFIX = re.compile(r"^(.*)\s+\(([^)]+)\)\s*$")
 _PROGRESS_SUFFIX = re.compile(r"^(.*)\t(\d+)/(\d+)\s*$")
 _QUEST_PARENT = re.compile(r"^(Mercenary|Partisan) of (.+)$", re.IGNORECASE)
 _RAID_PARENT = re.compile(r"^(Conqueror|Vanquisher) of (.+)$", re.IGNORECASE)
+_HUNTER_PARENT = re.compile(r"^Hunter of (.+)$", re.IGNORECASE)
 _FROM_NPC_SUFFIX = re.compile(r"\s+-\s+from\s+.+$", re.IGNORECASE)
+_COMPLETE_ACHIEVEMENT = re.compile(
+    r'^(?:\(Optional\)\s+)?Complete the achievement\s+"(.+)"\s*$',
+    re.IGNORECASE,
+)
+MEGADEATH_NAME = "Megadeath"
 
 
 @dataclass(frozen=True)
@@ -167,6 +173,23 @@ class QuestAchievement:
 
 
 @dataclass(frozen=True)
+class MissingHunterAchievement:
+    section: str
+    hunter: str
+    zone: str
+    target: str
+    complete: bool = False
+
+
+@dataclass(frozen=True)
+class MissingSlayerAchievement:
+    section: str
+    slayer: str
+    objective: str
+    complete: bool = False
+
+
+@dataclass(frozen=True)
 class TopLevelAchievement:
     section: str
     name: str
@@ -178,6 +201,8 @@ class AchievementParseResult:
     missing_collections: list[MissingCollectionItem] = field(default_factory=list)
     missing_raid_achievements: list[MissingRaidAchievement] = field(default_factory=list)
     quest_achievements: list[QuestAchievement] = field(default_factory=list)
+    missing_hunter_achievements: list[MissingHunterAchievement] = field(default_factory=list)
+    missing_slayer_achievements: list[MissingSlayerAchievement] = field(default_factory=list)
     section_summaries: list[SectionSummary] = field(default_factory=list)
     top_level: list[TopLevelAchievement] = field(default_factory=list)
 
@@ -268,6 +293,44 @@ def _is_raids_subcategory(subcategory: str) -> bool:
 
 def _is_quests_subcategory(subcategory: str) -> bool:
     return subcategory.casefold() == "quests"
+
+
+def _is_hunters_subcategory(subcategory: str) -> bool:
+    return subcategory.casefold() in {"hunter", "hunts"}
+
+
+def _is_slayer_general(section: str, subcategory: str) -> bool:
+    return (
+        section.casefold() == "slayer"
+        and subcategory.casefold() == "general"
+    )
+
+
+def is_megadeath_parent(name: str) -> bool:
+    return name.strip().casefold() == MEGADEATH_NAME.casefold()
+
+
+def clean_slayer_objective(name: str) -> str:
+    """``Complete the achievement "Progressive"`` -> ``Progressive``."""
+    text = name.strip()
+    match = _COMPLETE_ACHIEVEMENT.match(text)
+    if match is not None:
+        return match.group(1).strip()
+    return text
+
+
+def parse_hunter_parent(name: str) -> str | None:
+    """``Hunter of Arcstone, Shattered Isles`` -> zone. Rank metas do not match."""
+    match = _HUNTER_PARENT.match(name.strip())
+    if match is None:
+        return None
+    zone = match.group(1).strip()
+    return zone or None
+
+
+def hunter_header_name(zone: str) -> str:
+    """Display header for a zone hunter card."""
+    return f"Hunter of {zone}"
 
 
 def parse_raid_parent(name: str) -> tuple[str, str] | None:
@@ -404,9 +467,14 @@ def parse_achievements_file(path: Path) -> AchievementParseResult:
     current_raid_event: str = ""
     current_raid_event_label: str = ""
     current_quest: tuple[str, str] | None = None
+    current_hunter: str | None = None
+    current_hunter_zone: str = ""
+    current_slayer: str | None = None
     in_collections = False
     in_raids = False
     in_quests = False
+    in_hunters = False
+    in_slayer_general = False
     current_scavenger_zone = ""
     scavenger_zones: dict[str, str] = {}
 
@@ -415,6 +483,8 @@ def parse_achievements_file(path: Path) -> AchievementParseResult:
     missing_collections: list[MissingCollectionItem] = []
     missing_raid_achievements: list[MissingRaidAchievement] = []
     quest_achievements: list[QuestAchievement] = []
+    missing_hunter_achievements: list[MissingHunterAchievement] = []
+    missing_slayer_achievements: list[MissingSlayerAchievement] = []
     top_level: list[TopLevelAchievement] = []
 
     with Path(path).open(encoding="utf-8", errors="ignore") as handle:
@@ -431,10 +501,17 @@ def parse_achievements_file(path: Path) -> AchievementParseResult:
                 current_raid_event = ""
                 current_raid_event_label = ""
                 current_quest = None
+                current_hunter = None
+                current_hunter_zone = ""
+                current_slayer = None
                 current_scavenger_zone = ""
                 in_collections = _is_collections_subcategory(current_subcategory)
                 in_raids = _is_raids_subcategory(current_subcategory)
                 in_quests = _is_quests_subcategory(current_subcategory)
+                in_hunters = _is_hunters_subcategory(current_subcategory)
+                in_slayer_general = _is_slayer_general(
+                    current_section, current_subcategory
+                )
                 continue
 
             parsed = _parse_status_line(line)
@@ -457,6 +534,17 @@ def parse_achievements_file(path: Path) -> AchievementParseResult:
                     current_raid_event = ""
                     current_raid_event_label = ""
                 current_quest = parse_quest_parent(name) if in_quests else None
+                hunter_zone = parse_hunter_parent(name) if in_hunters else None
+                if hunter_zone is not None:
+                    current_hunter = hunter_header_name(hunter_zone)
+                    current_hunter_zone = hunter_zone
+                else:
+                    current_hunter = None
+                    current_hunter_zone = ""
+                if in_slayer_general and is_megadeath_parent(name):
+                    current_slayer = MEGADEATH_NAME
+                else:
+                    current_slayer = None
                 section_completed.setdefault(current_section, 0)
                 section_incomplete.setdefault(current_section, 0)
                 if status == "C":
@@ -516,6 +604,31 @@ def parse_achievements_file(path: Path) -> AchievementParseResult:
                         )
                     )
 
+            if in_hunters and current_hunter is not None and indent == 1:
+                # Region/theme groups list other Hunter of … lines as children — skip those.
+                if parse_hunter_parent(name) is None and name.strip():
+                    missing_hunter_achievements.append(
+                        MissingHunterAchievement(
+                            section=current_section,
+                            hunter=current_hunter,
+                            zone=current_hunter_zone,
+                            target=name.strip(),
+                            complete=status == "C",
+                        )
+                    )
+
+            if in_slayer_general and current_slayer is not None and indent == 1:
+                objective = clean_slayer_objective(name)
+                if objective:
+                    missing_slayer_achievements.append(
+                        MissingSlayerAchievement(
+                            section=current_section,
+                            slayer=current_slayer,
+                            objective=objective,
+                            complete=status == "C",
+                        )
+                    )
+
             if not in_collections or current_collection is None:
                 continue
             if status != "I" or owned is None or total is None or owned >= total:
@@ -558,6 +671,8 @@ def parse_achievements_file(path: Path) -> AchievementParseResult:
         missing_collections=missing_collections,
         missing_raid_achievements=missing_raid_achievements,
         quest_achievements=quest_achievements,
+        missing_hunter_achievements=missing_hunter_achievements,
+        missing_slayer_achievements=missing_slayer_achievements,
         section_summaries=summaries,
         top_level=top_level,
     )

@@ -1746,6 +1746,8 @@ const SECTION_ICONS = {
   missing_collections: "icon-chest",
   quests: "icon-scroll",
   raid_achievements: "icon-trophy",
+  hunters: "icon-trophy",
+  slayer: "icon-trophy",
   heroic_aas: "icon-trophy",
   achievement_summary: "icon-trophy",
   slot2_augs: "icon-gem",
@@ -2055,6 +2057,10 @@ function updateToolbar() {
     search.placeholder = "Search quests…";
   } else if (section.id === "raid_achievements") {
     search.placeholder = "Search raids…";
+  } else if (section.id === "hunters") {
+    search.placeholder = "Search hunters…";
+  } else if (section.id === "slayer") {
+    search.placeholder = "Search slayer…";
   } else if (section.id === "heroic_aas") {
     search.placeholder = "Search Heroic AAs…";
   } else {
@@ -2852,6 +2858,16 @@ function achievementGroupDescription(row, spec) {
       "."
     );
   }
+  if (spec.descriptionKind === "hunters") {
+    return (
+      "This achievement is gained upon completing the following hunts in " +
+      String(row[spec.zoneColumn] || "") +
+      "."
+    );
+  }
+  if (spec.descriptionKind === "slayer") {
+    return "This achievement is gained upon completing the following slayer achievements.";
+  }
   return "This achievement is gained upon completing the following raid objectives.";
 }
 
@@ -2876,7 +2892,10 @@ function updateAchievementGroupsContent(content, section) {
     if (!group) {
       group = {
         character: String(row[0] || ""),
-        expansion: String(row[1] || ""),
+        expansion:
+          section.data.expansionColumn != null
+            ? String(row[section.data.expansionColumn] || "")
+            : "",
         title: achievementGroupTitle(row, spec),
         description: achievementGroupDescription(row, spec),
         items: [],
@@ -2898,7 +2917,7 @@ function updateAchievementGroupsContent(content, section) {
     head.appendChild(icon(spec.icon || SECTION_ICONS[section.id] || "icon-trophy"));
     head.appendChild(el("div", "quest-title", group.title));
     const metaBits = [group.character];
-    if (!activeExpansionFilter(section)) metaBits.push(group.expansion);
+    if (group.expansion && !activeExpansionFilter(section)) metaBits.push(group.expansion);
     metaBits.push(done + "/" + group.items.length);
     head.appendChild(el("div", "quest-meta", metaBits.join(" · ")));
     card.appendChild(head);

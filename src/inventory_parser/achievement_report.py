@@ -10,7 +10,9 @@ from inventory_parser.achievement_files import collect_achievement_paths
 from inventory_parser.achievement_parser import (
     AchievementParseResult,
     MissingCollectionItem,
+    MissingHunterAchievement,
     MissingRaidAchievement,
+    MissingSlayerAchievement,
     QuestAchievement,
     TopLevelAchievement,
     expansion_sort_key,
@@ -68,6 +70,24 @@ class QuestRow:
 
 
 @dataclass(frozen=True)
+class HunterRow:
+    character: str
+    expansion: str
+    hunter: str
+    zone: str
+    target: str
+    status: str
+
+
+@dataclass(frozen=True)
+class SlayerRow:
+    character: str
+    achievement: str
+    objective: str
+    status: str
+
+
+@dataclass(frozen=True)
 class HeroicAARow:
     character: str
     expansion: str
@@ -93,6 +113,8 @@ class AchievementReport:
     missing_collections: list[MissingCollectionRow] = field(default_factory=list)
     raid_achievements: list[RaidAchievementRow] = field(default_factory=list)
     quests: list[QuestRow] = field(default_factory=list)
+    hunters: list[HunterRow] = field(default_factory=list)
+    slayer: list[SlayerRow] = field(default_factory=list)
     summaries: list[AchievementSummaryRow] = field(default_factory=list)
     heroic_aas: list[HeroicAARow] = field(default_factory=list)
     heroic_aa_totals: list[HeroicAATotal] = field(default_factory=list)
@@ -104,6 +126,8 @@ class AchievementReport:
             self.missing_collections
             or self.raid_achievements
             or self.quests
+            or self.hunters
+            or self.slayer
             or self.summaries
             or self.heroic_aas
         )
@@ -232,6 +256,18 @@ def _sort_quest_rows(rows: list[QuestRow]) -> list[QuestRow]:
     )
 
 
+def _sort_hunter_rows(rows: list[HunterRow]) -> list[HunterRow]:
+    return sorted(
+        rows,
+        key=lambda row: (
+            expansion_sort_key(row.expansion),
+            row.zone.casefold(),
+            row.target.casefold(),
+            row.character.casefold(),
+        ),
+    )
+
+
 def _sort_heroic_aa_rows(rows: list[HeroicAARow]) -> list[HeroicAARow]:
     return sorted(
         rows,
@@ -323,6 +359,88 @@ def _quest_rows_from_parse(
     return rows
 
 
+def _hunter_rows_from_parse(
+    display_name: str,
+    hunters: list[MissingHunterAchievement],
+) -> list[HunterRow]:
+    grouped: dict[tuple[str, str, str], list[MissingHunterAchievement]] = defaultdict(list)
+    for item in hunters:
+        grouped[(display_name, item.section, item.hunter)].append(item)
+
+    rows: list[HunterRow] = []
+    for (character, expansion, hunter), children in grouped.items():
+        unique: dict[str, MissingHunterAchievement] = {}
+        order: list[str] = []
+        for child in children:
+            key = child.target.casefold()
+            previous = unique.get(key)
+            if previous is None:
+                unique[key] = child
+                order.append(key)
+            elif previous.complete and not child.complete:
+                unique[key] = child
+        merged = [unique[key] for key in order]
+        if all(child.complete for child in merged):
+            continue
+        for child in merged:
+            rows.append(
+                HunterRow(
+                    character=character,
+                    expansion=expansion,
+                    hunter=hunter,
+                    zone=child.zone,
+                    target=child.target,
+                    status="Done" if child.complete else "Missing",
+                )
+            )
+    return rows
+
+
+def _slayer_rows_from_parse(
+    display_name: str,
+    slayers: list[MissingSlayerAchievement],
+) -> list[SlayerRow]:
+    """Build Megadeath rows; keep fully complete cards so finished chars still appear."""
+    grouped: dict[tuple[str, str], list[MissingSlayerAchievement]] = defaultdict(list)
+    for item in slayers:
+        grouped[(display_name, item.slayer)].append(item)
+
+    rows: list[SlayerRow] = []
+    for (character, achievement), children in grouped.items():
+        unique: dict[str, MissingSlayerAchievement] = {}
+        order: list[str] = []
+        for child in children:
+            key = child.objective.casefold()
+            previous = unique.get(key)
+            if previous is None:
+                unique[key] = child
+                order.append(key)
+            elif previous.complete and not child.complete:
+                unique[key] = child
+        for key in order:
+            child = unique[key]
+            rows.append(
+                SlayerRow(
+                    character=character,
+                    achievement=achievement,
+                    objective=child.objective,
+                    status="Done" if child.complete else "Missing",
+                )
+            )
+    return rows
+
+
+def _sort_slayer_rows(rows: list[SlayerRow]) -> list[SlayerRow]:
+    return sorted(
+        rows,
+        key=lambda row: (
+            row.character.casefold(),
+            row.achievement.casefold(),
+            row.objective.casefold(),
+        ),
+    )
+
+
 def _rows_from_parse(
     display_name: str,
     parsed: AchievementParseResult,
@@ -331,6 +449,8 @@ def _rows_from_parse(
     list[MissingCollectionRow],
     list[RaidAchievementRow],
     list[QuestRow],
+    list[HunterRow],
+    list[SlayerRow],
     list[AchievementSummaryRow],
     list[HeroicAARow],
 ]:
@@ -361,12 +481,14 @@ def _rows_from_parse(
     ]
     raids = _raid_rows_from_parse(display_name, parsed.missing_raid_achievements)
     quests = _quest_rows_from_parse(display_name, parsed.quest_achievements)
+    hunters = _hunter_rows_from_parse(display_name, parsed.missing_hunter_achievements)
+    slayer = _slayer_rows_from_parse(display_name, parsed.missing_slayer_achievements)
     heroic = _heroic_aa_rows_from_parse(
         display_name,
         parsed.top_level,
         load_heroic_aa_catalog(),
     )
-    return missing, raids, quests, summaries, heroic
+    return missing, raids, quests, hunters, slayer, summaries, heroic
 
 
 def build_achievement_report(
@@ -407,7 +529,7 @@ def build_achievement_report(
                 f"Could not read achievements for {character.character}: {exc}"
             )
             continue
-        missing, raids, quests, summaries, heroic = _rows_from_parse(
+        missing, raids, quests, hunters, slayer, summaries, heroic = _rows_from_parse(
             character.character,
             parsed,
             item_holders,
@@ -415,11 +537,15 @@ def build_achievement_report(
         report.missing_collections.extend(missing)
         report.raid_achievements.extend(raids)
         report.quests.extend(quests)
+        report.hunters.extend(hunters)
+        report.slayer.extend(slayer)
         report.summaries.extend(summaries)
         report.heroic_aas.extend(heroic)
 
     report.raid_achievements = _sort_raid_achievement_rows(report.raid_achievements)
     report.quests = _sort_quest_rows(report.quests)
+    report.hunters = _sort_hunter_rows(report.hunters)
+    report.slayer = _sort_slayer_rows(report.slayer)
     report.missing_collections = _sort_missing_collection_rows(report.missing_collections)
     report.summaries = _sort_achievement_summary_rows(report.summaries)
     report.heroic_aas = _sort_heroic_aa_rows(report.heroic_aas)
