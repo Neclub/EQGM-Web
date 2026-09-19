@@ -43,6 +43,9 @@ VENDOR_JSON_FILES = (
     "tob_r1_vendor_items.json",
     "ls_r1_vendor_items.json",
     "nos_r1_vendor_items.json",
+    "tol_r1_vendor_items.json",
+    "cov_r1_vendor_items.json",
+    "tov_r1_vendor_items.json",
     "ani27_raid_items.json",
 )
 
@@ -116,6 +119,91 @@ _GEAR_TIERS: tuple[GearTier, ...] = (
         (_p(r"Transcendental Spirit"),),
     ),
     GearTier("NoS-G1", "Night of Shadows — Group Tier 1 (Ascending Spirit)", (_p(r"Ascending Spirit"),)),
+    GearTier(
+        "ToL-R2",
+        "Terror of Luclin — Raid Tier 2 (Luclinite Coagulated)",
+        (_p(r"Luclinite Coagulated"),),
+    ),
+    GearTier(
+        "ToL-G3",
+        "Terror of Luclin — Group Tier 3 (Luclinite Ensanguined)",
+        (_p(r"Luclinite Ensanguined"),),
+    ),
+    GearTier(
+        "ToL-R1",
+        "Terror of Luclin — Raid Tier 1 (Waning Gibbous)",
+        (_p(r"Waning Gibbous"),),
+    ),
+    GearTier(
+        "ToL-G2",
+        "Terror of Luclin — Group Tier 2 (Waning Crescent)",
+        (_p(r"Waning Crescent"),),
+    ),
+    GearTier(
+        "ToL-G1",
+        "Terror of Luclin — Group Tier 1 (Waxing Crescent)",
+        (_p(r"Waxing Crescent"),),
+    ),
+    GearTier(
+        "CoV-R2",
+        "Claws of Veeshan — Raid Tier 2 (Velium Endowed)",
+        (_p(r"Velium Endowed"),),
+    ),
+    GearTier(
+        "CoV-G3",
+        "Claws of Veeshan — Group Tier 3 (Velium Threaded)",
+        (_p(r"Velium Threaded"),),
+    ),
+    GearTier(
+        "CoV-R1",
+        "Claws of Veeshan — Raid Tier 1 (Hoarfrost)",
+        (_p(r"Hoarfrost"),),
+    ),
+    GearTier(
+        "CoV-G2",
+        "Claws of Veeshan — Group Tier 2 (Blizzard)",
+        # Require a gear-slot word so bare "Blizzard" (spells/mobs) does not match.
+        (
+            _p(
+                r"Blizzard\b.*\b(?:"
+                r"Arm(?:s|wraps)?|Boot|Bracer|Breast(?:plate)?|Cap|Chest|"
+                r"Cloak|Coif|Cowl|Earring|Gauntlet|Glove|Greave|Hand|"
+                r"Helm|Leg(?:ging)?s?|Mask|Necklace|Pant|Ring|Robe|"
+                r"Sandal|Shield|Sleeve|Tunic|Vambrace|Wrist"
+                r")\b"
+            ),
+        ),
+    ),
+    GearTier(
+        "CoV-G1",
+        "Claws of Veeshan — Group Tier 1 (Snowsquall)",
+        (_p(r"Snowsquall"),),
+    ),
+    GearTier(
+        "ToV-R2",
+        "Torment of Velious — Raid Tier 2 (Velium Empowered)",
+        (_p(r"Velium Empowered"),),
+    ),
+    GearTier(
+        "ToV-G3",
+        "Torment of Velious — Group Tier 3 (Velium Infused)",
+        (_p(r"Velium Infused"),),
+    ),
+    GearTier(
+        "ToV-R1",
+        "Torment of Velious — Raid Tier 1 (Ice Woven)",
+        (_p(r"Ice Woven"),),
+    ),
+    GearTier(
+        "ToV-G2",
+        "Torment of Velious — Group Tier 2 (Icebound)",
+        (_p(r"Icebound"),),
+    ),
+    GearTier(
+        "ToV-G1",
+        "Torment of Velious — Group Tier 1 (Snowbound)",
+        (_p(r"Snowbound"),),
+    ),
     GearTier(
         "ANI27",
         "Anniversary 2027 — Tides of Time: Glaze of the Ice Dragon (Enduring Harmony)",

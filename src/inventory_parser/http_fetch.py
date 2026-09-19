@@ -13,6 +13,13 @@ ALLOWED_HOSTS = frozenset(
         "www.eqresource.com",
         "items.eqresource.com",
         "sor.eqresource.com",
+        "tob.eqresource.com",
+        "ls.eqresource.com",
+        "nos.eqresource.com",
+        "tol.eqresource.com",
+        "www.tol.eqresource.com",
+        "cov.eqresource.com",
+        "tov.eqresource.com",
         "raidloot.com",
         "www.raidloot.com",
     }

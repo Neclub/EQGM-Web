@@ -1,6 +1,6 @@
 {
   "dex": {
-    "fetched_at": "2026-09-13T20:18:56.040254+00:00",
+    "fetched_at": "2026-09-19T20:19:26.495501+00:00",
     "url": "https://www.raidloot.com/items/augs?augslot=7%2C8&level=&source=&AC=0&HP=0&Mana=0&End=0&ATK=0&HSta=0&HStr=0&HDex=30&HAgi=0&HWis=0&HInt=0&HCha=0&Clrv=0&Heal=0&Nuke=0",
     "augs": [
       {
@@ -1835,7 +1835,7 @@
     ]
   },
   "shield": {
-    "fetched_at": "2026-09-14T19:08:37.362732+00:00",
+    "fetched_at": "2026-09-19T20:19:30.020541+00:00",
     "url": "https://www.raidloot.com/items?type=Aug_Shield&augslot=7%2C8&order=AC",
     "augs": [
       {
@@ -2325,7 +2325,7 @@
     ]
   },
   "wis": {
-    "fetched_at": "2026-09-13T20:18:58.219016+00:00",
+    "fetched_at": "2026-09-19T20:19:30.020541+00:00",
     "url": "https://www.raidloot.com/items/augs?augslot=7%2C8&level=&source=&AC=0&HP=0&Mana=0&End=0&ATK=0&HSta=0&HStr=0&HDex=&HAgi=0&HWis=35&HInt=0&HCha=0&Clrv=0&Heal=0&Nuke=0",
     "augs": [
       {
@@ -4203,7 +4203,7 @@
     ]
   },
   "int": {
-    "fetched_at": "2026-09-13T20:19:00.343661+00:00",
+    "fetched_at": "2026-09-19T20:19:28.010452+00:00",
     "url": "https://www.raidloot.com/items/augs?augslot=7%2C8&level=&source=&AC=0&HP=0&Mana=0&End=0&ATK=0&HSta=0&HStr=0&HDex=0&HAgi=0&HWis=0&HInt=0&HCha=0&Clrv=0&Heal=0&Nuke=80",
     "augs": [
       {

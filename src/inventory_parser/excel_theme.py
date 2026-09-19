@@ -212,7 +212,7 @@ _TIER_LEGEND_LABELS: dict[str, str] = {
     "green": "SOR-R2 (current SoR raid)",
     "yellow": "SOR-R1, ANI27",
     "orange": "All TOB tiers",
-    "red": "LS, NoS, SOR group, ???, other",
+    "red": "LS, NoS, ToL, CoV, ToV, SOR group, ???, other",
     "evolver": "Evolver",
 }
 

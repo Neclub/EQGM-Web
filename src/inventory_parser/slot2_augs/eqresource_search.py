@@ -28,6 +28,17 @@ from inventory_parser.slot2_augs.paths import appdata_dir
 CACHE_FILENAME = "eqresource_search_cache.json"
 _GENERAL_EXCL = frozenset({"Charm", "Range", "Primary", "Secondary", "Ammo"})
 
+# Older expansion type 7/8 family markers. Primary high-stat search only returns
+# ~50 newest rows; merge these so ToV–ToB crafted augs stay in the catalog.
+TYPE78_FAMILY_QUERIES: tuple[str, ...] = (
+    "Velium Infused",  # ToV
+    "Velium Threaded",  # CoV
+    "Luclinite Ensanguined",  # ToL
+    "Phantasmal Luclinite",  # NoS
+    "Perpetual Reverie",  # LS
+    "Uprising",  # ToB
+)
+
 _HEADER_TO_STAT: dict[str, str] = {
     "ac": "ac",
     "hp": "hp",
@@ -168,12 +179,17 @@ def _cell_int(raw: str) -> int | None:
     return int(text)
 
 
-def eqresource_search_payload(profile: ProfileId, *, augtype: str) -> dict[str, str]:
+def eqresource_search_payload(
+    profile: ProfileId,
+    *,
+    augtype: str,
+    name: str = "",
+) -> dict[str, str]:
     """Form fields for type 7/8 augs filtered by the profile's primary stat."""
     primary, rng, amt = EQRESOURCE_SEARCH_PRIMARY[profile]
     extras = [c for c in EQRESOURCE_SEARCH_COLUMNS if c != primary]
     payload: dict[str, str] = {
-        "name": "",
+        "name": name,
         "class": "",
         "race": "",
         "slot": "",
@@ -223,11 +239,44 @@ def fetch_eqresource_search_html(
     profile: ProfileId,
     *,
     augtype: str = "7",
+    name: str = "",
     html_override: str | None = None,
 ) -> str:
     if html_override is not None:
         return html_override
-    return _http_post(EQRESOURCE_SEARCH_URL, eqresource_search_payload(profile, augtype=augtype))
+    return _http_post(
+        EQRESOURCE_SEARCH_URL,
+        eqresource_search_payload(profile, augtype=augtype, name=name),
+    )
+
+
+def _merge_family_search_rows(
+    profile: ProfileId,
+    *,
+    by_id: dict[int, EqrSearchRow],
+    allow_network: bool,
+) -> None:
+    """Merge ToV–ToB family name searches into ``by_id`` (50-row cap each).
+
+    Family queries omit the profile's high-stat floors so older expansion augs
+    still appear (primary search already covers current high-stat rows).
+    """
+    if not allow_network:
+        return
+    for family in TYPE78_FAMILY_QUERIES:
+        for augtype in ("7", "8"):
+            try:
+                payload = eqresource_search_payload(
+                    profile, augtype=augtype, name=family
+                )
+                # Drop primary floors — family name alone must surface older augs.
+                payload["attrib1range"] = ""
+                payload["attrib1amt"] = ""
+                html = _http_post(EQRESOURCE_SEARCH_URL, payload)
+            except (urllib.error.URLError, TimeoutError, OSError, ValueError):
+                continue
+            for row in parse_eqresource_search_html(html):
+                by_id.setdefault(row.item_id, row)
 
 
 def _row_to_candidate(row: EqrSearchRow, profile: ProfileId) -> AugCandidate:
@@ -314,6 +363,12 @@ def fetch_eqresource_catalog(
             by_id: dict[int, EqrSearchRow] = {}
             for row in rows:
                 by_id.setdefault(row.item_id, row)
+            # Live catalog only: merge older expansion family markers that the
+            # high-stat primary search drops past the 50-row cap.
+            if allow_network and html_override is None:
+                _merge_family_search_rows(
+                    profile, by_id=by_id, allow_network=True
+                )
             rows = list(by_id.values())
             if len([r for r in rows if r.item_id != ARTISANS_PRIZE_ID]) < 3:
                 raise ValueError(

@@ -15,6 +15,8 @@ from inventory_parser.raid_bis.models import (
 # Current-expansion fallback when the vendor page does not parse a currency name.
 _CURRENCY_BY_HOST = {
     "sor.eqresource.com": "Forgotten Ruined Coin",
+    "www.eqresource.com": "Forgotten Ruined Coin",
+    "eqresource.com": "Forgotten Ruined Coin",
 }
 
 _CURRENCY_RE = re.compile(

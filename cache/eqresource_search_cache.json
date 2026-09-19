@@ -1,6 +1,6 @@
 {
   "dex": {
-    "fetched_at": "2026-09-14T19:08:16.086065+00:00",
+    "fetched_at": "2026-09-19T19:03:40.771274+00:00",
     "url": "https://items.eqresource.com/dosearch.php",
     "rows": [
       {
@@ -318,11 +318,26 @@
           "hdex": 32,
           "spell_damage": 91
         }
+      },
+      {
+        "item_id": 167572,
+        "name": "Next Item ID >>",
+        "stats": {}
+      },
+      {
+        "item_id": 52023,
+        "name": "Item Information : You must use a solvent Class XII Augmentation Distiller or higher, or use a Perfected Augmentation Distiller , to remove this augment safely.",
+        "stats": {}
+      },
+      {
+        "item_id": 169572,
+        "name": "Next Item ID >>",
+        "stats": {}
       }
     ]
   },
   "wis": {
-    "fetched_at": "2026-09-14T19:08:37.369305+00:00",
+    "fetched_at": "2026-09-19T19:09:15.857961+00:00",
     "url": "https://items.eqresource.com/dosearch.php",
     "rows": [
       {
@@ -533,11 +548,36 @@
           "hwis": 36,
           "hint": 36
         }
+      },
+      {
+        "item_id": 167573,
+        "name": "Next Item ID >>",
+        "stats": {}
+      },
+      {
+        "item_id": 52023,
+        "name": "Item Information : Lore Equipped Group: Luclinite Ensanguined Intellect or Might You must use a solvent Class XII Augmentation Distiller or higher, or use a Perfected Augmentation Distiller , to remove this augment safely.",
+        "stats": {}
+      },
+      {
+        "item_id": 169573,
+        "name": "Next Item ID >>",
+        "stats": {}
+      },
+      {
+        "item_id": 171573,
+        "name": "Next Item ID >>",
+        "stats": {}
+      },
+      {
+        "item_id": 173574,
+        "name": "Next Item ID >>",
+        "stats": {}
       }
     ]
   },
   "int": {
-    "fetched_at": "2026-09-14T19:08:23.466410+00:00",
+    "fetched_at": "2026-09-19T19:07:50.435671+00:00",
     "url": "https://items.eqresource.com/dosearch.php",
     "rows": [
       {
@@ -1155,6 +1195,79 @@
           "endurance": 1050,
           "spell_damage": 86,
           "hdex": 35
+        }
+      },
+      {
+        "item_id": 165572,
+        "name": "Velium Threaded Gem of Brilliance",
+        "stats": {
+          "ac": 50,
+          "hp": 800,
+          "mana": 1110,
+          "endurance": 1110,
+          "spell_damage": 85,
+          "hint": 30,
+          "hwis": 30
+        }
+      },
+      {
+        "item_id": 165573,
+        "name": "Velium Threaded Gem of Security",
+        "stats": {
+          "ac": 100,
+          "hp": 570,
+          "mana": 570,
+          "endurance": 570,
+          "spell_damage": 85,
+          "hdex": 20
+        }
+      },
+      {
+        "item_id": 167572,
+        "name": "Luclinite Ensanguined Gem of Brilliance",
+        "stats": {
+          "ac": 55,
+          "hp": 885,
+          "mana": 1225,
+          "endurance": 1225,
+          "spell_damage": 81,
+          "hint": 37,
+          "hwis": 37
+        }
+      },
+      {
+        "item_id": 167571,
+        "name": "Luclinite Ensanguined Gem of Adroitness",
+        "stats": {
+          "ac": 75,
+          "hp": 1050,
+          "mana": 1050,
+          "endurance": 1050,
+          "spell_damage": 81,
+          "hdex": 37
+        }
+      },
+      {
+        "item_id": 167573,
+        "name": "Luclinite Ensanguined Gem of Security",
+        "stats": {
+          "ac": 105,
+          "hp": 630,
+          "mana": 630,
+          "endurance": 630,
+          "spell_damage": 81,
+          "hdex": 25
+        }
+      },
+      {
+        "item_id": 167570,
+        "name": "Luclinite Ensanguined Gem of Vigor",
+        "stats": {
+          "ac": 75,
+          "hp": 1225,
+          "mana": 885,
+          "endurance": 885,
+          "spell_damage": 81
         }
       }
     ]

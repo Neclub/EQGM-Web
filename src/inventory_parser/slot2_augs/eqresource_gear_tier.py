@@ -20,6 +20,9 @@ from inventory_parser.slot2_augs.eqresource_augs import (
 from inventory_parser.slot2_augs.paths import appdata_dir
 
 CACHE_FILENAME = "eqresource_gear_tier_cache.json"
+# Bump when EXPAC_CODE_TO_TIER_PREFIX gains expansions so old tier:null
+# negatives are retried once (ToV/CoV/ToL were previously unparseable).
+CACHE_VERSION = 2
 _HTTP_WORKERS = 6
 
 # EQ Resource expacimages stem → our T-code prefix.
@@ -28,6 +31,9 @@ EXPAC_CODE_TO_TIER_PREFIX: dict[str, str] = {
     "tob": "TOB",
     "ls": "LS",
     "nos": "NoS",
+    "tol": "ToL",
+    "cov": "CoV",
+    "tov": "ToV",
 }
 
 _RAID_GROUP_TIER_RE = re.compile(
@@ -90,12 +96,11 @@ def fetch_item_gear_tier(
 
     cache = _load_cache()
     key = str(item_id)
-    # Honor negative cache (ok: false / no parseable T-code) so generate
-    # does not re-hit EQ Resource for the same unknown items every run.
-    if not force_refresh and key in cache:
-        raw = cache[key].get("tier")
-        code = str(raw) if raw else None
-        return code if code in GEAR_TIER_BY_CODE else None
+    # Honor current-version negative cache so generate does not re-hit EQ
+    # Resource for the same unknown items every run. Stale (pre-v2) nulls
+    # are retried so newly mapped ToV/CoV/ToL prefixes can succeed.
+    if not force_refresh and key in cache and _cache_entry_current(cache[key]):
+        return _tier_from_cache_entry(cache[key])
 
     if not allow_network:
         return None
@@ -108,13 +113,26 @@ def fetch_item_gear_tier(
         tier = None
 
     if not skip_cache_write:
-        cache[key] = {
-            "ok": tier is not None,
-            "fetched_at": datetime.now(timezone.utc).isoformat(),
-            "tier": tier,
-        }
+        cache[key] = _cache_entry(tier)
         _save_cache(cache)
     return tier
+
+
+def _cache_entry(tier: str | None) -> dict:
+    return {
+        "ok": tier is not None,
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "tier": tier,
+        "_v": CACHE_VERSION,
+    }
+
+
+def _cache_entry_current(entry: dict) -> bool:
+    """True when the entry was written under the current prefix map version."""
+    try:
+        return int(entry.get("_v") or 0) >= CACHE_VERSION
+    except (TypeError, ValueError):
+        return False
 
 
 def _tier_from_cache_entry(entry: dict) -> str | None:
@@ -163,7 +181,7 @@ def resolve_item_gear_tiers(
                 on_progress(done, total)
             continue
         key = str(item_id)
-        if not force_refresh and key in cache:
+        if not force_refresh and key in cache and _cache_entry_current(cache[key]):
             code = _tier_from_cache_entry(cache[key])
             if code:
                 result[item_id] = code
@@ -187,11 +205,7 @@ def resolve_item_gear_tiers(
                 if fetched_live > 0 and polite_delay_s > 0:
                     time.sleep(polite_delay_s)
                 code = _fetch_live_gear_tier(item_id)
-                cache[str(item_id)] = {
-                    "ok": code is not None,
-                    "fetched_at": datetime.now(timezone.utc).isoformat(),
-                    "tier": code,
-                }
+                cache[str(item_id)] = _cache_entry(code)
                 dirty = True
                 fetched_live += 1
                 if code:
@@ -208,11 +222,7 @@ def resolve_item_gear_tiers(
                 for fut in as_completed(futures):
                     item_id = futures[fut]
                     code = fut.result()
-                    cache[str(item_id)] = {
-                        "ok": code is not None,
-                        "fetched_at": datetime.now(timezone.utc).isoformat(),
-                        "tier": code,
-                    }
+                    cache[str(item_id)] = _cache_entry(code)
                     dirty = True
                     if code:
                         result[item_id] = code

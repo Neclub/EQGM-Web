@@ -45,9 +45,10 @@ ITEM_CACHE_FILENAME = "raid_bis_item_cache.json"
 ITEM_CACHE_VERSION = 8
 _CLASS_ALL_TOKEN = "ALL"
 _CATALOG_FETCH_WORKERS = 6
-RAIDARMOR_URL = "https://sor.eqresource.com/raidarmor.php"
-RAIDGEAR_URL = "https://sor.eqresource.com/raidgear.php"
-RAIDVENDOR_URL = "https://sor.eqresource.com/raidvendorgood.php"
+# Prefer www path — sor.eqresource.com often fails local DNS while this works.
+RAIDARMOR_URL = "https://www.eqresource.com/sor/raidarmor.php"
+RAIDGEAR_URL = "https://www.eqresource.com/sor/raidgear.php"
+RAIDVENDOR_URL = "https://www.eqresource.com/sor/raidvendorgood.php"
 RAIDLOOT_SEARCH_URL = "https://www.raidloot.com/items"
 
 StatusFn = Callable[[str, int, int], None]
@@ -860,6 +861,8 @@ def _hydrate_items(
     skip_hydrated: bool = False,
     on_status: StatusFn | None = None,
 ) -> dict[int, RaidGearCandidate]:
+    from inventory_parser.item_inspect import parse_item_inspect
+
     item_cache = _load_item_cache()
     out: dict[int, RaidGearCandidate] = {}
     fetched = 0
@@ -895,14 +898,54 @@ def _hydrate_items(
             )
         elif items:
             _emit_status(on_status, "Using cached item details…", 1, 1)
+
+    # Prefetch missing pages in parallel (same worker count as catalog fetch).
+    live_html: dict[int, str | None] = {}
+    if network_ids and allow_network:
+
+        def _fetch_one(item_id: int) -> tuple[int, str | None]:
+            try:
+                return item_id, _http_get(EQRESOURCE_ITEM_URL.format(item_id=item_id))
+            except (urllib.error.URLError, TimeoutError, OSError, ValueError):
+                return item_id, None
+
+        workers = min(_CATALOG_FETCH_WORKERS, len(network_ids))
+        if workers <= 1:
+            for item_id in network_ids:
+                if fetched > 0 and polite_delay_s > 0:
+                    time.sleep(polite_delay_s)
+                iid, html = _fetch_one(item_id)
+                live_html[iid] = html
+                fetched += 1
+                _emit_status(
+                    on_status,
+                    f"Fetching item details from EQ Resource… ({fetched}/{network_total})",
+                    fetched,
+                    max(network_total, 1),
+                )
+        else:
+            with ThreadPoolExecutor(max_workers=workers) as pool:
+                futures = {pool.submit(_fetch_one, iid): iid for iid in network_ids}
+                for fut in as_completed(futures):
+                    iid, html = fut.result()
+                    live_html[iid] = html
+                    fetched += 1
+                    _emit_status(
+                        on_status,
+                        f"Fetching item details from EQ Resource… ({fetched}/{network_total})",
+                        fetched,
+                        max(network_total, 1),
+                    )
+
     for item in items:
         key = str(item.item_id)
         html = item_html_by_id.get(item.item_id)
+        if html is None and item.item_id in live_html:
+            html = live_html[item.item_id]
         parsed: RaidGearCandidate | None = None
         inspect = None
+        fetched_live = item.item_id in live_html
         if html is not None:
-            from inventory_parser.item_inspect import parse_item_inspect
-
             parsed = parse_item_page(html, item.item_id, name_hint=item.name)
             inspect = parse_item_inspect(html, item.item_id, name_hint=item.name)
         if parsed is None and key in item_cache and item_cache[key].get("ok"):
@@ -912,27 +955,7 @@ def _hydrate_items(
             ):
                 if _entry_has_inspect(item_cache[key]) or not allow_network:
                     parsed = cached_item
-        if parsed is None and allow_network:
-            if skip_hydrated and not _item_needs_page_hydrate(item):
-                continue
-            if fetched and polite_delay_s > 0:
-                time.sleep(polite_delay_s)
-            try:
-                html = _http_get(EQRESOURCE_ITEM_URL.format(item_id=item.item_id))
-                from inventory_parser.item_inspect import parse_item_inspect
-
-                parsed = parse_item_page(html, item.item_id, name_hint=item.name)
-                inspect = parse_item_inspect(html, item.item_id, name_hint=item.name)
-            except (urllib.error.URLError, TimeoutError, OSError, ValueError):
-                parsed = None
-                inspect = None
-            fetched += 1
-            _emit_status(
-                on_status,
-                f"Fetching item details from EQ Resource… ({fetched}/{network_total})",
-                fetched,
-                max(network_total, 1),
-            )
+        if fetched_live:
             item_cache[key] = (
                 _item_cache_entry(parsed, inspect=inspect)
                 if parsed is not None

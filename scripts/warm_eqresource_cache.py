@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
@@ -160,6 +161,58 @@ def _ids_from_inventories(paths: Iterable[Path]) -> set[int]:
     return ids
 
 
+# Expansion gear pages to harvest for item-id seeding (not Raid BiS).
+# Use raidloot.com — EQ Resource expansion subdomains (tov/cov/tol/…) often
+# time out; raidloot lists the same armor item ids.
+_RAIDLOOT_HARVEST_URLS: tuple[str, ...] = (
+    "https://www.raidloot.com/raid/tovarmor",
+    "https://www.raidloot.com/group/tovarmor",
+    "https://www.raidloot.com/raid/covarmor",
+    "https://www.raidloot.com/group/covarmor",
+    "https://www.raidloot.com/raid/tolarmor",
+    "https://www.raidloot.com/group/tolarmor",
+    "https://www.raidloot.com/raid/nosarmor",
+    "https://www.raidloot.com/group/nosarmor",
+    "https://www.raidloot.com/raid/lsarmor",
+    "https://www.raidloot.com/group/lsarmor",
+    "https://www.raidloot.com/raid/tobarmor",
+    "https://www.raidloot.com/group/tobarmor",
+)
+_ITEM_ID_HREF_RE = re.compile(
+    r"(?:items\.php\?id=|/item(?:s)?/)(\d+)",
+    re.IGNORECASE,
+)
+
+
+def _ids_from_expansion_pages(*, polite_delay: float) -> set[int]:
+    """Collect item ids from raidloot expansion armor pages.
+
+    Seeds inspect/sockets/tiers/icons caches. Must not be written into the
+    current-expansion Raid BiS catalog.
+    """
+    from inventory_parser.http_fetch import http_get_text
+    from inventory_parser.slot2_augs.eqresource_augs import USER_AGENT
+
+    ids: set[int] = set()
+    urls = list(_RAIDLOOT_HARVEST_URLS)
+    total = len(urls)
+    for done, url in enumerate(urls, start=1):
+        try:
+            if done > 1 and polite_delay > 0:
+                time.sleep(polite_delay)
+            html = http_get_text(url, timeout=45.0, user_agent=USER_AGENT)
+            found = {int(m) for m in _ITEM_ID_HREF_RE.findall(html)}
+            ids |= found
+            short = url.split("//", 1)[-1]
+            _log(f"  {short}: {len(found)} ids")
+        except Exception as exc:
+            short = url.split("//", 1)[-1]
+            _log(f"  WARN {short}: {exc}")
+        if done == 1 or done == total or done % 3 == 0:
+            _status("Harvesting expansion gear pages…", done, total)
+    return ids
+
+
 def _icon_ids_from_cache(cache_dir: Path) -> set[str]:
     icons: set[str] = set()
 
@@ -283,6 +336,16 @@ def warm(cache_dir: Path, *, force_refresh: bool, polite_delay: float, inventory
     known_ids: set[int] = set()
     gear_ids: set[int] = set()
     aug_ids: set[int] = set()
+
+    # --- Stage 0: Expansion gear pages (ToV→SoR) — seed ids only ---
+    _log("0/6 Harvesting expansion gear pages (ToV–SoR, not Raid BiS)…")
+    try:
+        harvested = _ids_from_expansion_pages(polite_delay=polite_delay)
+        known_ids |= harvested
+        gear_ids |= harvested
+        _log(f"  Harvested {len(harvested)} unique item ids")
+    except Exception as exc:
+        _log(f"  WARN expansion harvest: {exc}")
 
     # --- Stage 1: Raid BiS ---
     _log("1/6 Raid BiS catalog (force_refresh=%s)…" % force_refresh)
