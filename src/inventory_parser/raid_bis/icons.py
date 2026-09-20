@@ -12,6 +12,8 @@ from inventory_parser.slot2_augs.eqresource_augs import USER_AGENT
 from inventory_parser.slot2_augs.paths import appdata_dir
 
 ICON_URL = "https://items.eqresource.com/itemimages/{icon_id}.png"
+# Shard so each folder stays under GitHub's ~1000-file directory listing limit.
+ICON_SHARD_SIZE = 1000
 
 StatusFn = Callable[[str, int, int], None]
 
@@ -22,6 +24,66 @@ def icon_cache_dir() -> Path:
     return path
 
 
+def icon_shard_name(icon_id: str | int) -> str:
+    """Return shard folder name for an icon id (``id // 1000``)."""
+    return str(int(icon_id) // ICON_SHARD_SIZE)
+
+
+def icon_png_path(icon_id: str | int, *, cache_dir: Path | None = None) -> Path:
+    """Canonical on-disk path: ``item_icons/{id//1000}/{id}.png``."""
+    root = cache_dir if cache_dir is not None else icon_cache_dir()
+    text = str(icon_id)
+    return root / icon_shard_name(text) / f"{text}.png"
+
+
+def resolve_icon_png_path(icon_id: str | int, *, cache_dir: Path | None = None) -> Path | None:
+    """Return an existing icon path (sharded preferred, flat legacy fallback)."""
+    root = cache_dir if cache_dir is not None else icon_cache_dir()
+    text = str(icon_id)
+    if not text.isdigit():
+        return None
+    sharded = root / icon_shard_name(text) / f"{text}.png"
+    if sharded.is_file():
+        return sharded
+    legacy = root / f"{text}.png"
+    if legacy.is_file():
+        return legacy
+    return None
+
+
+def migrate_flat_icons_to_shards(*, cache_dir: Path | None = None) -> int:
+    """Move ``item_icons/{id}.png`` into ``item_icons/{id//1000}/{id}.png``.
+
+    Expac thumbs (``expac-*.jpg``/``.png``) stay at the icon root. Returns the
+    number of files moved.
+    """
+    root = cache_dir if cache_dir is not None else icon_cache_dir()
+    if not root.is_dir():
+        return 0
+    moved = 0
+    for path in sorted(root.glob("*.png")):
+        stem = path.stem
+        if not stem.isdigit():
+            continue
+        dest = icon_png_path(stem, cache_dir=root)
+        if dest.resolve() == path.resolve():
+            continue
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        if dest.is_file():
+            # Prefer existing shard copy; drop the flat duplicate.
+            try:
+                path.unlink()
+            except OSError:
+                pass
+            continue
+        try:
+            path.replace(dest)
+            moved += 1
+        except OSError:
+            continue
+    return moved
+
+
 def collect_icon_data_uris(
     icon_ids: set[str],
     *,
@@ -30,15 +92,15 @@ def collect_icon_data_uris(
 ) -> dict[str, str]:
     """Return icon_id → data URI. Missing icons are omitted (name links still work).
 
-    PNGs under ``icon_cache_dir()`` are used first. EQ Resource is contacted only
-    for ids that are not already cached (and only when ``allow_network`` is True).
+    PNGs under ``icon_cache_dir()`` (sharded or flat) are used first. EQ Resource
+    is contacted only for ids that are not already cached (and only when
+    ``allow_network`` is True).
     """
     ids = [str(icon_id) for icon_id in sorted(icon_ids) if icon_id and str(icon_id).isdigit()]
-    cache_dir = icon_cache_dir()
     missing = [
         icon_id
         for icon_id in ids
-        if not (cache_dir / f"{icon_id}.png").is_file()
+        if resolve_icon_png_path(icon_id) is None
     ]
     if missing and allow_network and on_status is not None:
         on_status("Fetching item icons from EQ Resource…", 0, len(missing))
@@ -76,10 +138,10 @@ def collect_icon_data_uris(
 def _load_icon_png(icon_id: str, *, allow_network: bool) -> bytes | None:
     if not icon_id.isdigit():
         return None
-    path = icon_cache_dir() / f"{icon_id}.png"
-    if path.is_file():
+    existing = resolve_icon_png_path(icon_id)
+    if existing is not None:
         try:
-            data = path.read_bytes()
+            data = existing.read_bytes()
         except OSError:
             data = b""
         if is_png(data):
@@ -97,7 +159,9 @@ def _load_icon_png(icon_id: str, *, allow_network: bool) -> bytes | None:
         return None
     if not is_png(data):
         return None
+    path = icon_png_path(icon_id)
     try:
+        path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(data)
     except OSError:
         # Cache write failed; still return the fetched icon bytes for this run.

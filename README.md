@@ -29,7 +29,7 @@ EQ Resource / Raidloot catalog JSON and item icons live under repo [`cache/`](ca
 Generates **only contact EQ Resource / Raidloot on a cache miss** (unknown item, incomplete catalog row, or missing icon PNG). Warm files are reused as-is.
 
 - **JSON catalogs:** `cache/*.json` (augs, raid BiS, sockets, item details, etc.)
-- **Icons:** `cache/item_icons/{id}.png` (and `expac-*.jpg`) — embedded into BiS paper dolls and item cards
+- **Icons:** `cache/item_icons/{id//1000}/{id}.png` (sharded for GitHub’s 1,000-file directory limit) and `expac-*.jpg` at the icon root — embedded into BiS paper dolls and item cards
 
 ### One-shot warm on your PC (recommended)
 

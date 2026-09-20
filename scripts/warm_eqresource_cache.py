@@ -441,7 +441,7 @@ def _print_summary(cache_dir: Path) -> None:
             _log(f"  {name}: missing")
     icons = cache_dir / ICON_CACHE_DIRNAME
     if icons.is_dir():
-        pngs = list(icons.glob("*.png"))
+        pngs = [p for p in icons.rglob("*.png") if p.stem.isdigit()]
         jpgs = list(icons.glob("expac-*.jpg")) + list(icons.glob("expac-*.png"))
         _log(f"  {ICON_CACHE_DIRNAME}/: {len(pngs)} png, {len(jpgs)} expac thumbs")
     else:
@@ -459,7 +459,11 @@ def warm(cache_dir: Path, *, force_refresh: bool, polite_delay: float, inventory
         collect_expansion_data_uris,
     )
     from inventory_parser.raid_bis.catalog import fetch_catalog, hydrate_item_ids
-    from inventory_parser.raid_bis.icons import collect_icon_data_uris, icon_cache_dir
+    from inventory_parser.raid_bis.icons import (
+        collect_icon_data_uris,
+        icon_cache_dir,
+        migrate_flat_icons_to_shards,
+    )
     from inventory_parser.slot2_augs.chest_class import fetch_item_classes
     from inventory_parser.slot2_augs.eqresource_augs import (
         resolve_eqresource_augs,
@@ -675,6 +679,9 @@ def warm(cache_dir: Path, *, force_refresh: bool, polite_delay: float, inventory
     # --- Stage 6: icons + expac thumbs ---
     _log("6/6 Icons and expansion thumbnails…")
     icon_cache_dir()
+    moved = migrate_flat_icons_to_shards()
+    if moved:
+        _log(f"  Migrated {moved} flat icons into id//1000 shards")
     icon_ids = _icon_ids_from_cache(cache_dir)
     for inspect in cached_inspect_map().values():
         if inspect.icon_id:
