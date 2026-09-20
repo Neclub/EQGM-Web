@@ -67456,5 +67456,9561 @@
     "sockets": [],
     "source": "miss",
     "fetched_at": "2026-09-20T03:48:14.383852+00:00"
+  },
+  "111661": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.579036+00:00"
+  },
+  "111666": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.580014+00:00"
+  },
+  "111662": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.579322+00:00"
+  },
+  "111664": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.579701+00:00"
+  },
+  "114994": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.581201+00:00"
+  },
+  "114991": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.580622+00:00"
+  },
+  "114996": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.775977+00:00"
+  },
+  "114995": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.773578+00:00"
+  },
+  "114997": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.777929+00:00"
+  },
+  "114999": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.825270+00:00"
+  },
+  "114998": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.808482+00:00"
+  },
+  "139357": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.832811+00:00"
+  },
+  "139361": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.961893+00:00"
+  },
+  "139365": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.979872+00:00"
+  },
+  "139366": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:11.981473+00:00"
+  },
+  "139370": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.016601+00:00"
+  },
+  "139374": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.020455+00:00"
+  },
+  "139373": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.018927+00:00"
+  },
+  "139375": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.135707+00:00"
+  },
+  "139378": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.177152+00:00"
+  },
+  "139380": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.191787+00:00"
+  },
+  "139384": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.224263+00:00"
+  },
+  "139385": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.250897+00:00"
+  },
+  "151454": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.252501+00:00"
+  },
+  "151455": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.290891+00:00"
+  },
+  "151456": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.330369+00:00"
+  },
+  "151457": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.352818+00:00"
+  },
+  "151458": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.380672+00:00"
+  },
+  "151459": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.421311+00:00"
+  },
+  "151460": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.446269+00:00"
+  },
+  "151461": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.467603+00:00"
+  },
+  "151462": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.488590+00:00"
+  },
+  "151463": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.504956+00:00"
+  },
+  "151464": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.546453+00:00"
+  },
+  "151465": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.579712+00:00"
+  },
+  "151466": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.605537+00:00"
+  },
+  "151469": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.642509+00:00"
+  },
+  "151468": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.628843+00:00"
+  },
+  "151470": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.656519+00:00"
+  },
+  "151471": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.697537+00:00"
+  },
+  "151472": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.732765+00:00"
+  },
+  "151473": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.772581+00:00"
+  },
+  "151477": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.797144+00:00"
+  },
+  "151474": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.795533+00:00"
+  },
+  "151482": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.860983+00:00"
+  },
+  "151479": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.826445+00:00"
+  },
+  "151483": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:12.898682+00:00"
+  },
+  "151955": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.057916+00:00"
+  },
+  "151952": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:12.975309+00:00"
+  },
+  "151951": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:12.974602+00:00"
+  },
+  "151953": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.018151+00:00"
+  },
+  "151950": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:12.944373+00:00"
+  },
+  "151954": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.035776+00:00"
+  },
+  "151956": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.453401+00:00"
+  },
+  "151969": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.554813+00:00"
+  },
+  "151966": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.502836+00:00"
+  },
+  "151968": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.525416+00:00"
+  },
+  "151967": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.523492+00:00"
+  },
+  "151970": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.555441+00:00"
+  },
+  "151971": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.818041+00:00"
+  },
+  "151972": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.986476+00:00"
+  },
+  "151973": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:13.990457+00:00"
+  },
+  "151979": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.050728+00:00"
+  },
+  "151980": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.068450+00:00"
+  },
+  "151974": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.023612+00:00"
+  },
+  "151981": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.129918+00:00"
+  },
+  "154861": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:14.337739+00:00"
+  },
+  "154863": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:14.373091+00:00"
+  },
+  "154864": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:14.395031+00:00"
+  },
+  "154865": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:14.396836+00:00"
+  },
+  "151982": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.318728+00:00"
+  },
+  "159852": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.506225+00:00"
+  },
+  "159851": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.473583+00:00"
+  },
+  "159854": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.553307+00:00"
+  },
+  "159853": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.527626+00:00"
+  },
+  "159855": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.567958+00:00"
+  },
+  "159856": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.660875+00:00"
+  },
+  "159857": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.807057+00:00"
+  },
+  "159869": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.907536+00:00"
+  },
+  "159867": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.843541+00:00"
+  },
+  "159870": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.954529+00:00"
+  },
+  "159868": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:14.873485+00:00"
+  },
+  "159871": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.011604+00:00"
+  },
+  "159872": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.162459+00:00"
+  },
+  "159873": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.209382+00:00"
+  },
+  "159880": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.340775+00:00"
+  },
+  "159874": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.336420+00:00"
+  },
+  "159875": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.339014+00:00"
+  },
+  "159881": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.394078+00:00"
+  },
+  "159882": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.509342+00:00"
+  },
+  "159883": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.569574+00:00"
+  },
+  "163172": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.762800+00:00"
+  },
+  "163173": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.794487+00:00"
+  },
+  "163174": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.875233+00:00"
+  },
+  "163175": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.900091+00:00"
+  },
+  "163176": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.930849+00:00"
+  },
+  "163177": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:15.946654+00:00"
+  },
+  "163913": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.195178+00:00"
+  },
+  "163914": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.220586+00:00"
+  },
+  "163915": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.262986+00:00"
+  },
+  "163652": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:16.110322+00:00"
+  },
+  "163916": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.264464+00:00"
+  },
+  "163178": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:16.074790+00:00"
+  },
+  "163917": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.394936+00:00"
+  },
+  "163918": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.411719+00:00"
+  },
+  "163919": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.446612+00:00"
+  },
+  "163921": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.468296+00:00"
+  },
+  "163920": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.467542+00:00"
+  },
+  "163922": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.469367+00:00"
+  },
+  "163923": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.558385+00:00"
+  },
+  "163924": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.576939+00:00"
+  },
+  "163925": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.611755+00:00"
+  },
+  "163929": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.655069+00:00"
+  },
+  "163931": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.680597+00:00"
+  },
+  "163930": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.678719+00:00"
+  },
+  "163932": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.719169+00:00"
+  },
+  "163933": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.738287+00:00"
+  },
+  "163934": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.770551+00:00"
+  },
+  "163935": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.820188+00:00"
+  },
+  "163936": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.853302+00:00"
+  },
+  "163937": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.862473+00:00"
+  },
+  "163938": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.872385+00:00"
+  },
+  "163939": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.889471+00:00"
+  },
+  "163940": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.926319+00:00"
+  },
+  "163952": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:16.975020+00:00"
+  },
+  "163966": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.019405+00:00"
+  },
+  "163967": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.044834+00:00"
+  },
+  "164114": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.067898+00:00"
+  },
+  "164113": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.067192+00:00"
+  },
+  "164115": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.104084+00:00"
+  },
+  "164116": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.139369+00:00"
+  },
+  "164117": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.185831+00:00"
+  },
+  "164119": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.232470+00:00"
+  },
+  "164118": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.231164+00:00"
+  },
+  "164120": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.251154+00:00"
+  },
+  "164121": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.279613+00:00"
+  },
+  "164122": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.296715+00:00"
+  },
+  "164123": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.338860+00:00"
+  },
+  "164125": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.401820+00:00"
+  },
+  "164124": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.399889+00:00"
+  },
+  "164133": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.450754+00:00"
+  },
+  "164132": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.448251+00:00"
+  },
+  "164134": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.487834+00:00"
+  },
+  "164135": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.516579+00:00"
+  },
+  "164136": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.592102+00:00"
+  },
+  "164139": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.629109+00:00"
+  },
+  "164138": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.627448+00:00"
+  },
+  "164140": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.672886+00:00"
+  },
+  "164137": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:17.615412+00:00"
+  },
+  "164236": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:17.688578+00:00"
+  },
+  "164237": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:17.778325+00:00"
+  },
+  "164238": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:17.849446+00:00"
+  },
+  "164246": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:17.856771+00:00"
+  },
+  "164240": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:17.854536+00:00"
+  },
+  "164239": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:17.852008+00:00"
+  },
+  "164247": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.071308+00:00"
+  },
+  "164248": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.203167+00:00"
+  },
+  "164249": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.282276+00:00"
+  },
+  "164250": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.300090+00:00"
+  },
+  "164396": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.380447+00:00"
+  },
+  "164319": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.321931+00:00"
+  },
+  "164318": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.318893+00:00"
+  },
+  "164397": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.511495+00:00"
+  },
+  "164398": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.610801+00:00"
+  },
+  "164399": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.643872+00:00"
+  },
+  "164415": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.713487+00:00"
+  },
+  "164400": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.709981+00:00"
+  },
+  "164416": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.752743+00:00"
+  },
+  "164417": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.871786+00:00"
+  },
+  "164418": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:18.899121+00:00"
+  },
+  "164469": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:19.294982+00:00"
+  },
+  "164419": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.062236+00:00"
+  },
+  "164421": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.092335+00:00"
+  },
+  "164423": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.093950+00:00"
+  },
+  "164420": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.090328+00:00"
+  },
+  "164424": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.237566+00:00"
+  },
+  "164479": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:19.486044+00:00"
+  },
+  "164480": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:19.515046+00:00"
+  },
+  "164558": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.583370+00:00"
+  },
+  "164560": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.628357+00:00"
+  },
+  "164922": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.698263+00:00"
+  },
+  "164557": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.554529+00:00"
+  },
+  "164559": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.585298+00:00"
+  },
+  "164561": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.673956+00:00"
+  },
+  "164923": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:19.916146+00:00"
+  },
+  "164924": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.011736+00:00"
+  },
+  "164926": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.060442+00:00"
+  },
+  "164925": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.031755+00:00"
+  },
+  "164927": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.062495+00:00"
+  },
+  "164928": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.066058+00:00"
+  },
+  "164937": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.261980+00:00"
+  },
+  "164938": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.348523+00:00"
+  },
+  "165173": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.434536+00:00"
+  },
+  "165175": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.456224+00:00"
+  },
+  "165172": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.407253+00:00"
+  },
+  "165174": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.454354+00:00"
+  },
+  "165176": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.601283+00:00"
+  },
+  "165177": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.640926+00:00"
+  },
+  "165191": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.825881+00:00"
+  },
+  "165178": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.775903+00:00"
+  },
+  "165182": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.821805+00:00"
+  },
+  "165183": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.824210+00:00"
+  },
+  "165192": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:20.982003+00:00"
+  },
+  "165193": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:21.004653+00:00"
+  },
+  "165713": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.372925+00:00"
+  },
+  "165714": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.399684+00:00"
+  },
+  "165194": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:21.180284+00:00"
+  },
+  "165715": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.418040+00:00"
+  },
+  "165195": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:21.286607+00:00"
+  },
+  "165196": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:21.318738+00:00"
+  },
+  "165717": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.567587+00:00"
+  },
+  "165716": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.543983+00:00"
+  },
+  "165718": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.585200+00:00"
+  },
+  "165719": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.600096+00:00"
+  },
+  "165720": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.626566+00:00"
+  },
+  "165721": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.649066+00:00"
+  },
+  "165722": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.719869+00:00"
+  },
+  "165725": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.767316+00:00"
+  },
+  "165724": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.741754+00:00"
+  },
+  "165723": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.740084+00:00"
+  },
+  "165730": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.811752+00:00"
+  },
+  "165729": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.810129+00:00"
+  },
+  "165731": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.901081+00:00"
+  },
+  "165732": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.950950+00:00"
+  },
+  "165733": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.964889+00:00"
+  },
+  "165734": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:21.977790+00:00"
+  },
+  "165735": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.015124+00:00"
+  },
+  "165736": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.017233+00:00"
+  },
+  "165737": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.068261+00:00"
+  },
+  "165738": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.126405+00:00"
+  },
+  "165739": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.154743+00:00"
+  },
+  "165740": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.156130+00:00"
+  },
+  "165766": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.195558+00:00"
+  },
+  "165752": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.194164+00:00"
+  },
+  "165767": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.245967+00:00"
+  },
+  "165913": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.299189+00:00"
+  },
+  "165915": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.350651+00:00"
+  },
+  "165914": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.349299+00:00"
+  },
+  "165917": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.386540+00:00"
+  },
+  "165916": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.385613+00:00"
+  },
+  "165918": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.435270+00:00"
+  },
+  "165919": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.456084+00:00"
+  },
+  "165920": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.524463+00:00"
+  },
+  "165921": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.526348+00:00"
+  },
+  "165923": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.561422+00:00"
+  },
+  "165922": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.560018+00:00"
+  },
+  "165924": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.594657+00:00"
+  },
+  "165925": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.627396+00:00"
+  },
+  "165932": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.729947+00:00"
+  },
+  "165935": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.747649+00:00"
+  },
+  "165934": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.745570+00:00"
+  },
+  "165933": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.743491+00:00"
+  },
+  "165937": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.806065+00:00"
+  },
+  "165936": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.805064+00:00"
+  },
+  "165938": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.922374+00:00"
+  },
+  "165939": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.955046+00:00"
+  },
+  "165940": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:22.973598+00:00"
+  },
+  "166463": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:23.027018+00:00"
+  },
+  "166141": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:22.975136+00:00"
+  },
+  "166328": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.011912+00:00"
+  },
+  "167172": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.113925+00:00"
+  },
+  "167175": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.181349+00:00"
+  },
+  "167176": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.298440+00:00"
+  },
+  "167173": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.125045+00:00"
+  },
+  "167178": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.523118+00:00"
+  },
+  "167177": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.359991+00:00"
+  },
+  "167174": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:23.153317+00:00"
+  },
+  "167713": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.066269+00:00"
+  },
+  "167714": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.089619+00:00"
+  },
+  "167718": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.178583+00:00"
+  },
+  "167716": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.134364+00:00"
+  },
+  "167719": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.239392+00:00"
+  },
+  "167717": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.136218+00:00"
+  },
+  "167715": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.109863+00:00"
+  },
+  "167720": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.647225+00:00"
+  },
+  "167721": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.662237+00:00"
+  },
+  "167723": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.665810+00:00"
+  },
+  "167724": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.668211+00:00"
+  },
+  "167722": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.664695+00:00"
+  },
+  "167725": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.669943+00:00"
+  },
+  "167729": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.817510+00:00"
+  },
+  "167730": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.848036+00:00"
+  },
+  "167731": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.871796+00:00"
+  },
+  "167733": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.904423+00:00"
+  },
+  "167732": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.894875+00:00"
+  },
+  "167734": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:24.906299+00:00"
+  },
+  "167736": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.019069+00:00"
+  },
+  "167735": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.016875+00:00"
+  },
+  "167737": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.063537+00:00"
+  },
+  "167738": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.113655+00:00"
+  },
+  "167739": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.115282+00:00"
+  },
+  "167740": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.142466+00:00"
+  },
+  "167752": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.186259+00:00"
+  },
+  "167766": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.205745+00:00"
+  },
+  "167767": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.221106+00:00"
+  },
+  "167913": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.281836+00:00"
+  },
+  "167914": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.283251+00:00"
+  },
+  "167915": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.318053+00:00"
+  },
+  "167916": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.351683+00:00"
+  },
+  "167917": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.385041+00:00"
+  },
+  "167918": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.409966+00:00"
+  },
+  "167919": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.469899+00:00"
+  },
+  "167920": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.484507+00:00"
+  },
+  "167921": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.503344+00:00"
+  },
+  "167922": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.530460+00:00"
+  },
+  "167924": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.577442+00:00"
+  },
+  "167923": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.552542+00:00"
+  },
+  "167925": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.641124+00:00"
+  },
+  "167932": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.643774+00:00"
+  },
+  "167933": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.695028+00:00"
+  },
+  "167934": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.702790+00:00"
+  },
+  "167936": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.739303+00:00"
+  },
+  "167935": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.737549+00:00"
+  },
+  "167937": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.835076+00:00"
+  },
+  "167938": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.836121+00:00"
+  },
+  "167940": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.873843+00:00"
+  },
+  "167939": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:25.871609+00:00"
+  },
+  "168022": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:25.921275+00:00"
+  },
+  "168023": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:25.944478+00:00"
+  },
+  "168024": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.012730+00:00"
+  },
+  "168027": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.054545+00:00"
+  },
+  "168025": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.044401+00:00"
+  },
+  "168026": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.053359+00:00"
+  },
+  "168044": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.402716+00:00"
+  },
+  "168028": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.269568+00:00"
+  },
+  "168058": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.458263+00:00"
+  },
+  "168054": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.438554+00:00"
+  },
+  "168037": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.288176+00:00"
+  },
+  "168038": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:26.360429+00:00"
+  },
+  "168062": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.556310+00:00"
+  },
+  "168070": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.595064+00:00"
+  },
+  "168082": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.637332+00:00"
+  },
+  "168086": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 7
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.686166+00:00"
+  },
+  "168071": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 18
+      },
+      {
+        "slot": 5,
+        "type": 19
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.634610+00:00"
+  },
+  "168085": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 7
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.685205+00:00"
+  },
+  "168087": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 7
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.734042+00:00"
+  },
+  "168088": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 7
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.767771+00:00"
+  },
+  "168089": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 7
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.850743+00:00"
+  },
+  "168092": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.872854+00:00"
+  },
+  "168090": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 7
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.860896+00:00"
+  },
+  "168091": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.868042+00:00"
+  },
+  "168095": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.940068+00:00"
+  },
+  "168093": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 30
+      },
+      {
+        "slot": 2,
+        "type": 3
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      },
+      {
+        "slot": 5,
+        "type": 18
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:26.921377+00:00"
+  },
+  "168115": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.023654+00:00"
+  },
+  "168116": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.053925+00:00"
+  },
+  "168118": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.071591+00:00"
+  },
+  "168119": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.094043+00:00"
+  },
+  "168117": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.055167+00:00"
+  },
+  "168120": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.118784+00:00"
+  },
+  "168121": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.400091+00:00"
+  },
+  "169173": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.475385+00:00"
+  },
+  "169176": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.546080+00:00"
+  },
+  "169174": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.478016+00:00"
+  },
+  "169172": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.452529+00:00"
+  },
+  "169175": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.525477+00:00"
+  },
+  "169340": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:27.864473+00:00"
+  },
+  "169540": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:27.882941+00:00"
+  },
+  "169713": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:27.910056+00:00"
+  },
+  "169714": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:27.935403+00:00"
+  },
+  "169715": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:27.963384+00:00"
+  },
+  "169177": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:27.808383+00:00"
+  },
+  "169716": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.030230+00:00"
+  },
+  "169717": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.048173+00:00"
+  },
+  "169718": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.081333+00:00"
+  },
+  "169719": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.100752+00:00"
+  },
+  "169720": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.116448+00:00"
+  },
+  "169721": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.149159+00:00"
+  },
+  "169722": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.183668+00:00"
+  },
+  "169723": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.206840+00:00"
+  },
+  "169724": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.241059+00:00"
+  },
+  "169725": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.271782+00:00"
+  },
+  "169729": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.292640+00:00"
+  },
+  "169730": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.308963+00:00"
+  },
+  "169731": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.349950+00:00"
+  },
+  "169732": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.374572+00:00"
+  },
+  "169733": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.394683+00:00"
+  },
+  "169735": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.444402+00:00"
+  },
+  "169734": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.433339+00:00"
+  },
+  "169736": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.469698+00:00"
+  },
+  "169737": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.511647+00:00"
+  },
+  "169739": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.549278+00:00"
+  },
+  "169738": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.539800+00:00"
+  },
+  "169752": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.607175+00:00"
+  },
+  "169740": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.605606+00:00"
+  },
+  "169766": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.648934+00:00"
+  },
+  "169767": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.693421+00:00"
+  },
+  "169914": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.731541+00:00"
+  },
+  "169913": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.729348+00:00"
+  },
+  "169916": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.776715+00:00"
+  },
+  "169917": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.799049+00:00"
+  },
+  "169918": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.816402+00:00"
+  },
+  "169919": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.868843+00:00"
+  },
+  "169920": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.902277+00:00"
+  },
+  "169921": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.903537+00:00"
+  },
+  "169923": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.968138+00:00"
+  },
+  "169922": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:28.937912+00:00"
+  },
+  "169924": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.000927+00:00"
+  },
+  "169925": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.043822+00:00"
+  },
+  "169932": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.070144+00:00"
+  },
+  "169933": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.089567+00:00"
+  },
+  "169935": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.140663+00:00"
+  },
+  "169934": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.123849+00:00"
+  },
+  "169936": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.161845+00:00"
+  },
+  "169937": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.210105+00:00"
+  },
+  "169939": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.267574+00:00"
+  },
+  "169938": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.252643+00:00"
+  },
+  "169975": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.414906+00:00"
+  },
+  "169976": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.437385+00:00"
+  },
+  "169940": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.311773+00:00"
+  },
+  "169977": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.459764+00:00"
+  },
+  "169982": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.572259+00:00"
+  },
+  "169984": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.598537+00:00"
+  },
+  "169972": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:29.330412+00:00"
+  },
+  "169971": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:29.322418+00:00"
+  },
+  "169986": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.623557+00:00"
+  },
+  "169985": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.599772+00:00"
+  },
+  "169987": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.754504+00:00"
+  },
+  "169993": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.799087+00:00"
+  },
+  "169994": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.819700+00:00"
+  },
+  "169996": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.866726+00:00"
+  },
+  "169995": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.865697+00:00"
+  },
+  "169997": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.867464+00:00"
+  },
+  "169999": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.970270+00:00"
+  },
+  "170000": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:30.000377+00:00"
+  },
+  "169998": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:29.967577+00:00"
+  },
+  "170001": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:30.058996+00:00"
+  },
+  "170295": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.061472+00:00"
+  },
+  "170296": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.089685+00:00"
+  },
+  "170299": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.163156+00:00"
+  },
+  "170298": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.160924+00:00"
+  },
+  "170297": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.158424+00:00"
+  },
+  "170425": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.225728+00:00"
+  },
+  "170429": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.584874+00:00"
+  },
+  "170431": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.632923+00:00"
+  },
+  "170427": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.419744+00:00"
+  },
+  "170426": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.416762+00:00"
+  },
+  "170430": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.629123+00:00"
+  },
+  "170428": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:30.503030+00:00"
+  },
+  "170441": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.116399+00:00"
+  },
+  "170442": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.158997+00:00"
+  },
+  "170444": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.212303+00:00"
+  },
+  "170443": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.181655+00:00"
+  },
+  "170446": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.235509+00:00"
+  },
+  "170445": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.224195+00:00"
+  },
+  "170448": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.489471+00:00"
+  },
+  "170447": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.450125+00:00"
+  },
+  "170449": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.569163+00:00"
+  },
+  "170454": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.607918+00:00"
+  },
+  "170456": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.642678+00:00"
+  },
+  "170455": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.641625+00:00"
+  },
+  "170654": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:31.906488+00:00"
+  },
+  "170663": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:31.950906+00:00"
+  },
+  "170672": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:31.995570+00:00"
+  },
+  "170664": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:31.990698+00:00"
+  },
+  "170457": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:31.858205+00:00"
+  },
+  "170665": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:31.993628+00:00"
+  },
+  "171140": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.090557+00:00"
+  },
+  "171340": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.223362+00:00"
+  },
+  "171540": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.242589+00:00"
+  },
+  "171713": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.260645+00:00"
+  },
+  "171173": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:32.136031+00:00"
+  },
+  "171177": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:32.220169+00:00"
+  },
+  "171175": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:32.217292+00:00"
+  },
+  "171714": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.444476+00:00"
+  },
+  "171716": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.470262+00:00"
+  },
+  "171715": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.456445+00:00"
+  },
+  "171717": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.471786+00:00"
+  },
+  "171718": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.583656+00:00"
+  },
+  "171719": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.609692+00:00"
+  },
+  "171720": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.629454+00:00"
+  },
+  "171721": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.655060+00:00"
+  },
+  "171724": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.674012+00:00"
+  },
+  "171722": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.672595+00:00"
+  },
+  "171725": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.742409+00:00"
+  },
+  "171729": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.768857+00:00"
+  },
+  "171730": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.802494+00:00"
+  },
+  "171732": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.853584+00:00"
+  },
+  "171731": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.825602+00:00"
+  },
+  "171734": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.889534+00:00"
+  },
+  "171733": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.869035+00:00"
+  },
+  "171735": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.921613+00:00"
+  },
+  "171736": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:32.958967+00:00"
+  },
+  "171738": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.018089+00:00"
+  },
+  "171737": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.013398+00:00"
+  },
+  "171739": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.054003+00:00"
+  },
+  "171740": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.056411+00:00"
+  },
+  "171752": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.095837+00:00"
+  },
+  "171766": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.143485+00:00"
+  },
+  "171767": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.193320+00:00"
+  },
+  "171785": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:33.213221+00:00"
+  },
+  "171786": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:33.246250+00:00"
+  },
+  "171789": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:33.287258+00:00"
+  },
+  "171791": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:33.394461+00:00"
+  },
+  "171788": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:33.249090+00:00"
+  },
+  "171790": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:33.303042+00:00"
+  },
+  "171913": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.623346+00:00"
+  },
+  "171914": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.643124+00:00"
+  },
+  "171917": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.722301+00:00"
+  },
+  "171919": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.741590+00:00"
+  },
+  "171920": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.763176+00:00"
+  },
+  "171921": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.786236+00:00"
+  },
+  "171923": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.835286+00:00"
+  },
+  "171922": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.834450+00:00"
+  },
+  "171924": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.897865+00:00"
+  },
+  "171925": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.937468+00:00"
+  },
+  "171932": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.951991+00:00"
+  },
+  "171933": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:33.980936+00:00"
+  },
+  "171937": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.012537+00:00"
+  },
+  "171934": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.011345+00:00"
+  },
+  "171938": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.046266+00:00"
+  },
+  "171940": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.101537+00:00"
+  },
+  "172341": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.187785+00:00"
+  },
+  "172342": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.206063+00:00"
+  },
+  "172343": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.220198+00:00"
+  },
+  "172344": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.252476+00:00"
+  },
+  "171975": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:34.116247+00:00"
+  },
+  "171976": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:34.151359+00:00"
+  },
+  "172345": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.341187+00:00"
+  },
+  "172346": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.362680+00:00"
+  },
+  "172347": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.380303+00:00"
+  },
+  "172349": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.428536+00:00"
+  },
+  "172352": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.454780+00:00"
+  },
+  "172354": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.479009+00:00"
+  },
+  "172355": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.507897+00:00"
+  },
+  "172360": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.544429+00:00"
+  },
+  "172362": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.545560+00:00"
+  },
+  "172363": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.601755+00:00"
+  },
+  "172364": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.638966+00:00"
+  },
+  "172366": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.683813+00:00"
+  },
+  "172365": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.681980+00:00"
+  },
+  "172542": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.728818+00:00"
+  },
+  "173117": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.744397+00:00"
+  },
+  "173140": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.772818+00:00"
+  },
+  "173317": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.889373+00:00"
+  },
+  "173326": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.921685+00:00"
+  },
+  "173340": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:34.936732+00:00"
+  },
+  "173173": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:34.812791+00:00"
+  },
+  "173177": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:34.877327+00:00"
+  },
+  "173175": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:34.859620+00:00"
+  },
+  "173381": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.068536+00:00"
+  },
+  "173524": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.101443+00:00"
+  },
+  "173517": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.086159+00:00"
+  },
+  "173525": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.156307+00:00"
+  },
+  "173526": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.177228+00:00"
+  },
+  "173535": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.188538+00:00"
+  },
+  "173721": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.351784+00:00"
+  },
+  "173716": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.267350+00:00"
+  },
+  "173718": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.269609+00:00"
+  },
+  "173713": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.242329+00:00"
+  },
+  "173720": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.323062+00:00"
+  },
+  "173723": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.410136+00:00"
+  },
+  "173729": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.546705+00:00"
+  },
+  "173733": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.579868+00:00"
+  },
+  "173730": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.574404+00:00"
+  },
+  "173735": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.583035+00:00"
+  },
+  "173731": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.577070+00:00"
+  },
+  "173737": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.585808+00:00"
+  },
+  "173739": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.735281+00:00"
+  },
+  "173740": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.769021+00:00"
+  },
+  "173752": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.789446+00:00"
+  },
+  "173766": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.809703+00:00"
+  },
+  "173913": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.829754+00:00"
+  },
+  "173767": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 4
+      },
+      {
+        "slot": 3,
+        "type": 5
+      },
+      {
+        "slot": 4,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.822922+00:00"
+  },
+  "173915": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.899633+00:00"
+  },
+  "173916": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.936768+00:00"
+  },
+  "173917": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.958620+00:00"
+  },
+  "173918": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:35.979166+00:00"
+  },
+  "173920": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.015414+00:00"
+  },
+  "173922": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.055388+00:00"
+  },
+  "173921": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.033286+00:00"
+  },
+  "173924": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.091670+00:00"
+  },
+  "173935": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.143139+00:00"
+  },
+  "173933": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.141178+00:00"
+  },
+  "173936": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.179050+00:00"
+  },
+  "173938": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.219256+00:00"
+  },
+  "173939": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 8
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.220649+00:00"
+  },
+  "174022": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.251900+00:00"
+  },
+  "174023": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.319138+00:00"
+  },
+  "174024": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.320449+00:00"
+  },
+  "174025": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.354901+00:00"
+  },
+  "174027": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.406522+00:00"
+  },
+  "174026": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.388034+00:00"
+  },
+  "174028": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.562768+00:00"
+  },
+  "175117": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.760842+00:00"
+  },
+  "174037": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.655511+00:00"
+  },
+  "174038": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.675783+00:00"
+  },
+  "175123": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.916835+00:00"
+  },
+  "174149": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.695403+00:00"
+  },
+  "174150": {
+    "sockets": [],
+    "source": "miss",
+    "fetched_at": "2026-09-20T04:43:36.758927+00:00"
+  },
+  "175124": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:36.942882+00:00"
+  },
+  "175125": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.007163+00:00"
+  },
+  "175135": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.049978+00:00"
+  },
+  "175136": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.088363+00:00"
+  },
+  "175137": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.091337+00:00"
+  },
+  "175140": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.092559+00:00"
+  },
+  "175314": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.111922+00:00"
+  },
+  "175315": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.171876+00:00"
+  },
+  "175316": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.227606+00:00"
+  },
+  "175317": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.276162+00:00"
+  },
+  "175321": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.277765+00:00"
+  },
+  "175324": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.297980+00:00"
+  },
+  "175323": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.297253+00:00"
+  },
+  "175325": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.353707+00:00"
+  },
+  "175326": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.409288+00:00"
+  },
+  "175335": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.464900+00:00"
+  },
+  "175333": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.451816+00:00"
+  },
+  "175336": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.488368+00:00"
+  },
+  "175337": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.504669+00:00"
+  },
+  "175338": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.532087+00:00"
+  },
+  "175339": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.563065+00:00"
+  },
+  "175340": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.629591+00:00"
+  },
+  "175514": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.632864+00:00"
+  },
+  "175515": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.681144+00:00"
+  },
+  "175517": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.723773+00:00"
+  },
+  "175516": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.684327+00:00"
+  },
+  "175521": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.778412+00:00"
+  },
+  "175523": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.814362+00:00"
+  },
+  "175524": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.837798+00:00"
+  },
+  "175525": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.854629+00:00"
+  },
+  "175526": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.876284+00:00"
+  },
+  "175532": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.893131+00:00"
+  },
+  "175533": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.942631+00:00"
+  },
+  "175534": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.976451+00:00"
+  },
+  "175535": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:37.995559+00:00"
+  },
+  "175536": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:38.011433+00:00"
+  },
+  "175537": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:38.035048+00:00"
+  },
+  "175538": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:38.051114+00:00"
+  },
+  "175539": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:38.111540+00:00"
+  },
+  "175540": {
+    "sockets": [
+      {
+        "slot": 1,
+        "type": 3
+      },
+      {
+        "slot": 2,
+        "type": 5
+      },
+      {
+        "slot": 3,
+        "type": 7
+      },
+      {
+        "slot": 4,
+        "type": 22
+      }
+    ],
+    "source": "raidloot",
+    "fetched_at": "2026-09-20T04:43:38.136302+00:00"
   }
 }

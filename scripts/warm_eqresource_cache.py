@@ -162,7 +162,8 @@ def _ids_from_inventories(paths: Iterable[Path]) -> set[int]:
 
 
 # Expansion pages to harvest for item-id seeding (not Raid BiS).
-# Armor lists from raidloot; weapons/jewelry from EQ Resource raidgear + vendor.
+# Armor lists from raidloot; weapons/jewelry from EQ Resource raidgear +
+# raidloot slot searches + groupgear.
 _RAIDLOOT_ARMOR_URLS: tuple[str, ...] = (
     "https://www.raidloot.com/raid/tovarmor",
     "https://www.raidloot.com/group/tovarmor",
@@ -178,7 +179,7 @@ _RAIDLOOT_ARMOR_URLS: tuple[str, ...] = (
     "https://www.raidloot.com/group/tobarmor",
 )
 _EXPANSION_PATHS: tuple[str, ...] = ("tov", "cov", "tol", "nos", "ls", "tob", "sor")
-# EQ Resource raidgear.php weapon/shield type codes (tier=4 ≈ all tiers).
+# EQ Resource raidgear.php type codes (tier=4 ≈ all listed tiers).
 _WEAPON_GEAR_TYPES: tuple[str, ...] = (
     "1hs",
     "1hb",
@@ -191,6 +192,18 @@ _WEAPON_GEAR_TYPES: tuple[str, ...] = (
     "throwing",
     "shield",
 )
+# Visible-slot jewelry + cloak/shoulder (SoR lacks raidloot armor pages).
+_JEWELRY_GEAR_TYPES: tuple[str, ...] = (
+    "ear",
+    "finger",
+    "neck",
+    "face",
+    "charm",
+    "waist",
+    "back",
+    "shoulder",
+)
+_EQR_RAIDGEAR_TYPES: tuple[str, ...] = _WEAPON_GEAR_TYPES + _JEWELRY_GEAR_TYPES
 _RAIDLOOT_WEAPON_SOURCES: tuple[str, ...] = (
     "Torment of Velious",
     "Claws of Veeshan",
@@ -212,6 +225,17 @@ _RAIDLOOT_WEAPON_TYPES: tuple[str, ...] = (
     "Throwing",
     "Shield",
 )
+# raidloot.com/items slot filter (source filter is best-effort).
+_RAIDLOOT_JEWELRY_SLOTS: tuple[str, ...] = (
+    "Ear",
+    "Fingers",
+    "Neck",
+    "Face",
+    "Charm",
+    "Waist",
+    "Back",
+    "Shoulders",
+)
 _ITEM_ID_HREF_RE = re.compile(
     r"(?:items\.php\?id=|/item(?:s)?/)(\d+)",
     re.IGNORECASE,
@@ -219,18 +243,19 @@ _ITEM_ID_HREF_RE = re.compile(
 
 
 def _harvest_urls() -> list[str]:
-    """Build the full list of armor + weapon harvest URLs."""
+    """Build the full list of armor + weapon + jewelry harvest URLs."""
     from urllib.parse import urlencode
 
     urls: list[str] = list(_RAIDLOOT_ARMOR_URLS)
     for exp in _EXPANSION_PATHS:
-        urls.append(f"https://www.eqresource.com/{exp}/raidvendorgood.php")
+        urls.append(f"https://www.eqresource.com/{exp}/raidvendor.php")
+        urls.append(f"https://www.eqresource.com/{exp}/groupvendor.php")
         urls.append(f"https://www.eqresource.com/{exp}/groupgear.php")
-        for wtype in _WEAPON_GEAR_TYPES:
+        for gtype in _EQR_RAIDGEAR_TYPES:
             q = urlencode(
                 {
                     "class": "",
-                    "type": wtype,
+                    "type": gtype,
                     "stat": "ac",
                     "tier": "4",
                     "Submit": "Submit",
@@ -240,6 +265,9 @@ def _harvest_urls() -> list[str]:
     for source in _RAIDLOOT_WEAPON_SOURCES:
         for wtype in _RAIDLOOT_WEAPON_TYPES:
             q = urlencode({"type": wtype, "source": source, "order": "AC"})
+            urls.append(f"https://www.raidloot.com/items?{q}")
+        for slot in _RAIDLOOT_JEWELRY_SLOTS:
+            q = urlencode({"slot": slot, "source": source, "order": "AC"})
             urls.append(f"https://www.raidloot.com/items?{q}")
     return urls
 
@@ -325,6 +353,53 @@ def _expansion_codes_from_item_cache(cache_dir: Path) -> set[str]:
         if code:
             codes.add(code.lower())
     return codes
+
+
+def _backfill_expansions_from_inspect(cache_dir: Path) -> int:
+    """Fill null expansion-cache rows from already-hydrated inspect expansionCode."""
+    from datetime import datetime, timezone
+
+    from inventory_parser.slot2_augs.eqresource_augs import EXPAC_CODE_TO_NAME
+
+    item_path = cache_dir / "raid_bis_item_cache.json"
+    exp_path = cache_dir / "eqresource_expansion_cache.json"
+    if not item_path.is_file() or not exp_path.is_file():
+        return 0
+    try:
+        items = json.loads(item_path.read_text(encoding="utf-8"))
+        expansions = json.loads(exp_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return 0
+    if not isinstance(items, dict) or not isinstance(expansions, dict):
+        return 0
+
+    filled = 0
+    now = datetime.now(timezone.utc).isoformat()
+    for key, entry in items.items():
+        if not str(key).isdigit() or not isinstance(entry, dict) or not entry.get("ok"):
+            continue
+        inspect = entry.get("inspect")
+        if not isinstance(inspect, dict):
+            continue
+        code = str(inspect.get("expansionCode") or "").strip().lower()
+        if not code:
+            continue
+        name = EXPAC_CODE_TO_NAME.get(code)
+        if not name:
+            continue
+        existing = expansions.get(key)
+        if isinstance(existing, dict) and existing.get("ok") and existing.get("expansion"):
+            continue
+        expansions[key] = {
+            "ok": True,
+            "fetched_at": now,
+            "expansion": name,
+        }
+        filled += 1
+
+    if filled:
+        exp_path.write_text(json.dumps(expansions, indent=2), encoding="utf-8")
+    return filled
 
 
 def _file_count(path: Path) -> int:
@@ -578,6 +653,12 @@ def warm(cache_dir: Path, *, force_refresh: bool, polite_delay: float, inventory
         _log(f"  Gear tiers: {len(tiers)} resolved")
     except Exception as exc:
         _log(f"  WARN gear tiers: {exc}")
+
+    try:
+        filled = _backfill_expansions_from_inspect(cache_dir)
+        _log(f"  Expansion backfill from inspect: {filled}")
+    except Exception as exc:
+        _log(f"  WARN expansion backfill: {exc}")
 
     try:
         expansions = resolve_item_expansions(
