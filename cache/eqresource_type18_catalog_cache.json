@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T19:10:25.158253+00:00",
+  "fetched_at": "2026-09-20T03:22:43.012205+00:00",
   "rows": [
     {
       "item_id": 151487,
@@ -1340,6 +1340,193 @@
       }
     },
     {
+      "item_id": 109579,
+      "name": "Silver Enhancement of Jubilation",
+      "stats": {
+        "ac": 37,
+        "hp": 1050,
+        "mana": 1050,
+        "endurance": 1050,
+        "hstr": 31,
+        "hsta": 31,
+        "hint": 31,
+        "hwis": 31,
+        "hagi": 31,
+        "hdex": 31,
+        "hcha": 31
+      }
+    },
+    {
+      "item_id": 109569,
+      "name": "Silver Defense of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109570,
+      "name": "Silver Attacker of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109571,
+      "name": "Silver Assaulting Magic of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109572,
+      "name": "Silver Defending Magic of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109573,
+      "name": "Silver Ventral Defense of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109574,
+      "name": "Silver Dorsal Defense of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109575,
+      "name": "Silver Casting Magic of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109576,
+      "name": "Silver Protecting Magic of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109577,
+      "name": "Silver Soothing of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
+      "item_id": 109578,
+      "name": "Silver Warding Magic of Jubilation",
+      "stats": {
+        "ac": 31,
+        "hp": 307,
+        "mana": 307,
+        "endurance": 307,
+        "hstr": 9,
+        "hsta": 9,
+        "hint": 9,
+        "hwis": 9,
+        "hagi": 9,
+        "hdex": 9,
+        "hcha": 9
+      }
+    },
+    {
       "item_id": 169775,
       "name": "Devotee's Assault of the Harbinger",
       "stats": {
@@ -1427,23 +1614,6 @@
         "hstr": 36,
         "hsta": 12,
         "hcha": 12
-      }
-    },
-    {
-      "item_id": 109579,
-      "name": "Silver Enhancement of Jubilation",
-      "stats": {
-        "ac": 37,
-        "hp": 1050,
-        "mana": 1050,
-        "endurance": 1050,
-        "hstr": 31,
-        "hsta": 31,
-        "hint": 31,
-        "hwis": 31,
-        "hagi": 31,
-        "hdex": 31,
-        "hcha": 31
       }
     },
     {
@@ -1970,20 +2140,298 @@
       }
     },
     {
-      "item_id": 109572,
-      "name": "Silver Defending Magic of Jubilation",
+      "item_id": 161635,
+      "name": "Blazing Euphoria Defender",
       "stats": {
-        "ac": 31,
-        "hp": 307,
-        "mana": 307,
-        "endurance": 307,
-        "hstr": 9,
-        "hsta": 9,
-        "hint": 9,
-        "hwis": 9,
-        "hagi": 9,
-        "hdex": 9,
-        "hcha": 9
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161636,
+      "name": "Blazing Euphoria Attacker",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161637,
+      "name": "Blazing Euphoria Assaulting Fire",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161638,
+      "name": "Blazing Euphoria Defending Fire",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161639,
+      "name": "Blazing Euphoria Assaulting Magic",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161640,
+      "name": "Blazing Euphoria Defending Magic",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161641,
+      "name": "Blazing Euphoria Ventral Defense",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161642,
+      "name": "Blazing Euphoria Dorsal Defense",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161643,
+      "name": "Blazing Euphoria Casting Fire",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161644,
+      "name": "Blazing Euphoria Protecting Fire",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161645,
+      "name": "Blazing Euphoria Casting Magic",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161646,
+      "name": "Blazing Euphoria Protecting Magic",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161647,
+      "name": "Blazing Euphoria Soothing",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161648,
+      "name": "Blazing Euphoria Warding Fire",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 161649,
+      "name": "Blazing Euphoria Warding Magic",
+      "stats": {
+        "ac": 21,
+        "hp": 205,
+        "mana": 205,
+        "endurance": 205,
+        "hstr": 6,
+        "hsta": 6,
+        "hint": 6,
+        "hwis": 6,
+        "hagi": 6,
+        "hdex": 6,
+        "hcha": 6
+      }
+    },
+    {
+      "item_id": 169189,
+      "name": "Devotee's Strategy of the Selenelion",
+      "stats": {
+        "ac": 60,
+        "hp": 842,
+        "mana": 713,
+        "endurance": 713,
+        "hsta": 12,
+        "hint": 36,
+        "hwis": 36,
+        "hcha": 12
+      }
+    },
+    {
+      "item_id": 169188,
+      "name": "Devotee's Stealth of the Selenelion",
+      "stats": {
+        "ac": 80,
+        "hp": 999,
+        "mana": 999,
+        "endurance": 999,
+        "hsta": 12,
+        "hagi": 36,
+        "hcha": 12
+      }
+    },
+    {
+      "item_id": 169190,
+      "name": "Devotee's Fortification of the Selenelion",
+      "stats": {
+        "ac": 117,
+        "hp": 624,
+        "mana": 624,
+        "endurance": 624,
+        "hsta": 12,
+        "hdex": 36,
+        "hcha": 12
       }
     },
     {
@@ -2197,6 +2645,32 @@
       }
     },
     {
+      "item_id": 169778,
+      "name": "Devotee's Fortification of the Harbinger",
+      "stats": {
+        "ac": 156,
+        "hp": 833,
+        "mana": 833,
+        "endurance": 833,
+        "hsta": 16,
+        "hdex": 48,
+        "hcha": 16
+      }
+    },
+    {
+      "item_id": 151494,
+      "name": "Devotee's Fortification of Legacies Lost",
+      "stats": {
+        "ac": 136,
+        "hp": 724,
+        "mana": 724,
+        "endurance": 724,
+        "hsta": 14,
+        "hdex": 42,
+        "hcha": 14
+      }
+    },
+    {
       "item_id": 169776,
       "name": "Devotee's Stealth of the Harbinger",
       "stats": {
@@ -2220,19 +2694,6 @@
         "hsta": 14,
         "hagi": 42,
         "hcha": 14
-      }
-    },
-    {
-      "item_id": 169188,
-      "name": "Devotee's Stealth of the Selenelion",
-      "stats": {
-        "ac": 80,
-        "hp": 999,
-        "mana": 999,
-        "endurance": 999,
-        "hsta": 12,
-        "hagi": 36,
-        "hcha": 12
       }
     },
     {
@@ -2264,136 +2725,12 @@
       }
     },
     {
-      "item_id": 169189,
-      "name": "Devotee's Strategy of the Selenelion",
-      "stats": {
-        "ac": 60,
-        "hp": 842,
-        "mana": 713,
-        "endurance": 713,
-        "hsta": 12,
-        "hint": 36,
-        "hwis": 36,
-        "hcha": 12
-      }
-    },
-    {
-      "item_id": 169778,
-      "name": "Devotee's Fortification of the Harbinger",
-      "stats": {
-        "ac": 156,
-        "hp": 833,
-        "mana": 833,
-        "endurance": 833,
-        "hsta": 16,
-        "hdex": 48,
-        "hcha": 16
-      }
-    },
-    {
-      "item_id": 151494,
-      "name": "Devotee's Fortification of Legacies Lost",
-      "stats": {
-        "ac": 136,
-        "hp": 724,
-        "mana": 724,
-        "endurance": 724,
-        "hsta": 14,
-        "hdex": 42,
-        "hcha": 14
-      }
-    },
-    {
-      "item_id": 169190,
-      "name": "Devotee's Fortification of the Selenelion",
-      "stats": {
-        "ac": 117,
-        "hp": 624,
-        "mana": 624,
-        "endurance": 624,
-        "hsta": 12,
-        "hdex": 36,
-        "hcha": 12
-      }
-    },
-    {
-      "item_id": 109569,
-      "name": "Silver Defense of Jubilation",
-      "stats": {
-        "ac": 31,
-        "hp": 307,
-        "mana": 307,
-        "endurance": 307,
-        "hstr": 9,
-        "hsta": 9,
-        "hint": 9,
-        "hwis": 9,
-        "hagi": 9,
-        "hdex": 9,
-        "hcha": 9
-      }
-    },
-    {
-      "item_id": 109573,
-      "name": "Silver Ventral Defense of Jubilation",
-      "stats": {
-        "ac": 31,
-        "hp": 307,
-        "mana": 307,
-        "endurance": 307,
-        "hstr": 9,
-        "hsta": 9,
-        "hint": 9,
-        "hwis": 9,
-        "hagi": 9,
-        "hdex": 9,
-        "hcha": 9
-      }
-    },
-    {
-      "item_id": 109574,
-      "name": "Silver Dorsal Defense of Jubilation",
-      "stats": {
-        "ac": 31,
-        "hp": 307,
-        "mana": 307,
-        "endurance": 307,
-        "hstr": 9,
-        "hsta": 9,
-        "hint": 9,
-        "hwis": 9,
-        "hagi": 9,
-        "hdex": 9,
-        "hcha": 9
-      }
-    },
-    {
-      "item_id": 109571,
-      "name": "Next Item ID >>",
-      "stats": {}
-    },
-    {
       "item_id": 52023,
-      "name": "Item Information : Lore Equipped Group: Devotee's Combatant Augmentation Group You must use a solvent Class XXI Augmentation Distiller or higher, or use a Perfected Augmentation Distiller , to remove this augment safely.",
+      "name": "Item Information : Lore Equipped Group: Devotee's Casting Augmentation Group You must use a solvent Class XXI Augmentation Distiller or higher, or use a Perfected Augmentation Distiller , to remove this augment safely.",
       "stats": {}
     },
     {
       "item_id": 109580,
-      "name": "Next Item ID >>",
-      "stats": {}
-    },
-    {
-      "item_id": 109575,
-      "name": "Next Item ID >>",
-      "stats": {}
-    },
-    {
-      "item_id": 109578,
-      "name": "Next Item ID >>",
-      "stats": {}
-    },
-    {
-      "item_id": 109577,
       "name": "Next Item ID >>",
       "stats": {}
     }

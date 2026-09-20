@@ -5,7 +5,7 @@
   },
   "dex:171570": {
     "ok": true,
-    "fetched_at": "2026-09-13T20:03:31.715513+00:00",
+    "fetched_at": "2026-09-20T03:21:42.893804+00:00",
     "name": "Vigorous Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 95,
@@ -115,7 +115,7 @@
   },
   "dex:166898": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:06:22.751447+00:00",
+    "fetched_at": "2026-09-20T03:21:36.078535+00:00",
     "name": "Unparalleled Finesse Gem of Distant Echoes",
     "focus_heroic": 49,
     "ac": 95,
@@ -967,7 +967,7 @@
   },
   "int:163573": {
     "ok": true,
-    "fetched_at": "2026-09-13T20:03:35.873758+00:00",
+    "fetched_at": "2026-09-20T03:21:59.723891+00:00",
     "name": "Velium Infused Gem of Security",
     "focus_heroic": 0,
     "ac": 90,
@@ -1018,7 +1018,7 @@
   },
   "int:165572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:16.657783+00:00",
+    "fetched_at": "2026-09-20T03:22:04.759341+00:00",
     "name": "Velium Threaded Gem of Brilliance",
     "focus_heroic": 30,
     "ac": 50,
@@ -1241,7 +1241,7 @@
   },
   "wis:163573": {
     "ok": true,
-    "fetched_at": "2026-09-13T20:03:36.917197+00:00",
+    "fetched_at": "2026-09-20T03:22:28.851485+00:00",
     "name": "Velium Infused Gem of Security",
     "focus_heroic": 0,
     "ac": 90,
@@ -1292,7 +1292,7 @@
   },
   "wis:166661": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:11.396863+00:00",
+    "fetched_at": "2026-09-20T03:22:34.548905+00:00",
     "name": "Unparalleled Sagacious Gem of Distant Echoes",
     "focus_heroic": 49,
     "ac": 95,
@@ -1402,7 +1402,7 @@
   },
   "wis:169573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:16.728763+00:00",
+    "fetched_at": "2026-09-20T03:22:37.270328+00:00",
     "name": "Phantasmal Luclinite Gem of Security",
     "focus_heroic": 0,
     "ac": 115,
@@ -2516,7 +2516,7 @@
   },
   "dex:88785": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:06:19.489773+00:00",
+    "fetched_at": "2026-09-20T03:21:27.593989+00:00",
     "name": "Artisan's Prize",
     "focus_heroic": 150,
     "ac": 300,
@@ -2563,7 +2563,7 @@
   },
   "dex:167167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:06:22.983136+00:00",
+    "fetched_at": "2026-09-20T03:21:36.292526+00:00",
     "name": "Tooth Fang Earring",
     "focus_heroic": 33,
     "ac": 73,
@@ -2612,7 +2612,7 @@
   },
   "dex:167369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:06:26.216519+00:00",
+    "fetched_at": "2026-09-20T03:21:36.505413+00:00",
     "name": "Tormented Lere",
     "focus_heroic": 35,
     "ac": 73,
@@ -2661,7 +2661,7 @@
   },
   "dex:167571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:06:29.467541+00:00",
+    "fetched_at": "2026-09-20T03:21:36.996218+00:00",
     "name": "Luclinite Ensanguined Gem of Adroitness",
     "focus_heroic": 37,
     "ac": 75,
@@ -2710,7 +2710,7 @@
   },
   "dex:169167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:18.011794+00:00",
+    "fetched_at": "2026-09-20T03:21:38.050808+00:00",
     "name": "Jovial Jharin Jingle",
     "focus_heroic": 39,
     "ac": 83,
@@ -2759,7 +2759,7 @@
   },
   "dex:169369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:18.237945+00:00",
+    "fetched_at": "2026-09-20T03:21:38.252570+00:00",
     "name": "Humongous Corrupted Pincer",
     "focus_heroic": 41,
     "ac": 83,
@@ -2808,7 +2808,7 @@
   },
   "dex:169571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:12.186408+00:00",
+    "fetched_at": "2026-09-20T03:21:38.718792+00:00",
     "name": "Phantasmal Luclinite Gem of Adroitness",
     "focus_heroic": 43,
     "ac": 85,
@@ -2857,7 +2857,7 @@
   },
   "dex:171167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:19.685786+00:00",
+    "fetched_at": "2026-09-20T03:21:39.816502+00:00",
     "name": "Mischievous Reanimating Reagent",
     "focus_heroic": 45,
     "ac": 93,
@@ -2906,7 +2906,7 @@
   },
   "dex:171169": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:19.929318+00:00",
+    "fetched_at": "2026-09-20T03:21:40.073673+00:00",
     "name": "Protective Beak Bauble",
     "focus_heroic": 32,
     "ac": 123,
@@ -2957,7 +2957,7 @@
   },
   "dex:171369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:27.171567+00:00",
+    "fetched_at": "2026-09-20T03:21:40.329797+00:00",
     "name": "Violet Edged Rose",
     "focus_heroic": 47,
     "ac": 93,
@@ -3006,7 +3006,7 @@
   },
   "dex:171371": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:27.396423+00:00",
+    "fetched_at": "2026-09-20T03:21:42.644154+00:00",
     "name": "Hardened Glowing Diamond",
     "focus_heroic": 33,
     "ac": 125,
@@ -3055,7 +3055,7 @@
   },
   "dex:171571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:27.626050+00:00",
+    "fetched_at": "2026-09-20T03:21:43.173801+00:00",
     "name": "Adroit Gem of Perpetual Reverie",
     "focus_heroic": 49,
     "ac": 95,
@@ -3104,7 +3104,7 @@
   },
   "dex:171573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:28.826242+00:00",
+    "fetched_at": "2026-09-20T03:21:43.665216+00:00",
     "name": "Security Gem of Perpetual Reverie",
     "focus_heroic": 34,
     "ac": 125,
@@ -3153,7 +3153,7 @@
   },
   "dex:173167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:30.126510+00:00",
+    "fetched_at": "2026-09-20T03:21:44.343960+00:00",
     "name": "Ungerminated Spore",
     "focus_heroic": 51,
     "ac": 98,
@@ -3202,7 +3202,7 @@
   },
   "dex:173169": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:30.343971+00:00",
+    "fetched_at": "2026-09-20T03:21:44.580678+00:00",
     "name": "Steadfast Shadow Gem",
     "focus_heroic": 33,
     "ac": 128,
@@ -3253,7 +3253,7 @@
   },
   "dex:173369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:31.569467+00:00",
+    "fetched_at": "2026-09-20T03:21:44.802242+00:00",
     "name": "Gleaming Emblem of the Overseer",
     "focus_heroic": 53,
     "ac": 98,
@@ -3302,7 +3302,7 @@
   },
   "dex:173371": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:34.846864+00:00",
+    "fetched_at": "2026-09-20T03:21:45.050791+00:00",
     "name": "Bioluminescent Cave Stone",
     "focus_heroic": 34,
     "ac": 130,
@@ -3353,7 +3353,7 @@
   },
   "dex:173572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:35.047855+00:00",
+    "fetched_at": "2026-09-20T03:21:46.607526+00:00",
     "name": "Acrobat's Gem of Uprising",
     "focus_heroic": 55,
     "ac": 100,
@@ -3402,7 +3402,7 @@
   },
   "dex:173574": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:35.274334+00:00",
+    "fetched_at": "2026-09-20T03:21:49.288958+00:00",
     "name": "Protector's Gem of Uprising",
     "focus_heroic": 35,
     "ac": 130,
@@ -3453,7 +3453,7 @@
   },
   "dex:175167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:36.488269+00:00",
+    "fetched_at": "2026-09-20T03:21:50.163602+00:00",
     "name": "Gnoll Skull Fragment",
     "focus_heroic": 57,
     "ac": 113,
@@ -3502,7 +3502,7 @@
   },
   "dex:175169": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:37.693342+00:00",
+    "fetched_at": "2026-09-20T03:21:50.376817+00:00",
     "name": "Joy of the Dancer",
     "focus_heroic": 41,
     "ac": 143,
@@ -3553,7 +3553,7 @@
   },
   "dex:175369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:37.900525+00:00",
+    "fetched_at": "2026-09-20T03:21:50.586105+00:00",
     "name": "Mist-Filled Vial",
     "focus_heroic": 59,
     "ac": 113,
@@ -3602,7 +3602,7 @@
   },
   "dex:175371": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:39.135486+00:00",
+    "fetched_at": "2026-09-20T03:21:50.855055+00:00",
     "name": "Medallion of Loathing",
     "focus_heroic": 42,
     "ac": 145,
@@ -3651,7 +3651,7 @@
   },
   "dex:175572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:42.408133+00:00",
+    "fetched_at": "2026-09-20T03:21:51.070275+00:00",
     "name": "Acrobat's Gem of Unraveling Order",
     "focus_heroic": 61,
     "ac": 115,
@@ -3700,7 +3700,7 @@
   },
   "dex:175574": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:49.634318+00:00",
+    "fetched_at": "2026-09-20T03:21:51.319404+00:00",
     "name": "Protector's Gem of Unraveling Order",
     "focus_heroic": 43,
     "ac": 145,
@@ -3749,7 +3749,7 @@
   },
   "wis:88785": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:11.169717+00:00",
+    "fetched_at": "2026-09-20T03:22:26.299434+00:00",
     "name": "Artisan's Prize",
     "focus_heroic": 150,
     "ac": 300,
@@ -3796,7 +3796,7 @@
   },
   "wis:167572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:11.616870+00:00",
+    "fetched_at": "2026-09-20T03:22:35.201842+00:00",
     "name": "Luclinite Ensanguined Gem of Brilliance",
     "focus_heroic": 37,
     "ac": 55,
@@ -3846,7 +3846,7 @@
   },
   "wis:169168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:16.100635+00:00",
+    "fetched_at": "2026-09-20T03:22:36.125248+00:00",
     "name": "Kaas Akuel xi Temariel",
     "focus_heroic": 39,
     "ac": 58,
@@ -3896,7 +3896,7 @@
   },
   "wis:169370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:16.295696+00:00",
+    "fetched_at": "2026-09-20T03:22:36.385370+00:00",
     "name": "Spittle Pocked Yttrium Coin",
     "focus_heroic": 41,
     "ac": 58,
@@ -3946,7 +3946,7 @@
   },
   "wis:169572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:16.512816+00:00",
+    "fetched_at": "2026-09-20T03:22:37.061261+00:00",
     "name": "Phantasmal Luclinite Gem of Brilliance",
     "focus_heroic": 43,
     "ac": 60,
@@ -3996,7 +3996,7 @@
   },
   "wis:171168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:16.939031+00:00",
+    "fetched_at": "2026-09-20T03:22:37.873170+00:00",
     "name": "Tiny Tessellated Ootheca",
     "focus_heroic": 45,
     "ac": 63,
@@ -4046,7 +4046,7 @@
   },
   "wis:171370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:17.189404+00:00",
+    "fetched_at": "2026-09-20T03:22:38.068391+00:00",
     "name": "Concentrated Goblin Smarts",
     "focus_heroic": 47,
     "ac": 63,
@@ -4096,7 +4096,7 @@
   },
   "wis:171572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:17.381984+00:00",
+    "fetched_at": "2026-09-20T03:22:38.692311+00:00",
     "name": "Brilliant Gem of Perpetual Reverie",
     "focus_heroic": 49,
     "ac": 65,
@@ -4146,7 +4146,7 @@
   },
   "wis:173168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:18.811853+00:00",
+    "fetched_at": "2026-09-20T03:22:39.583052+00:00",
     "name": "Brilliant Scalewrought Bauble",
     "focus_heroic": 51,
     "ac": 68,
@@ -4196,7 +4196,7 @@
   },
   "wis:173370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:22.055474+00:00",
+    "fetched_at": "2026-09-20T03:22:39.804461+00:00",
     "name": "White Gilded Lodestone",
     "focus_heroic": 53,
     "ac": 68,
@@ -4246,7 +4246,7 @@
   },
   "wis:173573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:22.285707+00:00",
+    "fetched_at": "2026-09-20T03:22:40.863943+00:00",
     "name": "Mystic's Gem of Uprising",
     "focus_heroic": 55,
     "ac": 70,
@@ -4296,7 +4296,7 @@
   },
   "wis:175168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:23.725973+00:00",
+    "fetched_at": "2026-09-20T03:22:41.711409+00:00",
     "name": "Trinket of the Fire Snail",
     "focus_heroic": 57,
     "ac": 113,
@@ -4346,7 +4346,7 @@
   },
   "wis:175179": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:23.941071+00:00",
+    "fetched_at": "2026-09-20T03:22:41.919827+00:00",
     "name": "Votive of The Great Shell",
     "focus_heroic": 36,
     "ac": 113,
@@ -4379,7 +4379,7 @@
   },
   "wis:175370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:24.169639+00:00",
+    "fetched_at": "2026-09-20T03:22:42.163555+00:00",
     "name": "Quiet Perception",
     "focus_heroic": 59,
     "ac": 113,
@@ -4429,7 +4429,7 @@
   },
   "wis:175573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:24.387861+00:00",
+    "fetched_at": "2026-09-20T03:22:42.342215+00:00",
     "name": "Mystic's Gem of Unraveling Order",
     "focus_heroic": 61,
     "ac": 115,
@@ -4479,7 +4479,7 @@
   },
   "int:88785": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:14.578937+00:00",
+    "fetched_at": "2026-09-20T03:21:56.252901+00:00",
     "name": "Artisan's Prize",
     "focus_heroic": 150,
     "ac": 300,
@@ -4526,7 +4526,7 @@
   },
   "int:111506": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:14.827294+00:00",
+    "fetched_at": "2026-09-20T03:21:56.475663+00:00",
     "name": "Unparalleled Vigorous Gem of Distant Echoes",
     "focus_heroic": 16,
     "ac": 95,
@@ -4587,7 +4587,7 @@
   },
   "int:111863": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:15.032682+00:00",
+    "fetched_at": "2026-09-20T03:21:56.706146+00:00",
     "name": "Unparalleled Intellect Gem of Distant Echoes",
     "focus_heroic": 49,
     "ac": 95,
@@ -4648,7 +4648,7 @@
   },
   "int:132849": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:15.235802+00:00",
+    "fetched_at": "2026-09-20T03:21:56.909333+00:00",
     "name": "Unparalleled Charismatic Gem of Distant Echoes",
     "focus_heroic": 16,
     "ac": 95,
@@ -4709,7 +4709,7 @@
   },
   "int:162961": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:16.458579+00:00",
+    "fetched_at": "2026-09-20T03:21:58.868087+00:00",
     "name": "Unparalleled Staminic Gem of Distant Echoes",
     "focus_heroic": 16,
     "ac": 95,
@@ -4770,7 +4770,7 @@
   },
   "int:166685": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:17.126129+00:00",
+    "fetched_at": "2026-09-20T03:22:05.700862+00:00",
     "name": "Unparalleled Nimble Gem of Distant Echoes",
     "focus_heroic": 16,
     "ac": 95,
@@ -4831,7 +4831,7 @@
   },
   "int:166898": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:17.324376+00:00",
+    "fetched_at": "2026-09-20T03:22:05.947623+00:00",
     "name": "Unparalleled Finesse Gem of Distant Echoes",
     "focus_heroic": 16,
     "ac": 95,
@@ -4892,7 +4892,7 @@
   },
   "int:167369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:17.559334+00:00",
+    "fetched_at": "2026-09-20T03:22:06.134476+00:00",
     "name": "Tormented Lere",
     "focus_heroic": 0,
     "ac": 73,
@@ -4941,7 +4941,7 @@
   },
   "int:169168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:18.635957+00:00",
+    "fetched_at": "2026-09-20T03:22:07.604793+00:00",
     "name": "Kaas Akuel xi Temariel",
     "focus_heroic": 39,
     "ac": 58,
@@ -4991,7 +4991,7 @@
   },
   "int:169369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:19.857617+00:00",
+    "fetched_at": "2026-09-20T03:22:07.793644+00:00",
     "name": "Humongous Corrupted Pincer",
     "focus_heroic": 0,
     "ac": 83,
@@ -5040,7 +5040,7 @@
   },
   "int:169370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:20.076910+00:00",
+    "fetched_at": "2026-09-20T03:22:07.987271+00:00",
     "name": "Spittle Pocked Yttrium Coin",
     "focus_heroic": 41,
     "ac": 58,
@@ -5090,7 +5090,7 @@
   },
   "int:169570": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:23.345039+00:00",
+    "fetched_at": "2026-09-20T03:22:08.192659+00:00",
     "name": "Phantasmal Luclinite Gem of Vigor",
     "focus_heroic": 0,
     "ac": 85,
@@ -5139,7 +5139,7 @@
   },
   "int:169571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:23.557186+00:00",
+    "fetched_at": "2026-09-20T03:22:08.382917+00:00",
     "name": "Phantasmal Luclinite Gem of Adroitness",
     "focus_heroic": 0,
     "ac": 85,
@@ -5188,7 +5188,7 @@
   },
   "int:169572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:23.779965+00:00",
+    "fetched_at": "2026-09-20T03:22:08.607927+00:00",
     "name": "Phantasmal Luclinite Gem of Brilliance",
     "focus_heroic": 43,
     "ac": 60,
@@ -5238,7 +5238,7 @@
   },
   "int:169573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:24.002207+00:00",
+    "fetched_at": "2026-09-20T03:22:08.834494+00:00",
     "name": "Phantasmal Luclinite Gem of Security",
     "focus_heroic": 0,
     "ac": 115,
@@ -5287,7 +5287,7 @@
   },
   "int:171167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:24.228283+00:00",
+    "fetched_at": "2026-09-20T03:22:09.709261+00:00",
     "name": "Mischievous Reanimating Reagent",
     "focus_heroic": 0,
     "ac": 93,
@@ -5336,7 +5336,7 @@
   },
   "int:171168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:24.476049+00:00",
+    "fetched_at": "2026-09-20T03:22:09.946986+00:00",
     "name": "Tiny Tessellated Ootheca",
     "focus_heroic": 45,
     "ac": 63,
@@ -5386,7 +5386,7 @@
   },
   "int:171169": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:24.756964+00:00",
+    "fetched_at": "2026-09-20T03:22:10.174911+00:00",
     "name": "Protective Beak Bauble",
     "focus_heroic": 0,
     "ac": 123,
@@ -5437,7 +5437,7 @@
   },
   "int:171368": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:24.977370+00:00",
+    "fetched_at": "2026-09-20T03:22:10.469411+00:00",
     "name": "The Captain's Strength",
     "focus_heroic": 0,
     "ac": 93,
@@ -5486,7 +5486,7 @@
   },
   "int:171369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:25.188593+00:00",
+    "fetched_at": "2026-09-20T03:22:10.659206+00:00",
     "name": "Violet Edged Rose",
     "focus_heroic": 0,
     "ac": 93,
@@ -5535,7 +5535,7 @@
   },
   "int:171370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:25.429770+00:00",
+    "fetched_at": "2026-09-20T03:22:10.847829+00:00",
     "name": "Concentrated Goblin Smarts",
     "focus_heroic": 47,
     "ac": 63,
@@ -5585,7 +5585,7 @@
   },
   "int:171371": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:25.644118+00:00",
+    "fetched_at": "2026-09-20T03:22:11.050543+00:00",
     "name": "Hardened Glowing Diamond",
     "focus_heroic": 0,
     "ac": 125,
@@ -5634,7 +5634,7 @@
   },
   "int:171570": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:25.869491+00:00",
+    "fetched_at": "2026-09-20T03:22:11.335107+00:00",
     "name": "Vigorous Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 95,
@@ -5683,7 +5683,7 @@
   },
   "int:171571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:26.105717+00:00",
+    "fetched_at": "2026-09-20T03:22:11.533895+00:00",
     "name": "Adroit Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 95,
@@ -5732,7 +5732,7 @@
   },
   "int:171572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:27.351000+00:00",
+    "fetched_at": "2026-09-20T03:22:11.760982+00:00",
     "name": "Brilliant Gem of Perpetual Reverie",
     "focus_heroic": 49,
     "ac": 65,
@@ -5782,7 +5782,7 @@
   },
   "int:171573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:27.583628+00:00",
+    "fetched_at": "2026-09-20T03:22:12.010138+00:00",
     "name": "Security Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 125,
@@ -5831,7 +5831,7 @@
   },
   "int:173166": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:27.803999+00:00",
+    "fetched_at": "2026-09-20T03:22:12.626295+00:00",
     "name": "Leviathan Cabochon",
     "focus_heroic": 0,
     "ac": 98,
@@ -5880,7 +5880,7 @@
   },
   "int:173167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:29.026467+00:00",
+    "fetched_at": "2026-09-20T03:22:12.807889+00:00",
     "name": "Ungerminated Spore",
     "focus_heroic": 0,
     "ac": 98,
@@ -5929,7 +5929,7 @@
   },
   "int:173168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:36.286728+00:00",
+    "fetched_at": "2026-09-20T03:22:13.031111+00:00",
     "name": "Brilliant Scalewrought Bauble",
     "focus_heroic": 51,
     "ac": 68,
@@ -5979,7 +5979,7 @@
   },
   "int:173169": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:36.499229+00:00",
+    "fetched_at": "2026-09-20T03:22:13.222209+00:00",
     "name": "Steadfast Shadow Gem",
     "focus_heroic": 0,
     "ac": 128,
@@ -6030,7 +6030,7 @@
   },
   "int:173368": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:36.711228+00:00",
+    "fetched_at": "2026-09-20T03:22:13.408877+00:00",
     "name": "Faskan Rift",
     "focus_heroic": 0,
     "ac": 98,
@@ -6079,7 +6079,7 @@
   },
   "int:173369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:37.942175+00:00",
+    "fetched_at": "2026-09-20T03:22:13.633860+00:00",
     "name": "Gleaming Emblem of the Overseer",
     "focus_heroic": 0,
     "ac": 98,
@@ -6128,7 +6128,7 @@
   },
   "int:173370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:38.168723+00:00",
+    "fetched_at": "2026-09-20T03:22:13.850064+00:00",
     "name": "White Gilded Lodestone",
     "focus_heroic": 53,
     "ac": 68,
@@ -6178,7 +6178,7 @@
   },
   "int:173371": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:38.407647+00:00",
+    "fetched_at": "2026-09-20T03:22:14.100630+00:00",
     "name": "Bioluminescent Cave Stone",
     "focus_heroic": 0,
     "ac": 130,
@@ -6229,7 +6229,7 @@
   },
   "int:173571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:38.766647+00:00",
+    "fetched_at": "2026-09-20T03:22:14.334691+00:00",
     "name": "Defender's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 100,
@@ -6278,7 +6278,7 @@
   },
   "int:173572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:38.995398+00:00",
+    "fetched_at": "2026-09-20T03:22:14.597289+00:00",
     "name": "Acrobat's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 100,
@@ -6327,7 +6327,7 @@
   },
   "int:173573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:42.253628+00:00",
+    "fetched_at": "2026-09-20T03:22:15.096944+00:00",
     "name": "Mystic's Gem of Uprising",
     "focus_heroic": 55,
     "ac": 70,
@@ -6377,7 +6377,7 @@
   },
   "int:173574": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:42.514011+00:00",
+    "fetched_at": "2026-09-20T03:22:15.283179+00:00",
     "name": "Protector's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 130,
@@ -6428,7 +6428,7 @@
   },
   "int:175166": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:42.701161+00:00",
+    "fetched_at": "2026-09-20T03:22:15.896023+00:00",
     "name": "Druid's Keepsake",
     "focus_heroic": 0,
     "ac": 113,
@@ -6477,7 +6477,7 @@
   },
   "int:175167": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:42.915794+00:00",
+    "fetched_at": "2026-09-20T03:22:16.124622+00:00",
     "name": "Gnoll Skull Fragment",
     "focus_heroic": 0,
     "ac": 113,
@@ -6526,7 +6526,7 @@
   },
   "int:175168": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:44.139182+00:00",
+    "fetched_at": "2026-09-20T03:22:16.348697+00:00",
     "name": "Trinket of the Fire Snail",
     "focus_heroic": 57,
     "ac": 113,
@@ -6576,7 +6576,7 @@
   },
   "int:175169": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:44.353307+00:00",
+    "fetched_at": "2026-09-20T03:22:16.538996+00:00",
     "name": "Joy of the Dancer",
     "focus_heroic": 0,
     "ac": 143,
@@ -6627,7 +6627,7 @@
   },
   "int:175368": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:44.568319+00:00",
+    "fetched_at": "2026-09-20T03:22:16.740166+00:00",
     "name": "Overbound Zerk",
     "focus_heroic": 0,
     "ac": 113,
@@ -6676,7 +6676,7 @@
   },
   "int:175369": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:44.803535+00:00",
+    "fetched_at": "2026-09-20T03:22:16.949476+00:00",
     "name": "Mist-Filled Vial",
     "focus_heroic": 0,
     "ac": 113,
@@ -6725,7 +6725,7 @@
   },
   "int:175370": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:18.692952+00:00",
+    "fetched_at": "2026-09-20T03:22:17.157673+00:00",
     "name": "Quiet Perception",
     "focus_heroic": 59,
     "ac": 113,
@@ -6775,7 +6775,7 @@
   },
   "int:175371": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:09:06.188957+00:00",
+    "fetched_at": "2026-09-20T03:22:17.377690+00:00",
     "name": "Medallion of Loathing",
     "focus_heroic": 0,
     "ac": 145,
@@ -6824,7 +6824,7 @@
   },
   "int:175571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:09:06.465732+00:00",
+    "fetched_at": "2026-09-20T03:22:17.586167+00:00",
     "name": "Defender's Gem of Unraveling Order",
     "focus_heroic": 0,
     "ac": 115,
@@ -6873,7 +6873,7 @@
   },
   "int:175572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:09:07.693091+00:00",
+    "fetched_at": "2026-09-20T03:22:17.791657+00:00",
     "name": "Acrobat's Gem of Unraveling Order",
     "focus_heroic": 0,
     "ac": 115,
@@ -6922,7 +6922,7 @@
   },
   "int:175573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:09:07.894722+00:00",
+    "fetched_at": "2026-09-20T03:22:17.993839+00:00",
     "name": "Mystic's Gem of Unraveling Order",
     "focus_heroic": 61,
     "ac": 115,
@@ -6972,7 +6972,7 @@
   },
   "int:175574": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:09:15.176225+00:00",
+    "fetched_at": "2026-09-20T03:22:18.274703+00:00",
     "name": "Protector's Gem of Unraveling Order",
     "focus_heroic": 0,
     "ac": 145,
@@ -7021,7 +7021,7 @@
   },
   "dex:169573": {
     "ok": true,
-    "fetched_at": "2026-09-13T20:28:37.155443+00:00",
+    "fetched_at": "2026-09-20T03:21:39.118769+00:00",
     "name": "Phantasmal Luclinite Gem of Security",
     "focus_heroic": 29,
     "ac": 115,
@@ -7120,7 +7120,7 @@
   },
   "wis:165572": {
     "ok": true,
-    "fetched_at": "2026-09-13T20:28:37.777679+00:00",
+    "fetched_at": "2026-09-20T03:22:33.748533+00:00",
     "name": "Velium Threaded Gem of Brilliance",
     "focus_heroic": 30,
     "ac": 50,
@@ -7518,7 +7518,7 @@
   },
   "int:167572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:18.182236+00:00",
+    "fetched_at": "2026-09-20T03:22:06.789233+00:00",
     "name": "Luclinite Ensanguined Gem of Brilliance",
     "focus_heroic": 37,
     "ac": 55,
@@ -8463,7 +8463,7 @@
   },
   "int:164647": {
     "ok": false,
-    "fetched_at": "2026-09-14T01:52:22.694403+00:00"
+    "fetched_at": "2026-09-20T03:23:26.380760+00:00"
   },
   "int:173177": {
     "ok": true,
@@ -8662,7 +8662,7 @@
   },
   "dex:52023": {
     "ok": false,
-    "fetched_at": "2026-09-19T19:42:16.888331+00:00"
+    "fetched_at": "2026-09-20T03:23:15.231667+00:00"
   },
   "dex:86157": {
     "ok": true,
@@ -16166,7 +16166,7 @@
   },
   "dex:167572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:06:29.700736+00:00",
+    "fetched_at": "2026-09-20T03:21:37.203224+00:00",
     "name": "Luclinite Ensanguined Gem of Brilliance",
     "focus_heroic": 0,
     "ac": 55,
@@ -16706,7 +16706,7 @@
   },
   "dex:169570": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:11:44.250466+00:00",
+    "fetched_at": "2026-09-20T03:21:38.472963+00:00",
     "name": "Phantasmal Luclinite Gem of Vigor",
     "focus_heroic": 0,
     "ac": 85,
@@ -16755,7 +16755,7 @@
   },
   "dex:169572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:07:12.393196+00:00",
+    "fetched_at": "2026-09-20T03:21:38.913259+00:00",
     "name": "Phantasmal Luclinite Gem of Brilliance",
     "focus_heroic": 0,
     "ac": 60,
@@ -18433,7 +18433,7 @@
   },
   "dex:171572": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:11:55.716565+00:00",
+    "fetched_at": "2026-09-20T03:21:43.436099+00:00",
     "name": "Brilliant Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 65,
@@ -18581,7 +18581,7 @@
   },
   "dex:173571": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:11:56.368125+00:00",
+    "fetched_at": "2026-09-20T03:21:46.338619+00:00",
     "name": "Defender's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 100,
@@ -18630,7 +18630,7 @@
   },
   "dex:173573": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:11:56.600908+00:00",
+    "fetched_at": "2026-09-20T03:21:46.884322+00:00",
     "name": "Mystic's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 70,
@@ -18812,7 +18812,7 @@
   },
   "int:52023": {
     "ok": false,
-    "fetched_at": "2026-09-19T19:42:18.470716+00:00"
+    "fetched_at": "2026-09-20T03:23:22.338126+00:00"
   },
   "int:86157": {
     "ok": true,
@@ -26182,7 +26182,7 @@
   },
   "int:167571": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:17.961558+00:00",
+    "fetched_at": "2026-09-20T03:22:06.543585+00:00",
     "name": "Luclinite Ensanguined Gem of Adroitness",
     "focus_heroic": 0,
     "ac": 75,
@@ -28232,7 +28232,7 @@
   },
   "wis:52023": {
     "ok": false,
-    "fetched_at": "2026-09-19T19:42:18.853168+00:00"
+    "fetched_at": "2026-09-20T03:23:29.575880+00:00"
   },
   "wis:86157": {
     "ok": true,
@@ -35736,7 +35736,7 @@
   },
   "wis:167571": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:46.211870+00:00",
+    "fetched_at": "2026-09-20T03:22:34.980965+00:00",
     "name": "Luclinite Ensanguined Gem of Adroitness",
     "focus_heroic": 0,
     "ac": 75,
@@ -36175,7 +36175,7 @@
   },
   "wis:169570": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:48.208476+00:00",
+    "fetched_at": "2026-09-20T03:22:36.602687+00:00",
     "name": "Phantasmal Luclinite Gem of Vigor",
     "focus_heroic": 0,
     "ac": 85,
@@ -36224,7 +36224,7 @@
   },
   "wis:169571": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:48.449824+00:00",
+    "fetched_at": "2026-09-20T03:22:36.821231+00:00",
     "name": "Phantasmal Luclinite Gem of Adroitness",
     "focus_heroic": 0,
     "ac": 85,
@@ -38000,7 +38000,7 @@
   },
   "wis:171570": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:56.603140+00:00",
+    "fetched_at": "2026-09-20T03:22:38.268157+00:00",
     "name": "Vigorous Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 95,
@@ -38049,7 +38049,7 @@
   },
   "wis:171571": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:56.827996+00:00",
+    "fetched_at": "2026-09-20T03:22:38.465958+00:00",
     "name": "Adroit Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 95,
@@ -38098,7 +38098,7 @@
   },
   "wis:171573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:18.599902+00:00",
+    "fetched_at": "2026-09-20T03:22:38.886853+00:00",
     "name": "Security Gem of Perpetual Reverie",
     "focus_heroic": 0,
     "ac": 125,
@@ -38347,7 +38347,7 @@
   },
   "wis:173571": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:58.218710+00:00",
+    "fetched_at": "2026-09-20T03:22:40.046675+00:00",
     "name": "Defender's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 100,
@@ -38396,7 +38396,7 @@
   },
   "wis:173572": {
     "ok": true,
-    "fetched_at": "2026-09-14T19:13:58.460582+00:00",
+    "fetched_at": "2026-09-20T03:22:40.652890+00:00",
     "name": "Acrobat's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 100,
@@ -38445,7 +38445,7 @@
   },
   "wis:173574": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:22.493148+00:00",
+    "fetched_at": "2026-09-20T03:22:41.059151+00:00",
     "name": "Protector's Gem of Uprising",
     "focus_heroic": 0,
     "ac": 130,
@@ -38741,7 +38741,7 @@
   },
   "int:165573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:16.878841+00:00",
+    "fetched_at": "2026-09-20T03:22:04.973136+00:00",
     "name": "Velium Threaded Gem of Security",
     "focus_heroic": 0,
     "ac": 100,
@@ -38790,7 +38790,7 @@
   },
   "int:167570": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:17.747935+00:00",
+    "fetched_at": "2026-09-20T03:22:06.334591+00:00",
     "name": "Luclinite Ensanguined Gem of Vigor",
     "focus_heroic": 0,
     "ac": 75,
@@ -38839,7 +38839,7 @@
   },
   "int:167573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:08:18.428419+00:00",
+    "fetched_at": "2026-09-20T03:22:06.982638+00:00",
     "name": "Luclinite Ensanguined Gem of Security",
     "focus_heroic": 0,
     "ac": 105,
@@ -38888,7 +38888,7 @@
   },
   "wis:167573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:10:12.825624+00:00",
+    "fetched_at": "2026-09-20T03:22:35.402596+00:00",
     "name": "Luclinite Ensanguined Gem of Security",
     "focus_heroic": 0,
     "ac": 105,
@@ -38937,7 +38937,7 @@
   },
   "dex:165572": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:17.105958+00:00",
+    "fetched_at": "2026-09-20T03:21:35.143994+00:00",
     "name": "Velium Threaded Gem of Brilliance",
     "focus_heroic": 0,
     "ac": 50,
@@ -38989,7 +38989,7 @@
   },
   "dex:165573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:17.326269+00:00",
+    "fetched_at": "2026-09-20T03:21:35.390240+00:00",
     "name": "Velium Threaded Gem of Security",
     "focus_heroic": 20,
     "ac": 100,
@@ -39038,7 +39038,7 @@
   },
   "dex:167570": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:17.547405+00:00",
+    "fetched_at": "2026-09-20T03:21:36.725551+00:00",
     "name": "Luclinite Ensanguined Gem of Vigor",
     "focus_heroic": 0,
     "ac": 75,
@@ -39087,7 +39087,7 @@
   },
   "dex:167573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:17.761182+00:00",
+    "fetched_at": "2026-09-20T03:21:37.402279+00:00",
     "name": "Luclinite Ensanguined Gem of Security",
     "focus_heroic": 25,
     "ac": 105,
@@ -39136,7 +39136,7 @@
   },
   "wis:165573": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:19.072069+00:00",
+    "fetched_at": "2026-09-20T03:22:33.940582+00:00",
     "name": "Velium Threaded Gem of Security",
     "focus_heroic": 0,
     "ac": 100,
@@ -39185,7 +39185,7 @@
   },
   "wis:167570": {
     "ok": true,
-    "fetched_at": "2026-09-19T19:42:19.306473+00:00",
+    "fetched_at": "2026-09-20T03:22:34.776141+00:00",
     "name": "Luclinite Ensanguined Gem of Vigor",
     "focus_heroic": 0,
     "ac": 75,
@@ -39231,5 +39231,1234 @@
       7,
       8
     ]
+  },
+  "dex:151230": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:15.442851+00:00"
+  },
+  "dex:151231": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:15.635344+00:00"
+  },
+  "dex:151232": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:15.807008+00:00"
+  },
+  "dex:151233": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:16.011512+00:00"
+  },
+  "dex:151789": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:16.214053+00:00"
+  },
+  "dex:151790": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:16.402153+00:00"
+  },
+  "dex:151791": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:16.658494+00:00"
+  },
+  "dex:151792": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:16.831585+00:00"
+  },
+  "dex:163570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:29.664146+00:00",
+    "name": "Velium Infused Gem of Vigor",
+    "focus_heroic": 0,
+    "ac": 60,
+    "hp": 770,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Infused Brains or Brawn",
+    "shield_only": false,
+    "stats": {
+      "ac": 60,
+      "hp": 770,
+      "mana": 555,
+      "endurance": 555,
+      "atk": 33,
+      "heal_amount": 29,
+      "spell_damage": 29,
+      "clairvoyance": 41,
+      "hstr": 24,
+      "hsta": 17,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "dex:163571": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:29.922563+00:00",
+    "name": "Velium Infused Gem of Adroitness",
+    "focus_heroic": 24,
+    "ac": 60,
+    "hp": 660,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 60,
+      "hp": 660,
+      "mana": 660,
+      "endurance": 660,
+      "atk": 33,
+      "heal_amount": 53,
+      "spell_damage": 53,
+      "clairvoyance": 76,
+      "hagi": 24,
+      "hdex": 24,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "dex:163572": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:30.170764+00:00",
+    "name": "Velium Infused Gem of Brilliance",
+    "focus_heroic": 0,
+    "ac": 47,
+    "hp": 555,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Infused Brains or Brawn",
+    "shield_only": false,
+    "stats": {
+      "ac": 47,
+      "hp": 555,
+      "mana": 770,
+      "endurance": 770,
+      "atk": 33,
+      "heal_amount": 70,
+      "spell_damage": 70,
+      "clairvoyance": 99,
+      "hsta": 17,
+      "hint": 24,
+      "hwis": 24,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "dex:163573": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:30.433954+00:00",
+    "name": "Velium Infused Gem of Security",
+    "focus_heroic": 17,
+    "ac": 90,
+    "hp": 395,
+    "atk": 33,
+    "slot_text": "Arms, Back, Charm, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Range, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Charm",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Range",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 90,
+      "hp": 395,
+      "mana": 395,
+      "endurance": 395,
+      "atk": 33,
+      "heal_amount": 70,
+      "spell_damage": 70,
+      "clairvoyance": 99,
+      "hsta": 24,
+      "hdex": 17,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "dex:163574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:17.034565+00:00"
+  },
+  "dex:163575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:17.214163+00:00"
+  },
+  "dex:164185": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:17.399843+00:00"
+  },
+  "dex:164186": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:17.585362+00:00"
+  },
+  "dex:164187": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:17.758411+00:00"
+  },
+  "dex:164188": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:17.946681+00:00"
+  },
+  "dex:164567": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:18.118771+00:00"
+  },
+  "dex:164568": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:18.289661+00:00"
+  },
+  "dex:164569": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:18.470549+00:00"
+  },
+  "dex:164570": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:18.684000+00:00"
+  },
+  "dex:164646": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:18.864553+00:00"
+  },
+  "dex:164647": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:19.088622+00:00"
+  },
+  "dex:164650": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:19.263048+00:00"
+  },
+  "dex:164651": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:19.457321+00:00"
+  },
+  "dex:164990": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:19.663487+00:00"
+  },
+  "dex:164991": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:19.860370+00:00"
+  },
+  "dex:164992": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:20.062975+00:00"
+  },
+  "dex:164993": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:20.293099+00:00"
+  },
+  "dex:165570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:34.571015+00:00",
+    "name": "Velium Threaded Gem of Vigor",
+    "focus_heroic": 0,
+    "ac": 70,
+    "hp": 1110,
+    "atk": 36,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Primary",
+      "Secondary",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Threaded Intellect or Might",
+    "shield_only": false,
+    "stats": {
+      "ac": 70,
+      "hp": 1110,
+      "mana": 800,
+      "endurance": 800,
+      "atk": 36,
+      "heal_amount": 35,
+      "spell_damage": 35,
+      "clairvoyance": 51,
+      "hstr": 30,
+      "hsta": 20,
+      "hcha": 26
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "dex:165571": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:34.788985+00:00",
+    "name": "Velium Threaded Gem of Adroitness",
+    "focus_heroic": 30,
+    "ac": 70,
+    "hp": 950,
+    "atk": 36,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Primary",
+      "Secondary",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 70,
+      "hp": 950,
+      "mana": 950,
+      "endurance": 950,
+      "atk": 36,
+      "heal_amount": 64,
+      "spell_damage": 64,
+      "clairvoyance": 92,
+      "hagi": 30,
+      "hdex": 30,
+      "hcha": 26
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "dex:165574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:20.538733+00:00"
+  },
+  "dex:165575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:20.749417+00:00"
+  },
+  "dex:167574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:20.918395+00:00"
+  },
+  "dex:167575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:21.100188+00:00"
+  },
+  "dex:169574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:21.274789+00:00"
+  },
+  "dex:169575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:21.490775+00:00"
+  },
+  "dex:171574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:21.648617+00:00"
+  },
+  "dex:171575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:21.814489+00:00"
+  },
+  "dex:173575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:21.991831+00:00"
+  },
+  "dex:173576": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:22.173403+00:00"
+  },
+  "int:151230": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:22.559347+00:00"
+  },
+  "int:151231": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:22.748490+00:00"
+  },
+  "int:151232": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:23.026770+00:00"
+  },
+  "int:151233": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:23.190221+00:00"
+  },
+  "int:151789": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:23.367482+00:00"
+  },
+  "int:151790": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:23.602331+00:00"
+  },
+  "int:151791": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:23.805920+00:00"
+  },
+  "int:151792": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:24.027028+00:00"
+  },
+  "int:163570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:59.058173+00:00",
+    "name": "Velium Infused Gem of Vigor",
+    "focus_heroic": 0,
+    "ac": 60,
+    "hp": 770,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Infused Brains or Brawn",
+    "shield_only": false,
+    "stats": {
+      "ac": 60,
+      "hp": 770,
+      "mana": 555,
+      "endurance": 555,
+      "atk": 33,
+      "heal_amount": 29,
+      "spell_damage": 29,
+      "clairvoyance": 41,
+      "hstr": 24,
+      "hsta": 17,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "int:163571": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:59.272096+00:00",
+    "name": "Velium Infused Gem of Adroitness",
+    "focus_heroic": 0,
+    "ac": 60,
+    "hp": 660,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 60,
+      "hp": 660,
+      "mana": 660,
+      "endurance": 660,
+      "atk": 33,
+      "heal_amount": 53,
+      "spell_damage": 53,
+      "clairvoyance": 76,
+      "hagi": 24,
+      "hdex": 24,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "int:163572": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:21:59.492099+00:00",
+    "name": "Velium Infused Gem of Brilliance",
+    "focus_heroic": 24,
+    "ac": 47,
+    "hp": 555,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Infused Brains or Brawn",
+    "shield_only": false,
+    "stats": {
+      "ac": 47,
+      "hp": 555,
+      "mana": 770,
+      "endurance": 770,
+      "atk": 33,
+      "heal_amount": 70,
+      "spell_damage": 70,
+      "clairvoyance": 99,
+      "hsta": 17,
+      "hint": 24,
+      "hwis": 24,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "int:163574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:24.206815+00:00"
+  },
+  "int:163575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:24.428837+00:00"
+  },
+  "int:164185": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:24.612205+00:00"
+  },
+  "int:164186": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:24.816586+00:00"
+  },
+  "int:164187": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:25.038221+00:00"
+  },
+  "int:164188": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:25.294935+00:00"
+  },
+  "int:164567": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:25.502079+00:00"
+  },
+  "int:164568": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:25.670284+00:00"
+  },
+  "int:164569": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:25.837848+00:00"
+  },
+  "int:164570": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:26.011000+00:00"
+  },
+  "int:164646": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:26.208168+00:00"
+  },
+  "int:164650": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:26.637958+00:00"
+  },
+  "int:164651": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:26.799113+00:00"
+  },
+  "int:164990": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:26.993740+00:00"
+  },
+  "int:164991": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:27.197405+00:00"
+  },
+  "int:164992": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:27.359212+00:00"
+  },
+  "int:164993": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:27.528578+00:00"
+  },
+  "int:165570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:04.318146+00:00",
+    "name": "Velium Threaded Gem of Vigor",
+    "focus_heroic": 0,
+    "ac": 70,
+    "hp": 1110,
+    "atk": 36,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Primary",
+      "Secondary",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Threaded Intellect or Might",
+    "shield_only": false,
+    "stats": {
+      "ac": 70,
+      "hp": 1110,
+      "mana": 800,
+      "endurance": 800,
+      "atk": 36,
+      "heal_amount": 35,
+      "spell_damage": 35,
+      "clairvoyance": 51,
+      "hstr": 30,
+      "hsta": 20,
+      "hcha": 26
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "int:165571": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:04.529097+00:00",
+    "name": "Velium Threaded Gem of Adroitness",
+    "focus_heroic": 0,
+    "ac": 70,
+    "hp": 950,
+    "atk": 36,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Primary",
+      "Secondary",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 70,
+      "hp": 950,
+      "mana": 950,
+      "endurance": 950,
+      "atk": 36,
+      "heal_amount": 64,
+      "spell_damage": 64,
+      "clairvoyance": 92,
+      "hagi": 30,
+      "hdex": 30,
+      "hcha": 26
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "int:165574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:27.712682+00:00"
+  },
+  "int:165575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:27.901991+00:00"
+  },
+  "int:167574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:28.113015+00:00"
+  },
+  "int:167575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:28.313834+00:00"
+  },
+  "int:169574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:28.491154+00:00"
+  },
+  "int:169575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:28.686516+00:00"
+  },
+  "int:171574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:28.893968+00:00"
+  },
+  "int:171575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:29.060257+00:00"
+  },
+  "int:173575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:29.223057+00:00"
+  },
+  "int:173576": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:29.397882+00:00"
+  },
+  "wis:151230": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:29.770573+00:00"
+  },
+  "wis:151231": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:30.031221+00:00"
+  },
+  "wis:151232": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:30.508773+00:00"
+  },
+  "wis:151233": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:30.672922+00:00"
+  },
+  "wis:151789": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:30.844808+00:00"
+  },
+  "wis:151790": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:31.021339+00:00"
+  },
+  "wis:151791": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:31.201615+00:00"
+  },
+  "wis:151792": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:31.379456+00:00"
+  },
+  "wis:163570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:28.185922+00:00",
+    "name": "Velium Infused Gem of Vigor",
+    "focus_heroic": 0,
+    "ac": 60,
+    "hp": 770,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Infused Brains or Brawn",
+    "shield_only": false,
+    "stats": {
+      "ac": 60,
+      "hp": 770,
+      "mana": 555,
+      "endurance": 555,
+      "atk": 33,
+      "heal_amount": 29,
+      "spell_damage": 29,
+      "clairvoyance": 41,
+      "hstr": 24,
+      "hsta": 17,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "wis:163571": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:28.415112+00:00",
+    "name": "Velium Infused Gem of Adroitness",
+    "focus_heroic": 0,
+    "ac": 60,
+    "hp": 660,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 60,
+      "hp": 660,
+      "mana": 660,
+      "endurance": 660,
+      "atk": 33,
+      "heal_amount": 53,
+      "spell_damage": 53,
+      "clairvoyance": 76,
+      "hagi": 24,
+      "hdex": 24,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "wis:163572": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:28.642855+00:00",
+    "name": "Velium Infused Gem of Brilliance",
+    "focus_heroic": 24,
+    "ac": 47,
+    "hp": 555,
+    "atk": 33,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Infused Brains or Brawn",
+    "shield_only": false,
+    "stats": {
+      "ac": 47,
+      "hp": 555,
+      "mana": 770,
+      "endurance": 770,
+      "atk": 33,
+      "heal_amount": 70,
+      "spell_damage": 70,
+      "clairvoyance": 99,
+      "hsta": 17,
+      "hint": 24,
+      "hwis": 24,
+      "hcha": 24
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "wis:163574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:31.555636+00:00"
+  },
+  "wis:163575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:31.725920+00:00"
+  },
+  "wis:164185": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:31.901386+00:00"
+  },
+  "wis:164186": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:32.062117+00:00"
+  },
+  "wis:164187": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:32.224501+00:00"
+  },
+  "wis:164188": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:32.397575+00:00"
+  },
+  "wis:164567": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:32.572072+00:00"
+  },
+  "wis:164568": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:32.802274+00:00"
+  },
+  "wis:164569": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:33.005413+00:00"
+  },
+  "wis:164570": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:33.171526+00:00"
+  },
+  "wis:164646": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:33.433712+00:00"
+  },
+  "wis:164647": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:33.665716+00:00"
+  },
+  "wis:164650": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:33.851345+00:00"
+  },
+  "wis:164651": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:34.031571+00:00"
+  },
+  "wis:164990": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:34.216043+00:00"
+  },
+  "wis:164991": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:34.457228+00:00"
+  },
+  "wis:164992": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:34.640814+00:00"
+  },
+  "wis:164993": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:34.826652+00:00"
+  },
+  "wis:165570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:33.256053+00:00",
+    "name": "Velium Threaded Gem of Vigor",
+    "focus_heroic": 0,
+    "ac": 70,
+    "hp": 1110,
+    "atk": 36,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Primary",
+      "Secondary",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": "Velium Threaded Intellect or Might",
+    "shield_only": false,
+    "stats": {
+      "ac": 70,
+      "hp": 1110,
+      "mana": 800,
+      "endurance": 800,
+      "atk": 36,
+      "heal_amount": 35,
+      "spell_damage": 35,
+      "clairvoyance": 51,
+      "hstr": 30,
+      "hsta": 20,
+      "hcha": 26
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "wis:165571": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:22:33.552614+00:00",
+    "name": "Velium Threaded Gem of Adroitness",
+    "focus_heroic": 0,
+    "ac": 70,
+    "hp": 950,
+    "atk": 36,
+    "slot_text": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+    "excluded_bases": [],
+    "allowed_bases": [
+      "Arms",
+      "Back",
+      "Chest",
+      "Ear",
+      "Face",
+      "Feet",
+      "Fingers",
+      "Hands",
+      "Head",
+      "Legs",
+      "Neck",
+      "Primary",
+      "Secondary",
+      "Shoulders",
+      "Waist",
+      "Wrist"
+    ],
+    "ear_only": false,
+    "lore": true,
+    "lore_group": null,
+    "shield_only": false,
+    "stats": {
+      "ac": 70,
+      "hp": 950,
+      "mana": 950,
+      "endurance": 950,
+      "atk": 36,
+      "heal_amount": 64,
+      "spell_damage": 64,
+      "clairvoyance": 92,
+      "hagi": 30,
+      "hdex": 30,
+      "hcha": 26
+    },
+    "stats_v": 4,
+    "aug_types": [
+      7,
+      8
+    ]
+  },
+  "wis:165574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:35.025828+00:00"
+  },
+  "wis:165575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:35.207966+00:00"
+  },
+  "wis:167574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:35.411088+00:00"
+  },
+  "wis:167575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:35.578675+00:00"
+  },
+  "wis:169574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:35.768725+00:00"
+  },
+  "wis:169575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:36.030910+00:00"
+  },
+  "wis:171574": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:36.196792+00:00"
+  },
+  "wis:171575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:36.411232+00:00"
+  },
+  "wis:173575": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:36.604145+00:00"
+  },
+  "wis:173576": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:36.777478+00:00"
   }
 }

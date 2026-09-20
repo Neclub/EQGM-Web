@@ -67988,11 +67988,83 @@
     }
   },
   "52023": {
-    "ok": false,
-    "fetched_at": "2026-09-19T19:42:07.085436+00:00",
-    "classes": null,
-    "class_all": false,
-    "item": null
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.760294+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 52023,
+      "name": "Perfected Augmentation Distiller",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "2065",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Perfected Augmentation Distiller",
+      "iconId": "2065",
+      "flags": [
+        "No Trade",
+        "Heirloom"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [],
+      "effect": "",
+      "focus": "",
+      "lore": "This will safely remove any augment",
+      "itemId": 52023
+    }
   },
   "86157": {
     "ok": true,
@@ -540490,6 +540562,3665 @@
       "focus": "Frozen Miasma Critical Damage",
       "lore": "Dragonbrood Tunic of Rebellion",
       "itemId": 173905
+    }
+  },
+  "151230": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.763119+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151230,
+      "name": "Reactive Striking Gem of Perpetual Reverie",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Striking Gem of Perpetual Reverie",
+      "icon_id": "2979",
+      "focus": "",
+      "effect": "Burst of Flames",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Striking Gem of Perpetual Reverie",
+      "iconId": "2979",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "22",
+            "15"
+          ]
+        }
+      ],
+      "effect": "Burst of Flames",
+      "focus": "",
+      "lore": "Reactive Striking Gem of Perpetual Reverie",
+      "itemId": 151230
+    }
+  },
+  "151231": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.765264+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151231,
+      "name": "Harmonious Striking Gem of Perpetual Reverie",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Striking Gem of Perpetual Reverie",
+      "icon_id": "2979",
+      "focus": "Sympathetic Burst of Flames",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Harmonious Striking Gem of Perpetual Reverie",
+      "iconId": "2979",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "22",
+            "15"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Burst of Flames",
+      "lore": "Harmonious Striking Gem of Perpetual Reverie",
+      "itemId": 151231
+    }
+  },
+  "151232": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.767384+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151232,
+      "name": "Reactive Devastating Gem of Perpetual Reverie",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Devastating Gem of Perpetual Reverie",
+      "icon_id": "2876",
+      "focus": "",
+      "effect": "Blaze of Fire",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Devastating Gem of Perpetual Reverie",
+      "iconId": "2876",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "ls",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "34"
+          ]
+        }
+      ],
+      "effect": "Blaze of Fire",
+      "focus": "",
+      "lore": "Reactive Devastating Gem of Perpetual Reverie",
+      "itemId": 151232
+    }
+  },
+  "151233": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.769519+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151233,
+      "name": "Harmonious Devastating Gem of Perpetual Reverie",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Devastating Gem of Perpetual Reverie",
+      "icon_id": "2876",
+      "focus": "Sympathetic Blaze of Fire",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Harmonious Devastating Gem of Perpetual Reverie",
+      "iconId": "2876",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "ls",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "34"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Blaze of Fire",
+      "lore": "Harmonious Devastating Gem of Perpetual Reverie",
+      "itemId": 151233
+    }
+  },
+  "151789": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.771813+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151789,
+      "name": "Reactive Honed Gem of Uprising",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "954",
+      "focus": "",
+      "effect": "Spike of Ice",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Honed Gem of Uprising",
+      "iconId": "954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "24",
+            "19"
+          ]
+        }
+      ],
+      "effect": "Spike of Ice",
+      "focus": "",
+      "lore": "Reactive Honed Gem of Uprising",
+      "itemId": 151789
+    }
+  },
+  "151790": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.774014+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151790,
+      "name": "Harmonious Honed Gem of Uprising",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "954",
+      "focus": "Sympathetic Spike of Ice",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Harmonious Honed Gem of Uprising",
+      "iconId": "954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "24",
+            "19"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Spike of Ice",
+      "lore": "Harmonious Honed Gem of Uprising",
+      "itemId": 151790
+    }
+  },
+  "151791": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.776296+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151791,
+      "name": "Reactive Sharpened Gem of Uprising",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "6511",
+      "focus": "",
+      "effect": "Strike of Ice",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Sharpened Gem of Uprising",
+      "iconId": "6511",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "37"
+          ]
+        }
+      ],
+      "effect": "Strike of Ice",
+      "focus": "",
+      "lore": "Reactive Sharpened Gem of Uprising",
+      "itemId": 151791
+    }
+  },
+  "151792": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.778517+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 151792,
+      "name": "Harmonious Sharpened Gem of Uprising",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "6511",
+      "focus": "Sympathetic Surge of Ice",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Harmonious Sharpened Gem of Uprising",
+      "iconId": "6511",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "37"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Surge of Ice",
+      "lore": "Harmonious Sharpened Gem of Uprising",
+      "itemId": 151792
+    }
+  },
+  "163570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.781428+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 163570,
+      "name": "Velium Infused Gem of Vigor",
+      "stats": {
+        "ac": 60,
+        "hp": 770,
+        "mana": 555,
+        "endurance": 555,
+        "atk": 33,
+        "heal_amount": 29,
+        "spell_damage": 29,
+        "clairvoyance": 41,
+        "hstr": 24,
+        "hsta": 17,
+        "hcha": 24
+      },
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Arms",
+        "Back",
+        "Chest",
+        "Ear",
+        "Face",
+        "Feet",
+        "Fingers",
+        "Hands",
+        "Head",
+        "Legs",
+        "Neck",
+        "Shoulders",
+        "Waist",
+        "Wrist"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Brains or Brawn",
+      "icon_id": "6483",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Infused Gem of Vigor",
+      "iconId": "6483",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Shoulder, Waist, Wrist",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "AC",
+            "HP",
+            "Mana",
+            "End"
+          ],
+          "values": [
+            "60",
+            "770",
+            "555",
+            "555"
+          ]
+        },
+        {
+          "labels": [
+            "Strength",
+            "Stamina",
+            "Charisma"
+          ],
+          "values": [
+            "0 + 24",
+            "0 + 17",
+            "0 + 24"
+          ]
+        },
+        {
+          "labels": [
+            "Attack",
+            "HP Regen",
+            "Mana Regen",
+            "Heal Amount",
+            "Spell Damage",
+            "Clairvoyance"
+          ],
+          "values": [
+            "33",
+            "6",
+            "4",
+            "29",
+            "29",
+            "41"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Infused Gem of Vigor",
+      "itemId": 163570
+    }
+  },
+  "163573": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.783700+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 163573,
+      "name": "Velium Infused Gem of Security",
+      "stats": {
+        "ac": 90,
+        "hp": 395,
+        "mana": 395,
+        "endurance": 395,
+        "atk": 33,
+        "heal_amount": 70,
+        "spell_damage": 70,
+        "clairvoyance": 99,
+        "hsta": 24,
+        "hdex": 17,
+        "hcha": 24
+      },
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Arms",
+        "Back",
+        "Charm",
+        "Chest",
+        "Ear",
+        "Face",
+        "Feet",
+        "Fingers",
+        "Hands",
+        "Head",
+        "Legs",
+        "Neck",
+        "Range",
+        "Shoulders",
+        "Waist",
+        "Wrist"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "6457",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Infused Gem of Security",
+      "iconId": "6457",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Arms, Back, Charm, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Range, Shoulder, Waist, Wrist",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "AC",
+            "HP",
+            "Mana",
+            "End"
+          ],
+          "values": [
+            "90",
+            "395",
+            "395",
+            "395"
+          ]
+        },
+        {
+          "labels": [
+            "Stamina",
+            "Dexterity",
+            "Charisma"
+          ],
+          "values": [
+            "0 + 24",
+            "0 + 17",
+            "0 + 24"
+          ]
+        },
+        {
+          "labels": [
+            "Attack",
+            "HP Regen",
+            "Mana Regen",
+            "Heal Amount",
+            "Spell Damage",
+            "Clairvoyance"
+          ],
+          "values": [
+            "33",
+            "5",
+            "5",
+            "70",
+            "70",
+            "99"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Infused Gem of Security",
+      "itemId": 163573
+    }
+  },
+  "163574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.785844+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 163574,
+      "name": "Velium Infused Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Range",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Gem of Striking",
+      "icon_id": "6736",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Infused Gem of Striking",
+      "iconId": "6736",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Range, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "15",
+            "13"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Infused Gem of Striking",
+      "itemId": 163574
+    }
+  },
+  "163575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.787943+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 163575,
+      "name": "Velium Infused Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Gem of Devastation",
+      "icon_id": "6888",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Infused Gem of Devastation",
+      "iconId": "6888",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "24"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Infused Gem of Devastation",
+      "itemId": 163575
+    }
+  },
+  "164185": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.790072+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164185,
+      "name": "Reactive Luclinite Ensanguined Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Luclinite Ensanguined Gem of Striking",
+      "icon_id": "6052",
+      "focus": "",
+      "effect": "Spike of Magic",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Luclinite Ensanguined Gem of Striking",
+      "iconId": "6052",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "18",
+            "14"
+          ]
+        }
+      ],
+      "effect": "Spike of Magic",
+      "focus": "",
+      "lore": "Reactive Luclinite Ensanguined Gem of Striking",
+      "itemId": 164185
+    }
+  },
+  "164186": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.792192+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164186,
+      "name": "Congruent Luclinite Ensanguined Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Luclinite Ensanguined Gem of Striking",
+      "icon_id": "6052",
+      "focus": "Sympathetic Spike of Magic",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Congruent Luclinite Ensanguined Gem of Striking",
+      "iconId": "6052",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "18",
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Spike of Magic",
+      "lore": "Congruent Luclinite Ensanguined Gem of Striking",
+      "itemId": 164186
+    }
+  },
+  "164187": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.794381+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164187,
+      "name": "Reactive Luclinite Ensanguined Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Luclinite Ensanguined Gem of Devastation",
+      "icon_id": "6048",
+      "focus": "",
+      "effect": "Hammer of Magic",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Luclinite Ensanguined Gem of Devastation",
+      "iconId": "6048",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "29"
+          ]
+        }
+      ],
+      "effect": "Hammer of Magic",
+      "focus": "",
+      "lore": "Reactive Luclinite Ensanguined Gem of Devastation",
+      "itemId": 164187
+    }
+  },
+  "164188": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.796540+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164188,
+      "name": "Congruent Luclinite Ensanguined Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Luclinite Ensanguined Gem of Devastation",
+      "icon_id": "6048",
+      "focus": "Sympathetic Hammer of Magic",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Congruent Luclinite Ensanguined Gem of Devastation",
+      "iconId": "6048",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "29"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Hammer of Magic",
+      "lore": "Congruent Luclinite Ensanguined Gem of Devastation",
+      "itemId": 164188
+    }
+  },
+  "164567": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.798953+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164567,
+      "name": "Reactive Phantasmal Luclinite Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Phantasmal Luclinite Gem of Striking",
+      "icon_id": "1954",
+      "focus": "",
+      "effect": "Spike of Magic",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Phantasmal Luclinite Gem of Striking",
+      "iconId": "1954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "nos",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "20",
+            "14"
+          ]
+        }
+      ],
+      "effect": "Spike of Magic",
+      "focus": "",
+      "lore": "Reactive Phantasmal Luclinite Gem of Striking",
+      "itemId": 164567
+    }
+  },
+  "164568": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.801046+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164568,
+      "name": "Harmonious Phantasmal Luclinite Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Phantasmal Luclinite Gem of Striking",
+      "icon_id": "1954",
+      "focus": "Sympathetic Spike of Magic",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Harmonious Phantasmal Luclinite Gem of Striking",
+      "iconId": "1954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "nos",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "20",
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Spike of Magic",
+      "lore": "Harmonious Phantasmal Luclinite Gem of Striking",
+      "itemId": 164568
+    }
+  },
+  "164569": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.803158+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164569,
+      "name": "Reactive Phantasmal Luclinite Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Phantasmal Luclinite Gem of Devastation",
+      "icon_id": "1990",
+      "focus": "",
+      "effect": "Hammer of Magic",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Phantasmal Luclinite Gem of Devastation",
+      "iconId": "1990",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "nos",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "32"
+          ]
+        }
+      ],
+      "effect": "Hammer of Magic",
+      "focus": "",
+      "lore": "Reactive Phantasmal Luclinite Gem of Devastation",
+      "itemId": 164569
+    }
+  },
+  "164570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.805280+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164570,
+      "name": "Harmonious Phantasmal Luclinite Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Phantasmal Luclinite Gem of Devastation",
+      "icon_id": "1990",
+      "focus": "Sympathetic Hammer of Magic",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Harmonious Phantasmal Luclinite Gem of Devastation",
+      "iconId": "1990",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "nos",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "32"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Hammer of Magic",
+      "lore": "Harmonious Phantasmal Luclinite Gem of Devastation",
+      "itemId": 164570
+    }
+  },
+  "164646": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.807415+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164646,
+      "name": "Reactive Velium Infused Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Range",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Gem of Striking",
+      "icon_id": "6736",
+      "focus": "",
+      "effect": "Spike of Ice",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Velium Infused Gem of Striking",
+      "iconId": "6736",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Range, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "15",
+            "13"
+          ]
+        }
+      ],
+      "effect": "Spike of Ice",
+      "focus": "",
+      "lore": "Grants efficacy to light mortal weapons",
+      "itemId": 164646
+    }
+  },
+  "164647": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.809594+00:00",
+    "classes": [
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "NEC",
+      "SHM",
+      "WIZ"
+    ],
+    "class_all": false,
+    "item": {
+      "item_id": 164647,
+      "name": "Complimentary Velium Infused Gem of Striking",
+      "stats": {},
+      "classes": [
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "NEC",
+        "SHM",
+        "WIZ"
+      ],
+      "class_all": false,
+      "slots": [
+        "Primary",
+        "Range",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Gem of Striking",
+      "icon_id": "6736",
+      "focus": "Sympathetic Spike of Ice",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Complimentary Velium Infused Gem of Striking",
+      "iconId": "6736",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "Cleric, Druid, Enchanter, Magician, Necromancer, Shaman, Wizard",
+      "races": "All",
+      "slot": "Primary, Range, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "15",
+            "13"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Spike of Ice",
+      "lore": "Grants efficacy to light mortal weapons",
+      "itemId": 164647
+    }
+  },
+  "164650": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.811712+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164650,
+      "name": "Reactive Velium Infused Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Gem of Devastation",
+      "icon_id": "6888",
+      "focus": "",
+      "effect": "Strike of Ice",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Velium Infused Gem of Devastation",
+      "iconId": "6888",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "24"
+          ]
+        }
+      ],
+      "effect": "Strike of Ice",
+      "focus": "",
+      "lore": "Grants efficacy to heavy mortal weapons",
+      "itemId": 164650
+    }
+  },
+  "164651": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.813878+00:00",
+    "classes": [
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "NEC",
+      "SHM",
+      "WIZ"
+    ],
+    "class_all": false,
+    "item": {
+      "item_id": 164651,
+      "name": "Complimentary Velium Infused Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "NEC",
+        "SHM",
+        "WIZ"
+      ],
+      "class_all": false,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Infused Gem of Devastation",
+      "icon_id": "6888",
+      "focus": "Sympathetic Surge of Ice",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Complimentary Velium Infused Gem of Devastation",
+      "iconId": "6888",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "Cleric, Druid, Enchanter, Magician, Necromancer, Shaman, Wizard",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "24"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Surge of Ice",
+      "lore": "Grants efficacy to heavy mortal weapons",
+      "itemId": 164651
+    }
+  },
+  "164990": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.816078+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164990,
+      "name": "Reactive Velium Threaded Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "954",
+      "focus": "",
+      "effect": "Spike of Ice",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Velium Threaded Gem of Striking",
+      "iconId": "954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "17",
+            "14"
+          ]
+        },
+        {
+          "labels": [
+            "Backstab"
+          ],
+          "values": [
+            "14"
+          ]
+        }
+      ],
+      "effect": "Spike of Ice",
+      "focus": "",
+      "lore": "Grants efficacy to light weapons",
+      "itemId": 164990
+    }
+  },
+  "164991": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.818376+00:00",
+    "classes": [
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "NEC",
+      "SHM",
+      "WIZ"
+    ],
+    "class_all": false,
+    "item": {
+      "item_id": 164991,
+      "name": "Complimentary Velium Threaded Gem of Striking",
+      "stats": {},
+      "classes": [
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "NEC",
+        "SHM",
+        "WIZ"
+      ],
+      "class_all": false,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "954",
+      "focus": "Sympathetic Spike of Ice",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Complimentary Velium Threaded Gem of Striking",
+      "iconId": "954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "Cleric, Druid, Enchanter, Magician, Necromancer, Shaman, Wizard",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "17",
+            "14"
+          ]
+        },
+        {
+          "labels": [
+            "Backstab"
+          ],
+          "values": [
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Spike of Ice",
+      "lore": "Grants efficacy to light weapons",
+      "itemId": 164991
+    }
+  },
+  "164992": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.820497+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 164992,
+      "name": "Reactive Velium Threaded Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Threaded Gem of Devastation",
+      "icon_id": "6511",
+      "focus": "",
+      "effect": "Strike of Ice",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Reactive Velium Threaded Gem of Devastation",
+      "iconId": "6511",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "27"
+          ]
+        }
+      ],
+      "effect": "Strike of Ice",
+      "focus": "",
+      "lore": "Grants efficacy to heavy weapons",
+      "itemId": 164992
+    }
+  },
+  "164993": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.822768+00:00",
+    "classes": [
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "NEC",
+      "SHM",
+      "WIZ"
+    ],
+    "class_all": false,
+    "item": {
+      "item_id": 164993,
+      "name": "Complimentary Velium Threaded Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "NEC",
+        "SHM",
+        "WIZ"
+      ],
+      "class_all": false,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Threaded Gem of Devastation",
+      "icon_id": "6511",
+      "focus": "Sympathetic Surge of Ice",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Complimentary Velium Threaded Gem of Devastation",
+      "iconId": "6511",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "Cleric, Druid, Enchanter, Magician, Necromancer, Shaman, Wizard",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "",
+      "expansionCode": "",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "27"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "Sympathetic Surge of Ice",
+      "lore": "Grants efficacy to heavy weapons",
+      "itemId": 164993
+    }
+  },
+  "165570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.825000+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 165570,
+      "name": "Velium Threaded Gem of Vigor",
+      "stats": {
+        "ac": 70,
+        "hp": 1110,
+        "mana": 800,
+        "endurance": 800,
+        "atk": 36,
+        "heal_amount": 35,
+        "spell_damage": 35,
+        "clairvoyance": 51,
+        "hstr": 30,
+        "hsta": 20,
+        "hcha": 26
+      },
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Arms",
+        "Back",
+        "Chest",
+        "Ear",
+        "Face",
+        "Feet",
+        "Fingers",
+        "Hands",
+        "Head",
+        "Legs",
+        "Neck",
+        "Primary",
+        "Secondary",
+        "Shoulders",
+        "Waist",
+        "Wrist"
+      ],
+      "tier": "",
+      "lore_group": "Velium Threaded Intellect or Might",
+      "icon_id": "6479",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Threaded Gem of Vigor",
+      "iconId": "6479",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Arms, Back, Chest, Ear, Face, Feet, Finger, Hands, Head, Legs, Neck, Primary, Secondary, Shoulder, Waist, Wrist",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "cov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "AC",
+            "HP",
+            "Mana",
+            "End"
+          ],
+          "values": [
+            "70",
+            "1110",
+            "800",
+            "800"
+          ]
+        },
+        {
+          "labels": [
+            "Strength",
+            "Stamina",
+            "Charisma"
+          ],
+          "values": [
+            "0 + 30",
+            "0 + 20",
+            "0 + 26"
+          ]
+        },
+        {
+          "labels": [
+            "Attack",
+            "HP Regen",
+            "Mana Regen",
+            "Heal Amount",
+            "Spell Damage",
+            "Clairvoyance"
+          ],
+          "values": [
+            "36",
+            "7",
+            "5",
+            "35",
+            "35",
+            "51"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Threaded Gem of Vigor",
+      "itemId": 165570
+    }
+  },
+  "165574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.827352+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 165574,
+      "name": "Velium Threaded Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Threaded Gem of Striking",
+      "icon_id": "954",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Threaded Gem of Striking",
+      "iconId": "954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "cov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "17",
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Threaded Gem of Striking",
+      "itemId": 165574
+    }
+  },
+  "165575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.829507+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 165575,
+      "name": "Velium Threaded Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Velium Threaded Gem of Devastation",
+      "icon_id": "6511",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Velium Threaded Gem of Devastation",
+      "iconId": "6511",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "cov",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "27"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Velium Threaded Gem of Devastation",
+      "itemId": 165575
+    }
+  },
+  "167574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.831795+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 167574,
+      "name": "Luclinite Ensanguined Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Luclinite Ensanguined Gem of Striking",
+      "icon_id": "6051",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Luclinite Ensanguined Gem of Striking",
+      "iconId": "6051",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tol",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "18",
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Luclinite Ensanguined Gem of Striking",
+      "itemId": 167574
+    }
+  },
+  "167575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.833924+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 167575,
+      "name": "Luclinite Ensanguined Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": "Luclinite Ensanguined Gem of Devastation",
+      "icon_id": "6469",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Luclinite Ensanguined Gem of Devastation",
+      "iconId": "6469",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tol",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "29"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Luclinite Ensanguined Gem of Devastation",
+      "itemId": 167575
+    }
+  },
+  "169574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.836234+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 169574,
+      "name": "Phantasmal Luclinite Gem of Striking",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": "Phantasmal Luclinite Gem of Striking",
+      "icon_id": "2237",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Phantasmal Luclinite Gem of Striking",
+      "iconId": "2237",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "nos",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "20",
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Phantasmal Luclinite Gem of Striking",
+      "itemId": 169574
+    }
+  },
+  "169575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.838498+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 169575,
+      "name": "Phantasmal Luclinite Gem of Devastation",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "2238",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Phantasmal Luclinite Gem of Devastation",
+      "iconId": "2238",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "nos",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "32"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Phantasmal Luclinite Gem of Devastation",
+      "itemId": 169575
+    }
+  },
+  "171574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.841124+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 171574,
+      "name": "Striking Gem of Perpetual Reverie",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "2979",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Striking Gem of Perpetual Reverie",
+      "iconId": "2979",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "ls",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "21",
+            "14"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Striking Gem of Perpetual Reverie",
+      "itemId": 171574
+    }
+  },
+  "171575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.843393+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 171575,
+      "name": "Devastating Gem of Perpetual Reverie",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "2876",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Devastating Gem of Perpetual Reverie",
+      "iconId": "2876",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "ls",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "34"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Devastating Gem of Perpetual Reverie",
+      "itemId": 171575
+    }
+  },
+  "173575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.845675+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 173575,
+      "name": "Honed Gem of Uprising",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary",
+        "Secondary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "954",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Honed Gem of Uprising",
+      "iconId": "954",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary, Secondary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tob",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg",
+            "Backstab Dmg"
+          ],
+          "values": [
+            "23",
+            "18"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Honed Gem of Uprising",
+      "itemId": 173575
+    }
+  },
+  "173576": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:14.847871+00:00",
+    "classes": [
+      "BER",
+      "BRD",
+      "BST",
+      "CLR",
+      "DRU",
+      "ENC",
+      "MAG",
+      "MNK",
+      "NEC",
+      "PAL",
+      "RNG",
+      "ROG",
+      "SHD",
+      "SHM",
+      "WAR",
+      "WIZ"
+    ],
+    "class_all": true,
+    "item": {
+      "item_id": 173576,
+      "name": "Sharpened Gem of Uprising",
+      "stats": {},
+      "classes": [
+        "BER",
+        "BRD",
+        "BST",
+        "CLR",
+        "DRU",
+        "ENC",
+        "MAG",
+        "MNK",
+        "NEC",
+        "PAL",
+        "RNG",
+        "ROG",
+        "SHD",
+        "SHM",
+        "WAR",
+        "WIZ"
+      ],
+      "class_all": true,
+      "slots": [
+        "Primary"
+      ],
+      "tier": "",
+      "lore_group": null,
+      "icon_id": "6511",
+      "focus": "",
+      "effect": "",
+      "source": "EQ Resource"
+    },
+    "inspect": {
+      "name": "Sharpened Gem of Uprising",
+      "iconId": "6511",
+      "flags": [
+        "Prestige"
+      ],
+      "classes": "All",
+      "races": "All",
+      "slot": "Primary",
+      "size": "",
+      "weight": "",
+      "tribute": "",
+      "reqLevel": "",
+      "recLevel": "",
+      "tier": "Group - Tier 3",
+      "expansionCode": "tob",
+      "augSlotsTop": [],
+      "augSlotsBottom": [],
+      "statBlocks": [
+        {
+          "labels": [
+            "Base Dmg"
+          ],
+          "values": [
+            "37"
+          ]
+        }
+      ],
+      "effect": "",
+      "focus": "",
+      "lore": "Sharpened Gem of Uprising",
+      "itemId": 173576
     }
   },
   "_version": 8

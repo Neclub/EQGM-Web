@@ -18858,5 +18858,200 @@
     "ok": false,
     "fetched_at": "2026-09-19T20:18:20.829310+00:00",
     "expansion": null
+  },
+  "151230": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:36.918013+00:00",
+    "expansion": null
+  },
+  "151231": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:37.081871+00:00",
+    "expansion": null
+  },
+  "151232": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:37.258895+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "151233": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:37.430710+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "151789": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:37.596637+00:00",
+    "expansion": null
+  },
+  "151790": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:37.769786+00:00",
+    "expansion": null
+  },
+  "151791": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:37.932938+00:00",
+    "expansion": null
+  },
+  "151792": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:38.100406+00:00",
+    "expansion": null
+  },
+  "163570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:38.262368+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163573": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:38.446204+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:38.677494+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "163575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:38.834209+00:00",
+    "expansion": "Torment of Velious"
+  },
+  "164185": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:39.060027+00:00",
+    "expansion": null
+  },
+  "164186": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:39.269901+00:00",
+    "expansion": null
+  },
+  "164187": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:39.454822+00:00",
+    "expansion": null
+  },
+  "164188": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:39.630932+00:00",
+    "expansion": null
+  },
+  "164567": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:39.821779+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "164568": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:40.137473+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "164569": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:40.335337+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "164570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:40.536249+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "164646": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:40.709593+00:00",
+    "expansion": null
+  },
+  "164647": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:40.876034+00:00",
+    "expansion": null
+  },
+  "164650": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:41.041450+00:00",
+    "expansion": null
+  },
+  "164651": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:41.231938+00:00",
+    "expansion": null
+  },
+  "164990": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:41.459917+00:00",
+    "expansion": null
+  },
+  "164991": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:41.649867+00:00",
+    "expansion": null
+  },
+  "164992": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:41.824983+00:00",
+    "expansion": null
+  },
+  "164993": {
+    "ok": false,
+    "fetched_at": "2026-09-20T03:23:41.991407+00:00",
+    "expansion": null
+  },
+  "165570": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:42.162498+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:42.400324+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "165575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:42.571574+00:00",
+    "expansion": "Claws of Veeshan"
+  },
+  "167574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:42.737967+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "167575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:42.923942+00:00",
+    "expansion": "Terror of Luclin"
+  },
+  "169574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:43.119919+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "169575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:43.285421+00:00",
+    "expansion": "Night of Shadows"
+  },
+  "171574": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:43.455865+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "171575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:43.630816+00:00",
+    "expansion": "Laurion's Song"
+  },
+  "173575": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:43.811663+00:00",
+    "expansion": "The Outer Brood"
+  },
+  "173576": {
+    "ok": true,
+    "fetched_at": "2026-09-20T03:23:43.985546+00:00",
+    "expansion": "The Outer Brood"
   }
 }
