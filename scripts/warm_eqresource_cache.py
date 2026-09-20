@@ -161,10 +161,9 @@ def _ids_from_inventories(paths: Iterable[Path]) -> set[int]:
     return ids
 
 
-# Expansion gear pages to harvest for item-id seeding (not Raid BiS).
-# Use raidloot.com — EQ Resource expansion subdomains (tov/cov/tol/…) often
-# time out; raidloot lists the same armor item ids.
-_RAIDLOOT_HARVEST_URLS: tuple[str, ...] = (
+# Expansion pages to harvest for item-id seeding (not Raid BiS).
+# Armor lists from raidloot; weapons/jewelry from EQ Resource raidgear + vendor.
+_RAIDLOOT_ARMOR_URLS: tuple[str, ...] = (
     "https://www.raidloot.com/raid/tovarmor",
     "https://www.raidloot.com/group/tovarmor",
     "https://www.raidloot.com/raid/covarmor",
@@ -178,14 +177,75 @@ _RAIDLOOT_HARVEST_URLS: tuple[str, ...] = (
     "https://www.raidloot.com/raid/tobarmor",
     "https://www.raidloot.com/group/tobarmor",
 )
+_EXPANSION_PATHS: tuple[str, ...] = ("tov", "cov", "tol", "nos", "ls", "tob", "sor")
+# EQ Resource raidgear.php weapon/shield type codes (tier=4 ≈ all tiers).
+_WEAPON_GEAR_TYPES: tuple[str, ...] = (
+    "1hs",
+    "1hb",
+    "1hp",
+    "2hs",
+    "2hb",
+    "2hp",
+    "h2h",
+    "archery",
+    "throwing",
+    "shield",
+)
+_RAIDLOOT_WEAPON_SOURCES: tuple[str, ...] = (
+    "Torment of Velious",
+    "Claws of Veeshan",
+    "Terror of Luclin",
+    "Night of Shadows",
+    "Laurion's Song",
+    "The Outer Brood",
+)
+_RAIDLOOT_WEAPON_TYPES: tuple[str, ...] = (
+    "Weapon",
+    "1H Slash",
+    "1H Blunt",
+    "1H Pierce",
+    "2H Slash",
+    "2H Blunt",
+    "2H Pierce",
+    "Hand to Hand",
+    "Archery",
+    "Throwing",
+    "Shield",
+)
 _ITEM_ID_HREF_RE = re.compile(
     r"(?:items\.php\?id=|/item(?:s)?/)(\d+)",
     re.IGNORECASE,
 )
 
 
+def _harvest_urls() -> list[str]:
+    """Build the full list of armor + weapon harvest URLs."""
+    from urllib.parse import urlencode
+
+    urls: list[str] = list(_RAIDLOOT_ARMOR_URLS)
+    for exp in _EXPANSION_PATHS:
+        urls.append(f"https://www.eqresource.com/{exp}/raidvendorgood.php")
+        urls.append(f"https://www.eqresource.com/{exp}/groupgear.php")
+        for wtype in _WEAPON_GEAR_TYPES:
+            q = urlencode(
+                {
+                    "class": "",
+                    "type": wtype,
+                    "stat": "ac",
+                    "tier": "4",
+                    "Submit": "Submit",
+                }
+            )
+            urls.append(f"https://www.eqresource.com/{exp}/raidgear.php?{q}")
+    for source in _RAIDLOOT_WEAPON_SOURCES:
+        for wtype in _RAIDLOOT_WEAPON_TYPES:
+            q = urlencode({"type": wtype, "source": source, "order": "AC"})
+            urls.append(f"https://www.raidloot.com/items?{q}")
+    return urls
+
+
 def _ids_from_expansion_pages(*, polite_delay: float) -> set[int]:
-    """Collect item ids from raidloot expansion armor pages.
+    """Collect item ids from expansion armor + weapon/jewelry pages.
 
     Seeds inspect/sockets/tiers/icons caches. Must not be written into the
     current-expansion Raid BiS catalog.
@@ -194,7 +254,7 @@ def _ids_from_expansion_pages(*, polite_delay: float) -> set[int]:
     from inventory_parser.slot2_augs.eqresource_augs import USER_AGENT
 
     ids: set[int] = set()
-    urls = list(_RAIDLOOT_HARVEST_URLS)
+    urls = _harvest_urls()
     total = len(urls)
     for done, url in enumerate(urls, start=1):
         try:
@@ -204,11 +264,15 @@ def _ids_from_expansion_pages(*, polite_delay: float) -> set[int]:
             found = {int(m) for m in _ITEM_ID_HREF_RE.findall(html)}
             ids |= found
             short = url.split("//", 1)[-1]
+            if len(short) > 70:
+                short = short[:67] + "..."
             _log(f"  {short}: {len(found)} ids")
         except Exception as exc:
             short = url.split("//", 1)[-1]
+            if len(short) > 70:
+                short = short[:67] + "..."
             _log(f"  WARN {short}: {exc}")
-        if done == 1 or done == total or done % 3 == 0:
+        if done == 1 or done == total or done % 10 == 0:
             _status("Harvesting expansion gear pages…", done, total)
     return ids
 
